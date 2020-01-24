@@ -93,6 +93,7 @@ def evaluate(candidate,json):
                         score += val / len(subTaxonomy_value)
                     elif len(candidate_skills) != 0 :
                         nonMatch_skills=len(candidate_skills)-skill_match
+                        #print(skill_match ,nonMatch_skills,val,(len(subTaxonomy_value)-1))
                         score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ 4*nonMatch_skills)            
     return  score  
 
