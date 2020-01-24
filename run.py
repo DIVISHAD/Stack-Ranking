@@ -54,16 +54,15 @@ def skill_score():
     score={}
     for i in candidate_skills:
         score[i["name"]]=round(evaluate(i,jd_taxonamies),3)
-    for k,v in score.items():
-        print(k,v)
     list1=sorted(score.items(), key = lambda kv:(kv[1], kv[0]))  
     list1.reverse()
-    for k in score:
-        score[k[0]]=k[1]
-        print("\n\n\n")
-    for k,v in score.items():
-        print(k,v)      
-    #print(score)
+    for i in list1: print(i)
+    sorted_list={} 
+    for k in list1:
+        sorted_list[k[0]]=k[1]
+    for k,v in sorted_list.items():
+        print(k,v)
+              
 def evaluate(candidate,json):
     score = 0
     for taxonomy_name,taxonomy_value in json.items():
