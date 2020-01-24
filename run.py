@@ -69,15 +69,27 @@ def evaluate(candidate,json):
             for subTaxonomy_name,subTaxonomy_value in taxonomy_value.items():
                 val=subTaxonomy_value["percent"]
                 if subTaxonomy_name in candidate[taxonomy_name]!= False:
+                    skill_match = 0
                     for skill_name,skill_value in subTaxonomy_value.items():
                         if skill_name in candidate[taxonomy_name][subTaxonomy_name] != False:
+                            skill_match += 1
+                            childSkill_match = 0
+                            candidate_childSkill_list = candidate[taxonomy_name][subTaxonomy_name][skill_name]
                             for childSkill in skill_value:
-                                if childSkill in candidate[taxonomy_name][subTaxonomy_name][skill_name] != False:
-                                    score = score + (val / (len(subTaxonomy_value)-1)) / len(skill_value)
-                                    #print("child",childSkill,score)
+                                if childSkill in candidate_childSkill_list != False:
+                                    childSkill_match +=1
+                                    score += (val / (len(subTaxonomy_value)-1)) / len(skill_value)
                             if(len(skill_value) == 0):
-                                score = score + (val / (len(subTaxonomy_value)-1))
-                                #print("skill",skill_name,score,val,len(subTaxonomy_value))
+                                score += (val / (len(subTaxonomy_value)-1))
+                            elif(len(candidate_childSkill_list) == 0):
+                                score += (val / (len(subTaxonomy_value)-1)) / (len(skill_value)+1)
+                            elif(len(candidate_childSkill_list) != 0):
+                                len_nonMatch = len(candidate_childSkill_list)-childSkill_match
+                                score += (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
+                    if(len(subTaxonomy_value) == 1):
+                        score +=val
+                    
+                            
     return  score  
 
 skill_score()
