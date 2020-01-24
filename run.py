@@ -70,6 +70,7 @@ def evaluate(candidate,json):
                 val=subTaxonomy_value["percent"]
                 if subTaxonomy_name in candidate[taxonomy_name]!= False:
                     skill_match = 0
+                    candidate_skills=candidate[taxonomy_name][subTaxonomy_name]
                     for skill_name,skill_value in subTaxonomy_value.items():
                         if skill_name in candidate[taxonomy_name][subTaxonomy_name] != False:
                             skill_match += 1
@@ -79,17 +80,20 @@ def evaluate(candidate,json):
                                 if childSkill in candidate_childSkill_list != False:
                                     childSkill_match +=1
                                     score += (val / (len(subTaxonomy_value)-1)) / len(skill_value)
-                            if(len(skill_value) == 0):
+                            if len(skill_value) == 0 :
                                 score += (val / (len(subTaxonomy_value)-1))
-                            elif(len(candidate_childSkill_list) == 0):
+                            elif len(candidate_childSkill_list) == 0 :
                                 score += (val / (len(subTaxonomy_value)-1)) / (len(skill_value)+1)
-                            elif(len(candidate_childSkill_list) != 0):
+                            elif len(candidate_childSkill_list) != 0 :
                                 len_nonMatch = len(candidate_childSkill_list)-childSkill_match
                                 score += (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
-                    if(len(subTaxonomy_value) == 1):
+                    if len(subTaxonomy_value) == 1 :
                         score +=val
-                    
-                            
+                    elif len(candidate_skills) == 0 :
+                        score += val / len(subTaxonomy_value)
+                    elif len(candidate_skills) != 0 :
+                        nonMatch_skills=len(candidate_skills)-skill_match
+                        score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ 4*nonMatch_skills)            
     return  score  
 
 skill_score()
