@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>MEDISETTI KUMAR SWAMY</FormattedName>
+				<GivenName>MEDISETTI</GivenName>
+				<MiddleName>KUMAR</MiddleName>
+				<FamilyName>SWAMY</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91 7780191208</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>8096112329</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>kumarmedisetti789@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<Objective>As a fresher, I want to utilize my creative skills, technologies that I am familiar with and innovative thoughts that will benefit the Organization in the long run and also help me in building my professional career.</Objective>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>GITAM University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Visakhapatnam</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B. Tech</DegreeName>
+					<DegreeMajor>
+						<Name>C.S.E</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>6.3</StringValue>
+							</MeasureValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2016</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2020</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Qualification	University/College	percentage/CGPA Secured   Period of  Study
+B. Tech   (C.S.E)	GITAM University, Visakhapatnam.	6.3(as of 6 semesters)	2016-2020</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:Graduated>false</sov:Graduated>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>GITAM University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="community">
+				<School>
+					<SchoolName>Vignan Co-operative Junior College</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Guntur</Municipality>
+				</PostalAddress>
+				<Degree degreeType="some college">
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>96.4</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2014</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Board of Intermediate   (BIE, A.P.)   Vignan Co-operative Junior College, Guntur.   96.4%	2014-2016</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.964</sov:NormalizedGPA>
+							<sov:NormalizedDegreeType>some college</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Vignan Co operative Junior College</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>Tulips Public School</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Amalapuram</Municipality>
+				</PostalAddress>
+				<Degree degreeType="secondary">
+					<DegreeName>SSC</DegreeName>
+					<DegreeDate>
+						<Year>2014</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Cloud Computing</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2013</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2014</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>SSC	Tulips Public School, Amalapuram.   9.5	2013-2014
+
+
+INTERNSHIP
+Domain: Cloud Computing.
+Title: Fertilizer Crop Management System, Faculty Remuneration, Cauvery Water Management.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedDegreeName>secondary</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Tulips Public School</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>TECHNICAL SKILLS
+
+• Programming Languages: C, OOPS concepts in C++
+
+• DBMS
+
+
+PERSONAL SKILLS
+
+• Ability to work under pressure
+• Determination
+
+• Responsible
+
+• Effective Team Player
+
+
+Strengths: Hardworking, Adaptability, Positivity, Genuine.
+
+Date of Birth: 05-12-1998
+Father's Name: Mr M.PADMA RAJU</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Telugu.</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>te</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Telugu.</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>MEDISETTI KUMAR SWAMY
+
+
+• kumarmedisetti789@gmail.com
++91 7780191208, 8096112329
+
+
+CAREER OBJECTIVE
+
+As a fresher, I want to utilize my creative skills, technologies that I am familiar with and innovative thoughts that will benefit the Organization in the long run and also help me in building my professional career.
+
+ACADEMICS
+Qualification	University/College	percentage/CGPA Secured   Period of  Study
+B. Tech   (C.S.E)	GITAM University, Visakhapatnam.	6.3(as of 6 semesters)	2016-2020
+Board of Intermediate   (BIE, A.P.)   Vignan Co-operative Junior College, Guntur.   96.4%	2014-2016
+SSC	Tulips Public School, Amalapuram.   9.5	2013-2014
+
+
+INTERNSHIP
+Domain: Cloud Computing.
+Title: Fertilizer Crop Management System, Faculty Remuneration, Cauvery Water Management.
+Technology: Microsoft Visual Studios 2010, SQL Server 2008
+Company Name: Gtek Technos Solutions Pvt Ltd.
+Duration: 30 Days
+Description
+• Created a webpages using C#.Net and connecting databases to webpages using SQL server  and uploading the database of webpages on AWS to access
+
+TECHNICAL SKILLS
+
+• Programming Languages: C, OOPS concepts in C++
+
+• DBMS
+
+
+PERSONAL SKILLS
+
+• Ability to work under pressure
+• Determination
+
+• Responsible
+
+• Effective Team Player
+
+EXTRA-CURRICULAR ACTIVITIES
+
+• Delivered active services for NATIONAL SERVICE SCHEME of Gitam University
+• Was an active sports person during schooling and won many school level competitions
+
+
+HOBBIES
+
+• Playing games, watching  Political debates and movies, listening music.
+
+
+PERSONAL DETAILS
+Strengths: Hardworking, Adaptability, Positivity, Genuine.
+
+Date of Birth: 05-12-1998
+Father's Name: Mr M.PADMA RAJU
+Languages Known: English, Telugu.
+Address: Door no: 1-163/6, Ramalayam street, Nallamilli, Janupalli post, Amalapuram Mandal, East Godavari District, Andhra Pradesh, India-533577.
+
+
+DECLARATION
+
+
+I hereby declare that above mentioned details are true and best of my knowlwdge.
+
+Thanks and Best Regards,
+
+M.Kumar Swamy</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1998-12-05</sov:DateOfBirth>
+				<sov:FathersName>Mr M.PADMA RAJU</sov:FathersName>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>MEDISETTI KUMAR SWAMY's experience appears to be strongly concentrated in Information Technology (mostly Database) and slightly concentrated in Personal Attributes (mostly Attitude). MEDISETTI KUMAR SWAMY's experience appears to be entry level, with 0 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>0</sov:MonthsOfWorkExperience>
+				<sov:FulltimeDirectHirePredictiveIndex>0</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="95">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="64" percentOfParentTaxonomy="68">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in EDUCATION; TRAINING"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DBMS" id="015077" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" whereFound="Found in EDUCATION; TRAINING"></sov:ChildSkill>
+									<sov:ChildSkill name="SQL SERVER 2008" id="027176" existsInText="true" whereFound="Found in EDUCATION; TRAINING"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in EDUCATION; TRAINING"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="16" percentOfParentTaxonomy="16">
+								<sov:Skill name=".NET" id="023039" existsInText="true" whereFound="Found in EDUCATION; TRAINING"></sov:Skill>
+								<sov:Skill name="C#" id="012275" existsInText="true" whereFound="Found in EDUCATION; TRAINING"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="15" percentOfParentTaxonomy="16">
+								<sov:Skill name="DATABASE MANAGEMENT SYSTEM" id="5530966" existsInText="false">
+									<sov:ChildSkill name="DBMS" id="5530967" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="5">
+							<sov:Subtaxonomy name="Attitude" id="528" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEAM PLAYER" id="026529" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:TrainingHistory>
+				<sov:Text>Technology: Microsoft Visual Studios 2010, SQL Server 2008
+Company Name: Gtek Technos Solutions Pvt Ltd.
+Duration: 30 Days
+Description
+• Created a webpages using C#.Net and connecting databases to webpages using SQL server  and uploading the database of webpages on AWS to access</sov:Text>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>Technology: Microsoft Visual Studios 2010, SQL Server 2008</sov:Description>
+					<sov:EndDate>
+						<Year>2010</Year>
+					</sov:EndDate>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity>Gtek Technos Solutions Pvt Ltd</sov:Entity>
+					<sov:Description>Company Name: Gtek Technos Solutions Pvt Ltd</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>Duration: 30 Days</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>Description</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>Created a webpages using C#.Net and connecting databases to webpages using SQL server  and uploading the database of webpages on AWS to access</sov:Description>
+				</sov:Training>
+			</sov:TrainingHistory>
+			<sov:Hobbies>
+				<sov:Text>• Playing games, watching  Political debates and movies, listening music.</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="7" ends="10" sectionType="OBJECTIVE">CAREER OBJECTIVE</sov:Section>
+				<sov:Section starts="11" ends="26" sectionType="EDUCATION">ACADEMICS</sov:Section>
+				<sov:Section starts="27" ends="42" sectionType="SKILLS">TECHNICAL SKILLS</sov:Section>
+				<sov:Section starts="43" ends="48" sectionType="PROFESSIONAL AFFILIATIONS">EXTRA-CURRICULAR ACTIVITIES</sov:Section>
+				<sov:Section starts="49" ends="53" sectionType="HOBBIES">HOBBIES</sov:Section>
+				<sov:Section starts="54" ends="54" sectionType="CONTACT INFO">PERSONAL DETAILS</sov:Section>
+				<sov:Section starts="55" ends="58" sectionType="QUALIFICATIONS_SUMMARY">Strengths</sov:Section>
+				<sov:Section starts="59" ends="70" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>+91 7780191208</sov:Phone>
+					<sov:Phone>8096112329</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>MEDISETTI KUMAR SWAMY</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>kumarmedisetti789@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:OtherData>
+					<sov:OtherDatum>Father's Name: Mr M.PADMA RAJU</sov:OtherDatum>
+					<sov:OtherDatum>Date of Birth: 05-12-1998</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>1965</sov:ParsedTextLength>
+			<sov:ParseTime>249</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Fatal Problems Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:413;] We found no WORK HISTORY for the candidate. A resume should always include a work history section.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+							<sov:Information>[Sovren:324;5] The following section does not have any text: 'PERSONAL DETAILS'. Every section should have text associated with it. This usually indicates an error with the section headers or format used in the resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'TECHNICAL SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:133;] Multiple phone numbers were found in the contact information. Only one phone number should be included in a resume.</sov:Information>
+							<sov:Information>[Sovren:151;6,7] The following sections do not have the header on a separate line: 'Strengths', 'Languages Known'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+							<sov:Information>[Sovren:161;DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:13e291e7-6d46-4d83-bd6f-fe6ce520e344</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>SHH///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

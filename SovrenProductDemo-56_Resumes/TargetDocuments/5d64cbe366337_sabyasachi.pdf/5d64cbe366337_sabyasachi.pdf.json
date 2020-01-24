@@ -1,0 +1,620 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Sabyasachi Ghosh",
+          "GivenName": "Sabyasachi",
+          "FamilyName": "Ghosh"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "713 209",
+              "Region": [
+                "WB"
+              ],
+              "Municipality": "Durgapur",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Room  No  -  246, Hall  -  4, NIT",
+                  "Mahatma  Gandhi"
+                ]
+              }
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "Mobile": {
+              "FormattedNumber": "+91 7908322206"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "sabyasachi9733@gmail.com"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "NIT Durgapur",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "@currentEmployer": "true",
+                "Title": "Summer research internship",
+                "OrgName": {
+                  "OrganizationName": "NIT Durgapur"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "RandomBoyz.com"
+                  },
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "WEST BENGAL"
+                      ],
+                      "Municipality": "Durgapur"
+                    }
+                  }
+                ],
+                "Description": "under the guidance of Dr.\r\nParag Kumar Guhathakurta.\r\n  Worked as a Freelancer at RandomBoyz.com\r\n\r\n9.   Scholarship Received:\r\n\r\n\r\n  Received National Means Cum Merit Scholarship (2011 - 2014).\r\n  Uttarbanga Sambad Suhas Chandra Talukdar Scholarship (2014)\r\n  Received WBMCM Scholarship (2016 - Present).",
+                "StartDate": {
+                  "Year": "2019"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "NIT Durgapur",
+                    "sov:NormalizedTitle": "Summer research internship"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "NIT Durgapur"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "secondary",
+            "School": [
+              {
+                "SchoolName": "state in Higher Secondary"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeDate": {
+                  "YearMonth": "2018-07"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "8.55"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2018-07"
+                    }
+                  }
+                ],
+                "Comments": "SGPA\t7.80\t7.68\t7.64\t7.18\t8.27\t8.55\r\nCGPA\t7.80\t7.74\t7.71\t7.59\t7.72\t7.85\r\n\r\n\r\n3.\tScholastic Achievements:\r\n\r\n\r\n  Ranked 18th among more than 750, 000 candidates in state in Higher Secondary\r\nExamination (10+2).\r\n  Topped from school in Higher Secondary Examination and secured 5th rank in district.\r\n  Topped from school in Secondary Examination.\r\n  Ranked 1st in district in National Means Cum Merit Scholarship, West",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "state in Higher Secondary"
+              }
+            }
+          },
+          {
+            "@schoolType": "secondary",
+            "School": [
+              {
+                "SchoolName": "Secondary & Higher Secondary"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "91.57"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "2.1\r\nSecondary & Higher Secondary:\r\n\r\nYear of\tMarks\r\nExamination\tBoard\tPassing\r\nObtained\tOut of\t%\r\n(Total)\r\n10th STD\tWBBSE\t2014\t641\t700\t91.57",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedGPA": "0.916",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Secondary AND Higher Secondary"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "4.\tSkills:\r\n\r\n\r\n  Proficient In: C, C++, Git, DBMS\r\n  Familiar With: Linux, JavaScript, Bootstrap, CSS, PHP and MySQL, Data\r\nStructures and Algorithms\r\n\r\n6.\tStrength & Weakness:\r\n\r\n\r\n  Strength: Enthusiasm, dedication and determination for work.\r\n\r\n  Weakness: Too much honest"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "3.\tScholastic Achievements"
+          },
+          {
+            "Description": "Ranked 1st in district in National Means Cum Merit Scholarship, West"
+          },
+          {
+            "Description": "9.   Scholarship Received"
+          },
+          {
+            "Description": "Received National Means Cum Merit Scholarship (2011 - 2014)"
+          },
+          {
+            "Description": "Uttarbanga Sambad Suhas Chandra Talukdar Scholarship (2014)"
+          },
+          {
+            "Description": "Received WBMCM Scholarship (2016 - Present)"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "NATIONAL INSTITUTE OF TECHNOLOGY, DURGAPUR\r\nMAHATMA GANDHI AVENUE, DURGAPUR- 713209\r\n\r\n\r\nCURRICULUM VITAE\r\n\r\n\r\n1.\tPERSONAL DETAILS:\r\n\r\nName: Sabyasachi Ghosh\r\n \tDate of Birth: 06/01/1999\r\nGuardian's Name: Rupak Kumar Ghosh\r\n \tBranch / Specialization: Computer Science and Engineering\r\nRegistration No: 16U10444\r\n \tOP / SC/ ST/ OBC / PWD: OBC\r\nMale/Female: Male\r\n \tPresent  Address: Room  No  -  246, Hall  -  4, NIT  Durgapur, Mahatma  Gandhi\r\nRd, Durgapur, WB - 713 209\r\n \tAddress  for  Correspondence: Room  No  -  246, Hall  -  4, NIT  Durgapur,\r\n\r\nMahatma Gandhi Rd, Durgapur, WB - 713 209\r\n \tE-Mail Id: sabyasachi9733@gmail.com\r\nCell No: +91 7908322206\r\n\r\n2.   EDUCATIONAL QUALIFICATIONS:\r\n\r\n2.1\r\nSecondary & Higher Secondary:\r\n\r\nYear of\tMarks\r\nExamination\tBoard\tPassing\r\nObtained\tOut of\t%\r\n(Total)\r\n10th STD\tWBBSE\t2014\t641\t700\t91.57\r\n\r\n12th STD\tWBCHSE\t2016\t475\t500\t95.00\r\n\r\n\r\n2.2\tGraduation:\r\n\r\nSEM\t1\t2\t3\t4\t5\t6\r\nSGPA\t7.80\t7.68\t7.64\t7.18\t8.27\t8.55\r\nCGPA\t7.80\t7.74\t7.71\t7.59\t7.72\t7.85\r\n\r\n\r\n3.\tScholastic Achievements:\r\n\r\n\r\n  Ranked 18th among more than 750, 000 candidates in state in Higher Secondary\r\nExamination (10+2).\r\n  Topped from school in Higher Secondary Examination and secured 5th rank in\r\ndistrict.\r\n  Topped from school in Secondary Examination.\r\n  Ranked 1st in district in National Means Cum Merit Scholarship, West\r\nBengal(2011).\r\n  Secured 1st rank in Zone in Science Aptitude Test organized by Paschim Banga\r\nVigyan Mancha, 2013.\r\n\r\n4.\tSkills:\r\n\r\n\r\n  Proficient In: C, C++, Git, DBMS\r\n  Familiar With: Linux, JavaScript, Bootstrap, CSS, PHP and MySQL, Data\r\nStructures and Algorithms\r\n\r\n6.\tStrength & Weakness:\r\n\r\n\r\n  Strength: Enthusiasm, dedication and determination for work.\r\n\r\n  Weakness: Too much honest\r\n\r\n7.\tProjects:\r\n\r\n  An optimization approach for common content distribution in Adhoc network\r\nusing JAYA algorithm under the guidance of Dr. Parag Kumar Guhathakurta,\r\nNIT Durgapur.\r\n\r\n  Personal projects like a web extension to find out the meaning of a word from a\r\nwebsite, an automated script to send messages through Whatsapp Web from\r\nterminal to a particular person at a scheduled time.\r\n\r\n8.\tInternship:\r\n\r\n  Summer research internship in NIT Durgapur(2019) under the guidance of Dr.\r\nParag Kumar Guhathakurta.\r\n  Worked as a Freelancer at RandomBoyz.com\r\n\r\n9.   Scholarship Received:\r\n\r\n\r\n  Received National Means Cum Merit Scholarship (2011 - 2014).\r\n  Uttarbanga Sambad Suhas Chandra Talukdar Scholarship (2014)\r\n  Received WBMCM Scholarship (2016 - Present).\r\n\r\n10.   Extracurricular Activities:\r\n\r\n\r\n  Stood first in Zone in Essay Writing Competition organized by ABTA, 2013\r\n\r\n\r\nI hereby declare that the information given above is true and correct.\r\n\r\n\r\nDATED: The 1st of July, 2019.\tSIGNATURE:"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1999-01-06"
+          }
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Sabyasachi Ghosh's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in Engineering (mostly General Engineering). Sabyasachi Ghosh's experience appears to be entry level, with 11 months of experience.",
+          "sov:MonthsOfWorkExperience": "11",
+          "sov:AverageMonthsPerEmployer": "11",
+          "sov:FulltimeDirectHirePredictiveIndex": "1",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "61",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "28",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "Git",
+                            "@id": "1004755",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BOOTSTRAP",
+                                "@id": "3391101",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "PHP",
+                            "@id": "004736",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MANAGEMENT SYSTEM",
+                            "@id": "5530966",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DBMS",
+                                "@id": "5530967",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "DBMS",
+                            "@id": "015077",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "BOOTSTRAP",
+                            "@id": "5520522",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "19",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "15",
+                        "@percentOfParentTaxonomy": "78",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022552",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023295",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "12",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Digital",
+                        "@id": "599",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SEARCH ENGINE MARKETING",
+                            "@id": "1400232",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SEM",
+                                "@id": "1400233",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT WORD",
+                            "@id": "022961",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "WORD",
+                                "@id": "002379",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "7",
+              "@ends": "23",
+              "@sectionType": "CONTACT INFO",
+              "#text": "PERSONAL DETAILS"
+            },
+            {
+              "@starts": "24",
+              "@ends": "57",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATIONAL QUALIFICATIONS"
+            },
+            {
+              "@starts": "58",
+              "@ends": "71",
+              "@sectionType": "SKILLS",
+              "#text": "Skills"
+            },
+            {
+              "@starts": "72",
+              "@ends": "94",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Projects"
+            },
+            {
+              "@starts": "95",
+              "@ends": "104",
+              "@sectionType": "PROFESSIONAL AFFILIATIONS",
+              "#text": "Extracurricular Activities"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Cell No: +91 7908322206",
+              "+91 7908322206"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Sabyasachi Ghosh",
+              "Name: Sabyasachi Ghosh"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "sabyasachi9733@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "RandomBoyz.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Room  No  -  246, Hall  -  4, NIT",
+              "Date of Birth: 06/01/1999",
+              "Mahatma  Gandhi"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2641",
+        "sov:ParseTime": "312",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:231;DEG-2,DEG-1] The following educational degrees do not have a degree name: DEG-2, DEG-1. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,1,2,3,4] The following sections do not have the header on a separate line: 'PERSONAL DETAILS', 'EDUCATIONAL QUALIFICATIONS', 'Skills', 'Projects', 'Extracurricular Activities'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:ceeddb0d-6171-4b3d-9caa-7fcb032025f7",
+        "sov:ParserConfigurationString": "Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "s3H9//////8="
+      }
+    }
+  }
+}

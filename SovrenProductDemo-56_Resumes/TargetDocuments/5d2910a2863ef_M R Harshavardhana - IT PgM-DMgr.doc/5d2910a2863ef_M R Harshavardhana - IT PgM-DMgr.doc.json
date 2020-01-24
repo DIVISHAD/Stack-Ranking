@@ -1,0 +1,2085 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Harshavardhana M R",
+          "GivenName": "Harshavardhana",
+          "MiddleName": "M",
+          "FamilyName": "R"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "560072",
+              "Region": [
+                "Karnataka"
+              ],
+              "Municipality": "Bengaluru",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "#808, Sri Rangantha Nilaya, 3rd Cross, 2nd Stage, 11th Block, Nagarabhavi"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "+91 8861776600"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "harsha.rangashamaiah@gmail.com"
+          }
+        ]
+      },
+      "ExecutiveSummary": "15+ years of experience in Technology Development, IT Project/Program/Portfolio/Delivery Management, Service Delivery, Mainframes & SQL Server implementations in Retail, Manufacturing, & Banking domains, Business Analysis, Financial/Cost Management.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Role/Designation",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "IT Project (Portfolio) Manager",
+                "OrgName": {
+                  "OrganizationName": "Role/Designation"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bengaluru"
+                    }
+                  }
+                ],
+                "Description": "Feb-2018   Till-Date\r\nBengaluru, IN\r\nPortfolio Management\r\nProject Management Office\r\nStrategic Management\r\nStakeholder Management\r\nAgile Scrum Management",
+                "StartDate": {
+                  "YearMonth": "2018-02"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Real Estate & Facilities",
+                    "Comments": "Finance describes 60% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Role/Designation",
+                    "sov:NormalizedTitle": "IT Project Portfolio Manager",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Manager"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Role/Designation"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "IT  Project Delivery Management",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Scrum Master",
+                "OrgName": {
+                  "OrganizationName": "IT  Project Delivery Management"
+                },
+                "Description": "Digital Banking - Digital Customer Experience - Oct/2018 to Till-Date\r\n•\tManage Account Aggregator (UK Open Banking) feature within Mobile Banking 3.0 as Scrum Master - running\r\nscrum events, preparing & tracking project schedule, defining & monitoring milestones, grooming backlog,\r\nremoving blockers for the project delivery\r\n• Established & drove the adoption of agile frameworks & tools. Drove the team to follow the Organization established development practices.\r\n• Work with Product Manager to understand the Product Vision, Objectives & maintain backlog by drafting the User Epics & Stories using JIRA tool\r\n• Team Management of 5-10 Associates (.Net & React-Native Developers, BA & Tester)\r\n• Hands-on Tech Management to guide the team through the Technology Landscape & manage the dependencies & risks",
+                "StartDate": {
+                  "YearMonth": "2018-10"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → QA and QC",
+                    "Comments": "Information Technology describes 60% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-7",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NumberOfEmployeesSupervised": "10",
+                    "sov:NormalizedOrganizationName": "IT Project Delivery Management",
+                    "sov:NormalizedTitle": "Scrum Master"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "IT Project Delivery Management"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "IT Portfolio Management",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Publish periodic executive",
+                "OrgName": {
+                  "OrganizationName": "Personal & Business Banking"
+                },
+                "Description": "Feb/2018  to Sep/2018\r\n•\tManage the investment governance process and operating mechanisms for portfolio demand management, to facilitate planning resourcing requirements and prioritization\r\n• Set appropriate goals and priorities that coordinate with key business partners, other organizational units and third party resources\r\n• Understand and articulate the value for business in project and portfolio management with the Stakeholders across the Cross Functional team in the Bank\r\n• Oversight of project/Task milestones/objectives, risk and mitigation, and the delivery/completion in a matrix structure using Agile Development Methodologies\r\n•\tManage a budget of $15-20M for IT Small to Medium complex projects & Coordinate yearly investment planning\r\nacross service owners in the portfolio.\r\n•\tPublish periodic executive Task Management summary status reports\r\n\r\n\r\nFidelity Investments Management & Research India (FMR LLC India) - IT Project Manager - Program Management\r\n• Led creation of Program Management Office(PMO) for Data Center of Excellence of 120-140 associates spreading across India Locations\r\n• Support BU Head & Account Directors with Project Deliverables, Lead generation & follow-ups and Partner-Presentations.\r\n• Conduct Project/Engagement reviews regularly; Plan & engage stakeholders/Partners at the regular intervals\r\n• Plan & organize the Tech Talks, Trainings & Interactions within the group to encourage the Knowledge sharing\r\n• Business Analyst  - Machine Learning\r\n• Donning the Scrum Master role, performing the below responsibilities:\r\n1. Planned and managed work activities of a software development Team (Web Portal, Customer Onboarding) working closely in conjunction with business teams.\r\n2. Developed and followed and implemented improvements for Agile Project Management Plan (Agile Ceremonies).\r\n3. Monitored Project Progress and radiated the information to Stakeholders. Identified and mitigated Team risks and impediments (Blocking issues, Critical Defects) on daily basis.\r\n4. Coached team members on agile processes and facilitated planning meetings and retrospectives. Maintained Task board, and produced Daily Burndown charts\r\n\r\nWipro Ltd - Lead Consultant/Manager - Program Management\r\n• Enterprise Program Management Office (PMO) drives initiatives across Verticals to align it to the delivery across the $2.5+ Billion worth Service Line.\r\n• Drive periodic reviews on Existing Accounts - Early warning, Program Governance, CSAT, Escalation Management, People drives, Cost of Delivery (Goal 40%), Automation and Process improvement, People Management.\r\n• Drive periodic reviews of New Accounts on their Delivery readiness, Start Green & Stay Green processes, Interlocks discussions with Verticals, People assignment.\r\n• Interact with Cross Functional teams - Finance, HR, Competency, Work Force Management Group, Quality, Tools & Automation - to drive through the Operations across the SBU\r\n• Provide regular updates to CXOs & participate on the reviews of Service Line's New & Existing Accounts.\r\n• Work with Service Line Head to have a clear view of the Account Landscapes, initiate the Org Level initiatives and drive them to close.\r\n• Passionate about Program Planning, Customer Engagement to align Delivery with their IT & Business Strategy\r\n• Assist Cluster Delivery Heads in reviewing their business, Strategies & cost-of-delivery\r\n• Lead a team of 5 to review our Contracts across the Service Line, convert them into trackable actions & coordinate with Account teams to track them periodically.\r\n\r\n\r\nANZ Support Services - Senior Analyst\r\nTechnical & Business Consulting:\r\n• Performed Technical Consulting to implement the Mainframe & SQL Server solutions\r\n• Assisted Senior Manager in implementing the Global Financial Simplification Strategy across MIS Team by suggesting and implementing the Process Improvements.\r\n• Created Documentation for the Processes handled, Handled Transition to Chengdu and from Melbourne, Trained cross teams on Mainframe basics.\r\n• Participated as Technical Lead in Multiple Stabilization projects towards Technology Strategy of the Organization. Used it as a platform to reengineer how the current work is done.\r\n\r\nBank of America Continuum Solutions, Analyst\r\nTechnical & Business Consulting:\r\n• Performed Technical Consulting to implement the Mainframe solutions\r\n• Performed Production Support & Application Support work.\r\n• Performed as a Developer to upgrade the 3rd Party Infor Legacy Systems to the Infor version 9.1.\r\n\r\nSatyam Computer Services Ltd - Systems Analyst\r\nTechnical & Business Consulting:\r\n• Performed Technical Consulting to implement the Mainframe solutions\r\n• Performed Mainframe Decommissioning, Application Support & Management, & also worked as Onsite Coordinator.\r\n• Participated as Technical Lead in Multiple Stabilization projects towards Technology Strategy of the Organization. Used it as a platform to reengineer how the current work is done.\r\n• Participated in Requirement gathering, Development and Maintenance of Mainframe Applications & managed the Decommissioning of Mainframe Application, Lead a team of 5 at offshore and had worked as Onsite Coordinator.",
+                "StartDate": {
+                  "YearMonth": "2018-02"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-09"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Project Management",
+                    "Comments": "Information Technology describes 36% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-8",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BK",
+                      "#text": "Confident"
+                    },
+                    "sov:NumberOfEmployeesSupervised": "140",
+                    "sov:NormalizedOrganizationName": "Personal AND Business Banking",
+                    "sov:NormalizedTitle": "Publish periodic executive"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "IT Portfolio Management"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Fidelity Investments (FMR LLC)",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "IT Project Manager (Program Management)",
+                "OrgName": {
+                  "OrganizationName": "FMR LLC"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bengaluru"
+                    }
+                  }
+                ],
+                "Description": "IN\r\nProject/Program Mgmt.\r\nBusiness Analysis\r\nScrum Management\r\nMachine Learning(Beginner)",
+                "StartDate": {
+                  "YearMonth": "2016-03"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Machine Learning",
+                    "Comments": "Information Technology describes 60% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "FMR",
+                    "sov:NormalizedTitle": "IT Project Manager Program Management",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "IT Project Manager"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Fidelity Investments FMR"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Wipro Technologies",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "Title": "Lead Consultant (IT Program Management)",
+                "OrgName": {
+                  "OrganizationName": "Wipro Technologies"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bengaluru"
+                    }
+                  }
+                ],
+                "Description": "IN\tProject/Program Management",
+                "StartDate": {
+                  "YearMonth": "2014-09"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-03"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Finance → Real Estate & Facilities",
+                    "Comments": "Finance describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "Wipro Technologies",
+                    "sov:NormalizedTitle": "Lead Consultant IT Program Management",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Lead Consultant"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Wipro Technologies"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "ANZ Bank",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Senior Analyst (Project & Technical Mgmt.)",
+                "OrgName": {
+                  "OrganizationName": "ANZ Bank"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bengaluru"
+                    }
+                  }
+                ],
+                "Description": "IN\tProject Management   Mainframe & SQL Server",
+                "StartDate": {
+                  "YearMonth": "2011-02"
+                },
+                "EndDate": {
+                  "YearMonth": "2013-09"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "ANZ Bank",
+                    "sov:NormalizedTitle": "Senior Analyst Project AND Technical Mgmt",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Senior Analyst",
+                        "Analyst (Project & Technical Mgmt.)",
+                        "Analyst"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "ANZ Bank"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Bank of America Continuum Solutions",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Analyst",
+                "OrgName": {
+                  "OrganizationName": "Bank of America Continuum Solutions"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "IN\tMainframe (COBOL, JCL, DB2)",
+                "StartDate": {
+                  "YearMonth": "2009-12"
+                },
+                "EndDate": {
+                  "YearMonth": "2010-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Mainframe",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Bank of America Continuum Solutions",
+                    "sov:NormalizedTitle": "Analyst"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Bank of America Continuum Solutions"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Satyam Computer Services Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Systems Analyst",
+                "OrgName": {
+                  "OrganizationName": "Satyam Computer Services Ltd"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "IN   USA   Mainframe (COBOL, JCL, IMS DB, DB2, VSAM) Production Support   Mainframe Application sunset\r\n\r\n\r\nSummary of Roles & Responsibilities\r\nDanske Bank IT and Support Services - IT Project Manager - Project Portfolio Management",
+                "StartDate": {
+                  "YearMonth": "2003-11"
+                },
+                "EndDate": {
+                  "YearMonth": "2009-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Project Management",
+                    "Comments": "Information Technology describes 73% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Satyam Computer Services",
+                    "sov:NormalizedTitle": "Systems Analyst"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Satyam Computer Services"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Indian Institute of Management - Indore (IIM-I)"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MP"
+              ],
+              "Municipality": "Indore"
+            },
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "MBA",
+                "DegreeDate": {
+                  "YearMonth": "2014-06"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "EPGP"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "YearMonth": "2013-09"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2014-06"
+                    }
+                  }
+                ],
+                "Comments": "Indian Institute of Management - Indore (IIM-I)   MBA/EPGP (Full-Time)   Sep-2013   Jun-2014   Indore, MP",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "MBA",
+                    "sov:NormalizedDegreeType": "MBA"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Indian Institute of Management Indore IIM I"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "McCombs School of Business, UT"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "US",
+              "Region": [
+                "TX"
+              ],
+              "Municipality": "Austin"
+            },
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "YearMonth": "2014-02"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Advanced Analytics for Business Excellence"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "YearMonth": "2014-01"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2014-02"
+                    }
+                  }
+                ],
+                "Comments": "McCombs School of Business, UT- Austin (International Immersion Program)   Advanced Analytics for Business Excellence   Jan-2014   Feb-2014   Austin, TX, USA",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "McCombs School of Business UT"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Certification",
+            "Id": "1",
+            "Description": "Institution   Degree/Certification   From\tTo\tLocation\r\nDr Ambedkar Institute of Technology   (Visvesvaraya Technology University - Belgavi)   Bachelor of Engineering (Telecommunication Engineering)   Oct-1999   Jun-2003   Bengaluru, KA",
+            "EffectiveDate": {
+              "FirstIssuedDate": {
+                "YearMonth": "2003-06"
+              }
+            }
+          },
+          {
+            "Name": "Project Management Professional",
+            "Id": "2",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "PMP",
+            "Id": "3",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "In-Progress to get Certified",
+            "Id": "4",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "SpeakingEventsHistory": {
+        "SpeakingEvent": [
+          {
+            "EventName": "",
+            "EventType": "conference",
+            "Description": "Support BU Head & Account Directors with Project Deliverables, Lead generation & follow-ups and Partner-Presentations"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Technical Skills\r\n\r\nProgramming Language\tCOBOL, JCL, R-Language, Python\r\nOperating Systems\tMVS, Windows\r\nDatabases Development\tDB2, IMS DB, VSAM, SQL Server\r\nProject Management tools   Jira"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "pt",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "& Technical document translation from Portuguese to English for Retail"
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "document translation from Portuguese to English for Retail Home Office"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "Harshavardhana M R\r\nIT Project Manager | Harsha's LinkedIn Profile\r\nharsha.rangashamaiah@gmail.com\t|   +91 8861776600\r\n\r\nSummary\r\n\r\n15+ years of experience in Technology Development, IT Project/Program/Portfolio/Delivery Management, Service Delivery, Mainframes & SQL Server implementations in Retail, Manufacturing, & Banking domains, Business Analysis, Financial/Cost Management.\r\n\r\nCertification: Project Management Professional (PMP #1620069) - Certified\r\nProfessional Scrum Master -1 (PSM1) - In-Progress to get Certified\r\n\r\nExperience Highlights\r\n\r\n• Well experienced in Software Project Management, Development, Testing, Production Support, Client & Vendor on-boarding & relationship Management\r\n• Has extensive working experience on domains like Banking & Financial Services(7Yrs+), Retail(1.5Yrs+), Manufacturing(2.5Yrs+) domains\r\n• Responsible for Project Management & Planning, Time & Cost Management, Customer Management, Quality Management, People Management, Stakeholder & Procurement Management\r\n• Well experienced in Agile & Scrum methodologies, Resource Plan, Management Reports creation\r\n• Worked in Onsite location in United States as Onsite Coordinator/Systems Analyst for Scoping & SRS, Proposal, Prototype to Customer, Design & Technical document translation from Portuguese to English for Retail Home Office Systems\r\n\r\nEducation\r\n\r\nInstitution   Degree/Certification   From\tTo\tLocation\r\nDr Ambedkar Institute of Technology   (Visvesvaraya Technology University - Belgavi)   Bachelor of Engineering (Telecommunication Engineering)   Oct-1999   Jun-2003   Bengaluru, KA\r\nIndian Institute of Management - Indore (IIM-I)   MBA/EPGP (Full-Time)   Sep-2013   Jun-2014   Indore, MP\r\nMcCombs School of Business, UT- Austin (International Immersion Program)   Advanced Analytics for Business Excellence   Jan-2014   Feb-2014   Austin, TX, USA\r\n\r\n\r\nTechnical Skills\r\n\r\nProgramming Language\tCOBOL, JCL, R-Language, Python\r\nOperating Systems\tMVS, Windows\r\nDatabases Development\tDB2, IMS DB, VSAM, SQL Server\r\nProject Management tools   Jira\r\n\r\n\r\nWork Experience\r\n\r\nCompany Name\tRole/Designation\tFrom\tTo\tLocation\tSkillset\r\nDanske IT & Support Services\r\nSubsidiary of Danske Bank\r\n\r\nIT Project (Portfolio) Manager\r\n\r\nFeb-2018\r\n\r\nTill-Date\r\n\r\nBengaluru, IN\r\n\r\nPortfolio Management\r\nProject Management Office\r\nStrategic Management\r\nStakeholder Management\r\nAgile Scrum Management\r\n\r\nFidelity Investments (FMR LLC)\r\nIT Project Manager (Program Management)\r\n\r\nMar-2016\r\n\r\nFeb-2018\r\n\r\nBengaluru, IN\r\n\r\nProject/Program Mgmt.\r\nBusiness Analysis\r\nScrum Management\r\nMachine Learning(Beginner)\r\n\r\nWipro Technologies\tLead Consultant (IT Program Management)   Sep-2014   Mar-2016   Bengaluru, IN\tProject/Program Management\r\nANZ Bank\tSenior Analyst (Project & Technical Mgmt.)   Feb-2011   Sep-2013   Bengaluru, IN\tProject Management   Mainframe & SQL Server\r\nBank of America Continuum Solutions   Analyst\tDec-2009   Dec-2010   Hyderabad, IN\tMainframe (COBOL, JCL, DB2)\r\nSatyam Computer Services Ltd\tSystems Analyst\tNov-2003   Dec-2009   Hyderabad, IN   USA   Mainframe (COBOL, JCL, IMS DB, DB2, VSAM) Production Support   Mainframe Application sunset\r\n\r\n\r\nSummary of Roles & Responsibilities\r\n\r\nDanske Bank IT and Support Services - IT Project Manager - Project Portfolio Management\r\n\r\nIT  Project Delivery Management - Digital Banking - Digital Customer Experience - Oct/2018 to Till-Date\r\n•\tManage Account Aggregator (UK Open Banking) feature within Mobile Banking 3.0 as Scrum Master - running\r\nscrum events, preparing & tracking project schedule, defining & monitoring milestones, grooming backlog,\r\nremoving blockers for the project delivery\r\n• Established & drove the adoption of agile frameworks & tools. Drove the team to follow the Organization established development practices.\r\n• Work with Product Manager to understand the Product Vision, Objectives & maintain backlog by drafting the User Epics & Stories using JIRA tool\r\n• Team Management of 5-10 Associates (.Net & React-Native Developers, BA & Tester)\r\n• Hands-on Tech Management to guide the team through the Technology Landscape & manage the dependencies & risks\r\n\r\nIT Portfolio Management - Personal & Business Banking - Feb/2018  to Sep/2018\r\n•\tManage the investment governance process and operating mechanisms for portfolio demand management, to\r\nfacilitate planning resourcing requirements and prioritization\r\n• Set appropriate goals and priorities that coordinate with key business partners, other organizational units and third party resources\r\n• Understand and articulate the value for business in project and portfolio management with the Stakeholders across the Cross Functional team in the Bank\r\n• Oversight of project/Task milestones/objectives, risk and mitigation, and the delivery/completion in a matrix structure using Agile Development Methodologies\r\n•\tManage a budget of $15-20M for IT Small to Medium complex projects & Coordinate yearly investment planning\r\nacross service owners in the portfolio.\r\n•\tPublish periodic executive Task Management summary status reports\r\n\r\n\r\nFidelity Investments Management & Research India (FMR LLC India) - IT Project Manager - Program Management\r\n• Led creation of Program Management Office(PMO) for Data Center of Excellence of 120-140 associates spreading across India Locations\r\n• Support BU Head & Account Directors with Project Deliverables, Lead generation & follow-ups and Partner-Presentations.\r\n• Conduct Project/Engagement reviews regularly; Plan & engage stakeholders/Partners at the regular intervals\r\n• Plan & organize the Tech Talks, Trainings & Interactions within the group to encourage the Knowledge sharing\r\n• Business Analyst  - Machine Learning\r\n• Donning the Scrum Master role, performing the below responsibilities:\r\n1. Planned and managed work activities of a software development Team (Web Portal, Customer Onboarding) working closely in conjunction with business teams.\r\n2. Developed and followed and implemented improvements for Agile Project Management Plan (Agile Ceremonies).\r\n3. Monitored Project Progress and radiated the information to Stakeholders. Identified and mitigated Team risks and impediments (Blocking issues, Critical Defects) on daily basis.\r\n4. Coached team members on agile processes and facilitated planning meetings and retrospectives. Maintained Task board, and produced Daily Burndown charts\r\n\r\nWipro Ltd - Lead Consultant/Manager - Program Management\r\n\r\n• Enterprise Program Management Office (PMO) drives initiatives across Verticals to align it to the delivery across the $2.5+ Billion worth Service Line.\r\n• Drive periodic reviews on Existing Accounts - Early warning, Program Governance, CSAT, Escalation Management, People drives, Cost of Delivery (Goal 40%), Automation and Process improvement, People Management.\r\n• Drive periodic reviews of New Accounts on their Delivery readiness, Start Green & Stay Green processes, Interlocks discussions with Verticals, People assignment.\r\n• Interact with Cross Functional teams - Finance, HR, Competency, Work Force Management Group, Quality, Tools & Automation - to drive through the Operations across the SBU\r\n• Provide regular updates to CXOs & participate on the reviews of Service Line's New & Existing Accounts.\r\n• Work with Service Line Head to have a clear view of the Account Landscapes, initiate the Org Level initiatives and drive them to close.\r\n• Passionate about Program Planning, Customer Engagement to align Delivery with their IT & Business Strategy\r\n• Assist Cluster Delivery Heads in reviewing their business, Strategies & cost-of-delivery\r\n• Lead a team of 5 to review our Contracts across the Service Line, convert them into trackable actions & coordinate with Account teams to track them periodically.\r\n\r\n\r\nANZ Support Services - Senior Analyst\r\n\r\nTechnical & Business Consulting:\r\n• Performed Technical Consulting to implement the Mainframe & SQL Server solutions\r\n• Assisted Senior Manager in implementing the Global Financial Simplification Strategy across MIS Team by suggesting and implementing the Process Improvements.\r\n• Created Documentation for the Processes handled, Handled Transition to Chengdu and from Melbourne, Trained cross teams on Mainframe basics.\r\n• Participated as Technical Lead in Multiple Stabilization projects towards Technology Strategy of the Organization. Used it as a platform to reengineer how the current work is done.\r\n\r\nBank of America Continuum Solutions, Analyst\r\n\r\nTechnical & Business Consulting:\r\n• Performed Technical Consulting to implement the Mainframe solutions\r\n• Performed Production Support & Application Support work.\r\n• Performed as a Developer to upgrade the 3rd Party Infor Legacy Systems to the Infor version 9.1.\r\n\r\nSatyam Computer Services Ltd - Systems Analyst\r\n\r\nTechnical & Business Consulting:\r\n• Performed Technical Consulting to implement the Mainframe solutions\r\n• Performed Mainframe Decommissioning, Application Support & Management, & also worked as Onsite Coordinator.\r\n• Participated as Technical Lead in Multiple Stabilization projects towards Technology Strategy of the Organization. Used it as a platform to reengineer how the current work is done.\r\n• Participated in Requirement gathering, Development and Maintenance of Mainframe Applications & managed the Decommissioning of Mainframe Application, Lead a team of 5 at offshore and had worked as Onsite Coordinator.\r\n\r\n\r\nPersonal Information\r\n\r\nPermanent Address   #808, Sri Rangantha Nilaya, 3rd Cross, 2nd Stage, 11th Block, Nagarabhavi, Bengaluru, Karnataka, India   Pincode: 560072"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Harshavardhana M R's experience appears to be mostly concentrated in Information Technology (mostly Project Management) and slightly concentrated in Finance (mostly Real Estate & Facilities). Harshavardhana M R has 15 years of work experience, with 5 years of management experience, including a somewhat high-level position.",
+          "sov:MonthsOfWorkExperience": "180",
+          "sov:AverageMonthsPerEmployer": "22",
+          "sov:FulltimeDirectHirePredictiveIndex": "34",
+          "sov:MonthsOfManagementExperience": "63",
+          "sov:CurrentManagementLevel": "low-level",
+          "sov:HighestManagementScore": "75",
+          "sov:ExecutiveType": "executive",
+          "sov:ManagementStory": "Current position is a low-level management role: IT Project (Portfolio) Manager\r\nStarting on 2/1/2018, the candidate held the following low-level management position for 21 months:\r\n\tTitle: IT Project (Portfolio) Manager for Role/Designation\r\nStarting on 2/1/2018, the candidate held the following somewhat high-level management position for 8 months:\r\n\tTitle: Publish periodic executive for IT Portfolio Management, Personal & Business Banking\r\nStarting on 3/1/2016, the candidate held the following low-level management position for 23 months:\r\n\tTitle: IT Project Manager (Program Management) for Fidelity Investments (FMR LLC), FMR LLC\r\nStarting on 9/1/2014, the candidate held the following low-level management position for 18 months:\r\n\tTitle: Lead Consultant (IT Program Management) for Wipro Technologies",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "50",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "16",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "IT PROJECT MANAGEMENT",
+                            "@id": "020226",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "104",
+                            "@childrenLastUsed": "2018-09-30",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "IT PROJECT MANAGER",
+                                "@id": "0202262",
+                                "@existsInText": "true",
+                                "@totalMonths": "104",
+                                "@lastUsed": "2018-09-30",
+                                "@whereFound": "Found in WORK HISTORY; POS-2; POS-6; POS-8"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "PMO",
+                            "@id": "005052",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "PMP",
+                            "@id": "005053",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "PROJECT MANAGER",
+                            "@id": "022909",
+                            "@existsInText": "true",
+                            "@totalMonths": "104",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-6; POS-8"
+                          },
+                          {
+                            "@name": "TEAM MANAGEMENT",
+                            "@id": "025953",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "DB2",
+                            "@id": "015075",
+                            "@existsInText": "true",
+                            "@totalMonths": "85",
+                            "@lastUsed": "2010-12-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "39",
+                            "@childrenLastUsed": "2018-09-30",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@totalMonths": "39",
+                                "@lastUsed": "2018-09-30",
+                                "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-4; POS-8"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "PROGRESS",
+                            "@id": "025538",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "39",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-4; POS-8"
+                          },
+                          {
+                            "@name": "VSAM",
+                            "@id": "010735",
+                            "@existsInText": "true",
+                            "@totalMonths": "73",
+                            "@lastUsed": "2009-12-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mainframe",
+                        "@id": "197",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "COBOL",
+                            "@id": "024882",
+                            "@existsInText": "true",
+                            "@totalMonths": "85",
+                            "@lastUsed": "2010-12-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "MAINFRAME",
+                            "@id": "025745",
+                            "@existsInText": "true",
+                            "@totalMonths": "124",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-5; POS-6; POS-8"
+                          },
+                          {
+                            "@name": "MVS",
+                            "@id": "003234",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "SYSTEMS ANALYST",
+                            "@id": "009108",
+                            "@existsInText": "true",
+                            "@totalMonths": "81",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-6; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA CENTER",
+                            "@id": "5530942",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "DB2",
+                            "@id": "5530738",
+                            "@existsInText": "true",
+                            "@totalMonths": "85",
+                            "@lastUsed": "2010-12-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@totalMonths": "31",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": ".NET",
+                            "@id": "023039",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2018-09-30",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2018-09-30",
+                                "@whereFound": "Found in WORK HISTORY; POS-8"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@totalMonths": "31",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@totalMonths": "31",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "JIRA",
+                            "@id": "2000006",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "IMS",
+                            "@id": "019583",
+                            "@existsInText": "true",
+                            "@totalMonths": "73",
+                            "@lastUsed": "2009-12-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "WEB PORTAL",
+                            "@id": "011010",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA CENTER",
+                            "@id": "024134",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "JCL",
+                            "@id": "020283",
+                            "@existsInText": "true",
+                            "@totalMonths": "85",
+                            "@lastUsed": "2010-12-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-5; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "18",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Real Estate & Facilities",
+                        "@id": "710",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL PROJECT MANAGEMENT",
+                            "@id": "7000113",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "49",
+                            "@childrenLastUsed": "2018-09-30",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "PROGRAM MANAGEMENT",
+                                "@id": "7000114",
+                                "@existsInText": "true",
+                                "@totalMonths": "49",
+                                "@lastUsed": "2018-09-30",
+                                "@whereFound": "Found in WORK HISTORY; POS-2; POS-3; POS-8"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "7000109",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-6; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "32",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "012194",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2018-02-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "7000007",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-6; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "MBA",
+                            "@id": "7000321",
+                            "@existsInText": "true",
+                            "@totalMonths": "9",
+                            "@lastUsed": "2014-06-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "7000026",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-6; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCE",
+                            "@id": "023147",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trading",
+                        "@id": "239",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "FINANCIAL SERVICES",
+                            "@id": "017478",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "10",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Business Planning",
+                        "@id": "589",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "43",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "1400096",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-6; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "43",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "1400009",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-6; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Channel, Partner & Ecosystem Marketing",
+                        "@id": "590",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER ENGAGEMENT",
+                            "@id": "1400108",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Brand Management",
+                        "@id": "227",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT MANAGER",
+                            "@id": "081160",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Channel Management",
+                        "@id": "226",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "RETAIL MARKETING",
+                            "@id": "1400215",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RETAIL",
+                                "@id": "1400216",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS ANALYSIS",
+                            "@id": "024469",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2018-02-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "BUSINESS CONSULTING",
+                            "@id": "012202",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "PROCESS IMPROVEMENT",
+                            "@id": "005521",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "PROCESS IMPROVEMENTS",
+                            "@id": "022652",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "74",
+                        "sov:Skill": [
+                          {
+                            "@name": "LEAD GENERATION",
+                            "@id": "081147",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "NEW ACCOUNTS",
+                            "@id": "030542",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "RETAIL",
+                            "@id": "030018",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Account Management",
+                        "@id": "104",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "LEAD GENERATION",
+                            "@id": "081150",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "RELATIONSHIP MANAGEMENT",
+                            "@id": "006721",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "263",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "75",
+                        "sov:Skill": [
+                          {
+                            "@name": "SYSTEMS ANALYST",
+                            "@id": "024907",
+                            "@existsInText": "true",
+                            "@totalMonths": "81",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-6; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Environmental",
+                        "@id": "136",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "MITIGATION",
+                            "@id": "002580",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Corporate",
+                        "@id": "727",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "GOVERNANCE",
+                            "@id": "7270003",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Clerical & Paralegal",
+                        "@id": "397",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "DRAFTING",
+                            "@id": "3970006",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Contracts",
+                        "@id": "396",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTRACTS",
+                            "@id": "014309",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "54",
+                        "sov:Skill": [
+                          {
+                            "@name": "COST MANAGEMENT",
+                            "@id": "014504",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY"
+                          },
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTRACTS",
+                            "@id": "022274",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "User Research",
+                        "@id": "558",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "76",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER ENGAGEMENT",
+                            "@id": "5570007",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "PROTOTYPES",
+                            "@id": "5570209",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "PROTOTYPE",
+                                "@id": "5570210",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROTOTYPE",
+                            "@id": "5570148",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Integration Design",
+                        "@id": "568",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROTOTYPE",
+                            "@id": "5570107",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Information Architect",
+                        "@id": "567",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROTOTYPE",
+                            "@id": "5570097",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Human Computer Interaction",
+                        "@id": "561",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROTOTYPE",
+                            "@id": "5570036",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Talent Management",
+                        "@id": "584",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "69",
+                        "sov:Skill": [
+                          {
+                            "@name": "ONBOARDING",
+                            "@id": "9000284",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "HR Analytics",
+                        "@id": "577",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADVANCED ANALYTICS",
+                            "@id": "9000106",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2014-02-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "262",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "HR",
+                            "@id": "019094",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Central Office",
+                        "@id": "316",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA CENTER",
+                            "@id": "014970",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOMMUNICATION",
+                            "@id": "022284",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Supply Chain",
+                        "@id": "461",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTRACTS",
+                            "@id": "014311",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Purchasing",
+                        "@id": "458",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCUREMENT",
+                            "@id": "7270001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGET",
+                            "@id": "012120",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Reporting",
+                        "@id": "962",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGET",
+                            "@id": "022891",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOCUMENTATION",
+                            "@id": "022620",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Call Center or Help Desk or Customer Service",
+                    "@id": "46",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Help Desk",
+                        "@id": "129",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "APPLICATION SUPPORT",
+                            "@id": "021721",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Nuclear Misc",
+                        "@id": "923",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DECOMMISSIONING",
+                            "@id": "015126",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Aptitudes",
+                        "@id": "532",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTICULATE",
+                            "@id": "031025",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Petrochemical",
+                    "@id": "44",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Drilling",
+                        "@id": "441",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "OFFSHORE",
+                            "@id": "003754",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2018-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "4",
+              "@ends": "7",
+              "@sectionType": "SUMMARY",
+              "#text": "Summary"
+            },
+            {
+              "@starts": "8",
+              "@ends": "10",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Certification:"
+            },
+            {
+              "@starts": "11",
+              "@ends": "18",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Experience Highlights"
+            },
+            {
+              "@starts": "19",
+              "@ends": "26",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "27",
+              "@ends": "34",
+              "@sectionType": "SKILLS",
+              "#text": "Technical Skills"
+            },
+            {
+              "@starts": "35",
+              "@ends": "147",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "148",
+              "@ends": "150",
+              "@sectionType": "CONTACT INFO",
+              "#text": "Personal Information"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "+91 8861776600"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Harshavardhana M R"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "harsha.rangashamaiah@gmail.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "#808, Sri Rangantha Nilaya, 3rd Cross, 2nd Stage, 11th Block, Nagarabhavi"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "9395",
+        "sov:ParseTime": "786",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.",
+                    "[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Technical Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;1] The following section does not have the header on a separate line: 'Certification:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:ec2c77d9-afe3-450b-9b77-47abd4e30fbc",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "cJn+//////8="
+      }
+    }
+  }
+}

@@ -1,0 +1,768 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>M.A. SUMAN</FormattedName>
+				<GivenName>M.A.</GivenName>
+				<FamilyName>SUMAN</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>90</PostalCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Flat no: G4, Sri Sairam Residency</AddressLine>
+						<AddressLine>KNR Colony, Nizampet village</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>home</Location>
+				<Telephone>
+					<FormattedNumber>+91- 040-40060659</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91- 9989310440</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>masuman@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>• Total experience of 14 years.
+
+• Full stack developer with good exposure to client, server and database technologies.
+
+• Strong expertise in developing web applications, client side/desktop applications, eclipse plugin development and cloud based SAAS applications.
+
+• Highly skilled in undertaking research and design/architecture activities.</ExecutiveSummary>
+		<Objective>To offer my excellent programming, architecture and mentoring skills and continuously learn new skills to the benefit and growth of the organization that I am part of.</Objective>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Principal software engineer with CA technologies</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2011-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>Principal software engineer with CA technologies</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Principal software engineer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Tata Consultancy Services</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior software engineer</Title>
+					<OrgName>
+						<OrganizationName>Tata Consultancy Services</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2010-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2011-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Tata Consultancy Services</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior software engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Tata Consultancy Services</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Cordys Software pvt ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software engineer</Title>
+					<OrgName>
+						<OrganizationName>Cordys Software pvt ltd</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2007-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2009-12</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Cordys Software</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Cordys Software</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Enlume technologies pvt ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software engineer</Title>
+					<OrgName>
+						<OrganizationName>Enlume technologies pvt ltd</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2004-11</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2007-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Enlume technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Enlume technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>SISTAM Engineering College srikakulam (A.P), JNTU University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>(A.P)</Region>
+					<Municipality>srikakulam</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Engineering</DegreeName>
+					<DegreeDate>
+						<YearMonth>2004-04</YearMonth>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science &amp; Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<YearMonth>2004-04</YearMonth>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Bachelor of Engineering Degree in Computer Science &amp; Engineering in April 2004 from SISTAM Engineering College srikakulam (A.P), JNTU University.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>SISTAM Engineering College srikakulam A P JNTU University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Skill Set
+
+Java Frameworks: Core java, Spring jdbc, Spring boot, AKKA, hibernate, Struts.
+RDBMS: SQL, PL/SQL, MySQL, Oracle, DB2 and H2.
+UI technologies &amp; frameworks: Javascript (ES5 and ES6), React JS, Node JS, NPM, Redux, Jest, Bootstrap, Webpack.
+Others: Docker, Kubernetes</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Hindi, and Telugu</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Hindi, and Telugu</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>te</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Hindi, and Telugu</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>RESIDENCE
+S/o M.J.Madhukar
+Flat no: G4, Sri Sairam Residency
+KNR Colony, Nizampet village
+Hyderabad - 90
+
+Phone: +91- 040-40060659 (res)
+Cell: +91- 9989310440
+E-mail: masuman@gmail.com
+
+
+M.A.SUMAN
+
+
+Career Objective
+To offer my excellent programming, architecture and mentoring skills and continuously learn new skills to the benefit and growth of the organization that I am part of.
+
+Professional summary
+• Total experience of 14 years.
+
+• Full stack developer with good exposure to client, server and database technologies.
+
+• Strong expertise in developing web applications, client side/desktop applications, eclipse plugin development and cloud based SAAS applications.
+
+• Highly skilled in undertaking research and design/architecture activities.
+
+
+Work profile
+Principal software engineer with CA technologies (Oct 2011 - till date)
+Senior software engineer with Tata Consultancy Services (Jan 2010 - Oct 2011)
+Software engineer with Cordys Software pvt ltd (July 2007 - Dec 2009)
+Software engineer with Enlume technologies pvt ltd. (Nov 2004 - June 2007)
+
+Educational Qualification
+Bachelor of Engineering Degree in Computer Science &amp; Engineering in April 2004 from SISTAM Engineering College srikakulam (A.P), JNTU University.
+
+Skill Set
+
+Java Frameworks: Core java, Spring jdbc, Spring boot, AKKA, hibernate, Struts.
+RDBMS: SQL, PL/SQL, MySQL, Oracle, DB2 and H2.
+UI technologies &amp; frameworks: Javascript (ES5 and ES6), React JS, Node JS, NPM, Redux, Jest, Bootstrap, Webpack.
+Others: Docker, Kubernetes
+
+
+Project Work
+
+CA Data Content Discovery (CA DCD) - (April 2017 - till date)
+Technologies involved: Java, spring jdbc, React JS, Redux, Javascript, DB2.
+• Currently working as senior member in the development team and am involved in developing some key marquee features of the product.
+• Created the architecture and design for some of the features.
+• Interacting with the customers on the issues and concerns raised by them and provide a timely fix/ solution.
+
+CA Chorus - (Oct 2011 - April 2017)
+Technologies involved: Java, Jboss, GWT, Angular JS, Teiid
+• Worked as a senior member in the development team for CA Chorus (both on the server and client parts of it) and have been part of three major and successful product releases.
+• Developed several custom UI components in GWT.
+• Successfully did a POC in replacing the UI layer built using GWT with Angular JS.
+• Was actively involved in product sustenance and handling customer issues.
+
+AIDE - FC Design Rules Checker  (Dec 2010 - Oct 2011)
+Technologies involved: Eclipse plugin development, core java, JavaCC, velocity
+Client: Ericsson
+To replace or update existing software in telephone exchanges a process called Function Change is performed. Before initiating this process, certain design rule checks must be done on the new software dump. Following are the tasks involved
+• Generate AST (abstract syntax tress) of the old and new PLEX programs using JavaCC.
+• Creating an object model repository for easy reference to the required program elements.
+• Executing the selected design rules on the object model.
+• Displaying the execution summary as a HTML report.
+
+AIDE Basic Test (AXE integrated development environment) (Jan 2010 - Nov 2010)
+Technologies involved: Eclipse plugin development, JFace/SWT, core java, JNI, JavaCC, Velocity
+Client: Ericsson
+AIDE is an eclipse based editor which is intended to support development and unit testing for the PLEX programming language. PLEX is Ericsson's propriety programming language used to develop software for switches used in telephone exchanges. BTI or basic test instruction is a unit test framework for the PLEX programming language. Following are the main features of AIDE
+• Basic Test Language grammar integration using JavaCC
+• Outline view of the source code
+• Editor support with syntax highlighting, content assist, indentation, code folding and error marking for syntax errors
+• Execution of unit test cases written for PLEX by connecting to a software emulator using JNI
+• Displaying the execution summary as a HTML report.
+
+LMS with biometrics integration (Aug 2009 - Dec 2009)
+Technologies involved: Cordys, BPMS, SQL Server, MS-Access
+Client: Cordys
+
+LMS is an automated leave management application for Cordys employees. All Cordys employees have to either swipe their access cards or use their fingerprint on a biometrics device to enter into office. If an employee is absent then this application automatically generates an absence request. Employees can also apply for leave through this application to avail future leaves.
+The following are the key features of this application
+• Supports country specific leave policy and balance deduction. At present leave policy is defined for Netherlands and India.
+• If an employee is absent on a day then a leave request is generated automatically and sent to his/her reporting manager for approval.
+• Jobs are scheduled at the end of the day to scan biometrics database and send out absence requests.
+• Master data setup module to define employee, department, company information and leave related information (leave category, leave type etc).
+• Reports and statistics that show absence details per department, loss of pay reports, entry exit time of employees, employees who put in less than 8 hours per day etc.
+
+
+Central User Management and Single Sign On (Sep 2008 - Aug 2009)
+Technologies involved: Cordys, BPMS, JSP, Servlets and JNDI, Confluence, Atlassian-CROWD, Open IMS
+Client: Cordys
+
+This application serves as an entry point to "on board" new employees, customers, partners and other interested users to the Cordys community portal. It also serves as an intranet portal for employees. This portal is a collaboration framework containing host of applications like wiki, forums, cms etc and is used to share knowledge about Cordys product.
+The following activities were automated using Cordys Business Process technology.
+• Creation of account for employees in active directory
+• Creation of account for customers and partners in Cordys LDAP
+• Account creation for all users in wiki, forums and other 3rd party applications.
+• SSO Authentication module to validate employees against active directory and other users against Cordys LDAP.
+• Password management.
+• Role management.
+• On demand subscription and un subscription for additional services.
+• Usage tracking, statistics and reports.
+
+
+Process Boardroom (Sep 2007 - Aug 2008)
+Technologies involved: Cordys, BPMS, JSP and Servlets
+Client: Cordys
+Cordys Process Boardroom is a Software-as-a-Service (SaaS) based, online modeling and collaborative environment where BPM analysts and developers can map, analyze, document and share business processes.
+Each user upon registration will get a separate workspace with unique URL and a separate space in wiki.
+
+XML Rules Development Editor (XRDE) (Aug 2006 - June 2007).
+Technologies involved: Eclipse plugin development, SWT, JAXP.	Client: Enlume s/w pvt ltd.
+XRDE or (xml rules editor) is an eclipse plug-in to visually create and edit rules that will be executed by rules engine.
+
+The plug-in provides an editor that is used to create the rules which represent the business logic of an application. The rules are saved in xml format. The editor displays this xml content in a user friendly way which a user can edit.
+
+Patron path (Mar 2006 - July 2006)
+Technologies involved: Core java, web services, JAXB, Hibernate, Active MQ
+Client: Menuplicity
+Menuplicity is a web based portal that allows users to search for a restaurant and place their orders online. It was initially developed in PHP and the company needed a solution to increase the efficiency of their website to handle large number of customers visiting the portal.
+The following solution was provided
+• Used a queue based approach to process orders.
+• Order information is maintained in XML format, so JAXB is used to marshall and unmarshal the XML information.
+• Used REST web services with apache axis to communicate and transfer the orders to restaurants.
+• Developed a restaurant client application that receives the order information and integrates the order with the restaurants point of sale (POS) software. Currently integration is done for Micros and Positouch POS software.
+
+No Huddle Fantasy Football (NHFF) (Nov 2006 -Feb 2006).
+Technologies involved: JSP, AJAX, spring &amp; struts framework, hibernate.
+Client: Viallo Inc USA.
+
+Role: Re factor the existing application to a well designed architecture using spring, hibernate &amp; struts framework.
+NHFF is an online fantasy football game where every user gets to make a team of their favorite football players. User will earn points based upon the performance of the players in the gaming season and the user with the highest points will be rewarded.
+• Struts framework was used to implement the MVC pattern.
+• Spring framework was used to provide dependency injection feature, so that classes will get the required dependant objects at runtime.
+• User registration, team selection, trading, game play were the modules that were refactored.
+
+Admin UI (June 2005 - Oct 2005)
+Technologies involved: JSP, JAXP, JMX, AJAX, struts.
+Client: Enlume s/w pvt ltd.
+
+
+Admin UI is a web based administrator tool, using which an administrator can remotely monitor and manage the activities of a rules engine.
+
+The main features of this application are
+
+• View the execution statistics of the rules engine.
+• Manage different versions of a rule and select a version to be used by the rules engine.
+• Test work bench to test a rule.
+
+
+RI400 (DEC 2004 -May 2005)
+Technologies involved: Core java, swing, jdbc, IBM iseries API, and JExcel, iText &amp; Jakarta commons API.
+Client: Morner, Norway
+
+RI400 is a windows based tool that helps the users of Iseries to easily integrate with windows. It fetches the spool files (reports) that are generated by some batch programs in the iseries to windows, converts them to various file formats like excel, PDF and does some operations like dispatching the files by email and publishing them on the web.
+An inbuilt editor is provided to edit the spool files before they are processed.
+
+Main features that were added include
+• Conversion of text files to excel using JExcel API.
+• Conversion of text files to pdf using iText API.
+• Tool to FTP files from PC to a server using Jakarta commons API.
+• Tool to send an email of the generated reports using the java mail API.
+• Sending of SMS, MMS &amp; FAX from RI400 using Telenor's mobile service.
+• Created UI to display the tables and columns of the DB2 database so that user can select the columns from required tables and generate a report from these selected columns.
+
+
+Extracurricular activities during academic years
+
+• Participated in national level game design contest held at RVR &amp; JC College of Engineering, Guntur.
+
+• Participated in national level game design contest held at Muffkham Jha College of Engineering, Hyderabad.
+
+• Participated in national level game design contest held at Nimra College of Engineering, Vijayawada and finished 2nd.
+
+Other details
+
+Name	Manuru Ananthasayana Suman
+Fathers name	M J Madhukar
+Date of Birth	5th August 1982
+Place of Birth	Guntur
+Languages Known	English, Hindi, and Telugu</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1982-08-05</sov:DateOfBirth>
+				<sov:Birthplace>Guntur</sov:Birthplace>
+				<sov:FathersName>M J Madhukar</sov:FathersName>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>M.A. SUMAN's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in User Experience (mostly Industrial Design). M.A. SUMAN has 15 years of work experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>181</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>45</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>85</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="87">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="58" percentOfParentTaxonomy="66">
+								<sov:Skill name="API" id="021194" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DESKTOP APPLICATIONS" id="015315" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DOCKER" id="3391147" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY">
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="REDUX" id="3391108" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:ChildSkill>
+									<sov:ChildSkill name="WEBPACK" id="3391104" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="181" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-3; POS-4"></sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="6" percentOfParentTaxonomy="7">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY">
+									<sov:ChildSkill name="HIBERNATE" id="3391127" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JAXB" id="339016" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JAXP" id="339004" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JBOSS" id="020279" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JNDI" id="339047" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JNI" id="339026" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JSP" id="339001" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SERVLETS" id="007817" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="STRUTS" id="026009" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY">
+									<sov:ChildSkill name="JAKARTA" id="020261" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DB2" id="015075" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JDBC" id="020287" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PL/SQL" id="004871" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="AJAX" id="196001" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="IMS" id="019583" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="INTRANET" id="024782" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="INTRANET PORTAL" id="020071" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SAAS" id="1004743" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEB BASED" id="024402" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="BIOMETRICS" id="5530910" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DB2" id="5530738" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JBOSS" id="5530783" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SOFTWARE AS A SERVICE" id="5531064" existsInText="false">
+									<sov:ChildSkill name="SAAS" id="5531065" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="AUTHENTICATION" id="005912" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="BIOMETRICS" id="3380102" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SINGLE SIGN ON" id="3380021" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SSO" id="008513" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="TEST FRAMEWORK" id="3380018" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MODEL VIEW CONTROLLER" id="5520572" existsInText="false">
+									<sov:ChildSkill name="MVC" id="552057201" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="RESTFUL WEB SERVICES" id="5520591" existsInText="false">
+									<sov:ChildSkill name="REST WEB SERVICES" id="552059101" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="MODEL-VIEW-CONTROLLER" id="7310042" existsInText="false">
+									<sov:ChildSkill name="MVC" id="7310043" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="USER INTERFACE" id="7310067" existsInText="false">
+									<sov:ChildSkill name="UI" id="7310068" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="HUDDLE" id="5500338" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PLEX" id="5500372" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="ACTIVE DIRECTORY" id="085031" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="LDAP" id="020651" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="FTP" id="018004" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PDF" id="004489" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="UNIT TEST" id="010253" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="UNIT TESTING" id="010254" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="ACTIVE DIRECTORY" id="3490026" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SMS" id="081178" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MVC" id="003233" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="REST" id="7180010" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="AS/400" id="191" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="ISERIES" id="020171" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Messaging" id="346" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MMS" id="002620" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="341" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="RDBMS" id="022369" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="FRAMEWORKS" id="017954" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="3">
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="1" percentOfParentTaxonomy="28">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" whereFound="Found in PROJECT_HEADERS; SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="1" percentOfParentTaxonomy="24">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="0" percentOfParentTaxonomy="16">
+								<sov:Skill name="GAME DESIGN" id="5570237" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="0" percentOfParentTaxonomy="16">
+								<sov:Skill name="GAME DESIGN" id="5570126" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="0" percentOfParentTaxonomy="16">
+								<sov:Skill name="GAME DESIGN" id="5570119" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="1">
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="POINT OF SALE" id="1400219" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY">
+									<sov:ChildSkill name="POS" id="1400220" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="1">
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="TRADING" id="080204" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="TRADING" id="080179" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Trading" id="239" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="TRADING" id="009789" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="1">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="1" percentOfParentTaxonomy="67">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="TRADING" id="022750" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="STATISTICS" id="008585" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="1">
+							<sov:Subtaxonomy name="Messages and Contact" id="112" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="TELEPHONE" id="009358" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Related" id="115" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="PUBLISHING" id="006027" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Billing and Collections" id="110" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="PROCESS ORDERS" id="005535" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Retail" id="78" percentOfOverall="1">
+							<sov:Subtaxonomy name="POS Systems" id="508" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="POINT OF SALE" id="005073" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="POS" id="005124" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="1">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="ACROBAT" id="012099" existsInText="false">
+									<sov:ChildSkill name="PDF" id="004488" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="INTRANET" id="020068" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="Learning &amp; Development" id="580" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="LEARNING MANAGEMENT SYSTEM" id="9000193" existsInText="false">
+									<sov:ChildSkill name="LMS" id="9000194" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="1">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="0" percentOfParentTaxonomy="50"></sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Account Management" id="104" percentOfOverall="0" percentOfParentTaxonomy="50"></sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="1">
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="LMS" id="020831" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Call Center or Help Desk or Customer Service" id="46" percentOfOverall="0">
+							<sov:Subtaxonomy name="Customer Facing" id="130" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="DISPATCHING" id="023067" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEST CASES" id="009422" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="14" ends="16" sectionType="OBJECTIVE">Career Objective</sov:Section>
+				<sov:Section starts="17" ends="26" sectionType="SUMMARY">Professional summary</sov:Section>
+				<sov:Section starts="27" ends="32" sectionType="WORK HISTORY">Work profile</sov:Section>
+				<sov:Section starts="33" ends="35" sectionType="EDUCATION">Educational Qualification</sov:Section>
+				<sov:Section starts="36" ends="43" sectionType="SKILLS">Skill Set</sov:Section>
+				<sov:Section starts="44" ends="182" sectionType="PROJECT_HEADERS">Project Work</sov:Section>
+				<sov:Section starts="183" ends="183" sectionType="LANGUAGES">Languages Known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Phone: +91- 040-40060659 (res)</sov:Phone>
+					<sov:Phone>+91- 040-40060659</sov:Phone>
+					<sov:Phone>Cell: +91- 9989310440</sov:Phone>
+					<sov:Phone>+91- 9989310440</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>M.A.SUMAN</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>masuman@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:OtherData>
+					<sov:OtherDatum>Flat no: G4, Sri Sairam Residency</sov:OtherDatum>
+					<sov:OtherDatum>Date of Birth	5th August 1982</sov:OtherDatum>
+					<sov:OtherDatum>KNR Colony, Nizampet village</sov:OtherDatum>
+					<sov:OtherDatum>Fathers name	M J Madhukar</sov:OtherDatum>
+					<sov:OtherDatum>Place of Birth	Guntur</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>11206</sov:ParsedTextLength>
+			<sov:ParseTime>527</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:303;1,5] Each of the following sections in the resume contain more content than the work history and education sections combined: 'Professional summary', 'Project Work'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Skill Set'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:133;] Multiple phone numbers were found in the contact information. Only one phone number should be included in a resume.</sov:Information>
+							<sov:Information>[Sovren:151;6] The following section does not have the header on a separate line: 'Languages Known'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:8505e1af-6df5-4a5b-92c1-9d3f3603553c</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>VxIFAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Santhosh G. K</FormattedName>
+				<GivenName>Santhosh</GivenName>
+				<MiddleName>G.</MiddleName>
+				<FamilyName>K</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>560056</PostalCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bangalore</Municipality>
+					<DeliveryAddress>
+						<AddressLine>#949, Shreshta</AddressLine>
+						<AddressLine>3rd Block, Vishweshwaraiah Layout</AddressLine>
+						<AddressLine>Near Amruthanandamayi Ashram</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>9880554449</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>Santhosh.GK@hotmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>To constantly strive towards perfection in my field through optimum utilization of my knowledge and
+strengths with full commitment and conviction to become an asset for the organization. I work and
+prosper along with it
+
+●	15 years of experience in Java/J2EE Technologies with Spring, Hibernate, RESTful Web
+Services and Microservices
+
+●	Very good work experience in Agile Scrum process.
+
+●	Good experience in Ecommerce and Virtualization domain
+
+●	Working as Engineering Manager (Individual Contributor, Architect) for Swoo, Bangalore from
+Jan 2019 to till date
+
+●	Worked as a Senior Member of Technical Staff for VMware, Bangalore from Dec 2013 to Jan
+2019
+
+●	Worked as a Senior Software Engineer for Sabre Holdings, Bangalore from April 2011 to Dec
+2013
+
+●	Worked as a Senior Software Engineer for MISYS, Bangalore from June 2010 to April 2011
+
+●	Worked as a Senior Software Engineer for Ness Technologies, Bangalore from Sep 2009 to
+June 2010
+
+●	Worked as a Senior Software Engineer for Symphony Services, Bangalore from Oct 2007 to
+Aug 2009
+
+●	Worked as a Software Engineer for SPAN Infotech, Bangalore from Feb 2007 to Sep 2007
+
+●	Worked as a Software Engineer for Radiant Infosystems, Bangalore from July 2004 to
+January 2007</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>NOSQL Database</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Individual Contributor and Architect</Title>
+					<OrgName>
+						<OrganizationName>NOSQL Database</OrganizationName>
+					</OrgName>
+					<Description>Responsible for end to end
+delivery. Involved in architecture and design. Prototype development.
+Managing team of 5 members.
+Duration: Jan 2019 to Till Date
+
+Description: Swoo is an online mobile application and live streaming platform. This platform used for
+hosting live games and to stream their videos live from users mobiles. This platform is hosted in AWS
+public cloud.
+
+2) Title: Vmware Cloud Foundation
+Work Place: Vmware.
+Technologies: JAVA 8, JSP 2.0, Spring 4.X, Spring Boot, Spring MVC, Spring Boot
+1.2.X, JQuery 1.5, Cassandra 3.X, Python 3.X and Hibernate 3.X.
+Application Server: Tomcat 8.0
+NOSQL Database: Cassandra DB
+Role: Individual Contributor, Responsible for end to end delivery. Involved in architecture and design. Prototype development. Managing team
+of 5 members</Description>
+					<StartDate>
+						<YearMonth>2019-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 74% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SF">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>5</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>NOSQL Database</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Individual Contributor and Architect</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>NOSQL Database</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>SDDC Manager</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<OrgInfo>
+						<WebSite>MyVmware.com</WebSite>
+					</OrgInfo>
+					<Description>Duration: Oct 2015 to Jan 2019
+Description: VCF is platform to create private data center within small amount of time by
+utilizing Vmware virtualization product suite and manages entire data center by monitoring from single web interface called SDDC Manager. It brings hyper converged infrastructure by
+combining Storage and Compute resources under one roof. VMware Cloud Foundation eases the workload deployments like IaaS and VDI through SDDC Manager.
+
+3) Title: Subscription Delivery Platform(MyVmware.com)
+Work Place: Vmware.
+Technologies: JAVA 7, JSP 2.0, Liferay 6.2, Hibernate 3.0, Spring 3.0, Spring Web
+services (SOAP/REST), Spring Integration, Spring MVC, JQuery
+1.5, Mule ESB 3.7, Rabbit MQ and Mongo DB.
+Application Server: Tomcat 8.0
+Database: Oracle
+Role: Coding, Code Review, Designing and Team Management.
+Duration: Dec 2013 to Oct 2015
+Description: Subscription delivery platform provides the customer to manage products purchased from VMware, allow upgrading products in virtualization area and download the software and managing
+their license keys based on subscription. SDP handling different business customer/partners like
+Distributer, Reseller and Direct customers and different business models like On Demand and Subscription. OnDemand model billing the customer based on USAGE of the product and subscription
+basically billing prepaid, monthly and annually.
+
+4) Title: Travelocity
+Work Place: Sabre Holdings.
+Technologies: JAVA 5, JSP 2.0, JQuery 1.4, JBPM 3.2, Hibernate 3.0, Spring 3.0,
+Web services (SOAP/REST), JMS 1.1.
+Application Server: Tomcat 6.0
+Database: Oracle</Description>
+					<StartDate>
+						<YearMonth>2015-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-01</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 86% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Manager</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>SDDC Manager</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Manager</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Acting Tech Lead, Coding, Code Review and Designing</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>Description: Travelocity is an E-commerce web application where user can book hotels and airline
+tickets. It has facility to connect other supplier systems to book hotels and airline tickets. End user can
+shop hotels or airlines and check the best product which suits him. Travelocity is basically integration of different web apps like Availability, Shopping, Booking, Check-out service etc. All pricing information will
+be stored in our DB as allocated hotels. There is one more application which downloads the daily
+availability by connecting to supplier systems, which is always run at midnight.
+
+5) Title: Bank Fusion
+Work Place: Misys.
+Technologies: JAVA 5, Eclipse Plug-in, Servlets 2.3, EJB 2.0, Hibernate 3.0, Spring
+2.0 JMS 1.1, Swings and SWT.
+Application Server: JBoss 4.0
+Database: DB2</Description>
+					<StartDate>
+						<YearMonth>2011-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2013-12</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 85% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>Acting Tech Lead Coding Code Review and Designing</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Acting Tech Lead</sov:Subtitle>
+								<sov:Subtitle>Acting Tech Lead, Coding</sov:Subtitle>
+								<sov:Subtitle>Tech Lead, Coding, Code Review and Designing</sov:Subtitle>
+								<sov:Subtitle>Tech Lead</sov:Subtitle>
+								<sov:Subtitle>Tech Lead, Coding</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Individual Contributor</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>Description: BankFusion has been designed to make it as easy as possible for a bank to create
+financial products and processes tailored to their requirements and to be able to deploy these
+processes with minimal effort regardless of location of the end-user be it the branch, head-office,
+mobile or contact centre. Using web-services, BankFusion provides the ability to tailor a business
+process (without software coding) very specifically to the requirements of an external source or
+system thus reducing integration costs and efforts.
+
+The BankFusion Package is delivered with a standard set of pre-configured financial products and
+business processes that can enable a bank to very quickly go live with UB. These products and business processes can be rapidly tailored and augmented by the bank for their own specific
+requirements.
+
+6) Title: Investigator Initiated Study (IIS)
+Work Place: Ness Technologies.
+Technologies: JAVA 5, JSP 2.0, Hibernate 3.0, Spring 2.0, AspectJ, JBoss JBPM
+Application Server: Tomcat 6.0
+Database: Oracle 9i
+Role: Coding, Code Review and Designing.</Description>
+					<StartDate>
+						<YearMonth>2010-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2011-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Internet</CategoryCode>
+						<Comments>Information Technology describes 83% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>Individual Contributor</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>MD, RD</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>Duration: Sept 2009 to June 2010
+
+
+Description: IIS which is web based product for handling initiated studies from experts in pharmaceutical industry. Any expert wants grant to initiate research on particular medicine, can enroll into this product (Self Registration) and submit his concept of research and waiting for the approval
+from the pharmaceutical company. Company has hierarchy of employee's means MSL, MD, RD and
+IIS admins. They are the authorized persons who can decide on the approval of the concept
+submitted by expert. We were used JBPM for handling all the workflows in this product.
+
+
+7) Title: Bank Fusion
+Work Place: Symphony Services.
+Technologies: JAVA 5, Eclipse Plug-in, Servlets 2.3, EJB 2.0, Hibernate 3.0, Spring
+2.0 JMS 1.1, Swings and SWT.
+Application Server: JBoss 4.0
+Database: DB2
+Role: Coding, Code Review and Designing.
+Duration: Oct 2007 to Aug 2010
+
+
+Description: BankFusion has been designed to make it as easy as possible for a bank to create
+financial products and processes tailored to their requirements and to be able to deploy these
+processes with minimal effort regardless of the location of the end-user be it the branch,
+head-office, mobile or contact centre. Using web-services, BankFusion provides the ability to tailor
+a business process (without software coding) very specifically to the requirements of an external
+source or system thus reducing integration costs and efforts.
+
+The BankFusion Package is delivered with a standard set of pre-configured financial products and
+business processes that can enable a bank to very quickly go live with UB. These products and business processes can be rapidly tailored and augmented by the bank for their own specific
+requirements	.
+
+8) Title: Invoice Harbor (IH)
+Work Place: SPAN Infotech (India) Pvt Ltd.
+Technologies: JAVA 2, Struts 1.1, JSP, Hibernate, EJB2.0 and JDBC.
+Application Server: Web Logic 8.1
+Database: Oracle 9i
+Role: Coding, Code Review and Desgning
+Duration: Feb 2007 to Sept 2007
+Description: The Invoice Harbor is online invoice payment presentation system. It includes three
+modules Biller, Payer and Enrollment. Biller will create the invoice based on the purchase order sent
+from the respective payer and sent an email notification to the respective payer. Payer will pay the invoice online created by the biller. Enrollment module is used for enrolling to the current system.
+
+
+9) Title: Probate Mental Health (PMH)
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, Struts 1.1, JDBC, JAXB 2.0, XML 1.0 and XML Schema.
+Application Server: Web Sphere V5.1.
+Database: DB2.
+Role: Coding, Code Review, Designing
+Duration: April 2006 to Jan 2007
+Description: Probate Mental Health (PMH) handles the court related issues. PMH is a system which
+provides the interface to access the XML documents created with the help of XML Schema. The
+read data will be stored in the database.
+10) Title: Content Management System
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, JSP 2.0, Servlets 2.3, JDBC and JavaBeans.
+Application Server: Web Logic 8.1.
+Database: Oracle9i.
+Role: Coding.
+Duration: Oct 2005 to Mar 2006
+Description: Content Management System provides the interface, which enables user to create and maintain the web pages in a professional way with non-technical approach. The CMS user's
+workflow consists of content creation, content review/ editing, content approval, and content
+publication. CMS's editor is component that enables you to create and format web page content without writing HTML code too.
+
+11) Title: Health Care System
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, JSP 2.0, Servlets 2.3, JDBC and JavaBeans.
+Application Server: Web Logic 8.1.
+Database: Oracle9i.
+Role: Coding.
+Duration: Apr 2005 to Sept 2005
+Description: The Proposed system is an online one where the customers can choose the hospitals and doctors of their requirements keeping in mind the location and the cost. The system provides
+customers with packages which contain details regarding the services provided to them. The
+customers also have a facility to send feedbacks and a requisition which helps improving the services provided and makes the system more effective.
+
+12) Title: Media Maintenance System
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, JSP 2.0, Servlets 2.3, JDBC and JavaBeans.
+Application Server: Web Logic 8.1.
+Database: Oracle9i.
+Role: Coding.
+Duration: December 2004 to March 2005
+Description: The Ad Agency acquires the contracts from the customer and accordingly processes it for a particular period. The reports that are generalized, includes occupation and availability details
+of media, execution details etc.
+
+
+13) Title: Remote Office Management
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, JSP 2.0, Servlets 2.3, JDBC and JavaBeans.
+Application Server: Web Logic 8.1.
+Database: Oracle9i.
+Role: Coding.
+Duration: July 2004 to Nov 2004
+Description: This Software is about managing people at a distance using technology. Maintaining
+close working relationships with colleagues in many locations, without the need for as many
+meetings as traditionally needed. This project serves office management activities such as Project
+Management, Tracking Employee details, Bulletin Boards, Allocating Seminar halls and Training
+Rooms.</Description>
+					<StartDate>
+						<YearMonth>2009-09</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 73% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>MD RD</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Karnataka University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Dharwad</Municipality>
+				</PostalAddress>
+				<Degree degreeType="masters">
+					<DegreeName>Master of Computer Applications</DegreeName>
+					<DegreeDate>
+						<Year>2004</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Applications</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>74.76</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2004</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>●	Master of Computer Applications (MCA) from Karnataka University, Dharwad with aggregate of 74.76% (2004).</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.748</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>masters</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>masters</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Karnataka University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Karnataka Science College [Karnataka University]</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Dharwad</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Computer Applications</DegreeName>
+					<DegreeDate>
+						<Year>2001</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Applications</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>70.13</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2001</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>●	Bachelor of Computer Applications (BCA) from Karnataka Science College [Karnataka University] Dharwad with the aggregate of 70.13% (2001).</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.701</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Karnataka Science College Karnataka University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Skill Sets
+Java/J2EE Technologies: Java 8, Java Servlets 3.X, JSP 2.0, EJB 3.1, JPA 2.1, JMS
+1.1, JMX, JAXB 2.0, JAX-RS and JAX-WS
+Application Frameworks: Spring 4.X , Hibernate 3.X and Jakarta Struts 1.X
+
+Web Service Framework: Apache CXF 2.2, Spring MVC, Spring Boot (Micro Services)
+
+Streaming Framework: Kafka 2.X
+
+Container Development: Docker and Kubernetes
+
+Cache Framework: Redis
+
+Server Side JavaScript: Node.js 5.X and Express.js 4.X
+
+Other Hands On Technologies: Golang 1.11.X and Python 3.X
+
+Integration Framework: Mule ESB 3.7 and Spring Integration
+
+Public Cloud: Amazon Web Services (AWS)
+Exposure To: Hadoop 2.X, Hive, Apache Pig, Apache Flink, Struts 2.0 and
+Scala 2.X
+
+Application Servers: Tomcat 8.0, JBoss 4.0, Web Logic 8.1 and Web Sphere V5.1
+
+No SQL: Cassandra 3.X and MongoDB 2.X
+
+MQ Servers: Rabbit MQ and Active MQ
+
+RDBMS: Oracle 11G (SQL) and DB2 (SQL)</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English and Kannada</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>kn</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English and Kannada</Comments>
+			</Language>
+		</Languages>
+		<Associations>
+			<Association>
+				<Name>Worked as a Senior Member of Technical Staff for VMware, Bangalore   to Jan</Name>
+				<StartDate>
+					<StringDate>current</StringDate>
+				</StartDate>
+				<EndDate>
+					<YearMonth>2013-12</YearMonth>
+				</EndDate>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>CURRICULUM VITAE
+Santhosh G.K	  #949, Shreshta
+Mobile: 9880554449	3rd Block, Vishweshwaraiah Layout
+Email: Santhosh.GK@hotmail.com		Near Amruthanandamayi Ashram
+Bangalore-560056
+Professional Summary
+To constantly strive towards perfection in my field through optimum utilization of my knowledge and
+strengths with full commitment and conviction to become an asset for the organization. I work and
+prosper along with it
+
+●	15 years of experience in Java/J2EE Technologies with Spring, Hibernate, RESTful Web
+Services and Microservices
+
+●	Very good work experience in Agile Scrum process.
+
+●	Good experience in Ecommerce and Virtualization domain
+
+●	Working as Engineering Manager (Individual Contributor, Architect) for Swoo, Bangalore from
+Jan 2019 to till date
+
+●	Worked as a Senior Member of Technical Staff for VMware, Bangalore from Dec 2013 to Jan
+2019
+
+●	Worked as a Senior Software Engineer for Sabre Holdings, Bangalore from April 2011 to Dec
+2013
+
+●	Worked as a Senior Software Engineer for MISYS, Bangalore from June 2010 to April 2011
+
+●	Worked as a Senior Software Engineer for Ness Technologies, Bangalore from Sep 2009 to
+June 2010
+
+●	Worked as a Senior Software Engineer for Symphony Services, Bangalore from Oct 2007 to
+Aug 2009
+
+●	Worked as a Software Engineer for SPAN Infotech, Bangalore from Feb 2007 to Sep 2007
+
+●	Worked as a Software Engineer for Radiant Infosystems, Bangalore from July 2004 to
+January 2007
+
+Skill Sets
+Java/J2EE Technologies: Java 8, Java Servlets 3.X, JSP 2.0, EJB 3.1, JPA 2.1, JMS
+1.1, JMX, JAXB 2.0, JAX-RS and JAX-WS
+Application Frameworks: Spring 4.X , Hibernate 3.X and Jakarta Struts 1.X
+
+Web Service Framework: Apache CXF 2.2, Spring MVC, Spring Boot (Micro Services)
+
+Streaming Framework: Kafka 2.X
+
+Container Development: Docker and Kubernetes
+
+Cache Framework: Redis
+
+Server Side JavaScript: Node.js 5.X and Express.js 4.X
+
+Other Hands On Technologies: Golang 1.11.X and Python 3.X
+
+Integration Framework: Mule ESB 3.7 and Spring Integration
+
+Public Cloud: Amazon Web Services (AWS)
+Exposure To: Hadoop 2.X, Hive, Apache Pig, Apache Flink, Struts 2.0 and
+Scala 2.X
+
+Application Servers: Tomcat 8.0, JBoss 4.0, Web Logic 8.1 and Web Sphere V5.1
+
+No SQL: Cassandra 3.X and MongoDB 2.X
+
+MQ Servers: Rabbit MQ and Active MQ
+
+RDBMS: Oracle 11G (SQL) and DB2 (SQL)
+
+Educational Qualification
+
+●	Master of Computer Applications (MCA) from Karnataka University, Dharwad with aggregate of
+74.76% (2004).
+●	Bachelor of Computer Applications (BCA) from Karnataka Science College [Karnataka
+University] Dharwad with the aggregate of 70.13% (2001).
+
+Industrial Experience
+
+1) Title: Swoo
+Work Place: Swoo.
+Technologies: JAVA 8, GoLang 1.11.X, Spring 4.X, Spring Boot, Spring MVC, Spring
+Boot 1.2.X, Cassandra 3.X, Python 3.X, Redis 4.X, Amazon SQS
+and Hibernate 4.X
+Public Cloud: Amazon Web Services (AWS)
+Application Server: Tomcat 8.0
+NOSQL Database: Cassandra DB
+Role: Individual Contributor and Architect. Responsible for end to end
+delivery. Involved in architecture and design. Prototype development.
+Managing team of 5 members.
+Duration: Jan 2019 to Till Date
+
+Description: Swoo is an online mobile application and live streaming platform. This platform used for
+hosting live games and to stream their videos live from users mobiles. This platform is hosted in AWS
+public cloud.
+
+2) Title: Vmware Cloud Foundation
+Work Place: Vmware.
+Technologies: JAVA 8, JSP 2.0, Spring 4.X, Spring Boot, Spring MVC, Spring Boot
+1.2.X, JQuery 1.5, Cassandra 3.X, Python 3.X and Hibernate 3.X.
+Application Server: Tomcat 8.0
+NOSQL Database: Cassandra DB
+Role: Individual Contributor, Responsible for end to end delivery. Involved
+in architecture and design. Prototype development. Managing team
+of 5 members
+Duration: Oct 2015 to Jan 2019
+Description: VCF is platform to create private data center within small amount of time by
+utilizing Vmware virtualization product suite and manages entire data center by monitoring from
+single web interface called SDDC Manager. It brings hyper converged infrastructure by
+combining Storage and Compute resources under one roof. VMware Cloud Foundation eases the
+workload deployments like IaaS and VDI through SDDC Manager.
+
+3) Title: Subscription Delivery Platform(MyVmware.com)
+Work Place: Vmware.
+Technologies: JAVA 7, JSP 2.0, Liferay 6.2, Hibernate 3.0, Spring 3.0, Spring Web
+services (SOAP/REST), Spring Integration, Spring MVC, JQuery
+1.5, Mule ESB 3.7, Rabbit MQ and Mongo DB.
+Application Server: Tomcat 8.0
+Database: Oracle
+Role: Coding, Code Review, Designing and Team Management.
+Duration: Dec 2013 to Oct 2015
+Description: Subscription delivery platform provides the customer to manage products purchased
+from VMware, allow upgrading products in virtualization area and download the software and managing
+their license keys based on subscription. SDP handling different business customer/partners like
+Distributer, Reseller and Direct customers and different business models like On Demand and
+Subscription. OnDemand model billing the customer based on USAGE of the product and subscription
+basically billing prepaid, monthly and annually.
+
+4) Title: Travelocity
+Work Place: Sabre Holdings.
+Technologies: JAVA 5, JSP 2.0, JQuery 1.4, JBPM 3.2, Hibernate 3.0, Spring 3.0,
+Web services (SOAP/REST), JMS 1.1.
+Application Server: Tomcat 6.0
+Database: Oracle
+Role: Acting Tech Lead, Coding, Code Review and Designing.
+Duration: April 2011 to Dec 2013
+Description: Travelocity is an E-commerce web application where user can book hotels and airline
+tickets. It has facility to connect other supplier systems to book hotels and airline tickets. End user can
+shop hotels or airlines and check the best product which suits him. Travelocity is basically integration of
+different web apps like Availability, Shopping, Booking, Check-out service etc. All pricing information will
+be stored in our DB as allocated hotels. There is one more application which downloads the daily
+availability by connecting to supplier systems, which is always run at midnight.
+
+5) Title: Bank Fusion
+Work Place: Misys.
+Technologies: JAVA 5, Eclipse Plug-in, Servlets 2.3, EJB 2.0, Hibernate 3.0, Spring
+2.0 JMS 1.1, Swings and SWT.
+Application Server: JBoss 4.0
+Database: DB2
+Role: Individual Contributor involved in Coding, Review and Designing.
+Duration: June 2010 to Apr 2011.
+
+
+Description: BankFusion has been designed to make it as easy as possible for a bank to create
+financial products and processes tailored to their requirements and to be able to deploy these
+processes with minimal effort regardless of location of the end-user be it the branch, head-office,
+mobile or contact centre. Using web-services, BankFusion provides the ability to tailor a business
+process (without software coding) very specifically to the requirements of an external source or
+system thus reducing integration costs and efforts.
+
+The BankFusion Package is delivered with a standard set of pre-configured financial products and
+business processes that can enable a bank to very quickly go live with UB. These products and
+business processes can be rapidly tailored and augmented by the bank for their own specific
+requirements.
+
+6) Title: Investigator Initiated Study (IIS)
+Work Place: Ness Technologies.
+Technologies: JAVA 5, JSP 2.0, Hibernate 3.0, Spring 2.0, AspectJ, JBoss JBPM
+Application Server: Tomcat 6.0
+Database: Oracle 9i
+Role: Coding, Code Review and Designing.
+Duration: Sept 2009 to June 2010
+
+
+Description: IIS which is web based product for handling initiated studies from experts in
+pharmaceutical industry. Any expert wants grant to initiate research on particular medicine, can enroll
+into this product (Self Registration) and submit his concept of research and waiting for the approval
+from the pharmaceutical company. Company has hierarchy of employee's means MSL, MD, RD and
+IIS admins. They are the authorized persons who can decide on the approval of the concept
+submitted by expert. We were used JBPM for handling all the workflows in this product.
+
+
+7) Title: Bank Fusion
+Work Place: Symphony Services.
+Technologies: JAVA 5, Eclipse Plug-in, Servlets 2.3, EJB 2.0, Hibernate 3.0, Spring
+2.0 JMS 1.1, Swings and SWT.
+Application Server: JBoss 4.0
+Database: DB2
+Role: Coding, Code Review and Designing.
+Duration: Oct 2007 to Aug 2010
+
+
+Description: BankFusion has been designed to make it as easy as possible for a bank to create
+financial products and processes tailored to their requirements and to be able to deploy these
+processes with minimal effort regardless of the location of the end-user be it the branch,
+head-office, mobile or contact centre. Using web-services, BankFusion provides the ability to tailor
+a business process (without software coding) very specifically to the requirements of an external
+source or system thus reducing integration costs and efforts.
+
+The BankFusion Package is delivered with a standard set of pre-configured financial products and
+business processes that can enable a bank to very quickly go live with UB. These products and
+business processes can be rapidly tailored and augmented by the bank for their own specific
+requirements	.
+
+8) Title: Invoice Harbor (IH)
+Work Place: SPAN Infotech (India) Pvt Ltd.
+Technologies: JAVA 2, Struts 1.1, JSP, Hibernate, EJB2.0 and JDBC.
+Application Server: Web Logic 8.1
+Database: Oracle 9i
+Role: Coding, Code Review and Desgning
+Duration: Feb 2007 to Sept 2007
+Description: The Invoice Harbor is online invoice payment presentation system. It includes three
+modules Biller, Payer and Enrollment. Biller will create the invoice based on the purchase order sent
+from the respective payer and sent an email notification to the respective payer. Payer will pay the
+invoice online created by the biller. Enrollment module is used for enrolling to the current system.
+
+
+9) Title: Probate Mental Health (PMH)
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, Struts 1.1, JDBC, JAXB 2.0, XML 1.0 and XML Schema.
+Application Server: Web Sphere V5.1.
+Database: DB2.
+Role: Coding, Code Review, Designing
+Duration: April 2006 to Jan 2007
+Description: Probate Mental Health (PMH) handles the court related issues. PMH is a system which
+provides the interface to access the XML documents created with the help of XML Schema. The
+read data will be stored in the database.
+10) Title: Content Management System
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, JSP 2.0, Servlets 2.3, JDBC and JavaBeans.
+Application Server: Web Logic 8.1.
+Database: Oracle9i.
+Role: Coding.
+Duration: Oct 2005 to Mar 2006
+Description: Content Management System provides the interface, which enables user to create
+and maintain the web pages in a professional way with non-technical approach. The CMS user's
+workflow consists of content creation, content review/ editing, content approval, and content
+publication. CMS's editor is component that enables you to create and format web page content
+without writing HTML code too.
+
+11) Title: Health Care System
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, JSP 2.0, Servlets 2.3, JDBC and JavaBeans.
+Application Server: Web Logic 8.1.
+Database: Oracle9i.
+Role: Coding.
+Duration: Apr 2005 to Sept 2005
+Description: The Proposed system is an online one where the customers can choose the hospitals
+and doctors of their requirements keeping in mind the location and the cost. The system provides
+customers with packages which contain details regarding the services provided to them. The
+customers also have a facility to send feedbacks and a requisition which helps improving the
+services provided and makes the system more effective.
+
+12) Title: Media Maintenance System
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, JSP 2.0, Servlets 2.3, JDBC and JavaBeans.
+Application Server: Web Logic 8.1.
+Database: Oracle9i.
+Role: Coding.
+Duration: December 2004 to March 2005
+Description: The Ad Agency acquires the contracts from the customer and accordingly processes it
+for a particular period. The reports that are generalized, includes occupation and availability details
+of media, execution details etc.
+
+
+13) Title: Remote Office Management
+Work Place: Radiant Infosystems.
+Technologies: JAVA 2, JSP 2.0, Servlets 2.3, JDBC and JavaBeans.
+Application Server: Web Logic 8.1.
+Database: Oracle9i.
+Role: Coding.
+Duration: July 2004 to Nov 2004
+Description: This Software is about managing people at a distance using technology. Maintaining
+close working relationships with colleagues in many locations, without the need for as many
+meetings as traditionally needed. This project serves office management activities such as Project
+Management, Tracking Employee details, Bulletin Boards, Allocating Seminar halls and Training
+Rooms.
+
+Personal Profile
+
+Father's Name: Late Kenchappa.G
+Date Of Birth: 15th, May 1981
+Language Known: English and Kannada
+Permanent Address: Talikatte Kaval, Talikatte (Post), Holalkere (Taluk), Chitradurga (District),
+Karnataka 577539
+Hobbies: Watching and playing cricket, Playing Chess
+
+I solemnly declare that the information furnished above is true and correct in all respects.
+
+Yours sincerely,
+Place: Bangalore
+Date: (Santhosh G.K)</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1981-05-01</sov:DateOfBirth>
+				<sov:FathersName>Late Kenchappa.G</sov:FathersName>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Santhosh G. K's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in User Experience (mostly Web Design). Santhosh G. K has 8 years of work experience, with 6 years of management experience, including a mid-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>101</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>20</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>71</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>55</sov:HighestManagementScore>
+				<sov:ExecutiveType>general</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 10/1/2015, the candidate held the following mid-level management position for 3 years and 3 months:
+	Title: SDDC Manager
+Starting on 4/1/2011, the candidate held the following low-level management position for 2 years and 8 months:
+	Title: Acting Tech Lead, Coding, Code Review and Designing</sov:ManagementStory>
+				<sov:AttentionNeeded>ATTENTION: The candidate appears to have been in management in a past role (SDDC Manager) , but was not in management in the most recent role as Individual Contributor and Architect for NOSQL Database.</sov:AttentionNeeded>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="93">
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="68" percentOfParentTaxonomy="73">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" totalMonths="41" lastUsed="2013-12-01" whereFound="Found in WORK HISTORY; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="EJB" id="339002" existsInText="true" totalMonths="41" lastUsed="2013-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="J2EE" id="020255" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="101" lastUsed="2019-11-18" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3; POS-4; POS-5" childrenTotalMonths="101" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="HIBERNATE" id="3391127" existsInText="true" totalMonths="101" lastUsed="2019-11-18" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3; POS-4; POS-5"></sov:ChildSkill>
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" totalMonths="101" lastUsed="2019-11-18" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3; POS-4; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JAVABEANS" id="020273" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="JAX" id="339014" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JAXB" id="339016" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="JAX-WS" id="339015" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JBOSS" id="020279" existsInText="true" totalMonths="51" lastUsed="2013-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="JMS" id="020323" existsInText="true" totalMonths="80" lastUsed="2019-01-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="jQuery" id="339048" existsInText="true" totalMonths="50" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="JSP" id="339001" existsInText="true" totalMonths="69" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1; POS-2; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="SERVLETS" id="007817" existsInText="true" totalMonths="41" lastUsed="2013-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="STRUTS" id="026009" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-5">
+									<sov:ChildSkill name="JAKARTA" id="020261" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="JAKARTA STRUTS" id="020262" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="9" percentOfParentTaxonomy="10">
+								<sov:Skill name="AMAZON WEB SERVICES" id="3391154" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="APPLICATION SERVER" id="024219" existsInText="true" totalMonths="101" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-3; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="CODING" id="013739" existsInText="true" totalMonths="90" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="CONTENT MANAGEMENT" id="022339" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="DOCKER" id="3391147" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Hadoop" id="1004744" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Hive" id="1004749" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in SKILLS">
+									<sov:ChildSkill name="NODE.JS" id="339002002" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="Pig" id="1004751" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="5">
+								<sov:Skill name="CACHE" id="012362" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="90" childrenLastUsed="2019-01-01">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="90" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-4; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DB2" id="015075" existsInText="true" totalMonths="41" lastUsed="2013-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="JDBC" id="020287" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" totalMonths="58" lastUsed="2019-01-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="CASSANDRA" id="5530915" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="CONTENT MANAGEMENT SYSTEM" id="5530931" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5" childrenTotalMonths="9" childrenLastUsed="2010-06-01">
+									<sov:ChildSkill name="CMS" id="5530932" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DATA CENTER" id="5530942" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="DB2" id="5530738" existsInText="true" totalMonths="41" lastUsed="2013-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="HADOOP" id="5530761" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JBOSS" id="5530783" existsInText="true" totalMonths="51" lastUsed="2013-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="JMS" id="5530786" existsInText="true" totalMonths="80" lastUsed="2019-01-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="KAFKA" id="5531005" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="NOSQL" id="5530812" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="REDIS" id="5530835" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="ECOMMERCE" id="026768" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="INTERNET INFORMATION SERVICES" id="022134" existsInText="false" childrenTotalMonths="19" childrenLastUsed="2011-04-01">
+									<sov:ChildSkill name="IIS" id="002902" existsInText="true" totalMonths="19" lastUsed="2011-04-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="STREAMING" id="008696" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="TOMCAT" id="009664" existsInText="true" totalMonths="60" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1; POS-2; POS-4"></sov:Skill>
+								<sov:Skill name="WEB BASED" id="024402" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="WEB LOGIC" id="011003" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="WEB SPHERE" id="011024" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="MODEL VIEW CONTROLLER" id="5520572" existsInText="false" childrenTotalMonths="50" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="MVC" id="552057201" existsInText="true" totalMonths="50" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SOAP" id="5520605" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="MODEL-VIEW-CONTROLLER" id="7310042" existsInText="false" childrenTotalMonths="50" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="MVC" id="7310043" existsInText="true" totalMonths="50" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="MVC" id="003233" existsInText="true" totalMonths="50" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="Amazon Simple Queue Service" id="5500004" existsInText="false">
+									<sov:ChildSkill name="Amazon SQS" id="550000401" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ASTERADATA" id="5500311" existsInText="false" childrenTotalMonths="11" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="CASSANDRA" id="550031101" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="IAAS" id="7180005" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="REST" id="7180010" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="VIRTUALIZATION" id="7180009" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="VMWARE" id="026285" existsInText="true" totalMonths="50" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA CENTER" id="024134" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="IIS" id="3490027" existsInText="true" totalMonths="19" lastUsed="2011-04-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="VIRTUALIZATION" id="3490016" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="LIVE STREAMING" id="5551341" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SOAP" id="008187" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="TEAM MANAGEMENT" id="025953" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="GO LIVE" id="018480" existsInText="true" totalMonths="19" lastUsed="2011-04-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="SCALA" id="007474" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SCALA" id="5510135" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="341" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="RDBMS" id="022369" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="FRAMEWORKS" id="017954" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CMS" id="013609" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="4">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="3" percentOfParentTaxonomy="80">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false" childrenTotalMonths="90" childrenLastUsed="2019-01-01">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" totalMonths="90" lastUsed="2019-01-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-3; POS-4; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PROTOTYPE" id="5570148" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Research" id="558" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="PROTOTYPES" id="5570209" existsInText="false" childrenTotalMonths="11" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="PROTOTYPE" id="5570210" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="PROTOTYPE" id="5570107" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="PROTOTYPE" id="5570097" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="PROTOTYPE" id="5570036" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Nursing" id="99" percentOfOverall="2">
+							<sov:Subtaxonomy name="Billing and Coding" id="421" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="BILLING" id="080120" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="CODING" id="023717" existsInText="true" totalMonths="90" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-4; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Travel" id="36" percentOfOverall="0">
+							<sov:Subtaxonomy name="Travel Software" id="487" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="SABRE" id="026369" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="0">
+							<sov:Subtaxonomy name="People Oriented" id="517" percentOfOverall="0" percentOfParentTaxonomy="80">
+								<sov:Skill name="TEAM MANAGEMENT" id="025955" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Budget Related" id="516" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="PRICING" id="005394" existsInText="true" totalMonths="32" lastUsed="2013-12-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="0">
+							<sov:Subtaxonomy name="Billing and Collections" id="110" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BILLING" id="022474" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="INVOICE" id="020120" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Bookkeeping, Office Management" id="89" percentOfOverall="0">
+							<sov:Subtaxonomy name="Bookeeping Tasks" id="533" percentOfOverall="0" percentOfParentTaxonomy="94">
+								<sov:Skill name="BILLING" id="011553" existsInText="true" totalMonths="39" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Office Tasks" id="534" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="OFFICE MANAGEMENT" id="022544" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="0">
+							<sov:Subtaxonomy name="Direct Sales" id="102" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="ECOMMERCE" id="081152" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="ECOMMERCE" id="081146" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="0">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="0" percentOfParentTaxonomy="58">
+								<sov:Skill name="HADOOP" id="1400328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Public Relations" id="224" percentOfOverall="0" percentOfParentTaxonomy="42">
+								<sov:Skill name="CONTENT CREATION" id="1400175" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Call Center or Help Desk or Customer Service" id="46" percentOfOverall="0">
+							<sov:Subtaxonomy name="Call Center" id="128" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CONTACT CENTRE" id="014273" existsInText="true" totalMonths="19" lastUsed="2011-04-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="0">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="WORKFLOW" id="024213" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="0">
+							<sov:Subtaxonomy name="Contracts" id="396" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CONTRACTS" id="014309" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CONTRACTS" id="022274" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Construction Non-Laborer" id="22" percentOfOverall="0">
+							<sov:Subtaxonomy name="Office, Admin and Clerical" id="394" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CONTRACTS" id="022273" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Installation, Maintenance, Repair" id="72" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Repair" id="452" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022117" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Healthcare Non-physician Non-nurse" id="95" percentOfOverall="0">
+							<sov:Subtaxonomy name="Social Work" id="169" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MENTAL HEALTH" id="021624" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="0">
+							<sov:Subtaxonomy name="Supply Chain" id="461" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CONTRACTS" id="014311" existsInText="true" totalMonths="9" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Hobbies>
+				<sov:Text>Watching and playing cricket, Playing Chess
+
+I solemnly declare that the information furnished above is true and correct in all respects.
+
+Yours sincerely,
+Place: Bangalore
+Date: (Santhosh G.K)</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="5" ends="38" sectionType="SUMMARY">Professional Summary</sov:Section>
+				<sov:Section starts="39" ends="69" sectionType="SKILLS">Skill Sets</sov:Section>
+				<sov:Section starts="70" ends="76" sectionType="EDUCATION">Educational Qualification</sov:Section>
+				<sov:Section starts="77" ends="277" sectionType="WORK HISTORY">Industrial Experience</sov:Section>
+				<sov:Section starts="278" ends="281" sectionType="CONTACT INFO">Personal Profile</sov:Section>
+				<sov:Section starts="282" ends="284" sectionType="LANGUAGES">Language Known</sov:Section>
+				<sov:Section starts="285" ends="291" sectionType="HOBBIES">Hobbies</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Mobile: 9880554449</sov:Phone>
+					<sov:Phone>9880554449</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Santhosh G.K</sov:Name>
+					<sov:Name>Date: (Santhosh G.K)</sov:Name>
+					<sov:Name>Santhosh G.K	  #949, Shreshta</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>Santhosh.GK@hotmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>MyVmware.com</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>3rd Block, Vishweshwaraiah Layout</sov:OtherDatum>
+					<sov:OtherDatum>Father's Name: Late Kenchappa.G</sov:OtherDatum>
+					<sov:OtherDatum>Date Of Birth: 15th, May 1981</sov:OtherDatum>
+					<sov:OtherDatum>Near Amruthanandamayi Ashram</sov:OtherDatum>
+					<sov:OtherDatum>#949, Shreshta</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>13143</sov:ParsedTextLength>
+			<sov:ParseTime>1781</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:222;POS-2,POS-3,POS-4,POS-5] No employer name was found for:  POS-2, POS-3, POS-4, POS-5. Every position in a resume should have an employer name.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Skill Sets'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;5,6] The following sections do not have the header on a separate line: 'Language Known', 'Hobbies'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:68f559d0-158c-4779-8d2a-4561a694cc9c</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>pq/8//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

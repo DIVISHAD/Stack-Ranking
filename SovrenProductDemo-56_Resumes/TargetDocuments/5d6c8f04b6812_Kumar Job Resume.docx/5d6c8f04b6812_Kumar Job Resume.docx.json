@@ -1,0 +1,569 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "MEDISETTI KUMAR SWAMY",
+          "GivenName": "MEDISETTI",
+          "MiddleName": "KUMAR",
+          "FamilyName": "SWAMY"
+        },
+        "ContactMethod": [
+          {
+            "Telephone": {
+              "FormattedNumber": "+91 7780191208"
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "8096112329"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "kumarmedisetti789@gmail.com"
+          }
+        ]
+      },
+      "Objective": "As a fresher, I want to utilize my creative skills, technologies that I am familiar with and innovative thoughts that will benefit the Organization in the long run and also help me in building my professional career.",
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "GITAM University"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Visakhapatnam"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B. Tech",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "C.S.E"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "6.3"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "2016"
+                    },
+                    "EndDate": {
+                      "Year": "2020"
+                    }
+                  }
+                ],
+                "Comments": "Qualification\tUniversity/College\tpercentage/CGPA Secured   Period of  Study\r\nB. Tech   (C.S.E)\tGITAM University, Visakhapatnam.\t6.3(as of 6 semesters)\t2016-2020",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:Graduated": "false",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "GITAM University"
+              }
+            }
+          },
+          {
+            "@schoolType": "community",
+            "School": [
+              {
+                "SchoolName": "Vignan Co-operative Junior College"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Guntur"
+            },
+            "Degree": [
+              {
+                "@degreeType": "some college",
+                "DegreeDate": {
+                  "Year": "2016"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "96.4"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "2014"
+                    },
+                    "EndDate": {
+                      "Year": "2016"
+                    }
+                  }
+                ],
+                "Comments": "Board of Intermediate   (BIE, A.P.)   Vignan Co-operative Junior College, Guntur.   96.4%\t2014-2016",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedGPA": "0.964",
+                    "sov:NormalizedDegreeType": "some college"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Vignan Co operative Junior College"
+              }
+            }
+          },
+          {
+            "@schoolType": "secondary",
+            "School": [
+              {
+                "SchoolName": "Tulips Public School"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Amalapuram"
+            },
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeName": "SSC",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Cloud Computing"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "2013"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "SSC\tTulips Public School, Amalapuram.   9.5\t2013-2014\r\n\r\n\r\nINTERNSHIP\r\nDomain: Cloud Computing.\r\nTitle: Fertilizer Crop Management System, Faculty Remuneration, Cauvery Water Management.",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedDegreeName": "secondary",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Tulips Public School"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "TECHNICAL SKILLS\r\n\r\n• Programming Languages: C, OOPS concepts in C++\r\n\r\n• DBMS\r\n\r\n\r\nPERSONAL SKILLS\r\n\r\n• Ability to work under pressure\r\n• Determination\r\n\r\n• Responsible\r\n\r\n• Effective Team Player\r\n\r\n\r\nStrengths: Hardworking, Adaptability, Positivity, Genuine.\r\n\r\nDate of Birth: 05-12-1998\r\nFather's Name: Mr M.PADMA RAJU"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Telugu."
+          },
+          {
+            "LanguageCode": "te",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Telugu."
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "MEDISETTI KUMAR SWAMY\r\n\r\n\r\n• kumarmedisetti789@gmail.com\r\n+91 7780191208, 8096112329\r\n\r\n\r\nCAREER OBJECTIVE\r\n\r\nAs a fresher, I want to utilize my creative skills, technologies that I am familiar with and innovative thoughts that will benefit the Organization in the long run and also help me in building my professional career.\r\n\r\nACADEMICS\r\nQualification\tUniversity/College\tpercentage/CGPA Secured   Period of  Study\r\nB. Tech   (C.S.E)\tGITAM University, Visakhapatnam.\t6.3(as of 6 semesters)\t2016-2020\r\nBoard of Intermediate   (BIE, A.P.)   Vignan Co-operative Junior College, Guntur.   96.4%\t2014-2016\r\nSSC\tTulips Public School, Amalapuram.   9.5\t2013-2014\r\n\r\n\r\nINTERNSHIP\r\nDomain: Cloud Computing.\r\nTitle: Fertilizer Crop Management System, Faculty Remuneration, Cauvery Water Management.\r\nTechnology: Microsoft Visual Studios 2010, SQL Server 2008\r\nCompany Name: Gtek Technos Solutions Pvt Ltd.\r\nDuration: 30 Days\r\nDescription\r\n• Created a webpages using C#.Net and connecting databases to webpages using SQL server  and uploading the database of webpages on AWS to access\r\n\r\nTECHNICAL SKILLS\r\n\r\n• Programming Languages: C, OOPS concepts in C++\r\n\r\n• DBMS\r\n\r\n\r\nPERSONAL SKILLS\r\n\r\n• Ability to work under pressure\r\n• Determination\r\n\r\n• Responsible\r\n\r\n• Effective Team Player\r\n\r\nEXTRA-CURRICULAR ACTIVITIES\r\n\r\n• Delivered active services for NATIONAL SERVICE SCHEME of Gitam University\r\n• Was an active sports person during schooling and won many school level competitions\r\n\r\n\r\nHOBBIES\r\n\r\n• Playing games, watching  Political debates and movies, listening music.\r\n\r\n\r\nPERSONAL DETAILS\r\nStrengths: Hardworking, Adaptability, Positivity, Genuine.\r\n\r\nDate of Birth: 05-12-1998\r\nFather's Name: Mr M.PADMA RAJU\r\nLanguages Known: English, Telugu.\r\nAddress: Door no: 1-163/6, Ramalayam street, Nallamilli, Janupalli post, Amalapuram Mandal, East Godavari District, Andhra Pradesh, India-533577.\r\n\r\n\r\nDECLARATION\r\n\r\n\r\nI hereby declare that above mentioned details are true and best of my knowlwdge.\r\n\r\nThanks and Best Regards,\r\n\r\nM.Kumar Swamy"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1998-12-05"
+          },
+          "sov:FathersName": "Mr M.PADMA RAJU"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "MEDISETTI KUMAR SWAMY's experience appears to be strongly concentrated in Information Technology (mostly Database) and slightly concentrated in Personal Attributes (mostly Attitude). MEDISETTI KUMAR SWAMY's experience appears to be entry level, with 0 months of experience.",
+          "sov:MonthsOfWorkExperience": "0",
+          "sov:FulltimeDirectHirePredictiveIndex": "0",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "95",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "64",
+                        "@percentOfParentTaxonomy": "68",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; TRAINING"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "DBMS",
+                            "@id": "015077",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; TRAINING"
+                              },
+                              {
+                                "@name": "SQL SERVER 2008",
+                                "@id": "027176",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; TRAINING"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; TRAINING"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "16",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": ".NET",
+                            "@id": "023039",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; TRAINING"
+                          },
+                          {
+                            "@name": "C#",
+                            "@id": "012275",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; TRAINING"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "15",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MANAGEMENT SYSTEM",
+                            "@id": "5530966",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DBMS",
+                                "@id": "5530967",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Attitude",
+                        "@id": "528",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM PLAYER",
+                            "@id": "026529",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:TrainingHistory": {
+          "sov:Text": "Technology: Microsoft Visual Studios 2010, SQL Server 2008\r\nCompany Name: Gtek Technos Solutions Pvt Ltd.\r\nDuration: 30 Days\r\nDescription\r\n• Created a webpages using C#.Net and connecting databases to webpages using SQL server  and uploading the database of webpages on AWS to access",
+          "sov:Training": [
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Technology: Microsoft Visual Studios 2010, SQL Server 2008",
+              "sov:EndDate": {
+                "Year": "2010"
+              }
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": "Gtek Technos Solutions Pvt Ltd",
+              "sov:Description": "Company Name: Gtek Technos Solutions Pvt Ltd"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Duration: 30 Days"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Description"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Created a webpages using C#.Net and connecting databases to webpages using SQL server  and uploading the database of webpages on AWS to access"
+            }
+          ]
+        },
+        "sov:Hobbies": {
+          "sov:Text": "• Playing games, watching  Political debates and movies, listening music."
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "7",
+              "@ends": "10",
+              "@sectionType": "OBJECTIVE",
+              "#text": "CAREER OBJECTIVE"
+            },
+            {
+              "@starts": "11",
+              "@ends": "26",
+              "@sectionType": "EDUCATION",
+              "#text": "ACADEMICS"
+            },
+            {
+              "@starts": "27",
+              "@ends": "42",
+              "@sectionType": "SKILLS",
+              "#text": "TECHNICAL SKILLS"
+            },
+            {
+              "@starts": "43",
+              "@ends": "48",
+              "@sectionType": "PROFESSIONAL AFFILIATIONS",
+              "#text": "EXTRA-CURRICULAR ACTIVITIES"
+            },
+            {
+              "@starts": "49",
+              "@ends": "53",
+              "@sectionType": "HOBBIES",
+              "#text": "HOBBIES"
+            },
+            {
+              "@starts": "54",
+              "@ends": "54",
+              "@sectionType": "CONTACT INFO",
+              "#text": "PERSONAL DETAILS"
+            },
+            {
+              "@starts": "55",
+              "@ends": "58",
+              "@sectionType": "QUALIFICATIONS_SUMMARY",
+              "#text": "Strengths"
+            },
+            {
+              "@starts": "59",
+              "@ends": "70",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "+91 7780191208",
+              "8096112329"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "MEDISETTI KUMAR SWAMY"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "kumarmedisetti789@gmail.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Father's Name: Mr M.PADMA RAJU",
+              "Date of Birth: 05-12-1998"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "1965",
+        "sov:ParseTime": "249",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Fatal Problems Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:413;] We found no WORK HISTORY for the candidate. A resume should always include a work history section."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.",
+                    "[Sovren:324;5] The following section does not have any text: 'PERSONAL DETAILS'. Every section should have text associated with it. This usually indicates an error with the section headers or format used in the resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'TECHNICAL SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:133;] Multiple phone numbers were found in the contact information. Only one phone number should be included in a resume.",
+                    "[Sovren:151;6,7] The following sections do not have the header on a separate line: 'Strengths', 'Languages Known'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                    "[Sovren:161;DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:1ef51d69-0cfd-4313-8b83-91ee3a648c11",
+        "sov:ParserConfigurationString": "Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "Vf8AAAAAAAA="
+      }
+    }
+  }
+}

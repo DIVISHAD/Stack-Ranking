@@ -1,0 +1,686 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "VAIRA SUNDARI N",
+          "GivenName": "VAIRA",
+          "MiddleName": "SUNDARI",
+          "FamilyName": "N"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "641668",
+              "Region": [
+                "TAMIL NADU"
+              ],
+              "Municipality": "Coimbatore",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "github.com/vairasundari/Javaprograms"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "9787432339"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "vairasundarin2020@srishakthi.ac.in"
+          },
+          {
+            "Use": "businessDirect",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetWebAddress": "https://github.com/vairasundari/Javaprograms"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "Institution: SSIET Coimbatore.\r\nProject Title: Sri Shakthi International School.\r\nDescription: Developed a website for Sri Shakthi International School as a\r\nteam.\r\nInstitution: CODEBIND Technology, Coimbatore.\r\nDuration: 5 Days.\r\nProject Title: Online Hotel Management System.\r\nDescription: Developed Online Hotel Management Application for book a\r\nhotel.\r\nIMPLANT TRAINING / INTERNSHIP\r\n\r\nCompany Name: CODEBIND Technologies Coimbatore.\r\nDuration: 5 Days\r\nPurpose: Training in Web Development.\r\n\r\nCompany Name: Cegonsoft, Bangalore.\r\nDuration: 1 Days\r\nPurpose: To gain knowledge on Web development and project deployment.\r\n\r\nCompany Name: CODEBIND Technologies Coimbatore.\r\nDuration: 5 Days\r\nPurpose: Internship for Web Development.\r\n\r\nACADEMIC / EXTRA-CURRICULAR ACTIVITIES\r\n• Attended Workshop on ANDROID conducted by CODEBIND TECHNOLOGY on\r\nJUN 13.2017.\r\n• Completed a \"COPORATE TRAINING TEST\" based on placement Aptitude\r\nQuestions conducted by CODEBIND TECHNOLOGY on JUN 13 2017.\r\n• Participated in the national Level Technical symposium \"YUKTAHA 2k19\" on\r\n12th and 13th Feb 2019 at PSG INSTITUTE OF TECHNOLOGY AND APPLIED\r\nRESEARCH, Coimbatore.",
+                "StartDate": {
+                  "AnyDate": "notKnown"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → User Interface",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Sri Shakthi Institute"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B-TECH",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Engineering and Technology"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "7.64"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "2016"
+                    },
+                    "EndDate": {
+                      "Year": "2020"
+                    }
+                  }
+                ],
+                "Comments": "Course\tInstitution\tBoard /\tYear of\tPercentage/\r\nUniversity\tCompletion\tCGPA\r\nB-TECH\tSri Shakthi Institute of\tAnna\t2016-2020\t7.64*\r\n(IT)\tEngineering and Technology\tUniversity\t(Upto 6th semester)",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:Graduated": "false",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Sri Shakthi Institute"
+              }
+            }
+          },
+          {
+            "@schoolType": "secondary",
+            "School": [
+              {
+                "SchoolName": "State Board"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeName": "HSC",
+                "DegreeDate": {
+                  "Year": "2016"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "92.5"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2016"
+                    }
+                  }
+                ],
+                "Comments": "HSC\tKadri Mills Higher Secondary\tState Board\t2016\t92.5%\r\nSchool",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedGPA": "0.925",
+                    "sov:NormalizedDegreeName": "secondary",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "State Board"
+              }
+            }
+          },
+          {
+            "@schoolType": "secondary",
+            "School": [
+              {
+                "SchoolName": "State Board"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeName": "SSLC",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "95.4"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "SSLC\tSt.Josphs Girls Higher Secondary\tState Board\t2014\t95.4%\r\nSchool",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedGPA": "0.954",
+                    "sov:NormalizedDegreeName": "secondary",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "State Board"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "AREAS OF INTEREST\r\n\r\n•\tFull Stack Development\r\n•\tWeb Design\r\n•\tApp development\r\n\r\nIT SKILLS\r\n\r\n•\tLanguages: C, Data Structure, Java, Java Script, HTML, CSS.\r\n•\tSoftware: MS Office, Argo UML.\r\n\r\nKEY STRENGTHS\r\n• Positive thinker\r\n• Responsible\r\n• Adaptability"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "ta",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Tamil, English"
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Tamil, English"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "VAIRA SUNDARI N\r\nSoftware Engineer\r\n9787432339\r\nVairaSundari\r\nVairaSundariN\r\nhttps://github.com/vairasundari/Javaprograms\r\nvairasundarin2020@srishakthi.ac.in\r\n4/330, AnnaNagar, KaravazhiMathappur,\r\nSomanur, Coimbatore-641668.\r\n\r\nTo be an integral part of competitive environment to apply my knowledge and skills for\r\nthe development of the organization.\r\n\r\nACADEMIC BACKGROUND\r\n\r\nCourse\tInstitution\tBoard /\tYear of\tPercentage/\r\nUniversity\tCompletion\tCGPA\r\nB-TECH\tSri Shakthi Institute of\tAnna\t2016-2020\t7.64*\r\n(IT)\tEngineering and Technology\tUniversity\t(Upto 6th semester)\r\n\r\nHSC\tKadri Mills Higher Secondary\tState Board\t2016\t92.5%\r\nSchool\r\nSSLC\tSt.Josphs Girls Higher Secondary\tState Board\t2014\t95.4%\r\nSchool\r\n\r\nTRAINING/PROGRAMS\r\n\r\n•\tAttended 3 weeks training on C and JAVA at Sri Shakthi Institute of Engineering\r\nand Technology.\r\n•\tUndergoing training on FULL STACK DEVELOPMENT at Sri Shakthi Institute of\r\nEngineering and Technology.\r\n•\tCompleted course on C and JAVA in CODETANTRA platform.\r\n\r\nAREAS OF INTEREST\r\n\r\n•\tFull Stack Development\r\n•\tWeb Design\r\n•\tApp development\r\n\r\nIT SKILLS\r\n\r\n•\tLanguages: C, Data Structure, Java, Java Script, HTML, CSS.\r\n•\tSoftware: MS Office, Argo UML.\r\n\r\nKEY STRENGTHS\r\n• Positive thinker\r\n• Responsible\r\n• Adaptability\r\nPROJECTS\r\n\r\nInstitution: SSIET Coimbatore.\r\nProject Title: Sri Shakthi International School.\r\nDescription: Developed a website for Sri Shakthi International School as a\r\nteam.\r\nInstitution: CODEBIND Technology, Coimbatore.\r\nDuration: 5 Days.\r\nProject Title: Online Hotel Management System.\r\nDescription: Developed Online Hotel Management Application for book a\r\nhotel.\r\nIMPLANT TRAINING / INTERNSHIP\r\n\r\nCompany Name: CODEBIND Technologies Coimbatore.\r\nDuration: 5 Days\r\nPurpose: Training in Web Development.\r\n\r\nCompany Name: Cegonsoft, Bangalore.\r\nDuration: 1 Days\r\nPurpose: To gain knowledge on Web development and project deployment.\r\n\r\nCompany Name: CODEBIND Technologies Coimbatore.\r\nDuration: 5 Days\r\nPurpose: Internship for Web Development.\r\n\r\nACADEMIC / EXTRA-CURRICULAR ACTIVITIES\r\n• Attended Workshop on ANDROID conducted by CODEBIND TECHNOLOGY on\r\nJUN 13.2017.\r\n• Completed a \"COPORATE TRAINING TEST\" based on placement Aptitude\r\nQuestions conducted by CODEBIND TECHNOLOGY on JUN 13 2017.\r\n• Participated in the national Level Technical symposium \"YUKTAHA 2k19\" on\r\n12th and 13th Feb 2019 at PSG INSTITUTE OF TECHNOLOGY AND APPLIED\r\nRESEARCH, Coimbatore.\r\n\r\nPERSONAL DETAILS\r\n\r\nDate of Birth: 23-03-1999\r\nFather's Name: Natarajan R\r\nMother's Name: Lakshmi N\r\nGender: Female\r\nNationality: Indian\r\nLanguages known: Tamil, English\r\nHometown: Coimbatore\r\nMobility: Willing to relocate anywhere in India or abroad.\r\n\r\n(Vaira Sundari N)"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1999-03-23"
+          },
+          "sov:Nationality": {
+            "@inferred": "false",
+            "#text": "Indian"
+          },
+          "sov:Gender": {
+            "@inferred": "false",
+            "#text": "Female"
+          },
+          "sov:FathersName": "Natarajan R",
+          "sov:MothersMaidenName": "Lakshmi N"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "VAIRA SUNDARI N's experience appears to be strongly concentrated in Information Technology (mostly Internet) and slightly concentrated in User Experience (mostly Graphic Design). VAIRA SUNDARI N's experience appears to be entry level, with 0 months of experience.",
+          "sov:MonthsOfWorkExperience": "0",
+          "sov:FulltimeDirectHirePredictiveIndex": "0",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "78",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "010994",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "7310008",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "5520503",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "DEPLOYMENT",
+                            "@id": "023631",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; TRAINING"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURE",
+                            "@id": "5530961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial",
+                        "@id": "350",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARGO",
+                            "@id": "023497",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "MS OFFICE",
+                            "@id": "022137",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "UML",
+                            "@id": "010148",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "5570113",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Integration Design",
+                        "@id": "568",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "5570110",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS OFFICE",
+                                "@id": "022136",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:TrainingHistory": {
+          "sov:Text": "•\tAttended 3 weeks training on C and JAVA at Sri Shakthi Institute of Engineering\r\nand Technology.\r\n•\tUndergoing training on FULL STACK DEVELOPMENT at Sri Shakthi Institute of Engineering and Technology.\r\n•\tCompleted course on C and JAVA in CODETANTRA platform.",
+          "sov:Training": [
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": "Sri Shakthi Institute",
+              "sov:Description": "Attended 3 weeks training on C and JAVA at Sri Shakthi Institute of Engineering"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "and Technology"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": "Sri Shakthi Institute",
+              "sov:Description": "Undergoing training on FULL STACK DEVELOPMENT at Sri Shakthi Institute of Engineering and Technology"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Completed course on C and JAVA in CODETANTRA platform"
+            }
+          ]
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "13",
+              "@ends": "24",
+              "@sectionType": "EDUCATION",
+              "#text": "ACADEMIC BACKGROUND"
+            },
+            {
+              "@starts": "25",
+              "@ends": "32",
+              "@sectionType": "TRAINING",
+              "#text": "TRAINING/PROGRAMS"
+            },
+            {
+              "@starts": "33",
+              "@ends": "47",
+              "@sectionType": "SKILLS",
+              "#text": "AREAS OF INTEREST"
+            },
+            {
+              "@starts": "48",
+              "@ends": "81",
+              "@sectionType": "WORK HISTORY",
+              "#text": "PROJECTS"
+            },
+            {
+              "@starts": "82",
+              "@ends": "88",
+              "@sectionType": "CONTACT INFO",
+              "#text": "PERSONAL DETAILS"
+            },
+            {
+              "@starts": "89",
+              "@ends": "93",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "9787432339"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "VAIRA SUNDARI N",
+              "VairaSundariN",
+              "Vaira Sundari N",
+              "(Vaira Sundari N)"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "vairasundarin2020@srishakthi.ac.in"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://github.com/vairasundari/Javaprograms"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "github.com/vairasundari/Javaprograms",
+              "Father's Name: Natarajan R",
+              "Date of Birth: 23-03-1999",
+              "Mother's Name: Lakshmi N",
+              "Nationality: Indian",
+              "Gender: Female"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2607",
+        "sov:ParseTime": "390",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:221;POS-1] We could not find a job title for: POS-1. Every position in a resume should have a job title.",
+                    "[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name.",
+                    "[Sovren:224;POS-1] The following work history position does not have a start date: POS-1. Every position in a resume should have a start date.",
+                    "[Sovren:225;POS-1] The following work history position does not have an end date: POS-1. Every position in a resume should have an end date, unless it is a currently held position.",
+                    "[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'AREAS OF INTEREST'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;5] The following section does not have the header on a separate line: 'Languages known'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                    "[Sovren:161;DEG-2,DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:d1a19e18-b591-4730-a176-b981ca25384f",
+        "sov:ParserConfigurationString": "Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "amAAAAAAAAA="
+      }
+    }
+  }
+}

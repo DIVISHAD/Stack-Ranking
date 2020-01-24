@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Vinay Singhal</FormattedName>
+				<GivenName>Vinay</GivenName>
+				<FamilyName>Singhal</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91-7827359378</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>vinaysinghal.vs@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>● Around 12 years of global experience in Software development, design and integration across diverse industries. Key role as a Solutions Architect and Performance engineer and worked with problem solving capabilities. Currently, working as a Senior Engineering Manager with Delhivery India's number one ecommerce logistics company. Previously worked for clients like Biggest Giant of Mortgage Backed Securities, Investment Banks, and Biggest Asia E-commerce platforms.
+● Certified AWS Solution Architect - Professional
+● Key Skills - Docker, Kubernetes, Kafka Clusters, Kstreams, Ktables, AWS, EC2, Auto-scaling, Athena, Dynamo, S3 Storage Services, AWS lambda, Data-Pipelines, Elastic Load Balancers, Data Shards, Distributed Caching, DB Read-Replicas, ACLs, VPC, Region-Based Services, Scatter-Gather Patterns, Data Structures, Algorithms, System Designing, Distributed Network and Design, Problem solving, Memory Management, Performance engineering and tuning, Concurrency, Multithreading, transaction Management, Java, JMS, Tibco, XML, Micro-services, AWS Solutions and Designing.
+● Great exposure to move entire on-premises application to cloud like AWS.
+● Drive the long-term technical vision for the team and organization, Design and build highly reliable, available and scalable services with a platform focus. Work on cutting edge technical solutions that solved Business problems.
+● Make informed Build vs Buy decision, Overlook and be responsible for the components built, right from its design to coding and operations, create platforms for components such as libraries, utilities and services, and promote its reuse.
+● Be accountable for large technical deliverables and execute it an exemplary manner, Conceptualize, develop and quickly prototype. Mentor and guide team members on everything from structured problem solving to the development of best practices.
+● Closely work with Business Leaders and Corporate Functional Leaders to understand their challenges and provide Strategic IT Solutions
+● Good financial domain knowledge also appeared for CFA Level 1 Examination and Scored - Band 10
+● Visa Status - Valid USA visa.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Location USA</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>FannieMae and FreddieMac and Design and Architect</Title>
+					<OrgName>
+						<OrganizationName>Location USA</OrganizationName>
+					</OrgName>
+					<Description>Started POC in 2014 for joint venture of FannieMae and FreddieMac and Design and Architect entire platform to on-board Millions of Loans and provided End to End solutions and designing entire application which has been Live on 2017 for Freddie and Fannie is coming up in 2019. Act a role of solutions architect and performance engineer and take up the platform from scratch to running application. Also had great exposure to move entire on-premises working application on AWS cloud.
+Technologies used -
+* AWS, EC2, Auto-scaling, S3 Storage Services, Server-less technologies, Elastic Load Balancers, Data Shards, Distributed Caching, DB Read Replicas, Algorithms, Data Structures, Multithreading, Performance Tuning, Collections.
+* AWS-SQS, JMS, XML, XSL, XSD, Spring Integration, Guava, Spring JDBC
+* Oracle, PL/SQL
+* Tomcat, Jenkins, Sonar, CI/CD Pipelines, GIT
+
+
+Project: Fidelity Investments (Dec 2010 to Apr 2014)
+Create a simple structure for ISA plan years by bundling all plan years within a single account and decrease system development complexity and simplify the operating model to allow growth capacity and a potential decrease in the related Run the Business costs.
+Reduce operational processing time and cost in multiple departments.
+Improve the customer investment experience by creating a more transparent structure, simplifying the switch and redemption process, reducing call times for customer queries and dealing and reducing the amount of paper sent
+Technologies used -
+* JDK1.6, J2EE1.4, Multithreading, Performance Tuning, Collections
+* Struts, XML, XSL
+* Oracle, PL/SQL</Description>
+					<StartDate>
+						<YearMonth>2014-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 61% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Location USA</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>FannieMae and FreddieMac and Design and Architect</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Location USA</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Delhivery</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Senior Engineering Manager</Title>
+					<OrgName>
+						<OrganizationName>Delhivery</OrganizationName>
+					</OrgName>
+					<Description>Product: FirstMile &amp; LastMile
+Delhivery is India's number one ecommerce logistics product based company, working as a Senior Engineering Manager and handling the business of entire FirstMile and LastMile with technology team of size 40 people. Directive is it to continuously build the new features and move to latest technologies and groom up the team. Clear vision on the roadmap of product and solutioning n architecting and get the features developed with the team. Also working directly with infra team, support team, devops team and operations team to make the product live 24/7 and efficient.
+Technologies used -
+* Kafka Clusters, KStreams, Ktable, Docker, Kubernetes, Elastic Container Services, AWS, EC2, Auto-scaling, S3 Storage Services, Server-less technologies, Elastic Load Balancers, Data Shards, Distributed Caching, DB Read Replicas, Algorithms, Data Structures, Multithreading, Performance Tuning, Collections.
+* AWS-SQS, Step Functions, SNS,
+* Python, Django
+* Postgres, Redis, SQL, MongoCDC, Athena, DynamoDB
+* Nginx, Codacy, CI/CD Pipelines, GIT</Description>
+					<StartDate>
+						<YearMonth>2019-03</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 64% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Manager</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Delhivery</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Engineering Manager</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Engineering Manager</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Delhivery</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Sapient Corporation</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Solutions Architect and Team Lead</Title>
+					<OrgName>
+						<OrganizationName>Sapient Corporation</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2010-12</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-02</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Sapient</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Solutions Architect and Team Lead</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Sapient</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Infogain India</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Infogain India</OrganizationName>
+					</OrgName>
+					<Description>Client -	Inter Asset System
+Project -	Tracking System for Container Transport Industry
+Duration - May 2010 - Dec 2010
+Role -	Software Engineer</Description>
+					<StartDate>
+						<YearMonth>2010-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-12</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Infogain India</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Infogain India</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>TechtreeIT Systems</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>TechtreeIT Systems</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2008-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>TechtreeIT Systems</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>TechtreeIT Systems</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Indian Railway Catering Tourism Corporation</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Indian Railway Catering Tourism Corporation</OrganizationName>
+					</OrgName>
+					<Description>Project -	Online Railway Reservation System
+Duration - Oct 2008 - April 2010
+Role -	Software Engineer
+
+The Broadvision API based application provides online ticket booking, cancellation and checking of ticket reservation status. It also includes information about train schedules, availability of tickets and travel planner. This site connects with Indian railway database and over 25 banks links using webservices.
+
+Technical aspects -
+Application was based on Struts framework and was deployed on BroadVision application server. The business layer composed Struts, Web Services, Design Patterns, Serialization and Multithreading. All IRCTC services are exposed for business to business communication and linked with 25 banks payment gateways.
+Key Tasks
+● Sitting at client site, prepared high level and low-level system design UML diagrams (class diagrams, sequence diagrams).
+● Responsible for implementing the Main Site enhancements and Web Services.
+● Design code using various java multithreading, serialization and J2EE design patterns e.g. Singleton, Decorator, Factory to optimize the performance of the application
+● Implemented the report generation module using the Apache POI API.
+● Responsible for writing the SQL queries for the report module and admin applications.
+Technologies used -
+* JDK1.4/1.5, J2EE1.4,
+* Struts, XML, XSL
+* Oracle, PL/SQL
+* Broad Vision, Tomcat</Description>
+					<StartDate>
+						<YearMonth>2008-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Database</CategoryCode>
+						<Comments>Information Technology describes 69% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Indian Railway Catering Tourism</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Indian Railway Catering Tourism</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Reliance Retail Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Reliance Infosolutions Pvt Ltd</OrganizationName>
+					</OrgName>
+					<Description>Project -	Online Vendor Registration
+Duration - Aug 2007 - Sep 2008
+Role -	Software Engineer
+Technical aspects -
+The main application for one of India's largest retail chain provides utility to all vendors for registration and generates sap code after MDM approval. Vendors have to follow full registration lifecycle before supply their goods. Application was based on Struts framework and was deployed on tomcat application server. The business layer composed of Struts, java multithreading and design patterns like MVC.
+Key Tasks
+● Used simple Struts Validation for validation of user input as per the business logic, and initial data loading.
+● Responsible for writing the stored procedure for the report module.
+● Prepared the class diagrams and sequence diagrams.
+● Responsible for writing the unit test cases.
+● Using various design patterns, multithreading and Collections API
+
+Technologies used -
+* JDK1.4, J2EE1.4
+* Struts, JDBC2.0, XML, XSL
+* Oracle
+* Tomcat</Description>
+					<StartDate>
+						<YearMonth>2007-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2008-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 79% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Reliance Infosolutions</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Reliance Retail</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Engineering</DegreeName>
+					<DegreeDate>
+						<Year>2007</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science India</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>70</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2007</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Bachelor of Engineering Computer Science India, 2007 - 70%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.700</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>CFA</Name>
+				<Id>1</Id>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified AWS Solution Architect</Name>
+				<Id>2</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified AWS Solution Architect Professional</Name>
+				<Id>3</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified AWS Solution Architect Associate</Name>
+				<Id>4</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-29</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Vinay Singhal
++91-7827359378
+vinaysinghal.vs@gmail.com
+
+
+Summary
+● Around 12 years of global experience in Software development, design and integration across diverse industries. Key role as a Solutions Architect and Performance engineer and worked with problem solving capabilities. Currently, working as a Senior Engineering Manager with Delhivery India's number one ecommerce logistics company. Previously worked for clients like Biggest Giant of Mortgage Backed Securities, Investment Banks, and Biggest Asia E-commerce platforms.
+● Certified AWS Solution Architect - Professional
+● Key Skills - Docker, Kubernetes, Kafka Clusters, Kstreams, Ktables, AWS, EC2, Auto-scaling, Athena, Dynamo, S3 Storage Services, AWS lambda, Data-Pipelines, Elastic Load Balancers, Data Shards, Distributed Caching, DB Read-Replicas, ACLs, VPC, Region-Based Services, Scatter-Gather Patterns, Data Structures, Algorithms, System Designing, Distributed Network and Design, Problem solving, Memory Management, Performance engineering and tuning, Concurrency, Multithreading, transaction Management, Java, JMS, Tibco, XML, Micro-services, AWS Solutions and Designing.
+● Great exposure to move entire on-premises application to cloud like AWS.
+● Drive the long-term technical vision for the team and organization, Design and build highly reliable, available and scalable services with a platform focus. Work on cutting edge technical solutions that solved Business problems.
+● Make informed Build vs Buy decision, Overlook and be responsible for the components built, right from its design to coding and operations, create platforms for components such as libraries, utilities and services, and promote its reuse.
+● Be accountable for large technical deliverables and execute it an exemplary manner, Conceptualize, develop and quickly prototype. Mentor and guide team members on everything from structured problem solving to the development of best practices.
+● Closely work with Business Leaders and Corporate Functional Leaders to understand their challenges and provide Strategic IT Solutions
+● Good financial domain knowledge also appeared for CFA Level 1 Examination and Scored - Band 10
+● Visa Status - Valid USA visa.
+
+Work Experience
+
+Delhivery, Mar 2019 to Present
+Senior Engineering Manager
+
+Product: FirstMile &amp; LastMile
+Delhivery is India's number one ecommerce logistics product based company, working as a Senior Engineering Manager and handling the business of entire FirstMile and LastMile with technology team of size 40 people. Directive is it to continuously build the new features and move to latest technologies and groom up the team. Clear vision on the roadmap of product and solutioning n architecting and get the features developed with the team. Also working directly with infra team, support team, devops team and operations team to make the product live 24/7 and efficient.
+Technologies used -
+* Kafka Clusters, KStreams, Ktable, Docker, Kubernetes, Elastic Container Services, AWS, EC2, Auto-scaling, S3 Storage Services, Server-less technologies, Elastic Load Balancers, Data Shards, Distributed Caching, DB Read Replicas, Algorithms, Data Structures, Multithreading, Performance Tuning, Collections.
+* AWS-SQS, Step Functions, SNS,
+* Python, Django
+* Postgres, Redis, SQL, MongoCDC, Athena, DynamoDB
+* Nginx, Codacy, CI/CD Pipelines, GIT
+
+Sapient Corporation, Dec 2010 to Feb 2019
+Solutions Architect and Team Lead
+
+Project: FannieMae and FreddieMac (May 2014 to present) Location USA
+Started POC in 2014 for joint venture of FannieMae and FreddieMac and Design and Architect entire platform to on-board Millions of Loans and provided End to End solutions and designing entire application which has been Live on 2017 for Freddie and Fannie is coming up in 2019. Act a role of solutions architect and performance engineer and take up the platform from scratch to running application. Also had great exposure to move entire on-premises working application on AWS cloud.
+Technologies used -
+* AWS, EC2, Auto-scaling, S3 Storage Services, Server-less technologies, Elastic Load Balancers, Data Shards, Distributed Caching, DB Read Replicas, Algorithms, Data Structures, Multithreading, Performance Tuning, Collections.
+* AWS-SQS, JMS, XML, XSL, XSD, Spring Integration, Guava, Spring JDBC
+* Oracle, PL/SQL
+* Tomcat, Jenkins, Sonar, CI/CD Pipelines, GIT
+
+
+Project: Fidelity Investments (Dec 2010 to Apr 2014)
+Create a simple structure for ISA plan years by bundling all plan years within a single account and decrease system development complexity and simplify the operating model to allow growth capacity and a potential decrease in the related Run the Business costs.
+Reduce operational processing time and cost in multiple departments.
+Improve the customer investment experience by creating a more transparent structure, simplifying the switch and redemption process, reducing call times for customer queries and dealing and reducing the amount of paper sent
+Technologies used -
+* JDK1.6, J2EE1.4, Multithreading, Performance Tuning, Collections
+* Struts, XML, XSL
+* Oracle, PL/SQL
+
+
+TechtreeIT Systems- Oct 2008- April 2010
+Client -	Indian Railway Catering Tourism Corporation
+Project -	Online Railway Reservation System
+Duration - Oct 2008 - April 2010
+Role -	Software Engineer
+
+The Broadvision API based application provides online ticket booking, cancellation and checking of ticket reservation status. It also includes information about train schedules, availability of tickets and travel planner. This site connects with Indian railway database and over 25 banks links using webservices.
+
+Technical aspects -
+Application was based on Struts framework and was deployed on BroadVision application server. The business layer composed Struts, Web Services, Design Patterns, Serialization and Multithreading. All IRCTC services are exposed for business to business communication and linked with 25 banks payment gateways.
+Key Tasks
+● Sitting at client site, prepared high level and low-level system design UML diagrams (class diagrams, sequence diagrams).
+● Responsible for implementing the Main Site enhancements and Web Services.
+● Design code using various java multithreading, serialization and J2EE design patterns e.g. Singleton, Decorator, Factory to optimize the performance of the application
+● Implemented the report generation module using the Apache POI API.
+● Responsible for writing the SQL queries for the report module and admin applications.
+Technologies used -
+* JDK1.4/1.5, J2EE1.4,
+* Struts, XML, XSL
+* Oracle, PL/SQL
+* Broad Vision, Tomcat
+
+Infogain India
+Client -	Inter Asset System
+Project -	Tracking System for Container Transport Industry
+Duration - May 2010 - Dec 2010
+Role -	Software Engineer
+
+Reliance Infosolutions Pvt Ltd,
+Client-	Reliance Retail Ltd
+Project -	Online Vendor Registration
+Duration - Aug 2007 - Sep 2008
+Role -	Software Engineer
+Technical aspects -
+The main application for one of India's largest retail chain provides utility to all vendors for registration and generates sap code after MDM approval. Vendors have to follow full registration lifecycle before supply their goods. Application was based on Struts framework and was deployed on tomcat application server. The business layer composed of Struts, java multithreading and design patterns like MVC.
+Key Tasks
+● Used simple Struts Validation for validation of user input as per the business logic, and initial data loading.
+● Responsible for writing the stored procedure for the report module.
+● Prepared the class diagrams and sequence diagrams.
+● Responsible for writing the unit test cases.
+● Using various design patterns, multithreading and Collections API
+
+Technologies used -
+* JDK1.4, J2EE1.4
+* Struts, JDBC2.0, XML, XSL
+* Oracle
+* Tomcat
+
+Education
+Bachelor of Engineering Computer Science India, 2007 - 70%
+
+Certifications
+Certified AWS Solution Architect Professional - 2018
+Certified AWS Solution Architect Associate - 2018</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:VisaStatus>Valid USA visa</sov:VisaStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Vinay Singhal's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Finance (mostly Other). Vinay Singhal has 12 years of work experience, with 9 years of management experience, including a mid-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>148</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>21</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>108</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>mid-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>55</sov:HighestManagementScore>
+				<sov:ExecutiveType>general</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a mid-level management role: Senior Engineering Manager
+Starting on 3/1/2019, the candidate held the following mid-level management position for 9 months:
+	Title: Senior Engineering Manager for Delhivery
+Starting on 12/1/2010, the candidate held the following low-level management position for 8 years and 4 months:
+	Title: Solutions Architect and Team Lead for Sapient Corporation</sov:ManagementStory>
+				<sov:AttentionNeeded>ATTENTION: The candidate appears to have been in management in a past role (Senior Engineering Manager for Delhivery) , but was not in management in the most recent role as FannieMae and FreddieMac and Design and Architect for Location USA.</sov:AttentionNeeded>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="70">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="23" percentOfParentTaxonomy="33">
+								<sov:Skill name="API" id="021194" existsInText="true" totalMonths="31" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5; POS-7"></sov:Skill>
+								<sov:Skill name="APPLICATION SERVER" id="024219" existsInText="true" totalMonths="31" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5; POS-7"></sov:Skill>
+								<sov:Skill name="CODING" id="013739" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="DESIGN PATTERNS" id="015257" existsInText="true" totalMonths="31" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5; POS-7"></sov:Skill>
+								<sov:Skill name="DJANGO" id="3391160" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="DOCKER" id="3391147" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="38" lastUsed="2010-12-01" whereFound="Found in WORK HISTORY; POS-5; POS-6; POS-7"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SYSTEM DEVELOPMENT" id="009085" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" totalMonths="98" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-3; POS-5; POS-7"></sov:Skill>
+								<sov:Skill name="XSL" id="011494" existsInText="true" totalMonths="98" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3; POS-5; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="15" percentOfParentTaxonomy="21">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="18" childrenLastUsed="2010-04-01">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JDBC" id="020287" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" totalMonths="98" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3; POS-5; POS-7"></sov:Skill>
+								<sov:Skill name="PL/SQL" id="004871" existsInText="true" totalMonths="85" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="POSTGRES" id="005136" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="85" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="SQL QUERIES" id="3404001" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="STORED PROCEDURE" id="008660" existsInText="true" totalMonths="13" lastUsed="2008-09-01" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="9" percentOfParentTaxonomy="12">
+								<sov:Skill name="J2EE" id="020255" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="31" lastUsed="2010-04-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-5; POS-7" childrenTotalMonths="67" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JMS" id="020323" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="STRUTS" id="026009" existsInText="true" totalMonths="98" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3; POS-5; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="8" percentOfParentTaxonomy="11">
+								<sov:Skill name="BROADVISION" id="011935" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="ECOMMERCE" id="026768" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="nginx" id="1004758" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TOMCAT" id="009664" existsInText="true" totalMonths="98" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3; POS-5; POS-7"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="AMAZON DYNAMODB" id="5530875" existsInText="false" childrenTotalMonths="9" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="DYNAMODB" id="553087501" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JMS" id="5530786" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="KAFKA" id="5531005" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="MASTER DATA MANAGEMENT" id="5531023" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2008-09-01">
+									<sov:ChildSkill name="MDM" id="5531024" existsInText="true" totalMonths="13" lastUsed="2008-09-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="REDIS" id="5530835" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TIBCO" id="5530867" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="4" percentOfParentTaxonomy="6">
+								<sov:Skill name="Amazon Elastic Compute Cloud" id="5500001" existsInText="false" childrenTotalMonths="67" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="EC2" id="550000102" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="4" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATA STRUCTURES" id="6180000" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="TEAM LEAD" id="009222" existsInText="true" totalMonths="99" lastUsed="2019-02-28" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DJANGO" id="5510043" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DESIGN PATTERNS" id="7310026" existsInText="true" totalMonths="31" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5; POS-7"></sov:Skill>
+								<sov:Skill name="MODEL-VIEW-CONTROLLER" id="7310042" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2008-09-01">
+									<sov:ChildSkill name="MVC" id="7310043" existsInText="true" totalMonths="13" lastUsed="2008-09-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MODEL VIEW CONTROLLER" id="5520572" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2008-09-01">
+									<sov:ChildSkill name="MVC" id="552057201" existsInText="true" totalMonths="13" lastUsed="2008-09-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MVC" id="003233" existsInText="true" totalMonths="13" lastUsed="2008-09-01" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+								<sov:Skill name="UML" id="010148" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Middleware and Integration" id="345" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="TIBCO" id="009582" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Content Management" id="352" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DYNAMO" id="025777" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="ACLS" id="3490032" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="UNIT TEST" id="010253" existsInText="true" totalMonths="13" lastUsed="2008-09-01" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="9">
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="4" percentOfParentTaxonomy="42">
+								<sov:Skill name="ALGORITHMS" id="017446" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration" id="732" percentOfOverall="1" percentOfParentTaxonomy="14">
+								<sov:Skill name="JOINT VENTURES" id="7000326" existsInText="false" childrenTotalMonths="67" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="JOINT VENTURE" id="7000327" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mortgage" id="233" percentOfOverall="1" percentOfParentTaxonomy="14">
+								<sov:Skill name="LOANS" id="080236" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3">
+									<sov:ChildSkill name="MORTGAGE" id="002722" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Lending" id="234" percentOfOverall="1" percentOfParentTaxonomy="13">
+								<sov:Skill name="LOANS" id="080217" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Credit and Underwriting" id="240" percentOfOverall="1" percentOfParentTaxonomy="13">
+								<sov:Skill name="LOANS" id="022185" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Securities" id="236" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="MORTGAGE BACKED SECURITIES" id="002725" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="CFA" id="012939" existsInText="true" whereFound="Found in CERTIFICATIONS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Broker" id="244" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="SECURITIES" id="023212" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="5">
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="4" percentOfParentTaxonomy="76">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Military" id="267" percentOfOverall="1" percentOfParentTaxonomy="23">
+								<sov:Skill name="SONAR" id="026260" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Bookkeeping, Office Management" id="89" percentOfOverall="4">
+							<sov:Subtaxonomy name="Bookeeping Tasks" id="533" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="CREDIT" id="022229" existsInText="false" childrenTotalMonths="80" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="COLLECTIONS" id="013782" existsInText="true" totalMonths="80" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1; POS-3; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="3">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="2" percentOfParentTaxonomy="46">
+								<sov:Skill name="ECOMMERCE" id="081146" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="RETAIL" id="030018" existsInText="true" totalMonths="13" lastUsed="2008-09-01" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Direct Sales" id="102" percentOfOverall="1" percentOfParentTaxonomy="44">
+								<sov:Skill name="ECOMMERCE" id="081152" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Account Management" id="104" percentOfOverall="0" percentOfParentTaxonomy="2"></sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="3">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="2" percentOfParentTaxonomy="85">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false" childrenTotalMonths="67" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PROTOTYPE" id="5570148" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Research" id="558" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PROTOTYPES" id="5570209" existsInText="false">
+									<sov:ChildSkill name="PROTOTYPE" id="5570210" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="PROTOTYPE" id="5570107" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="PROTOTYPE" id="5570097" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="PROTOTYPE" id="5570036" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="2">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="PERFORMANCE TUNING" id="004550" existsInText="true" totalMonths="67" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:Skill>
+								<sov:Skill name="TEST CASES" id="009422" existsInText="true" totalMonths="13" lastUsed="2008-09-01" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="2">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="1" percentOfParentTaxonomy="91">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="0" percentOfParentTaxonomy="9">
+								<sov:Skill name="BEST PRACTICES" id="011365" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="PROBLEM SOLVING" id="005482" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="1">
+							<sov:Subtaxonomy name="Logistics" id="460" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="LOGISTICS" id="022309" existsInText="true" totalMonths="9" lastUsed="2019-11-29" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="0">
+							<sov:Subtaxonomy name="Advertising" id="595" percentOfOverall="0" percentOfParentTaxonomy="37">
+								<sov:Skill name="B2B" id="1400202" existsInText="false" childrenTotalMonths="18" childrenLastUsed="2010-04-01">
+									<sov:ChildSkill name="BUSINESS TO BUSINESS" id="1400365" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel, Partner &amp; Ecosystem Marketing" id="590" percentOfOverall="0" percentOfParentTaxonomy="37">
+								<sov:Skill name="B2B" id="1400117" existsInText="false" childrenTotalMonths="18" childrenLastUsed="2010-04-01">
+									<sov:ChildSkill name="BUSINESS TO BUSINESS" id="1400331" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="0" percentOfParentTaxonomy="26">
+								<sov:Skill name="RETAIL MARKETING" id="1400215" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2008-09-01">
+									<sov:ChildSkill name="RETAIL" id="1400216" existsInText="true" totalMonths="13" lastUsed="2008-09-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="0">
+							<sov:Subtaxonomy name="Corporate" id="727" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="SECURITIES" id="7270004" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Litigation" id="400" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="SECURITIES" id="200084" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Nursing" id="99" percentOfOverall="0">
+							<sov:Subtaxonomy name="Cardio" id="424" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="ACLS" id="026196" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Billing and Coding" id="421" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CODING" id="023717" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Knowledge and Learning Management" id="92" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Knowledge and Learning Management" id="903" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MENTOR" id="200052" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="0">
+							<sov:Subtaxonomy name="People Oriented" id="517" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MENTOR" id="021625" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Construction Non-Laborer" id="22" percentOfOverall="0">
+							<sov:Subtaxonomy name="Transportation" id="388" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="RAILWAY" id="023040" existsInText="true" totalMonths="18" lastUsed="2010-04-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="5" ends="16" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="17" ends="100" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="101" ends="103" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="104" ends="106" sectionType="CERTIFICATIONS">Certifications</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>+91-7827359378</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Vinay Singhal</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>vinaysinghal.vs@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>7950</sov:ParsedTextLength>
+			<sov:ParseTime>875</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:221;POS-4] We could not find a job title for: POS-4. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:43c46cbe-57b9-4fd0-81ae-63bf665cbb9b</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.9.0</sov:ParserVersion>
+			<sov:DigitalSignature>/LH+//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

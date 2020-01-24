@@ -1,0 +1,1019 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Sanjeev Kumar",
+          "GivenName": "Sanjeev",
+          "FamilyName": "Kumar"
+        },
+        "ContactMethod": [
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "Mobile": {
+              "FormattedNumber": "9911066909"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "say.sanjeev@gmail.com"
+          }
+        ]
+      },
+      "ExecutiveSummary": "•\tA result oriented IT professional with 11 years of experience in Software Development, maintenance, support and Team Management\r\n•\tCurrently associated with Quovantis Technology as Development Manager and managing a team of 15+ members.\r\n•\tApart from managing the team, working as individual contributor in mPulse and has worked extensively on Database optimizations, Performance and Security testing\r\n•\tHas hands-on knowledge of Python, Celery, Java, J2ee, Spring, Hibernate, Web services, Database.\r\n•\tProficient with various phases of SDLC and Agile Methodology with Onsite experience.\r\n•\tGood communication, collaboration and team building skills with proficiency at grasping new technical concepts quickly and utilize the same in a productive manner\r\n•\tWorked extensively on healthcare domain with GE Healthcare, mPulse.\r\n\r\nProgramming Languages: Java, Pyrhon, J2EE, Jquery, SQL.\r\nTechnologies and Frameworks: Tornado, AsyncIO, Spring, Hibernate, Restful Web-services, Apache Tomcat, ActiveMQ, Gradle, Redis, Rabbitmq, Celery, Apache Airflow, ElasticSearch\r\nDatabases:, Postgres.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Quovantis Technologies",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Development Manager",
+                "OrgName": {
+                  "OrganizationName": "Quovantis Technologies"
+                },
+                "Description": "Project Description: mPulse is a SAAS based B2B communication platform for marketers and healthcare organizations which involves multi-channel communications - email, sms, push notifications and secure messages.\r\nTech Stack - Java, Spring, Hibernate, Python, Celery, Rabbitmq, Tornado, Jetty, ElasticSearch\r\nResponsibilities:\r\n•\tClient interaction for requirement gathering, understanding business value, conducting demonstrations.\r\n•\tPreparing High Level Design and solutioning of functionalities that are critical for the system.\r\n•\tSolving complex problems pertaining to business requirements.\r\n•\tOwning the entire end-to-end delivery of the Sprint(two weeks cycle).\r\n•\tManaging the team including their aspirations, learning and motivation.",
+                "StartDate": {
+                  "YearMonth": "2013-01"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 61% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Executive (VP, Dept Head)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Quovantis Technologies",
+                    "sov:NormalizedTitle": "Development Manager"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Quovantis Technologies"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Novamantic Technolgoy",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Senior Java Developer",
+                "OrgName": {
+                  "OrganizationName": "Novamantic Technolgoy"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "Kaboodle.com"
+                  }
+                ],
+                "Description": "Project Description:Kaboodle is a social shopping community where people discover, recommend and share products. Kaboodle's powerful shopping tools allow people to organize their shopping through lists, discover new things from people with similar style, get discounts on popular products and find best prices.\r\n\r\nResponsibilities:\r\n•\tWorked effectively with design teams to ensure software solutions elevated client side experience.\r\n•\tWorked on implementing document database creation through Apache Lucene\r\n•\tWrote Selenium testcases to Automate UI testing.\r\nTechnologies: Java6, Spring, Hibernate, JMS, Apache Lucene",
+                "StartDate": {
+                  "YearMonth": "2011-07"
+                },
+                "EndDate": {
+                  "YearMonth": "2013-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Novamantic Technolgoy",
+                    "sov:NormalizedTitle": "Senior Java Developer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Java Developer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Novamantic Technolgoy"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "GE Healthcare",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Java Developer",
+                "OrgName": {
+                  "OrganizationName": "GE Healthcare"
+                },
+                "Description": "Project Description: This project aims at providing free flow movement of a patient's electronic medical record from one healthcare institution having one vendor EMR to the other healthcare institution having some other vendor EMR.\r\n\r\nResponsibilities:\r\n•\tCarried out requirement specification and information gathering.\r\n•\tDesign and develop the web service, which intercept service request from EMR client through SOAP message.\r\n•\tUses JAXB parser to create patient summary document, conforming to the standard schema\tand submitted it to the central repository.\r\n\r\nTechnologies: Java6, Spring Framework, Restful Web Services, JAXB, XML, SQL, JUnit.",
+                "StartDate": {
+                  "YearMonth": "2007-06"
+                },
+                "EndDate": {
+                  "YearMonth": "2010-10"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 93% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "GE Healthcare",
+                    "sov:NormalizedTitle": "Java Developer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "GE Healthcare"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "IIIT"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bangalore"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "Bachelor of Technology",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science"
+                    ]
+                  }
+                ],
+                "Comments": "•\tBachelor of Technology (Computer Science) from GBPUAT, Pantnagar, Uttarakhand, India.\r\n•\tMaster of Technology(IT) from IIIT-Bangalore.",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "IIIT"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Operating Systems: Linux, Windows."
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "Sanjeev Kumar / Development Manager\r\nMobile - 9911066909\r\nEmail - say.sanjeev@gmail.com\r\n\r\nProfessional Highlights\r\n•\tA result oriented IT professional with 11 years of experience in Software Development, maintenance, support and Team Management\r\n•\tCurrently associated with Quovantis Technology as Development Manager and managing a team of 15+ members.\r\n•\tApart from managing the team, working as individual contributor in mPulse and has worked extensively on Database optimizations, Performance and Security testing\r\n•\tHas hands-on knowledge of Python, Celery, Java, J2ee, Spring, Hibernate, Web services, Database.\r\n•\tProficient with various phases of SDLC and Agile Methodology with Onsite experience.\r\n•\tGood communication, collaboration and team building skills with proficiency at grasping new technical concepts quickly and utilize the same in a productive manner\r\n•\tWorked extensively on healthcare domain with GE Healthcare, mPulse.\r\n\r\nProgramming Languages: Java, Pyrhon, J2EE, Jquery, SQL.\r\nTechnologies and Frameworks: Tornado, AsyncIO, Spring, Hibernate, Restful Web-services, Apache Tomcat, ActiveMQ, Gradle, Redis, Rabbitmq, Celery, Apache Airflow, ElasticSearch\r\nDatabases:, Postgres.\r\nOperating Systems: Linux, Windows.\r\n\r\nProfessional Experience\r\nQuovantis Technologies\t01/2013 to Present\r\nProject: mPulse Mobile\r\nRole: Development Manager\r\nProject Description: mPulse is a SAAS based B2B communication platform for marketers and healthcare organizations which involves multi-channel communications - email, sms, push notifications and secure messages.\r\nTech Stack - Java, Spring, Hibernate, Python, Celery, Rabbitmq, Tornado, Jetty, ElasticSearch\r\nResponsibilities:\r\n•\tClient interaction for requirement gathering, understanding business value, conducting demonstrations.\r\n•\tPreparing High Level Design and solutioning of functionalities that are critical for the system.\r\n•\tSolving complex problems pertaining to business requirements.\r\n•\tOwning the entire end-to-end delivery of the Sprint(two weeks cycle).\r\n•\tManaging the team including their aspirations, learning and motivation.\r\n\r\n\r\nNovamantic Technolgoy\t07/2011 to 01/2013\r\nProject: Kaboodle.com\r\nRole: Senior Java Developer\r\nProject Description:Kaboodle is a social shopping community where people discover, recommend and share products. Kaboodle's powerful shopping tools allow people to organize their shopping through lists, discover new things from people with similar style, get discounts on popular products and find best prices.\r\n\r\nResponsibilities:\r\n•\tWorked effectively with design teams to ensure software solutions elevated client side experience.\r\n•\tWorked on implementing document database creation through Apache Lucene\r\n•\tWrote Selenium testcases to Automate UI testing.\r\nTechnologies: Java6, Spring, Hibernate, JMS, Apache Lucene\r\n\r\n\r\nGE Healthcare\t06/2007 to 10/2010\r\nProject: Interoperability between EMR.\r\nRole: Java Developer\r\nProject Description: This project aims at providing free flow movement of a patient's electronic medical record from one healthcare institution having one vendor EMR to the other healthcare institution having some other vendor EMR.\r\n\r\nResponsibilities:\r\n•\tCarried out requirement specification and information gathering.\r\n•\tDesign and develop the web service, which intercept service request from EMR client through SOAP message.\r\n•\tUses JAXB parser to create patient summary document, conforming to the standard schema\tand submitted it to the central repository.\r\n\r\nTechnologies: Java6, Spring Framework, Restful Web Services, JAXB, XML, SQL, JUnit.\r\n\r\nEducational Qualifications\r\n•\tBachelor of Technology (Computer Science) from GBPUAT, Pantnagar, Uttarakhand, India.\r\n•\tMaster of Technology(IT) from IIIT-Bangalore."
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Sanjeev Kumar's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Healthcare Non-physician Non-nurse (mostly Allied Health). Sanjeev Kumar has 12 years of work experience, with 7 years of management experience, including a mid-level position.",
+          "sov:MonthsOfWorkExperience": "141",
+          "sov:AverageMonthsPerEmployer": "47",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "83",
+          "sov:CurrentManagementLevel": "mid-level",
+          "sov:HighestManagementScore": "55",
+          "sov:ExecutiveType": "business_dev",
+          "sov:ManagementStory": "Current position is a mid-level management role: Development Manager\r\nStarting on 1/1/2013, the candidate held the following mid-level management position for 6 years and 11 months:\r\n\tTitle: Development Manager for Quovantis Technologies",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "77",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "55",
+                        "@percentOfParentTaxonomy": "71",
+                        "sov:Skill": [
+                          {
+                            "@name": "J2EE",
+                            "@id": "020255",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "141",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3",
+                            "@childrenTotalMonths": "141",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "HIBERNATE",
+                                "@id": "3391127",
+                                "@existsInText": "true",
+                                "@totalMonths": "101",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1; POS-2"
+                              },
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "141",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JAXB",
+                            "@id": "339016",
+                            "@existsInText": "true",
+                            "@totalMonths": "40",
+                            "@lastUsed": "2010-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "JMS",
+                            "@id": "020323",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2013-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "ELASTICSEARCH",
+                            "@id": "5530744",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JMS",
+                            "@id": "5530786",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2013-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "LUCENE",
+                            "@id": "5530794",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2013-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "REDIS",
+                            "@id": "5530835",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "SOFTWARE AS A SERVICE",
+                            "@id": "5531064",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "83",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SAAS",
+                                "@id": "5531065",
+                                "@existsInText": "true",
+                                "@totalMonths": "83",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "GRADLE",
+                            "@id": "3391152",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "Lucene",
+                            "@id": "1004760",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2013-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SUMMARY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "XML",
+                            "@id": "011476",
+                            "@existsInText": "true",
+                            "@totalMonths": "40",
+                            "@lastUsed": "2010-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAAS",
+                            "@id": "1004743",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SECURITY",
+                            "@id": "022110",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "TOMCAT",
+                            "@id": "009664",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "WEB SERVICES",
+                            "@id": "011022",
+                            "@existsInText": "true",
+                            "@totalMonths": "40",
+                            "@lastUsed": "2010-10-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SDLC",
+                            "@id": "025956",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "SMS",
+                            "@id": "081178",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "18",
+                            "@childrenLastUsed": "2013-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "18",
+                                "@lastUsed": "2013-01-01",
+                                "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "POSTGRES",
+                            "@id": "005136",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "40",
+                            "@lastUsed": "2010-10-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2013-01-01",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "JUNIT",
+                            "@id": "020369",
+                            "@existsInText": "true",
+                            "@totalMonths": "40",
+                            "@lastUsed": "2010-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SELENIUM",
+                            "@id": "2000001",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2013-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "RESTFUL WEB SERVICES",
+                            "@id": "5520591",
+                            "@existsInText": "true",
+                            "@totalMonths": "40",
+                            "@lastUsed": "2010-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SOAP",
+                            "@id": "5520605",
+                            "@existsInText": "true",
+                            "@totalMonths": "40",
+                            "@lastUsed": "2010-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "USER INTERFACE",
+                            "@id": "7310067",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "18",
+                            "@childrenLastUsed": "2013-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "UI",
+                                "@id": "7310068",
+                                "@existsInText": "true",
+                                "@totalMonths": "18",
+                                "@lastUsed": "2013-01-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM MANAGEMENT",
+                            "@id": "025953",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRAMEWORKS",
+                            "@id": "017954",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Workflow and Imaging",
+                        "@id": "342",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "EMR",
+                            "@id": "016241",
+                            "@existsInText": "true",
+                            "@totalMonths": "40",
+                            "@lastUsed": "2010-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "SOAP",
+                            "@id": "008187",
+                            "@existsInText": "true",
+                            "@totalMonths": "40",
+                            "@lastUsed": "2010-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Healthcare Non-physician Non-nurse",
+                    "@id": "95",
+                    "@percentOfOverall": "11",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Allied Health",
+                        "@id": "158",
+                        "@percentOfOverall": "11",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "HEALTHCARE",
+                            "@id": "018806",
+                            "@existsInText": "true",
+                            "@totalMonths": "123",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Advertising",
+                        "@id": "595",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "B2B",
+                            "@id": "1400202",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Channel, Partner & Ecosystem Marketing",
+                        "@id": "590",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "B2B",
+                            "@id": "1400117",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Game Design",
+                        "@id": "570",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "LEVEL DESIGN",
+                            "@id": "5570143",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS REQUIREMENTS",
+                            "@id": "022626",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Call Center or Help Desk or Customer Service",
+                    "@id": "46",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Customer Facing",
+                        "@id": "130",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLIENT INTERACTION",
+                            "@id": "013440",
+                            "@existsInText": "true",
+                            "@totalMonths": "83",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Management",
+                    "@id": "80",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "People Oriented",
+                        "@id": "517",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM BUILDING",
+                            "@id": "009221",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "TEAM MANAGEMENT",
+                            "@id": "025955",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "4",
+              "@ends": "15",
+              "@sectionType": "SUMMARY",
+              "#text": "Professional Highlights"
+            },
+            {
+              "@starts": "16",
+              "@ends": "17",
+              "@sectionType": "SKILLS",
+              "#text": "Operating Systems"
+            },
+            {
+              "@starts": "18",
+              "@ends": "55",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Professional Experience"
+            },
+            {
+              "@starts": "56",
+              "@ends": "58",
+              "@sectionType": "EDUCATION",
+              "#text": "Educational Qualifications"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Mobile - 9911066909",
+              "9911066909"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Sanjeev Kumar",
+              "Sanjeev Kumar / Development Manager"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "say.sanjeev@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "Kaboodle.com"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3687",
+        "sov:ParseTime": "484",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Operating Systems'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;1] The following section does not have the header on a separate line: 'Operating Systems'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:9a089da1-3024-4695-a3d3-1b41b9b37e94",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "qYwBAAAAAAA="
+      }
+    }
+  }
+}

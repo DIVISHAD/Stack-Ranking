@@ -1,0 +1,988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Amit Agarwal</FormattedName>
+				<GivenName>Amit</GivenName>
+				<FamilyName>Agarwal</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+919528627879</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>amitinagarwal@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>businessDirect</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>https://github.com/amitdotagarwal</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Barterfly.io</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Co-Founder</Title>
+					<OrgName>
+						<OrganizationName>Barterfly.io</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>Barterfly.io</WebSite>
+					</OrgInfo>
+					<Description>(Travel domain)
+● Product Design, Wireframe creation
+● Code writing, deployment, architecture
+● A/B testing, product optimization</Description>
+					<StartDate>
+						<YearMonth>2019-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>User Experience → Industrial Design</CategoryCode>
+						<Comments>User Experience describes 64% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior Executive (President, C-level)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Co-Founder</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>Barterfly.io</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Co Founder</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Barterfly.io</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Western Union(Fintech)</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Engineering Manager</Title>
+					<OrgName>
+						<OrganizationName>Western Union(Fintech)</OrganizationName>
+					</OrgName>
+					<Description>Company name: Western Union(Fintech)
+Technology: Python, Javascript, Salesforce, Exacttarget, Experian, Ruby on Rails(ROR), Cloud, , Java, Heroku,
+Amazon  and Reactjs.
+
+●	Engineering Head (leading a team of 20+ engineers, designers for the  mobile and webs applications, in both Agile and SDLC way)
+●	Interaction with product owners to create epics, user stories, sprint planning, team meeting.
+●	Task estimation, team velocity, and to follow project deadline.
+●	Define technology architecture, design and roadmap.
+●	Define Architecture, set up Amazon servers, CI/CD, cloud for both UAT and for the production
+environment.
+●	Assess risk as well as security, performance, and scalability
+●	Provide insights into software, new technology, and trends
+●	Work with the executive team to define goals and manage progress
+●	Lead software integration with partners
+●	Team members empowerment, set rules to go live and defining Definition of Done(DOD).
+●	Coordinate and communicate with the offshore team.
+●	Interaction with senior manager and to provide Daily/Weekly/Monthly status, to create APAC
+worksheet.</Description>
+					<StartDate>
+						<YearMonth>2017-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-01</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 63% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Manager</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>20</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Western Union Fintech</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Engineering Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Western Union Fintech</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>TATA CONSULTANCY SERVICES</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Engineering Head</Title>
+					<OrgName>
+						<OrganizationName>TATA CONSULTANCY SERVICES</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>SG</CountryCode>
+							<Municipality>Singapore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Client: Aligntech(Consumer, professional and Doctor store websites, e-commerce)
+Technology: Python, Javascript, Salesforce, Exacttarget, Experian, Ruby on Rails(ROR), Cloud, , Java, Heroku,
+Amazon  and Reactjs.
+
+●	Engineering Head (leading a team of 20+ engineers, mobile and webs applications) and Scrum Master
+(Scrum of Scrum team) leading a cross functional team.
+●	Responsible for writing code, test cases (95% test coverage), peer programming and code
+review(Github) and to overall follow process.
+●	Team members empowerment, set rules to go live and defining Definition of Done(DOD).
+●	Coordinate and communicate with the offshore team.
+●	Team empowerment and to define DOD.
+●	Work with Devops team for the automation by using automation tools for the deployment, testing
+and for the repetitive process.
+●	Billions of records databases management through tools like Solr, Hadoop.
+●	Interaction with senior manager and to provide Daily/Weekly/Monthly status, to create APAC
+worksheet.
+●	Good knowledge of Digital technologies like A/B Testing configuration and SEO, SCM, Cost per click &amp; conversation ratio.
+●	Platform scalability and concurrency performance.
+●	Facilitate sprint planning, daily scrums, retrospectives, stakeholder meetings, software
+demonstrations, requirements definition, design and implementation of integrations and enterprise
+services.
+●	Working with business owners to propose high-quality user experience solutions for web and mobile applications and to map requirements into technical and functional documents.
+●	Responsible for working with the configuration management and administration teams to provide
+accurate build and deployment instructions.
+●	SEO &amp; SCM - Search volume &amp; keyword selection.
+●	Cost per click &amp; conversation ratio.
+●	Nurturing user data and increase user opts-in.
+●	Creating KPI dashboard and Tag Management(UTM_SOURCE), Social media (Like Facebook, Twitter)
+branding.
+●	Managing all Digital marketing tools and provide training to the Associates.</Description>
+					<StartDate>
+						<YearMonth>2015-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 63% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="ST">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>20</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>TATA CONSULTANCY SERVICES</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Engineering Head</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Engineering Manager</Title>
+					<OrgName>
+						<OrganizationName>TATA CONSULTANCY SERVICES</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>NO</CountryCode>
+							<Municipality>ROR</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Java, Sinatra, BDD, Heroku, Html, JavaScript, Database
+Client - Posten Norge(Online postal ecommerce service)
+● Drive project and program delivery.
+● Responsible for ensuring project delivery on time on schedule and with quality.
+● Effectively communicate with team members and stakeholders in a timely and clear fashion.
+● Identify and resolve issues and conflicts within the program, projects and project management community
+and with other stakeholders if necessary.
+● Resolve issues at the project or line level and escalate issues which cannot be resolved in a timely and accurate manner.
+● Manage key stakeholders and business and technology leads.
+● Manage and communicate effectively with domain leads at senior level and working level teams.
+● Responsible for ensuring project steering committee meetings, cross function meetings and other key
+project meetings are effective and achieve objectives on a consistent manner.
+● Change management.
+● Responsible  for to drive the adoption of agile methodology across teams.
+● Responsible  for to work with users to drive changes within the organization for projects implementation.
+● Develop best practices and tools for project execution and management.
+● Ensure utilization of standards and practices across all projects.</Description>
+					<StartDate>
+						<YearMonth>2010-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2015-07</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 41% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Executive (VP, Dept Head)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>TATA CONSULTANCY SERVICES</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Engineering Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>TATA CONSULTANCY SERVICES</OrganizationName>
+					</OrgName>
+					<Description>Client - ClearTrip
+● As  a  scrum  master  facilitated  daily  scrum  meetings, sprint  planning, sprint  review, and  sprint
+retrospective.
+● Worked with the business analyst to understand the business requirement, use case analysis.
+● Experience working with  diverse cross-functional teams.
+● Work with development team, conflict resolution, team management, risk management.
+● Interaction with the Product Owners to understand the project requirement and to create user story for
+the development(BDD, TDD), by using Agile tools like Jira.
+● Enforce Agile principle such as Automation testing, Continuous integration.
+● Conduct Daily stand-up call, ATDD, Sprint Planning, Retrospective.
+● Manage Kanban dashboard, Burn-down chart and to find team velocity.
+● Project documentation through tools like Confluence/ Wiki.
+● Enabled improvement in team delivery commitments and capacity planning for sprints by identifying &amp; tracking hidden tasks that increased customer satisfaction.
+● Team empowerment and to define DOD.
+● Work with Devops team for the automation by using automation tools for the deployment, testing and for the repetitive process.</Description>
+					<StartDate>
+						<YearMonth>2007-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Architecture</CategoryCode>
+						<Comments>Information Technology describes 33% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>TATA CONSULTANCY SERVICES</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Software Engineer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Software Engineer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>TATA CONSULTANCY SERVICES</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Symbiosis Centre for Distance Learning</SchoolName>
+				</School>
+				<Degree degreeType="masters">
+					<DegreeName>MBA</DegreeName>
+					<DegreeDate>
+						<Year>2010</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Operations and data analytics</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2010</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2010
+MBA  - Operations and data analytics (DL),
+Symbiosis Centre for Distance Learning, INDIA</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>MBA</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>MBA</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Symbiosis Center for Distance Learning</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Engineering in Computer Science</DegreeName>
+					<DegreeDate>
+						<Year>2007</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>UPTU, INDIA</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2007</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2007
+Bachelor of Engineering in Computer Science,
+UPTU, INDIA
+Giving back to communities:
+Github Account: https://github.com/amitdotagarwal/
+As an open Source Mentor: -
+I  played  open  source  Mentor, and  mentor  people  from  brazil, US, and  developed  Octopus
+Gem.https://github.com/thiagopradi/octopus
+(Scroll down the page to check for authenticity, you can see thanks note.)
+
+TECHNOLOGY:
+Agile	User Story, Kanban, BDD, Continuous Integration, Jira, Rally, Trello, Confluence,
+Agile game, ATDD, Burndown Chart, Velocity.
+Data Structure	Array, Pointer, Structure, Linked List, Stack, Queue, Graph
+Scalability	Kubernetes, Docker, AWS, Balance loader
+Languages	Ruby, Python, Selenium, Node JS, PHP, Scala(Basic), Ruby on Rails(ROR)
+Web Technologies	XHTML, CSS, JavaScript(Angular, Reactjs), AJAX, Restful API
+
+Operating System	Windows, Linux/Unix, OSX
+Database	MySQL, Postgres, MongoDB, NoSQL(Redis)
+Javascript	jQuery, ReactJS, happyjs, ES6
+
+Test Framework	R-spec, R-Unit, Selenium, Cucumber
+Tools	Puppet, Jira, Jenkins(CI), New Relic, Heroku, Amazon, Chef, RabbitMQ, ,
+Poltergeist, Capybara, PhantomJS, Cucumber, Rspec., Nignix, Github
+
+Analytics(KPI)	Google Analytics, Google Tag Manager, Sizmek, Yahoo, Facebook, Naver</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Certificate in Scrum Master in TCS</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certificate in Digital marketing in TCS</Name>
+				<Id>2</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certificate in Data profiling &amp; Analysis in TCS</Name>
+				<Id>3</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Hindi, Norwegian (basic)</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Hindi, Norwegian (basic)</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>no</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Hindi, Norwegian (basic)</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Amit Agarwal
+Engineering Manager(12+ experience)
+Email: amitinagarwal@gmail.com
+Location: India
+Contact No: +919528627879
+
+EDUCATION: 2010
+MBA  - Operations and data analytics (DL),
+Symbiosis Centre for Distance Learning, INDIA
+
+2007
+Bachelor of Engineering in Computer Science,
+UPTU, INDIA
+Giving back to communities:
+Github Account: https://github.com/amitdotagarwal/
+As an open Source Mentor: -
+I  played  open  source  Mentor, and  mentor  people  from  brazil, US, and  developed  Octopus
+Gem.https://github.com/thiagopradi/octopus
+(Scroll down the page to check for authenticity, you can see thanks note.)
+
+TECHNOLOGY:
+Agile	User Story, Kanban, BDD, Continuous Integration, Jira, Rally, Trello, Confluence,
+Agile game, ATDD, Burndown Chart, Velocity.
+Data Structure	Array, Pointer, Structure, Linked List, Stack, Queue, Graph
+Scalability	Kubernetes, Docker, AWS, Balance loader
+Languages	Ruby, Python, Selenium, Node JS, PHP, Scala(Basic), Ruby on Rails(ROR)
+Web Technologies	XHTML, CSS, JavaScript(Angular, Reactjs), AJAX, Restful API
+
+Operating System	Windows, Linux/Unix, OSX
+
+Database	MySQL, Postgres, MongoDB, NoSQL(Redis)
+Javascript	jQuery, ReactJS, happyjs, ES6
+
+Test Framework	R-spec, R-Unit, Selenium, Cucumber
+Tools	Puppet, Jira, Jenkins(CI), New Relic, Heroku, Amazon, Chef, RabbitMQ, ,
+Poltergeist, Capybara, PhantomJS, Cucumber, Rspec., Nignix, Github
+
+Analytics(KPI)	Google Analytics, Google Tag Manager, Sizmek, Yahoo, Facebook, Naver
+
+
+CERTIFICATES: ● Certificate in Scrum Master in TCS
+● Certificate in Digital marketing in TCS
+● Certificate in Data profiling &amp; Analysis in TCS
+
+EMPLOYMENT HISTORY:
+
+Jan 2019- Till Present
+Company name: Barterfly.io, India
+Co-Founder (Travel domain)
+● Product Design, Wireframe creation
+● Code writing, deployment, architecture
+● A/B testing, product optimization
+
+August 2017 - Jan 2019	Engineering Manager
+Company name: Western Union(Fintech)
+Technology: Python, Javascript, Salesforce, Exacttarget, Experian, Ruby on Rails(ROR), Cloud, , Java, Heroku,
+Amazon  and Reactjs.
+
+●	Engineering Head (leading a team of 20+ engineers, designers for the  mobile and webs applications,
+in both Agile and SDLC way)
+●	Interaction with product owners to create epics, user stories, sprint planning, team meeting.
+●	Task estimation, team velocity, and to follow project deadline.
+●	Define technology architecture, design and roadmap.
+●	Define Architecture, set up Amazon servers, CI/CD, cloud for both UAT and for the production
+environment.
+●	Assess risk as well as security, performance, and scalability
+●	Provide insights into software, new technology, and trends
+●	Work with the executive team to define goals and manage progress
+●	Lead software integration with partners
+●	Team members empowerment, set rules to go live and defining Definition of Done(DOD).
+●	Coordinate and communicate with the offshore team.
+●	Interaction with senior manager and to provide Daily/Weekly/Monthly status, to create APAC
+worksheet.
+
+August 2015 - Aug 2017	TATA CONSULTANCY SERVICES, Singapore
+Engineering Head
+Client: Aligntech(Consumer, professional and Doctor store websites, e-commerce)
+Technology: Python, Javascript, Salesforce, Exacttarget, Experian, Ruby on Rails(ROR), Cloud, , Java, Heroku,
+Amazon  and Reactjs.
+
+●	Engineering Head (leading a team of 20+ engineers, mobile and webs applications) and Scrum Master
+(Scrum of Scrum team) leading a cross functional team.
+●	Responsible for writing code, test cases (95% test coverage), peer programming and code
+review(Github) and to overall follow process.
+●	Team members empowerment, set rules to go live and defining Definition of Done(DOD).
+●	Coordinate and communicate with the offshore team.
+●	Team empowerment and to define DOD.
+●	Work with Devops team for the automation by using automation tools for the deployment, testing
+and for the repetitive process.
+●	Billions of records databases management through tools like Solr, Hadoop.
+●	Interaction with senior manager and to provide Daily/Weekly/Monthly status, to create APAC
+worksheet.
+●	Good knowledge of Digital technologies like A/B Testing configuration and SEO, SCM, Cost per click &amp;
+conversation ratio.
+●	Platform scalability and concurrency performance.
+●	Facilitate sprint planning, daily scrums, retrospectives, stakeholder meetings, software
+demonstrations, requirements definition, design and implementation of integrations and enterprise
+services.
+●	Working with business owners to propose high-quality user experience solutions for web and
+mobile applications and to map requirements into technical and functional documents.
+●	Responsible for working with the configuration management and administration teams to provide
+accurate build and deployment instructions.
+●	SEO &amp; SCM - Search volume &amp; keyword selection.
+●	Cost per click &amp; conversation ratio.
+●	Nurturing user data and increase user opts-in.
+●	Creating KPI dashboard and Tag Management(UTM_SOURCE), Social media (Like Facebook, Twitter)
+branding.
+●	Managing all Digital marketing tools and provide training to the Associates.
+
+Jun 2010 - July 2015	TATA CONSULTANCY SERVICES, Norway (2 Years in Norway)
+Engineering Manager
+Technology: Smartfocus, Ruby on Rails(ROR), Java, Sinatra, BDD, Heroku, Html, JavaScript, Database
+Client - Posten Norge(Online postal ecommerce service)
+● Drive project and program delivery.
+● Responsible for ensuring project delivery on time on schedule and with quality.
+● Effectively communicate with team members and stakeholders in a timely and clear fashion.
+● Identify and resolve issues and conflicts within the program, projects and project management community
+and with other stakeholders if necessary.
+● Resolve issues at the project or line level and escalate issues which cannot be resolved in a timely and
+accurate manner.
+● Manage key stakeholders and business and technology leads.
+● Manage and communicate effectively with domain leads at senior level and working level teams.
+● Responsible for ensuring project steering committee meetings, cross function meetings and other key
+project meetings are effective and achieve objectives on a consistent manner.
+● Change management.
+● Responsible  for to drive the adoption of agile methodology across teams.
+● Responsible  for to work with users to drive changes within the organization for projects implementation.
+● Develop best practices and tools for project execution and management.
+● Ensure utilization of standards and practices across all projects.
+
+
+JUN 2007 - Jun 2010	TATA CONSULTANCY SERVICES, India/Azri Solution /Mastiff/Xceed
+Senior Software Engineer
+Client - ClearTrip
+● As  a  scrum  master  facilitated  daily  scrum  meetings, sprint  planning, sprint  review, and  sprint
+retrospective.
+● Worked with the business analyst to understand the business requirement, use case analysis.
+● Experience working with  diverse cross-functional teams.
+● Work with development team, conflict resolution, team management, risk management.
+● Interaction with the Product Owners to understand the project requirement and to create user story for
+the development(BDD, TDD), by using Agile tools like Jira.
+● Enforce Agile principle such as Automation testing, Continuous integration.
+● Conduct Daily stand-up call, ATDD, Sprint Planning, Retrospective.
+● Manage Kanban dashboard, Burn-down chart and to find team velocity.
+● Project documentation through tools like Confluence/ Wiki.
+● Enabled improvement in team delivery commitments and capacity planning for sprints by identifying &amp;
+tracking hidden tasks that increased customer satisfaction.
+● Team empowerment and to define DOD.
+● Work with Devops team for the automation by using automation tools for the deployment, testing and
+for the repetitive process.
+
+PERSONAL INFORMATION:
+Name: Amit Agarwal
+Sex: Male
+Marital Status: Married
+Languages known: English, Hindi, Norwegian (basic)
+Nationality: Indian
+Date of Birth: June 11, 1985</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1985-06-11</sov:DateOfBirth>
+				<sov:Nationality inferred="false">Indian</sov:Nationality>
+				<sov:Gender inferred="false">Male</sov:Gender>
+				<sov:MaritalStatus inferred="false">Married</sov:MaritalStatus>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Amit Agarwal's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in User Experience (mostly Web Design). Amit Agarwal has 13 years of work experience, with 8 years of management experience, including a high-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>150</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>50</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>62</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>90</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>executive-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>100</sov:HighestManagementScore>
+				<sov:ExecutiveType>general</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a executive-level management role: Co-Founder
+Starting on 1/1/2019, the candidate held the following executive-level management position for 10 months:
+	Title: Co-Founder for Barterfly.io
+Starting on 8/1/2017, the candidate held the following mid-level management position for 17 months:
+	Title: Engineering Manager for Western Union(Fintech)
+Starting on 6/1/2010, the candidate held the following mid-level management position for 5 years and 2 months:
+	Title: Engineering Manager for TATA CONSULTANCY SERVICES</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="75">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="63" percentOfParentTaxonomy="83">
+								<sov:Skill name="API" id="021194" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="Cucumber" id="1004739" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="DOCKER" id="3391147" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="Hadoop" id="1004744" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" totalMonths="103" lastUsed="2019-01-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3; POS-4" childrenTotalMonths="41" childrenLastUsed="2019-01-01">
+									<sov:ChildSkill name="REACTJS" id="3391100" existsInText="true" totalMonths="41" lastUsed="2019-01-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="41" lastUsed="2019-01-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="RSpec" id="1004740" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="Ruby" id="1004736" existsInText="true" totalMonths="103" lastUsed="2019-01-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3; POS-4" childrenTotalMonths="103" childrenLastUsed="2019-01-01">
+									<sov:ChildSkill name="Rails" id="100473602" existsInText="true" totalMonths="103" lastUsed="2019-01-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3; POS-4"></sov:ChildSkill>
+									<sov:ChildSkill name="Ruby on Rails" id="100473601" existsInText="true" totalMonths="103" lastUsed="2019-01-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="SOFTWARE INTEGRATION" id="023540" existsInText="true" totalMonths="17" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="Solr" id="1004759" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="3" percentOfParentTaxonomy="5">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="103" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-4"></sov:Skill>
+								<sov:Skill name="jQuery" id="339048" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="CHANGE MANAGEMENT" id="022159" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4" childrenTotalMonths="24" childrenLastUsed="2017-08-01">
+									<sov:ChildSkill name="CONFIGURATION MANAGEMENT" id="014175" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" totalMonths="71" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-3; POS-5"></sov:Skill>
+								<sov:Skill name="SCM" id="007546" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="62" childrenLastUsed="2015-07-31">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="POSTGRES" id="005136" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="GO LIVE" id="018480" existsInText="true" totalMonths="41" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="SCALA" id="007474" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="REQUIREMENTS DEFINITION" id="006833" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="SDLC" id="025956" existsInText="true" totalMonths="17" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="USE CASE" id="024596" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5" childrenTotalMonths="36" childrenLastUsed="2010-06-01">
+									<sov:ChildSkill name="CASE ANALYSIS" id="012592" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+									<sov:ChildSkill name="USE CASE ANALYSIS" id="010308" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="APACHE SOLR" id="5530719" existsInText="false" childrenTotalMonths="24" childrenLastUsed="2017-08-01">
+									<sov:ChildSkill name="SOLR" id="553071901" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" lastUsed="2010-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+								<sov:Skill name="DATA PROFILING" id="5530957" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="DATA STRUCTURE" id="5530961" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="HADOOP" id="5530761" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="NOSQL" id="5530812" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="REDIS" id="5530835" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="CHEF" id="0146072" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="DEV OPS" id="0146073" existsInText="false" childrenTotalMonths="60" childrenLastUsed="2017-08-01">
+									<sov:ChildSkill name="DEVOPS" id="0146074" existsInText="true" totalMonths="60" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PUPPET" id="0146071" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-5"></sov:Skill>
+								<sov:Skill name="RALLY" id="2000007" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="SELENIUM" id="2000001" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="UAT" id="010065" existsInText="true" totalMonths="17" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="AJAX" id="196001" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="CSS" id="014705" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="ECOMMERCE" id="026768" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2" childrenLastUsed="2007-01-01">
+									<sov:ChildSkill name="LINUX/UNIX" id="02392601" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="UNIX" id="01026309" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="UNIX" id="5551207" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="TEST FRAMEWORK" id="3380018" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SCALA" id="5510135" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="TEAM MANAGEMENT" id="025953" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="OPEN SOURCE" id="003842" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="9">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="3" percentOfParentTaxonomy="38">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false" childrenTotalMonths="53" childrenLastUsed="2019-01-01">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" totalMonths="53" lastUsed="2019-01-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="1" percentOfParentTaxonomy="16">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" totalMonths="28" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="PRODUCT DESIGN" id="5570092" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="WIREFRAME" id="5570249" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Product Design" id="573" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PRODUCT DESIGN" id="5570168" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PRODUCT DESIGN" id="5570082" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PRODUCT DESIGN" id="5570068" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Interaction Design" id="562" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PRODUCT DESIGN" id="5570051" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UX Design" id="560" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PRODUCT DESIGN" id="5570024" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Ergonomics" id="559" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PRODUCT DESIGN" id="5570014" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Research" id="558" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="USER STORIES" id="5570004" existsInText="true" totalMonths="17" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="6">
+							<sov:Subtaxonomy name="Military" id="267" percentOfOverall="3" percentOfParentTaxonomy="44">
+								<sov:Skill name="DOD" id="015587" existsInText="true" totalMonths="77" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="31">
+								<sov:Skill name="ESTIMATION" id="080470" existsInText="true" totalMonths="17" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="OPTIMIZATION" id="023295" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PRODUCT DESIGN" id="080510" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="STEERING" id="022232" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Design" id="134" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="PRODUCT DESIGN" id="080946" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="PRODUCT DESIGN" id="080771" existsInText="true" totalMonths="11" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Techniques" id="264" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="ESTIMATION" id="080635" existsInText="true" totalMonths="17" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="5">
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="2" percentOfParentTaxonomy="37">
+								<sov:Skill name="DIGITAL MARKETING" id="1400390" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in CERTIFICATIONS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="SEARCH ENGINE OPTIMIZATION" id="1400234" existsInText="false" childrenTotalMonths="24" childrenLastUsed="2017-08-01">
+									<sov:ChildSkill name="SEO" id="1400235" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="USER EXPERIENCE" id="1400241" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Advertising" id="595" percentOfOverall="1" percentOfParentTaxonomy="27">
+								<sov:Skill name="DIGITAL CAMPAIGN" id="1400380" existsInText="false" childrenTotalMonths="24" childrenLastUsed="2017-08-01">
+									<sov:ChildSkill name="DIGITAL MARKETING" id="1400381" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in CERTIFICATIONS; WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="1" percentOfParentTaxonomy="26">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in CERTIFICATIONS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" lastUsed="2010-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+								<sov:Skill name="HADOOP" id="1400328" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Brand Management" id="227" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="BRANDING" id="011888" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="1">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="1" percentOfParentTaxonomy="68">
+								<sov:Skill name="ECOMMERCE" id="081146" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="SATISFACTION" id="030000" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Direct Sales" id="102" percentOfOverall="0" percentOfParentTaxonomy="32">
+								<sov:Skill name="ECOMMERCE" id="081152" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="1">
+							<sov:Subtaxonomy name="Drilling" id="441" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="OFFSHORE" id="003754" existsInText="true" totalMonths="41" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="1">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="0" percentOfParentTaxonomy="57">
+								<sov:Skill name="CHANGE MANAGEMENT" id="012977" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" lastUsed="2010-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+								<sov:Skill name="TRADING" id="022750" existsInText="false" childrenTotalMonths="36" childrenLastUsed="2010-06-01">
+									<sov:ChildSkill name="RISK MANAGEMENT" id="007099" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="0" percentOfParentTaxonomy="43">
+								<sov:Skill name="BEST PRACTICES" id="011365" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="Organization Development" id="581" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CHANGE MANAGEMENT" id="9000213" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Management" id="579" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CHANGE MANAGEMENT" id="9000169" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="1">
+							<sov:Subtaxonomy name="Budget Related" id="516" percentOfOverall="0" percentOfParentTaxonomy="88">
+								<sov:Skill name="ESTIMATION" id="016952" existsInText="true" totalMonths="17" lastUsed="2019-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="People Oriented" id="517" percentOfOverall="0" percentOfParentTaxonomy="12">
+								<sov:Skill name="MENTOR" id="021625" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="TEAM MANAGEMENT" id="025955" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="0">
+							<sov:Subtaxonomy name="Messages and Contact" id="112" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="POSTAL" id="005133" existsInText="true" totalMonths="62" lastUsed="2015-07-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="RISK MANAGEMENT" id="007098" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="TEST CASES" id="009422" existsInText="true" totalMonths="24" lastUsed="2017-08-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="0">
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="0" percentOfParentTaxonomy="54">
+								<sov:Skill name="TRADING" id="080204" existsInText="false" childrenTotalMonths="36" childrenLastUsed="2010-06-01">
+									<sov:ChildSkill name="RISK MANAGEMENT" id="007100" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="0" percentOfParentTaxonomy="23">
+								<sov:Skill name="CAPACITY PLANNING" id="7000224" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="0" percentOfParentTaxonomy="23">
+								<sov:Skill name="MBA" id="7000321" existsInText="true" lastUsed="2010-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="0">
+							<sov:Subtaxonomy name="Inventory" id="459" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="KANBAN" id="027010" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="Logistics" id="209" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="KANBAN" id="027009" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in EDUCATION; WORK HISTORY; DEG-2; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="0">
+							<sov:Subtaxonomy name="Skilled" id="323" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="SWITCH CAPACITY" id="023775" existsInText="false" childrenTotalMonths="36" childrenLastUsed="2010-06-01">
+									<sov:ChildSkill name="CAPACITY PLANNING" id="012557" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="0">
+							<sov:Subtaxonomy name="Specs and Documentation" id="429" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="DOCUMENTATION" id="022620" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="PROJECT DOCUMENTATION" id="005804" existsInText="true" totalMonths="36" lastUsed="2010-06-01" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Non-Skilled Labor" id="11" percentOfOverall="0">
+							<sov:Subtaxonomy name="Drivers" id="301" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="LOADER" id="020850" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Environmental" id="6" percentOfOverall="0">
+							<sov:Subtaxonomy name="Testing, Assessments, and Monitoring" id="328" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="GEM" id="018233" existsInText="true" lastUsed="2007-01-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="6" ends="39" sectionType="EDUCATION">EDUCATION</sov:Section>
+				<sov:Section starts="40" ends="43" sectionType="CERTIFICATIONS">CERTIFICATES</sov:Section>
+				<sov:Section starts="44" ends="150" sectionType="WORK HISTORY">EMPLOYMENT HISTORY</sov:Section>
+				<sov:Section starts="151" ends="154" sectionType="CONTACT INFO">PERSONAL INFORMATION</sov:Section>
+				<sov:Section starts="155" ends="157" sectionType="LANGUAGES">Languages known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Contact No: +919528627879</sov:Phone>
+					<sov:Phone>+919528627879</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Amit Agarwal</sov:Name>
+					<sov:Name>Name: Amit Agarwal</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>amitinagarwal@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>https://github.com/amitdotagarwal</sov:Url>
+					<sov:Url>Barterfly.io</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Date of Birth: June 11, 1985</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Married</sov:OtherDatum>
+					<sov:OtherDatum>Nationality: Indian</sov:OtherDatum>
+					<sov:OtherDatum>Sex: Male</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>7899</sov:ParsedTextLength>
+			<sov:ParseTime>784</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:151;0,1,4] The following sections do not have the header on a separate line: 'EDUCATION', 'CERTIFICATES', 'Languages known'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:9bb7bd35-9da3-4d68-a083-2efba370cbcc</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>2DkBAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

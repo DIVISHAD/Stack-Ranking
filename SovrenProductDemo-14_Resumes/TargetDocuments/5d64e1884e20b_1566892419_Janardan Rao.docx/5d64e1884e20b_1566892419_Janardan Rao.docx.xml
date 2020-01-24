@@ -1,0 +1,1235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>JANARDHANA RAO NALAM</FormattedName>
+				<GivenName>JANARDHANA</GivenName>
+				<MiddleName>RAO</MiddleName>
+				<FamilyName>NALAM</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>500072</PostalCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Flat #301, C-Block, Vertex Pride Apartments, Jai Bharat Nagar, Nizampet Road</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91 9848179397</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>njrcareer@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>linkedIn</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>https://www.linkedin.com/in/janardhana-nalam-68bb5924</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Passion for technology and attitude to help business growth with the technical solutions and especially interested in the financial domain.
+15+ Years of Strong expertise in Java/Java EE technologies
+
+Ability to drive and deliver the end to end large scale enterprise solutions independently
+Expertise of working in cloud based micro services architectures
+Strong skills in effectively analysing and debugging complex issues and providing the resolutions.
+Expertise of working in various technologies and frameworks
+Proven ability of leading development teams efficiently
+Familiar with Agile development methodologies
+Professional approach in handling clients and development teams assertively
+Self-motivated and look for the opportunities in challenges
+AWS Certified Solution Architect Associate</ExecutiveSummary>
+		<Objective>To work in a challenging environment where my knowledge, potential and experience can be better shared, enriched and harnessed for achieving the set organizational goals.</Objective>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>JP Morgan &amp; Chase</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Associate</Title>
+					<OrgName>
+						<OrganizationName>JP Morgan &amp; Chase</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2018-03</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SM">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>JP Morgan AND Chase</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Associate</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>JP Morgan AND Chase</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>via TEK Systems</EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>Java Consultant</Title>
+					<OrgName>
+						<OrganizationName>via TEK Systems</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>NZ</CountryCode>
+							<Municipality>Wellington</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2015-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-01</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>via TEK Systems</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Java Consultant</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>via TEK Systems</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>client Argonaut Limited</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>client Argonaut Limited</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2016-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-01</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>client Argonaut</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>client Argonaut</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Hewlett Packard Enterprise</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>Hewlett Packard Enterprise</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>NZ</CountryCode>
+							<Municipality>Wellington</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2015-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-07</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Hewlett Packard Enterprise</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Hewlett Packard Enterprise</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>FINEOS Corporation</EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>Technical Consultant</Title>
+					<OrgName>
+						<OrganizationName>FINEOS Corporation</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>NZ</CountryCode>
+							<Municipality>Wellington</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>(working for the client Accident Compensation Corporation(ACC))</Description>
+					<StartDate>
+						<YearMonth>2013-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2015-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>General Management → Budget Related</CategoryCode>
+						<Comments>General Management describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="TF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>FINEOS</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Technical Consultant</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>FINEOS</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Wipro Technologies</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Technical Lead/Architect</Title>
+					<OrgName>
+						<OrganizationName>Wipro Technologies</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2007-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2013-03</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Wipro Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Technical Lead/Architect</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Architect</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Wipro Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Oracle India Private Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Applications Engineer</Title>
+					<OrgName>
+						<OrganizationName>Oracle India Private Limited</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2005-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2007-07</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="TF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Oracle</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Applications Engineer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Applications Engineer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Oracle</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Infotech Enterprises Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Infotech Enterprises Limited</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2003-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2005-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-8</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="TS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Infotech Enterprises</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Infotech Enterprises</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Alfa Junior College</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Visakhapatnam</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech.</DegreeName>
+					<DegreeMajor>
+						<Name>Computer Science Engg</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>75</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<Comments>* B.Tech. Computer Science Engg. From Andhra University College of Engg., India with 75%
+* Intermediate from Alfa Junior College, Visakhapatnam with 93%</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.750</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Alfa Junior College</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="community">
+				<School>
+					<SchoolName>Govt. Jr. College</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeName>SSC</DegreeName>
+					<DegreeMajor>
+						<Name>Databases</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>93</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<Comments>* SSC from Govt. Jr. College, Ponduru with 93%
+
+TECHNOLOGIES
+Languages: C, C++, Java
+Web Technologies: Servlets, JSP, JSF, HTML, XML, CSS, AJAX,
+JavaScript, Angular JS, Bootstrap, GWT
+Frameworks: Spring, Hibernate, Struts, Axis, Eclipse Link, MyBatis,
+OA Framework, Fineos, Quipoz, Spring Boot
+Application Servers: Tomcat, Websphere, Jetty, Weblogic, OC4J, SAP
+NetWeaver
+Databases: Oracle, Sql Server, My Sql
+Build Tools: Ant, Maven
+Configuration Tools: CVS, VSS, SVN, ClearCase
+Unit Testing: Junit, Mockito
+CI Tools: Cruise Control, Jenkins, Hudson, Team City
+IDE: JDeveloper, Eclipse, IBM RAD
+Design: Rational Rose, RSA, Enterprise Architect
+O. S: Windows, Unix, Linux, OS X
+Misc.: Web Services, Design Patterns, JDBC, RMI, JNDI, JMS, Network Programming, Java Beans, Java Internationalization, Oracle Workflow, BPEL, JUnit, Oracle Reports, People Tools, Jasper Reports, Acegi, JBoss Portal, LDAP, SOA, Restful, BIRT, JIRA, Crucible, Restlet, Sonar, EJB, Swing, CXF, GWT, Spring Boot, Microservices, AWS, Cloud Foundry</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.930</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>secondary</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Govt Jr College</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Sun Certified Web Component Developer</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Sun Certified</Name>
+				<Id>2</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified Web Component Developer</Name>
+				<Id>3</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Sun Certified Java Programmer</Name>
+				<Id>4</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Sun Certified Java</Name>
+				<Id>5</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified Java Programmer</Name>
+				<Id>6</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified Java</Name>
+				<Id>7</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>SCJP</Name>
+				<Id>8</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>AWS Certified Solution Architect Associate</Name>
+				<Id>9</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>State 3rd Rank in SSC</Name>
+				<Id>10</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>State 115th Rank in EAMCET</Name>
+				<Id>11</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Languages>
+			<Language>
+				<LanguageCode>de</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Details of Metro Group, A German giant in retailing business.</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-29</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>JANARDHANA RAO NALAM
+CONTACT DETAILS
+• Mobile: +91 9848179397
+
+• Email: njrcareer@gmail.com
+
+• Skype: live:njrao
+
+• LinkedIn: https://www.linkedin.com/in/janardhana-nalam-68bb5924
+
+• Address: Flat #301, C-Block, Vertex Pride Apartments, Jai Bharat Nagar, Nizampet Road, Hyderabad - 500072
+
+CAREER SUMMARY
+
+Passion for technology and attitude to help business growth with the technical solutions and especially interested in the financial domain.
+15+ Years of Strong expertise in Java/Java EE technologies
+
+Ability to drive and deliver the end to end large scale enterprise solutions independently
+Expertise of working in cloud based micro services architectures
+Strong skills in effectively analysing and debugging complex issues and providing the resolutions.
+Expertise of working in various technologies and frameworks
+Proven ability of leading development teams efficiently
+Familiar with Agile development methodologies
+Professional approach in handling clients and development teams assertively
+Self-motivated and look for the opportunities in challenges
+AWS Certified Solution Architect Associate
+
+OBJECTIVE
+To work in a challenging environment where my knowledge, potential and experience can be better shared, enriched and harnessed for achieving the set organizational goals.
+
+PROFESSIONAL EXPERIENCE
+15+ Years of experience in working in enterprise java technologies
+
+* Mar 2018 - Till Date JP Morgan &amp; Chase, Hyderabad
+As Associate
+
+* Jul 2015 - Jan 2018 as Java Consultant (Contractor) via TEK Systems, Wellington
+Working for the client Argonaut Limited, Wellington from Jul 2016 - Jan 2018
+
+Worked for the client Hewlett Packard Enterprise, Wellington, New Zealand from Jun 2015 - Jul 2016
+
+* August 2013 - June 2015 FINEOS Corporation, Wellington, New Zealand
+As Technical Consultant (working for the client Accident Compensation Corporation(ACC))
+
+* August 2007 - Mar 2013 Wipro Technologies, Hyderabad, India
+As Technical Lead/Architect
+
+* May 2005 - July 2007 Oracle India Private Limited, Hyderabad, India
+As Senior Applications Engineer
+
+* October 2003 - April 2005 Infotech Enterprises Limited, Hyderabad, India
+As Software Engineer
+
+EDUCATION
+* B.Tech. Computer Science Engg. From Andhra University College of Engg., India with 75%
+* Intermediate from Alfa Junior College, Visakhapatnam with 93%
+* SSC from Govt. Jr. College, Ponduru with 93%
+
+TECHNOLOGIES
+Languages: C, C++, Java
+Web Technologies: Servlets, JSP, JSF, HTML, XML, CSS, AJAX,
+JavaScript, Angular JS, Bootstrap, GWT
+Frameworks: Spring, Hibernate, Struts, Axis, Eclipse Link, MyBatis,
+OA Framework, Fineos, Quipoz, Spring Boot
+Application Servers: Tomcat, Websphere, Jetty, Weblogic, OC4J, SAP
+NetWeaver
+Databases: Oracle, Sql Server, My Sql
+Build Tools: Ant, Maven
+Configuration Tools: CVS, VSS, SVN, ClearCase
+Unit Testing: Junit, Mockito
+CI Tools: Cruise Control, Jenkins, Hudson, Team City
+IDE: JDeveloper, Eclipse, IBM RAD
+Design: Rational Rose, RSA, Enterprise Architect
+O. S: Windows, Unix, Linux, OS X
+Misc.: Web Services, Design Patterns, JDBC, RMI, JNDI, JMS, Network Programming, Java Beans, Java Internationalization, Oracle Workflow, BPEL, JUnit, Oracle Reports, People Tools, Jasper Reports, Acegi, JBoss Portal, LDAP, SOA, Restful, BIRT, JIRA, Crucible, Restlet, Sonar, EJB, Swing, CXF, GWT, Spring Boot, Microservices, AWS, Cloud Foundry
+
+ACCREDITATIONS
+• AWS Certified Solution Architect Associate
+
+• Sun Certified Web Component Developer(SCWCD)
+
+• Sun Certified Java Programmer(SCJP)
+
+• State 3rd Rank in SSC
+
+• State 115th Rank in EAMCET
+
+PROJECT DETAILS
+* Title: ECOLLATERAL
+Duration: Mar 2018 to Current
+Company: JP Morgan &amp; Chase, Hyderabad
+Tools and Technologies: Spring Boot, Spring Data JPA, Gradle, Cassandra, Maria DB, Pivotal Cloud Foundry, Splunk, Dynatrace, Jenkins
+Description:
+ECollateral is the application used by bankers to walk through the customers about financial products and Solutions offered by Chase for its customers. It's a responsive web application developed using micro services architecture, deployed to pivotal cloud foundry.
+Roles and Responsibilities:
+As the Technical Lead,
+I work on the architecture, design, development and release activities primarily.
+* Title: WIMWA (Weigh In Motion)
+Duration: October 2016 to Current
+Company: Argonaut Limited, Wellington
+Client: New Zealand Transport Authority (NZTA), Wellington, New Zealand
+Tools and Technologies: GWT, Spring Boot, Spring Data JPA, Maven, Tomcat, Apache CXF, Sql Server
+Description:
+WIMWA application is used for identifying the overweight trucks. When a overweight truck is identified by a weighing plate on a road, it will send the vehicle record. WIMWA application will match the record against the permit database to identify the weighing limits and if it exceeds the limit, it will alert the police. A Tracking camera will identify such vehicle and automatically signal it to stop
+Roles and Responsibilities:
+As the Senior Technical Consultant,
+I work on the analysis, debugging, design, development, unit testing activities primarily.
+* Title: PACE
+Duration: April 2017 to Till Date
+Company: Argonaut Limited, Wellington
+Client: New Zealand Transport Authority (NZTA), Wellington, New Zealand
+Tools and Technologies: Java, GWT, Spring, Hibernate, Sql Server, Tomcat
+Description:
+PACE is the intranet web application used by the NZTA project managers to assess the various suppliers and contracts.
+The application UI is developed using GWT framework and the services are developed using Spring and the persistence layer is developed using Hibernate and the application is deployed to Tomcat Server.
+Roles and Responsibilities:
+As the Technical Consultant,
+I work on the analysis, debugging, design, development, unit testing activities primarily.
+* Title: SMART Motorway
+Duration: Aug 2016 to Oct 2016
+Company: Argonaut Limited, Wellington
+Client: New Zealand Transport Authority (NZTA), Wellington, New Zealand
+Tools and Technologies: GWT, Spring, Hibernate, Tomcat, Ant
+Description:
+Smart Motorway project is to provide variable speeding signs on the road based on various traffic parameters like volume, occupancy and speed.
+Roles and Responsibilities:
+As the Senior Technical Consultant,
+I work on the analysis, debugging, design, development, unit testing activities primarily.
+* Title: SWIFTT
+Duration: Jun2015 to Jul 2016
+Company: Hewlett Packard Enterprise, Wellington
+Client: Ministry of Social Development(MSD), Wellington, New Zealand
+Tools and Technologies: Core Java, J2EE, Weblogic, Oracle, Soap UI, Web services
+Description:
+SWIFTT is the system used by Work and Income to manage information about recipients of financial assistance and the assistance they receive
+Roles and Responsibilities:
+As the Senior Technical Consultant,
+I work on the analysis, debugging, design, development, unit testing activities primarily.
+I worked on the development of IRIS project, which provides integration to IRD system via SOAP based Web services.
+I worked on the design and development of daily reports and fixing the production faults.
+* Title: EOS
+Duration: August 2013 to Jun 2015
+Company: Fineos, Wellington
+Client: Accident Compensation Commission (ACC), Wellington, New Zealand
+Tools and Technologies: Core Java, J2EE, FINEOS, QAS Web, Web services, Websphere, Oracle, Tomcat
+Description:
+ACC offers free personal accidental cover for all the people who live in New Zealand. EOS is the application used by ACC for lodgement and administering the claims.
+Roles and Responsibilities:
+As the Technical Consultant,
+I work on the analysis, debugging, design, development, unit testing activities primarily.
+I worked on the design and development of Client Service Optimisation project, which will add predictive modelling capability to the application using FINEOS framework and provide analytics features for claims.
+I worked on the design and development of Address Accuracy Project, which will provide the integration to NZ Post address services.
+I worked on the design and development of VCI project, which provides the integration with Oracle Web Centre for content management.
+In addition to above, I worked on some minor projects, BAU projects, production defects etc.
+* Title: NG PORTAL
+Duration: March 2013 to August 2013
+Company: Dell International Services
+Tools and Technologies: Core Java, J2EE, Spring, Restful Web services, Maven, Hudson, Microservices
+Description:
+To develop next generation web portal for tracking all the security incidents occurred at different customer of Dell SecureWorks
+Roles and Responsibilities:
+As the Senior Developer,
+I worked on the design and development of Spring MVC based web portal. Developed the Spring MVC Layer. Developed the RESTFul Webservices. Developed on integrating the BIRT based reporting solution to Webportal.
+* Title: COMPASS
+Duration: Sep 2010 to Mar 2013
+Company: Wipro Technologies
+Client: Westpac, Australia
+Tools and Technologies: Core Java, J2EE, IBM Websphere 6.1, JSP, FINEOS framework, Spring, Apache Axis, Webservices, Ant, Cruise Control, IBM Rational Clearcase, ControlM, Sql Server
+Description:
+Compass is the customized claim processing solutions product from FINEOS (fineos.com). Compass provides the workflow capability to support claims management to allow the business users to lodge claims, create and track various tasks on the claims. It's a feature rich application with lots of extension points for customization and has a rich set of configurable features with various integration points to different other Westpac applications.
+Roles and Responsibilities:
+As the technical architect/lead,
+I've worked extensively on customizing the product by utilising various extension points of the base product.
+My role involves working with business to understand the business requirement and to provide the solution with technical architecture and provide the dev estimates. And then to drive the team with the technical design and development. And then coordinating with various technical teams (at client site) to move the code to various test (SIT and UAT) environments and Production environments. I also worked on 3rd level support where we investigate the unresolved production issues by 2nd level support teams and also provide support for various BAU activities and Performance Tuning.
+My engagement started in this project as a Staff Aug resourcing model at client location in Sydney, and I converted that project to a managed service model, to execute from Wipro offshore location.
+* Title: GASMRA
+Duration: Jan 2010 to Aug 2010
+Company: Wipro Technologies
+Client: NPower, UK
+Tools and Technologies: Java, J2EE, JMS, SAP Netweaver application server, SAP Netweaver Studio, Spring, Webservices, JSF, Eclipselink, Oracle, Ant, Enterprise Architect
+Description:
+GASMRA is part of a Meter Reading Application stack. Npower's GasMRA is an application development which acts as an agent for meter reading in the legacy Gas and Electricity systems. It comprises the flow implementation of the process running across the legacy systems. The application is an add-on to the major functional system of npower called ATLAS. It had a restriction that the application should be an independent JAVA/J2EE application which should be compatible for the SAP CE 7.1 framework.
+Roles and Responsibilities:
+As a technical lead, I worked on providing the technical design for the application. And drove the development of the application. Took up the business and design and code reviews. Developed various tools for automating the generation of workflow classes.
+For this project, I worked along with the Wipro team at the client site in Leeds, UK.
+* Title: B&amp;L Portal
+Duration: Oct 2009 to Dec 2009
+Company: Wipro Technologies
+Client: Bausch &amp; Lomb, UK
+Tools and Technologies: Java, J2EE, JBoss Portal, JSF, LDAP, Oracle, Eclipse
+Description: Bausch&amp;Lomb Portal is to integrate several functional units in the Company to come under one roof. Built on JBossPortal Server, it provides customizable, user centric interface development
+Roles and Responsibilities:
+As a technical lead, I had a short stint in this project where I worked on initial phase of the project to provide the POC of the application based on the client chosen technologies. After demonstrating the technical capability and getting the project, I provided the reference implementation and delegated the development and design work to the actual project team.
+* Title: MedNet Portal
+Duration: Oct 2008 to Oct 2009
+Company: Wipro Technologies
+Client: Hospira
+Tools and Technologies: Core Java, Hibernate, Eclipse, JSF, JBoss, Rich Faces, JUnit, Sql Server, Jasper Reports, Spring, RMI, EJB
+Description:
+This project is to track the usage details of the infuser pumps sold by the Hospira for its customers. It provides options to track the usage of the pumps through several reports. It will allow the creation and maintenance of drug libraries and installations for it. The users of the application are of the different roles, i.e. Admin, Benchmark, MedNet Meds users. The Benchmark and MedNet Meds users will have the access to data of the assigned Health Systems and Facilities.
+Roles and Responsibilities:
+As a technical lead,
+I created the use cases as part of requirements gathering. Did the complete technical design for the project by myself. Did the prototype as POC. Coded the complex functionalities of the application. Took part of Code Reviews and Performance Tuning. Took care of the complete build and deployment responsibility
+* Title: ACS HealthCare System ES
+Duration: Aug 2007 to Oct 2008
+Company: Wipro Technologies
+Client: ACS
+Tools and Technologies: Core Java, Hibernate, RAD, JSF, Web Sphere, Oracle, JUnit
+Description:
+ACS Enterprise System consists of the specific functionalities of Medicaid Management Information System (MMIS), Pharmacy Benefit Management System (PBMS - also referred to as POS) and Enrolment Broker which is developed into a single "Enterprise System". It is built on industry-standards aligning with MITA (Medicaid Technology Information Architecture) guidelines, and adapting Service Oriented Architecture principles, to enable ACS client implementations to leverage the benefits of extensibility, manageability using services. The primary business function of the Enterprise System is to receive, adjudicate and pay claims to medical services providers in support of multiple health improvement initiatives operated by the States. The objective of the Enterprise initiative is to create a "Core Application" that can be readily customized for individual ACS customers, with minimal effort and maximal manageability
+Roles and Responsibilities:
+I worked on Technical Design for the Program Module. And I worked on development of the complex functionalities of the Program module. Majorly worked on IBM WebSphere Portal with JSF. I did the code reviews. Involved in build and deployment of the application.
+* Title: Oracle Academic Enterprise Initiative
+Duration: December 2006 to July 2007
+Company: Oracle India Pvt. Limited
+Tools and Technologies: Web Services, Apache Axis, JMS, Spring, Hibernate, My SQL, XML, People Tools, Eclipse,
+Description:
+The AEI proposes to use open architectures and standards-based specifications to allow institutions to deploy a highly-integrated environment in which all of an institution's academic systems talk to each other, but with the flexibility to allow institutions to choose which applications they want to deploy as part of the system and how those applications interact.
+Central to this intended offering is Oracle's implementation of Sakai for Oracle as the AEI course management system. As an open source software project developed by and for higher education, Sakai provides solid, core course management functionality on an open and extensible framework and a collaborative community of developers and users that will continue to drive transformative change in collaboration and learning environment applications.
+Roles and Responsibilities:
+Involved in architecting the solution for the Phase 1 of the AEI. Developed the web services in Peoplesoft Campus Solutions using Integration Broker Technology and People Code. Developed Web services in Sakai using Apache Axis. Developed both the inbound and outbound solutions and integrated them by calling each other. Developed JSF Tools using Sakai Framework and developed application services using Spring Framework and Hibernate.
+* Title: Oracle Personal Portfolio
+Duration: Jan 2006 to November 2006
+Company: Oracle India Pvt. Limited
+Tools and Technologies: OA Framework, Struts, JSP, Servlets, SQL, PL/SQL, OC4J, JDeveloper, Oracle, XML
+Description:
+Oracle Personal Portfolio allows the Students to publish their work in a convenient way to the others particularly to the potential employers. Student can create a portfolio of his work by using html pages and artifacts. User can publish the created portfolio to the other users and career center services. The viewers can view the portfolio and can give the comments, which can be seen by the user later. The administrator can publish templates and provide artifacts so that the user can use them while creating portfolios of their work.
+Roles and Responsibilities:
+Involved in coding and bug fixing and peer reviewing of the R12 release of the IGP.A functionality. Involved in Technical Designs and Prototyping of the IGP.B functionality.
+* Title: OSS - Enrollment
+
+Duration: July 2005 to Dec 2005
+Company: Oracle India Pvt. Limited
+Tools and Technologies: OA Framework, Struts, JSP, Servlets, SQL, PL/SQL, OC4J, JDeveloper, Oracle
+Description:
+Enrollment is part of the Oracle E-Business Suite Application, Oracle Student System. This basically deals with what are the course offerings in the university and the details include season, Term, Faculty etc. information. Through this, student can view and enroll himself into the selected course offerings and administrator can enroll a student into a particular course and the administrator can approve or decline the particular enrollments of students etc.
+Roles and Responsibilities:
+Involved in coding and bug fixing of the IGS.M release of the Enrollment module. Developed the Scheduling functionality of the Enrollment module. Developed PL/Sql routines for the other functionalities.
+* Title: LOGOS
+
+Duration: Nov 2004 to Apr 2005
+Company: Infotech Enterprise Limited
+Tools and Technologies: Swing, EJB, JClass, Top Link, OC4J, Oracle 9i Application Server, Oracle 9i Database, Oracle Report Server, JDeveloper, JUnit, ANT, CVS, VSS, QTP, Rational Rose, RMI
+Description:
+LOGOS is to handle the Logistic Details of Metro Group, A German giant in retailing business. Our project constitutes of 5 modules namely Billing, Master Data, Admin, Simulation and Self Disposition.
+I worked in Billing Module and developed 11 use cases, which deal with the maintenance of entities used in the Billing process and the use case which deals with the Manual Billing, through which the actual Billing will happen for the transactions held.
+Roles and Responsibilities:
+Involved in developing the Swing UI for prototyping. Involved in writing the controllers and middleware functionality by writing in EJBs. Coded the Billing module functionality. Did the testing for MasterData module Did the R&amp;D on enhancing the framework functionality and bug fixing.</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>JANARDHANA RAO NALAM's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Sales (mostly Entry Level). JANARDHANA RAO NALAM has 16 years of work experience, with 6 years of management experience, including a low-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>188</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>23</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>30</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>67</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 8/1/2007, the candidate held the following low-level management position for 5 years and 7 months:
+	Title: Technical Lead/Architect for Wipro Technologies</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="98">
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="96" percentOfParentTaxonomy="98">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="EJB" id="339002" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="J2EE" id="020255" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="30" lastUsed="2018-01-01" whereFound="Found in CERTIFICATIONS; EDUCATION; PROJECT_HEADERS; SUMMARY; WORK HISTORY; DEG-2; POS-2">
+									<sov:ChildSkill name="HIBERNATE" id="3391127" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:ChildSkill>
+									<sov:ChildSkill name="JAVA TECHNOLOGIES" id="020272" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JBOSS" id="020279" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="JMS" id="020323" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="JNDI" id="339047" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="JSF" id="339034" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="JSP" id="339001" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="RMI" id="339024" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="SERVLETS" id="007817" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="STRUTS" id="026009" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="SUN" id="008895" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="UNIX" id="01026309" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APPLICATION DEVELOPMENT" id="021556" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="APPLICATION SERVER" id="024219" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="CODING" id="013739" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="CONTENT MANAGEMENT" id="022339" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DESIGN PATTERNS" id="015257" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="GRADLE" id="3391152" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in EDUCATION; DEG-2">
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="MIDDLEWARE" id="025406" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="19" lastUsed="2005-04-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="Subversion" id="1004756" existsInText="false">
+									<sov:ChildSkill name="SVN" id="100475601" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="AJAX" id="196001" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="E-BUSINESS" id="015836" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="INTRANET" id="024782" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SOA" id="031030" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="TOMCAT" id="009664" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="WEB PORTAL" id="011010" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="WEB SPHERE" id="011024" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEBLOGIC" id="025364" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="WEBSPHERE" id="026748" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JDBC" id="020287" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="PL/SQL" id="004871" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="ENTERPRISE ARCHITECT" id="016666" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="INFORMATION ARCHITECTURE" id="019774" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MVC" id="003233" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="RATIONAL" id="025096" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="RATIONAL ROSE" id="025407" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="TECHNICAL ARCHITECTURE" id="009232" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="TECHNICAL DESIGN" id="025754" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="USE CASE" id="024596" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="USE CASES" id="010312" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="HP UNIFIED FUNCTIONAL TESTING" id="2000002" existsInText="false">
+									<sov:ChildSkill name="QTP" id="200000204" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="JUNIT" id="020369" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="UAT" id="010065" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="UNIT TESTING" id="010254" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="ANT" id="2510002" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="CLEARCASE" id="024051" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MAVEN" id="2510001" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CASSANDRA" id="5530915" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JBOSS" id="5530783" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="JMS" id="5530786" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="SPLUNK" id="5530851" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CVS" id="014772" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="VSS" id="010741" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="MODEL VIEW CONTROLLER" id="5520572" existsInText="false">
+									<sov:ChildSkill name="MVC" id="552057201" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="RESTFUL WEB SERVICES" id="5520591" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SOAP" id="5520605" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="HDS CRUISE CONTROL" id="5551142" existsInText="false">
+									<sov:ChildSkill name="CRUISE CONTROL" id="555114201" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="UNIX" id="5551207" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="ERP and CRM" id="195" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="PEOPLE CODE" id="004531" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PEOPLESOFT" id="004536" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SAP" id="007436" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DESIGN PATTERNS" id="7310026" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="INFORMATION ARCHITECTURE" id="7310035" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MODEL-VIEW-CONTROLLER" id="7310042" existsInText="false">
+									<sov:ChildSkill name="MVC" id="7310043" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="USER INTERFACE" id="7310067" existsInText="false">
+									<sov:ChildSkill name="UI" id="7310068" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="LDAP" id="020651" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="BILLING" id="022475" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="FRAMEWORKS" id="017954" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="OPEN SOURCE" id="003842" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SOAP" id="008187" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="ASTERADATA" id="5500311" existsInText="false">
+									<sov:ChildSkill name="CASSANDRA" id="550031101" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="TEAM CITY" id="5510147" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Privacy and Data Security" id="556" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SPLUNK" id="5551270" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="RSA" id="007273" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="1">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="1" percentOfParentTaxonomy="98">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" totalMonths="21" lastUsed="2019-11-29" whereFound="Found in CERTIFICATIONS; SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Direct Sales" id="102" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="E-BUSINESS" id="025686" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="0">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="0" percentOfParentTaxonomy="29">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PROTOTYPE" id="5570148" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY">
+									<sov:ChildSkill name="PROTOTYPING" id="5570149" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY">
+									<sov:ChildSkill name="INFORMATION ARCHITECTURE" id="5570244" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="PROTOTYPE" id="5570107" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY">
+									<sov:ChildSkill name="PROTOTYPING" id="5570108" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="INFORMATION ARCHITECTURE" id="5570029" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PROTOTYPE" id="5570036" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Research" id="558" percentOfOverall="0" percentOfParentTaxonomy="13">
+								<sov:Skill name="PROTOTYPES" id="5570209" existsInText="false">
+									<sov:ChildSkill name="PROTOTYPE" id="5570210" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="PROTOTYPE" id="5570097" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="0">
+							<sov:Subtaxonomy name="Budget Related" id="516" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="COMPENSATION" id="014003" existsInText="true" totalMonths="22" lastUsed="2015-06-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="0">
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="0" percentOfParentTaxonomy="46">
+								<sov:Skill name="JSF" id="020356" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="PROTOTYPING" id="080751" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Design" id="134" percentOfOverall="0" percentOfParentTaxonomy="22">
+								<sov:Skill name="PROTOTYPING" id="080932" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="TECHNICAL DESIGN" id="025755" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="11">
+								<sov:Skill name="PROTOTYPING" id="080476" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Military" id="267" percentOfOverall="0" percentOfParentTaxonomy="11">
+								<sov:Skill name="SONAR" id="026260" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="0" percentOfParentTaxonomy="11">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="293" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="AWS CERTIFIED" id="025597" existsInText="true" whereFound="Found in CERTIFICATIONS; SUMMARY"></sov:Skill>
+								<sov:Skill name="AXIS" id="024192" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+								<sov:Skill name="PUMPS" id="025923" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="0">
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="0" percentOfParentTaxonomy="41">
+								<sov:Skill name="POINT OF SALE" id="1400219" existsInText="false">
+									<sov:ChildSkill name="POS" id="1400220" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="0" percentOfParentTaxonomy="39">
+								<sov:Skill name="INBOUND AND OUTBOUND" id="1400000" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="INFORMATION ARCHITECTURE" id="1400246" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="0">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS REQUIREMENTS" id="022626" existsInText="false">
+									<sov:ChildSkill name="REQUIREMENTS GATHERING" id="006835" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="WORKFLOW" id="024213" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="0">
+							<sov:Subtaxonomy name="Software" id="320" percentOfOverall="0" percentOfParentTaxonomy="76">
+								<sov:Skill name="WEBSPHERE" id="026749" existsInText="true" whereFound="Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Standards, Protocols, Technologies" id="317" percentOfOverall="0" percentOfParentTaxonomy="24">
+								<sov:Skill name="IGP" id="019515" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="0">
+							<sov:Subtaxonomy name="Payroll" id="961" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="CLAIMS" id="022239" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounts Receivable" id="940" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="MEDICAID" id="021521" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounts Payable" id="933" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="CLAIMS" id="013345" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Nursing" id="99" percentOfOverall="0">
+							<sov:Subtaxonomy name="Billing and Coding" id="421" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BILLING" id="080120" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="CODING" id="023717" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="0">
+							<sov:Subtaxonomy name="Logistics" id="460" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="SCHEDULING" id="022740" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Supply Chain" id="461" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CONTRACTS" id="014311" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="Planning" id="208" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="SCHEDULING" id="022739" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Clinical" id="28" percentOfOverall="0">
+							<sov:Subtaxonomy name="Claims and Billing" id="269" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CLAIMS" id="022238" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Coding" id="270" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CODING" id="013742" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Insurance" id="19" percentOfOverall="0">
+							<sov:Subtaxonomy name="Claims and Adjusting" id="408" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CLAIMS" id="022237" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Admin and Clerical" id="412" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CODING" id="013740" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Healthcare Non-physician Non-nurse" id="95" percentOfOverall="0">
+							<sov:Subtaxonomy name="Allied Health" id="158" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="HEALTHCARE" id="018806" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="165" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="PHARMACY" id="004648" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="0">
+							<sov:Subtaxonomy name="Intellectual Property" id="395" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="OPEN SOURCE" id="3950001" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Contracts" id="396" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CONTRACTS" id="014309" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PERFORMANCE TUNING" id="004550" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="0">
+							<sov:Subtaxonomy name="Drilling" id="441" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="OFFSHORE" id="003754" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="1" ends="11" sectionType="CONTACT INFO">CONTACT DETAILS</sov:Section>
+				<sov:Section starts="12" ends="26" sectionType="SUMMARY">CAREER SUMMARY</sov:Section>
+				<sov:Section starts="27" ends="29" sectionType="OBJECTIVE">OBJECTIVE</sov:Section>
+				<sov:Section starts="30" ends="52" sectionType="WORK HISTORY">PROFESSIONAL EXPERIENCE</sov:Section>
+				<sov:Section starts="53" ends="75" sectionType="EDUCATION">EDUCATION</sov:Section>
+				<sov:Section starts="76" ends="86" sectionType="CERTIFICATIONS">ACCREDITATIONS</sov:Section>
+				<sov:Section starts="87" ends="247" sectionType="PROJECT_HEADERS">PROJECT DETAILS</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Mobile: +91 9848179397</sov:Phone>
+					<sov:Phone>+91 9848179397</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>janardhana-nalam</sov:Name>
+					<sov:Name>JANARDHANA RAO NALAM</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>njrcareer@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>https://www.linkedin.com/in/janardhana-nalam-68bb5924</sov:Url>
+					<sov:Url>fineos.com</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Flat #301, C-Block, Vertex Pride Apartments, Jai Bharat Nagar, Nizampet Road</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>19328</sov:ParsedTextLength>
+			<sov:ParseTime>859</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:303;6] The following section in the resume contains more content than the work history and education sections combined: 'PROJECT DETAILS'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:221;POS-3,POS-4] We could not find a job title for: POS-3, POS-4. Every position in a resume should have a job title.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:161;DEG-2] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:ae2bb584-dd93-4cb4-8b7a-59fea64a06da</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.9.0</sov:ParserVersion>
+			<sov:DigitalSignature>tu/7//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

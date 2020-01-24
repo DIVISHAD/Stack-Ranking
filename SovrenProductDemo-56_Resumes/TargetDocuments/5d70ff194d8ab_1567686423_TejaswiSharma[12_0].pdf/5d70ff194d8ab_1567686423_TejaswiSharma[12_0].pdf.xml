@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Tejaswi Sharma</FormattedName>
+				<GivenName>Tejaswi</GivenName>
+				<FamilyName>Sharma</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>9810309847</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>tej.nri@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Engineering Manager and a Software Architect with a specialization on evaluation and
+management of projects with open source technologies having 9 years of experience.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Intelligent Studious</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Engineering Manager</Title>
+					<OrgName>
+						<OrganizationName>Intelligent Studious</OrganizationName>
+					</OrgName>
+					<Description>This company is a offshore development center for stripes39 group of companies. Our
+primary clients are concept.com, cmn.com, educationlabs.com. They all are mostly into
+education portfolio business and generate leads for universities in US.
+●   We have about 250+ websites to maintain for new features, seo updates and other
+works.
+●   Some of the big sites that we maintain are w ww.accreditedonlinecolleges.org,
+www.collegeathome.com, www.edudemic.com
+●   We are a very small team(4 people) but we are single handedly managing work of this
+magnitude alone.
+●   To achieve this kind of work we have created lots of tools and have automated most of
+our works. For example one of the things in our compliance matrix is that all the sites in our portfolio should be mobile friendly to google. We have created a script which uses
+selenium and checks each and every website of ours on google website that it's mobile
+friendly or not. If it sees some url is not complying it sends a mail to us and we
+immediately look into it.
+●   Most of our websites in wordpress so we have developed many themes and plugin for
+our websites to do many things.
+●   We have also developed many reporting tools which uses google analytics and webmasters apis and keep checking our websites on the parameters we have set. If any
+parameter (eg. bounceRate, totalPageviews etc) is going haywire it sends us reports
+immediately and we focus only on those issues.
+●   In addition to that we maintain all the backend servers of the company. We have the the biggest of instances that AWS(amazon) can offer and we maintain each and every
+aspect of it. We have automated this process also by using chef and knife tools.
+Technologies Used:
+
+Apache, PHP, HTML, CSS, Mysql, Javascript, NodeJs, Haraka, Varnish, EC2, ELB, Route53,
+S3, Aurora RDS, Symfony, Twig, jQuery, AngularJs, Bootstrap, Wordpress, Less, Sass, Git,
+Zabbix, Selenium, Webpagetest, Chef, Nginx, Jenkins CI</Description>
+					<StartDate>
+						<YearMonth>2014-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 86% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Executive (VP, Dept Head)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Intelligent Studious</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Engineering Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Intelligent Studious</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Meritnation.com</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Project Manager</Title>
+					<OrgName>
+						<OrganizationName>Meritnation.com</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>Meritnation.com</WebSite>
+					</OrgInfo>
+					<Description>●   This company is an educational portal for kids from class 1st to 12th
+●   My role in this company is to handle a group of few talented people and led them to handle parts of website like Blog and Expert module.
+●   Expert module is the one in which we give our full coverage. As I said my company owns
+an education portal. At this portal students can ask any questions related to any subject.
+A dedicated team of experts and freelancers continuously keep on answering these
+questions and our team's job is to send all the relevant questions to relevant experts.
+●   This module also generate a large number of reports and some critical reports are used
+for the payments to freelancers.
+●   Our team is also a hub to request all the small changes and marketing pages
+requirements, which needs to go very quickly on live site.
+●   Due to large numbers of requests from number of other teams, We created our own
+mechanism of sending well organized and controlled releases in the form of bundles. We
+created our own shell scripts to do that and now it has become a standard in this
+company.
+●   To improve the standard environment on development machine we created our own
+LAMP stack with which a developer can recreate his system with in 10 minutes from scratch.
+●   To increase the control upon our code, I have written a PHP framework from scratch
+called crucible. I have put it as open source and hosted on github.
+https://github.com/thecrucible/crucible
+
+Technologies used:
+
+Apache, PHP, Mysql, Varnish, Git, CakePHP, Symfony, Javascript, jQuery, Mongodb,
+Bashscript</Description>
+					<StartDate>
+						<YearMonth>2013-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2014-05</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 76% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BQ">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Meritnation.com</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Project Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Meritnation.com</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Berkshire India Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Architect and Product Manager</Title>
+					<OrgName>
+						<OrganizationName>Berkshire India Limited</OrganizationName>
+					</OrgName>
+					<Description>This company is an insurance company and an indirect subsidiary of Berkshire
+Hathaway. It uses a web portal and a call center to sell insurance policies.
+●   My job was to maintain the whole technical aspect of the business and created the whole IT infrastructure of the company.
+●   Associated to this company from its inception.
+●   Hired the whole technical team including software development team, Server Admin and System Support team and testing team.
+●   We created Motor Insurance, Travel Insurance, Travel Group insurance, Health
+Insurance, Personal Accident cover and Lead management system products.
+●   We also revamped the motor insurance and travel insurance products twice.
+●   Created the whole IT infrastructure of the company from scratch including cloud servers,
+MySQL cluster, inhouse system networking, inhouse zimbra mail server, Inhouse VOIP
+calling server, sonicwall firewall, internet lease lines, gigabit switches, PRI calling lines
+etc.
+●   Created own bare minimum version of Linux to be used on some of the servers.
+
+Technologies Used:
+Apache, PHP, Mysql, Mysql Cluster, Javascript, SVN, YUI, jQuery, AWS, Netmagic, Sonicwall,
+Asterisk, PRI Calling lines, Call center solutions</Description>
+					<StartDate>
+						<YearMonth>2011-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2013-07</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 94% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Berkshire India</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Architect and Product Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Berkshire India</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Infoedge India Limited (naukri.com)</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Infoedge India Limited (naukri.com)</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>naukri.com</WebSite>
+					</OrgInfo>
+					<Description>This company is the most successful company in internet industry in India. It owns one
+of the most popular products like naukri.com, 99acres.com, jeevansathi.com, brijj.com,
+siksha.com etc.
+●   Worked on brijj.com product to make it a linkedin replacement in India.Worked on some
+core module of website like home page, inbox, and groups and created some of them
+from scratch.
+●   Created code and software to be used on very huge set of data and user activity.
+●   Created architectures having more emphasis on frontend, to lower server's load and generate quick response to the user's action.
+
+Technologies Used:</Description>
+					<StartDate>
+						<YearMonth>2008-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2011-05</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Infoedge India naukri.com</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Software Engineer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Software Engineer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Infoedge India naukri.com</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Apache</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior PHP Developer</Title>
+					<OrgName>
+						<OrganizationName>Apache</OrganizationName>
+					</OrgName>
+					<Description>Convex Digital
+
+
+●   This company was a service based software company and used to take projects through
+bids on various hire professional websites and through own permanent clients.
+●   Worked on various types of projects like hire professional's websites, dating websites,
+gaming websites etc.
+
+Technologies Used:
+Apache, PHP, Mysql, Javascript, HTML, CSS</Description>
+					<StartDate>
+						<YearMonth>2007-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2008-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Apache</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior PHP Developer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>PHP Developer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Apache</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Engineering in Electronics and Communication</DegreeName>
+					<DegreeDate>
+						<Year>2007</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Electronics and Communication</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2007</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Bachelor of Engineering in Electronics and Communication from Rajiv Gandhi Technical
+University, Bhopal in 2007</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Tejaswi Sharma
+Engineering Manager
+Intelligent Studios Pvt Ltd
+9810309847, tej.nri@gmail.com
+
+
+Overview
+Engineering Manager and a Software Architect with a specialization on evaluation and
+management of projects with open source technologies having 9 years of experience.
+
+
+Summary of work experience
+
+Engineering Manager	May 2014 - Present
+Intelligent Studious
+
+
+●   This company is a offshore development center for stripes39 group of companies. Our
+primary clients are concept.com, cmn.com, educationlabs.com. They all are mostly into
+education portfolio business and generate leads for universities in US.
+●   We have about 250+ websites to maintain for new features, seo updates and other
+works.
+●   Some of the big sites that we maintain are w ww.accreditedonlinecolleges.org,
+www.collegeathome.com, www.edudemic.com
+●   We are a very small team(4 people) but we are single handedly managing work of this
+magnitude alone.
+●   To achieve this kind of work we have created lots of tools and have automated most of
+our works. For example one of the things in our compliance matrix is that all the sites in
+our portfolio should be mobile friendly to google. We have created a script which uses
+selenium and checks each and every website of ours on google website that it's mobile
+friendly or not. If it sees some url is not complying it sends a mail to us and we
+immediately look into it.
+●   Most of our websites in wordpress so we have developed many themes and plugin for
+our websites to do many things.
+●   We have also developed many reporting tools which uses google analytics and
+webmasters apis and keep checking our websites on the parameters we have set. If any
+parameter (eg. bounceRate, totalPageviews etc) is going haywire it sends us reports
+immediately and we focus only on those issues.
+●   In addition to that we maintain all the backend servers of the company. We have the the
+biggest of instances that AWS(amazon) can offer and we maintain each and every
+aspect of it. We have automated this process also by using chef and knife tools.
+Technologies Used:
+
+Apache, PHP, HTML, CSS, Mysql, Javascript, NodeJs, Haraka, Varnish, EC2, ELB, Route53,
+S3, Aurora RDS, Symfony, Twig, jQuery, AngularJs, Bootstrap, Wordpress, Less, Sass, Git,
+Zabbix, Selenium, Webpagetest, Chef, Nginx, Jenkins CI
+
+
+Project Manager	July 2013 - May 2014
+Meritnation.com
+
+
+●   This company is an educational portal for kids from class 1st to 12th
+●   My role in this company is to handle a group of few talented people and led them to
+handle parts of website like Blog and Expert module.
+●   Expert module is the one in which we give our full coverage. As I said my company owns
+an education portal. At this portal students can ask any questions related to any subject.
+A dedicated team of experts and freelancers continuously keep on answering these
+questions and our team's job is to send all the relevant questions to relevant experts.
+●   This module also generate a large number of reports and some critical reports are used
+for the payments to freelancers.
+●   Our team is also a hub to request all the small changes and marketing pages
+requirements, which needs to go very quickly on live site.
+●   Due to large numbers of requests from number of other teams, We created our own
+mechanism of sending well organized and controlled releases in the form of bundles. We
+created our own shell scripts to do that and now it has become a standard in this
+company.
+●   To improve the standard environment on development machine we created our own
+LAMP stack with which a developer can recreate his system with in 10 minutes from
+scratch.
+●   To increase the control upon our code, I have written a PHP framework from scratch
+called crucible. I have put it as open source and hosted on github.
+https://github.com/thecrucible/crucible
+
+Technologies used:
+
+Apache, PHP, Mysql, Varnish, Git, CakePHP, Symfony, Javascript, jQuery, Mongodb,
+Bashscript
+
+
+Architect and Product Manager	May 2011 - July 2013
+Berkshire India Limited
+●   This company is an insurance company and an indirect subsidiary of Berkshire
+Hathaway. It uses a web portal and a call center to sell insurance policies.
+●   My job was to maintain the whole technical aspect of the business and created the
+whole IT infrastructure of the company.
+●   Associated to this company from its inception.
+●   Hired the whole technical team including software development team, Server Admin and
+System Support team and testing team.
+●   We created Motor Insurance, Travel Insurance, Travel Group insurance, Health
+Insurance, Personal Accident cover and Lead management system products.
+●   We also revamped the motor insurance and travel insurance products twice.
+●   Created the whole IT infrastructure of the company from scratch including cloud servers,
+MySQL cluster, inhouse system networking, inhouse zimbra mail server, Inhouse VOIP
+calling server, sonicwall firewall, internet lease lines, gigabit switches, PRI calling lines
+etc.
+●   Created own bare minimum version of Linux to be used on some of the servers.
+
+Technologies Used:
+
+Apache, PHP, Mysql, Mysql Cluster, Javascript, SVN, YUI, jQuery, AWS, Netmagic, Sonicwall,
+Asterisk, PRI Calling lines, Call center solutions
+
+
+Senior Software Engineer	Aug 2008 - May 2011
+Infoedge India Limited (naukri.com)
+
+
+●   This company is the most successful company in internet industry in India. It owns one
+of the most popular products like naukri.com, 99acres.com, jeevansathi.com, brijj.com,
+siksha.com etc.
+●   Worked on brijj.com product to make it a linkedin replacement in India.Worked on some
+core module of website like home page, inbox, and groups and created some of them
+from scratch.
+●   Created code and software to be used on very huge set of data and user activity.
+●   Created architectures having more emphasis on frontend, to lower server's load and
+generate quick response to the user's action.
+
+Technologies Used:
+
+Apache, PHP, Mysql, Postfix, javascript, jQuery, Symfony, Smarty
+Senior PHP Developer	Oct 2007 - Aug 2008
+Convex Digital
+
+
+●   This company was a service based software company and used to take projects through
+bids on various hire professional websites and through own permanent clients.
+●   Worked on various types of projects like hire professional's websites, dating websites,
+gaming websites etc.
+
+Technologies Used:
+
+Apache, PHP, Mysql, Javascript, HTML, CSS
+
+
+Education:
+
+Bachelor of Engineering in Electronics and Communication from Rajiv Gandhi Technical
+University, Bhopal in 2007
+
+
+Tejaswi Sharma
+Date: 3rd Nov 2016
+Place: Delhi</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>US</sov:Country>
+				<sov:CultureInfo>en-US</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Tejaswi Sharma's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Sales (mostly General). Tejaswi Sharma has 12 years of work experience, with 6 years of management experience, including a mid-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>146</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>29</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>85</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>77</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>mid-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>55</sov:HighestManagementScore>
+				<sov:ExecutiveType>business_dev</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a mid-level management role: Engineering Manager
+Starting on 5/1/2014, the candidate held the following mid-level management position for 5 years and 7 months:
+	Title: Engineering Manager for Intelligent Studious
+Starting on 7/1/2013, the candidate held the following low-level management position for 10 months:
+	Title: Project Manager for Meritnation.com</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="94">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="44" percentOfParentTaxonomy="46">
+								<sov:Skill name="Git" id="1004755" existsInText="true" totalMonths="77" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="77" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-5"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" totalMonths="113" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-3; POS-5" childrenTotalMonths="67" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" totalMonths="113" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-3; POS-5" childrenTotalMonths="87" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="SYMFONY" id="3391114" existsInText="true" totalMonths="87" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="REPORTING TOOLS" id="006823" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="33" lastUsed="2011-05-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false" childrenTotalMonths="26" childrenLastUsed="2013-07-01">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="Subversion" id="1004756" existsInText="false" childrenTotalMonths="26" childrenLastUsed="2013-07-01">
+									<sov:ChildSkill name="SVN" id="100475601" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="14" percentOfParentTaxonomy="14">
+								<sov:Skill name="jQuery" id="339048" existsInText="true" totalMonths="113" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-3; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="14" percentOfParentTaxonomy="14">
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" totalMonths="113" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-3; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="7" percentOfParentTaxonomy="8">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" totalMonths="103" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="LINUX" id="023926" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="SHELL SCRIPTS" id="007926" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="5" percentOfParentTaxonomy="5">
+								<sov:Skill name="CSS" id="014705" existsInText="true" totalMonths="77" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-5"></sov:Skill>
+								<sov:Skill name="LAMP Stack" id="196002" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in WORK HISTORY; POS-2" childrenTotalMonths="10" childrenLastUsed="2014-05-01">
+									<sov:ChildSkill name="LAMP" id="19600201" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="nginx" id="1004758" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="WEB PORTAL" id="011010" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="4" percentOfParentTaxonomy="5">
+								<sov:Skill name="ANGULARJS" id="5520505" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SASS" id="5520599" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="VOIP" id="5520617" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="Amazon Elastic Compute Cloud" id="5500001" existsInText="false" childrenTotalMonths="67" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="EC2" id="550000102" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="CHEF" id="0146072" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="NETWORKING" id="3490044" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="SERVER ADMIN" id="007797" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="SELENIUM" id="2000001" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="OPEN SOURCE" id="003842" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Telephony" id="347" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="VOIP" id="027110" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="FIREWALL" id="025358" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="PROJECT MANAGER" id="022909" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="IT INFRASTRUCTURE" id="020223" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="2">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="2" percentOfParentTaxonomy="100"></sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="1">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="WORDPRESS" id="3391111" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="1">
+							<sov:Subtaxonomy name="Drilling" id="441" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="OFFSHORE" id="003754" existsInText="true" totalMonths="67" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="0">
+							<sov:Subtaxonomy name="Brand Management" id="227" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="PRODUCT MANAGER" id="081160" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="0">
+							<sov:Subtaxonomy name="Messages and Contact" id="112" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="ANSWERING" id="023341" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAIL SERVER" id="021069" existsInText="true" totalMonths="26" lastUsed="2013-07-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="0">
+							<sov:Subtaxonomy name="Accounts Payable" id="933" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PAYMENTS" id="004363" existsInText="true" totalMonths="10" lastUsed="2014-05-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="6" ends="10" sectionType="SUMMARY">Overview</sov:Section>
+				<sov:Section starts="11" ends="134" sectionType="WORK HISTORY">Summary of work experience</sov:Section>
+				<sov:Section starts="135" ends="143" sectionType="EDUCATION">Education</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>9810309847</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Tejaswi Sharma</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>tej.nri@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>https://github.com/thecrucible/crucible</sov:Url>
+					<sov:Url>ww.accreditedonlinecolleges.org</sov:Url>
+					<sov:Url>www.collegeathome.com</sov:Url>
+					<sov:Url>www.edudemic.com</sov:Url>
+					<sov:Url>Meritnation.com</sov:Url>
+					<sov:Url>jeevansathi.com</sov:Url>
+					<sov:Url>concept.com</sov:Url>
+					<sov:Url>99acres.com</sov:Url>
+					<sov:Url>naukri.com</sov:Url>
+					<sov:Url>siksha.com</sov:Url>
+					<sov:Url>brijj.com</sov:Url>
+					<sov:Url>cmn.com</sov:Url>
+				</sov:Urls>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>6569</sov:ParsedTextLength>
+			<sov:ParseTime>511</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:4421a569-2d3e-4b09-90d6-7748901f148c</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>4qkEAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

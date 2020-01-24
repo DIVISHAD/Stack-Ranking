@@ -1,0 +1,1969 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Ranjoy Ghosh",
+          "GivenName": "Ranjoy",
+          "FamilyName": "Ghosh"
+        },
+        "ContactMethod": [
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "Mobile": {
+              "FormattedNumber": "9748158413"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "ranjoy.ghosh88@gmail.com"
+          },
+          {
+            "Use": "businessDirect",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetWebAddress": "production.developer.apiture.com"
+          }
+        ]
+      },
+      "Objective": "To be an accomplished professional who strives for excellence at every step of life with a focus on innovation and value addition. Being a techie and also handling a team efficiently. My moto to work as a lead like help others to unblock their problem with an optimized and easy way. And also keep on working with code to as an individual contributor.\r\nHigher Secondary\tUluberia high School\tWBCHSE\t2006   68.30\r\nMadhyamik Pariksha\tUluberia high School\tWBBSE\t2004   80.01",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Valuelabs LLP",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Enterprise Architect",
+                "OrgName": {
+                  "OrganizationName": "Valuelabs LLP"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "AnyDate": "2018-09-21"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Valuelabs",
+                    "sov:NormalizedTitle": "Enterprise Architect"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Valuelabs"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Sears Holdings Corporation",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Technical Lead",
+                "OrgName": {
+                  "OrganizationName": "Sears Holdings Corporation"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "AnyDate": "2016-09-08"
+                },
+                "EndDate": {
+                  "AnyDate": "2018-09-19"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Sears",
+                    "sov:NormalizedTitle": "Technical Lead"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Sears"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "React Js",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "React Js"
+                },
+                "Description": "6\tYes",
+                "StartDate": {
+                  "Year": "2016"
+                },
+                "EndDate": {
+                  "Year": "2016"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-12",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "React Js"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "React Js"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "DynamoDB, Lambda",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "OrgName": {
+                  "OrganizationName": "DynamoDB, Lambda"
+                },
+                "Description": "1. Apiture DevPortal Team Size 14\r\nDetails: Apiture Devportal is an open banking API project. Where developers can create their own SDK to set up any application to use OPEN banking APIs. It is complete banking domain solution. We are providing complete end to end solution for the OPEN API Solution for developers.\r\nUser can request for multiple level API key and access token for multiple environment. It is completely secured and highly scalable. Complete agile process maintained in 3 weeks sprint\r\n\r\nTechnologies used:- NodeJs 11.0.0, REST full web services, AngularJS 7, Jekyll template engine. Complete AWS services, cognito,DynamoDB, SSM, SNS, Route 53, Lambda.\r\n\r\nMy Role:- I am working as Enterprise Architect to work on the end to end solution DFD. And also the process I am handling from the scratch. I initially started this from scratch. Leading a team of 14 in-terms of technical guidance and also engaging myself to take care the delivery.\r\n\r\nIt is a higher version of stripe.com what we are building now. We have version specific API documentation.\r\n\r\nURL:- production.developer.apiture.com\r\n\r\n1. Individual Store View (ISV) , Team Size 10\r\nDetails: Individual Store View (ISV) provides an ability to view any Sears / Kmart store details related to their demographics, physical location, real estate information, competitors, financial performance, BU performance and member performance.\r\nTechnologies used:- node 6.5.4,REST  full web services angular 1.5.4, Google cloud big query, mongo db, solr DB agile process\r\n\r\n1. Amazon Alexa ECHO integration With IBM Watson chatBOT, team size 2.\r\nDetails: Amazon echo device used with node to create a voice automated application for banking front desk as well as some specific department where customer care is integrated as BOT. We integrated IBM Watson chatBOT. Admin can train them as per requirement also.\r\nTechnologies Used: NodeJS, IBM Watson Service, Amazon Echo device, Angular2\r\n\r\n1. IMV analytics web app for 153M active customers individual record and also we are working on the behaviour of individual customer and predict the future purchases of any individual customer. Team size 10 working as Technical Lead also IC.\r\nDetails: as its a analytics platform we are working with we need to handle huge amount of data like 1tb of data we need to process. So we are using Google cloud big query as a big data platform.\r\nTechnologies used:- node 6.5.4, angular 1.5.4, Google cloud big query, mongo db, solr DB\r\n\r\n1. MDE is a analytics platform where we segregate 153M active customers by some predefined filters provided by business unit heads. Team size 10 working as Technical Lead also IC.\r\nDetails: as its a analytics platform we are working with we need to handle huge amount of data like 1tb of data we need to process. So we are using Google cloud big query as a big data platform.\r\nTechnologies used:- node 6.5.4, angular 1.5.4, Google cloud big query, mongo db, solr DB\r\n\r\n1. CSquire Team Size 6. Mean Stack Developer\r\nDetails: CSQUIRE is a business-to-business networking site focused on creating a knowledge sharing community of business software users (ERP, Accounting, Marketing Automation etc.) and software professionals  consultants, consulting organizations and power users.\r\nThe CSQUIRE community is based on profiles of individuals who associate themselves with companies and products.\r\nTechnologies Used: NodeJS,Jade Template, JavaScript, Stripe Payment Gateway, MongoDB, BootStrap, Agile Development,Redis,Strompath\r\n\r\n1. Ubee Chat Team Size 17 Team Lead\r\nNode.Js, AngularJs,RethinkDB,Agile Development,MongoDB\r\nDetails:It's a chat application with some advanced options for users than whatsapp and hike. Multiple new options are there. We are using nodeJS with rethinkDB database in backend for the faster response from server to make the chat application faster. We made this as a chat module. We can call this chat functionality like plug and play. Also have the options to modify the theme and also the restrictions in the chat application\r\n\r\n1. Cisco Collaborative Knowledge team size 6 Mean Stack Developer\r\nNode.JS , elasticsearch,express, mongoDB,Agile Development, Kafka\r\nDetails:This is a tutorial application. Any user can enroll for a course can take a course can ask for a specialist instructor in this application. Have question answer section can clear any doubt in group or direct to sepecialist.We are using elasticsearch a primary DB and mongoDB as a backup DB. Used kafka and storm just not to lose any data if server is down.\r\n\r\nUsing loadbalancer to handle heavy request load.\r\n\r\n\r\nAngularJS Projects:\r\nProject name   Technology Used and Details\r\n1. Codethon\r\nDetails: Its a quiz contest project with a proper admin panel for a Investment banking Wells Fargo. Its a angular JS mobile app where user can answer mcq kind of questions which is generated randomly to the user after submitting answeres all goes to admin panel and amin can choose a winner and after selection user will get a sms and mail notification.\r\n\r\nTechnologies Used: Angular JS,NodeJS Agile Development, twilio, mandrill,\r\n\r\n1. Ubee Chat\r\nNode.Js, AngularJs,RethinkDB,Agile Development,MongoDB\r\nDetails:It's a chat application with some advanced options for users than whatsapp and hike. Multiple new options are there. We are using nodeJS with rethinkDB database in backend for the faster response from server to make the chat application faster. We made this as a chat module. We can call this chat functionality like plug and play. Also have the options to modify the theme and also the restrictions in the chat application\r\n\r\n\r\nPhonegap Projects Details:\r\n\r\nProject Name\tTechnology used   Platform\tLink / Details\r\n1. Live Cricket   Phonegap, HTML 5. Data received through API.   Current Cricket Score Update.   Android 2.2 to latest   It's a simple cricket score update mobile application for android\r\n1. Coca-Cola India (Coke-cci)\r\nPhonegap, HTML 5,\r\n• Data access DB file in device memory. Accessing that DB file directly through my application.\r\n• Bluetooth plugin to connect a printable Bluetooth device and print invoices.\r\n• SQLite Plugin to access a DB file which is within the application.\r\n\r\nAndroid 2.2 to latest\r\n\r\nThis application like maintaining the inventory through a application instead of a notebook in hand. App can directly connect with a Bluetooth printer and able to produce invoice after delivery.\r\n\r\n1. Coke MD\r\nPhonegap, HTML 5,\r\n• Data access -> From xml response.\r\n• Bluetooth plugin to connect a printable Bluetooth device and print invoices.\r\nSQLite Plugin to access a DB file which is within the application.\r\n\r\nAndroid 2.2 to latest\r\n\r\nThis application like maintaining the inventory through a application instead of a notebook in hand. App can directly connect with a Bluetooth printer and able to produce invoice after delivery. This application has offline mode also\r\n\r\n1. StockMD\r\nPhonegap, HTML 5,\r\n• Data access -> From http response.\r\n• Square Card Reader\r\n\r\nAndroid 2.2 to latest and iPad version\r\n\r\nThis is like online clinic and dispensary application\r\n\r\n1. Ubee Chat Mobile app\r\nPhonegap 2.9.0\r\n• HTML5\r\n• Jquery Mobile\r\n• Node.Js + RethinkDB\r\n• Jquery\r\n• Bluetooth plugin\r\n• Transition plugin\r\n• txt file creation and upload in server\r\n\r\nAndroid 2.3 to latest + IOS\r\n\r\n\r\nDatabase management:\r\n\r\n• Mysql database management\r\n• MongoDB\r\n• Sqlite database creation\r\n• Rethink DB\r\n• ElasticSearch\r\n• DynamoDB\r\n\r\nAWS Services\r\n• Cognito\r\n• SSM\r\n• DynamoDB\r\n• Lambda\r\n• Route 53\r\n• SNS",
+                "StartDate": {
+                  "Year": "2016"
+                },
+                "EndDate": {
+                  "Year": "2016"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 58% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-13",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:NumberOfEmployeesSupervised": "14",
+                    "sov:NormalizedOrganizationName": "DynamoDB Lambda"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "DynamoDB Lambda"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Synechron Technologies pvt ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Senior associate",
+                "OrgName": {
+                  "OrganizationName": "Synechron Technologies pvt ltd"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "AnyDate": "2015-10-01"
+                },
+                "EndDate": {
+                  "AnyDate": "2016-08-19"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Synechron Technologies",
+                    "sov:NormalizedTitle": "Senior associate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Synechron Technologies"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "AngularJS",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "AngularJS"
+                },
+                "Description": "8\tNo\r\nRethinkDB nosql db\t2013\t8\tNo",
+                "StartDate": {
+                  "Year": "2015"
+                },
+                "EndDate": {
+                  "Year": "2015"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-8",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "AngularJS"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "AngularJS"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "ElasticSearch",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "ElasticSearch"
+                },
+                "Description": "8\tNo\r\nMongoDB nosql db\t2015\t8\tNo\r\nJavascript\t2011\t9\tNo\r\njQuery\t2011\t9\tNo\r\nAgile Development\t2015\t8\tNo",
+                "StartDate": {
+                  "Year": "2015"
+                },
+                "EndDate": {
+                  "Year": "2015"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-9",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "ElasticSearch"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "ElasticSearch"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "AWS",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "AWS"
+                },
+                "Description": "4\tYes\r\nMean stack(mongo , express, angular , node)   2013\t8\tNo",
+                "StartDate": {
+                  "Year": "2015"
+                },
+                "EndDate": {
+                  "Year": "2015"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-11",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "AWS"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "AWS"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "GI Group India P. Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "Title": "Consultant P3",
+                "OrgName": {
+                  "OrganizationName": "GI Group India P. Ltd"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "AnyDate": "2015-04-27"
+                },
+                "EndDate": {
+                  "AnyDate": "2015-09-30"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "GI Group India P",
+                    "sov:NormalizedTitle": "Consultant P3"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "GI Group India P"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Business On Top",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Software Developer(Team Lead)",
+                "OrgName": {
+                  "OrganizationName": "Business On Top"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "WEST BENGAL"
+                      ],
+                      "Municipality": "Kolkata"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "AnyDate": "2014-07-08"
+                },
+                "EndDate": {
+                  "AnyDate": "2015-04-22"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Business On Top",
+                    "sov:NormalizedTitle": "Software Developer Team Lead",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Software Developer",
+                        "Team Lead"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Business On Top"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "CG Colors Pvt Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Software Developer",
+                "OrgName": {
+                  "OrganizationName": "CG Colors Pvt Ltd"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "DELHI"
+                      ],
+                      "Municipality": "Delhi"
+                    }
+                  }
+                ],
+                "Description": "Expertise Domains: NodeJS, AngularJS, RethinkDB, ElasticSearch, MongoDB, Javascript, jQuery, Agile Development, Phonegap, AWS, Mean stack(mongo , express, angular , node), AWS Services.",
+                "StartDate": {
+                  "AnyDate": "2011-04-26"
+                },
+                "EndDate": {
+                  "AnyDate": "2014-07-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "CG Colors",
+                    "sov:NormalizedTitle": "Software Developer"
+                  }
+                }
+              },
+              {
+                "@positionType": "internship",
+                "Title": "Beginner",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "9\tNo",
+                "StartDate": {
+                  "Year": "2012"
+                },
+                "EndDate": {
+                  "Year": "2012"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-7",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "CG Colors",
+                    "sov:NormalizedTitle": "Beginner"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "CG Colors"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Phonegap",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Phonegap"
+                },
+                "Description": "7\tNo",
+                "StartDate": {
+                  "Year": "2012"
+                },
+                "EndDate": {
+                  "Year": "2012"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-10",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BT",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Phonegap"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Phonegap"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Calcutta institute of technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech",
+                "DegreeDate": {
+                  "Year": "2010"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science & Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2010"
+                    }
+                  }
+                ],
+                "Comments": "B.Tech (Computer Science & Engineering)   Calcutta institute of technology   WBUT\t2010   7.67",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Calcutta institute of technology"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Calcutta Institute of Technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech in Computer Science & Engineering",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science & Engineering"
+                    ]
+                  }
+                ],
+                "Comments": "Last Educational Status: Completed B.Tech in Computer Science & Engineering from Calcutta Institute of Technology.\r\nExamination/Degree\tInstitute\tUniversity/Board   Year   CGPA/Percentage",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:Graduated": "true",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Calcutta Institute of Technology"
+              }
+            }
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Participated in the college cricket tournament in the year 2007, 2008, 2009 and we were the runners up team repeatedly two years in the college"
+          },
+          {
+            "Description": "Participated in the college football tournament in the year 2007, 2008"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "Good Team Member. Trying to do better all the time",
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "Enterprise Architect Handling FullStack Developement\r\n            \r\n\r\nRanjoy Ghosh\r\nHyderabad\tIT Ex.: 8 years\r\nPh: - 9748158413(M);\tNodeJS Ex.: 6.5 years\r\nFull Stack Development Experience: 6 Years\tAngularJS Ex.: 4 Years\r\nEmail: - ranjoy.ghosh88@gmail.com\tNotice period 90 days\r\nSkype:- ranjoy.ghosh88\r\n\r\nObjective: To be an accomplished professional who strives for excellence at every step of life with a focus on innovation and value addition. Being a techie and also handling a team efficiently. My moto to work as a lead like help others to unblock their problem with an optimized and easy way. And also keep on working with code to as an individual contributor.\r\n\r\nLast Educational Status: Completed B.Tech in Computer Science & Engineering from Calcutta Institute of Technology.\r\nExamination/Degree\tInstitute\tUniversity/Board   Year   CGPA/Percentage\r\nB.Tech (Computer Science & Engineering)   Calcutta institute of technology   WBUT\t2010   7.67\r\nHigher Secondary\tUluberia high School\tWBCHSE\t2006   68.30\r\nMadhyamik Pariksha\tUluberia high School\tWBBSE\t2004   80.01\r\n\r\n\r\nProfessional Experiences:\r\nValuelabs LLP\tEnterprise Architect\tHyderabad   21st September 2018 to till date\r\nSears Holdings Corporation\tTechnical Lead   SHI00002761\tBangalore   8th September 2016 to 19th September 2018\r\nSynechron Technologies pvt ltd   Senior associate   12070\tBangalore   1st Oct 2015 to 19th Aug 2016\r\nGI Group India P. Ltd   Contractual with   Capgemini India   Consultant P3 (076474)\tBangalore   27th April 2015 to 30th Sep 2015\r\nBusiness On Top\tSoftware Developer(Team Lead) 0010   Kolkata\t8th July 2014 to 22nd April 2015\r\nCG Colors Pvt Ltd\tSoftware Developer\tDelhi\t26th April 2011 to 4th July 2014\r\n\r\n\r\nExpertise Domains: NodeJS, AngularJS, RethinkDB, ElasticSearch, MongoDB, Javascript, jQuery, Agile Development, Phonegap, AWS, Mean stack(mongo , express, angular , node), AWS Services.\r\nSkill\tUsed Since   Level (Out of 10)   Beginner\r\nNodeJS REST full web services   2012\t9\tNo\r\nAngularJS\t2015\t8\tNo\r\nRethinkDB nosql db\t2013\t8\tNo\r\nElasticSearch\t2015\t8\tNo\r\nMongoDB nosql db\t2015\t8\tNo\r\nJavascript\t2011\t9\tNo\r\njQuery\t2011\t9\tNo\r\nAgile Development\t2015\t8\tNo\r\nPhonegap\t2012\t7\tNo\r\nAWS\t2015\t4\tYes\r\nMean stack(mongo , express, angular , node)   2013\t8\tNo\r\nReact Js\t2016\t6\tYes\r\nAngular 2 type script\t2016\t7\tYes\r\nAWS Cognito, DynamoDB, Lambda   2018\t8\tNo\r\n\r\n\r\nNode Projects:\r\n\r\nProject name And Team Size   Technology Used and Details\r\n1. Apiture DevPortal Team Size 14\r\nDetails: Apiture Devportal is an open banking API project. Where developers can create their own SDK to set up any application to use OPEN banking APIs. It is complete banking domain solution. We are providing complete end to end solution for the OPEN API Solution for developers.\r\nUser can request for multiple level API key and access token for multiple environment. It is completely secured and highly scalable. Complete agile process maintained in 3 weeks sprint\r\n\r\nTechnologies used:- NodeJs 11.0.0, REST full web services, AngularJS 7, Jekyll template engine. Complete AWS services, cognito,DynamoDB, SSM, SNS, Route 53, Lambda.\r\n\r\nMy Role:- I am working as Enterprise Architect to work on the end to end solution DFD. And also the process I am handling from the scratch. I initially started this from scratch. Leading a team of 14 in-terms of technical guidance and also engaging myself to take care the delivery.\r\n\r\nIt is a higher version of stripe.com what we are building now. We have version specific API documentation.\r\n\r\nURL:- production.developer.apiture.com\r\n\r\n1. Individual Store View (ISV) , Team Size 10\r\nDetails: Individual Store View (ISV) provides an ability to view any Sears / Kmart store details related to their demographics, physical location, real estate information, competitors, financial performance, BU performance and member performance.\r\nTechnologies used:- node 6.5.4,REST  full web services angular 1.5.4, Google cloud big query, mongo db, solr DB agile process\r\n\r\n1. Amazon Alexa ECHO integration With IBM Watson chatBOT, team size 2.\r\nDetails: Amazon echo device used with node to create a voice automated application for banking front desk as well as some specific department where customer care is integrated as BOT. We integrated IBM Watson chatBOT. Admin can train them as per requirement also.\r\nTechnologies Used: NodeJS, IBM Watson Service, Amazon Echo device, Angular2\r\n\r\n1. IMV analytics web app for 153M active customers individual record and also we are working on the behaviour of individual customer and predict the future purchases of any individual customer. Team size 10 working as Technical Lead also IC.\r\nDetails: as its a analytics platform we are working with we need to handle huge amount of data like 1tb of data we need to process. So we are using Google cloud big query as a big data platform.\r\nTechnologies used:- node 6.5.4, angular 1.5.4, Google cloud big query, mongo db, solr DB\r\n\r\n1. MDE is a analytics platform where we segregate 153M active customers by some predefined filters provided by business unit heads. Team size 10 working as Technical Lead also IC.\r\nDetails: as its a analytics platform we are working with we need to handle huge amount of data like 1tb of data we need to process. So we are using Google cloud big query as a big data platform.\r\nTechnologies used:- node 6.5.4, angular 1.5.4, Google cloud big query, mongo db, solr DB\r\n\r\n1. CSquire Team Size 6. Mean Stack Developer\r\nDetails: CSQUIRE is a business-to-business networking site focused on creating a knowledge sharing community of business software users (ERP, Accounting, Marketing Automation etc.) and software professionals  consultants, consulting organizations and power users.\r\nThe CSQUIRE community is based on profiles of individuals who associate themselves with companies and products.\r\nTechnologies Used: NodeJS,Jade Template, JavaScript, Stripe Payment Gateway, MongoDB, BootStrap, Agile Development,Redis,Strompath\r\n\r\n1. Ubee Chat Team Size 17 Team Lead\r\nNode.Js, AngularJs,RethinkDB,Agile Development,MongoDB\r\nDetails:It's a chat application with some advanced options for users than whatsapp and hike. Multiple new options are there. We are using nodeJS with rethinkDB database in backend for the faster response from server to make the chat application faster. We made this as a chat module. We can call this chat functionality like plug and play. Also have the options to modify the theme and also the restrictions in the chat application\r\n\r\n1. Cisco Collaborative Knowledge team size 6 Mean Stack Developer\r\nNode.JS , elasticsearch,express, mongoDB,Agile Development, Kafka\r\nDetails:This is a tutorial application. Any user can enroll for a course can take a course can ask for a specialist instructor in this application. Have question answer section can clear any doubt in group or direct to sepecialist.We are using elasticsearch a primary DB and mongoDB as a backup DB. Used kafka and storm just not to lose any data if server is down.\r\n\r\nUsing loadbalancer to handle heavy request load.\r\n\r\n\r\nAngularJS Projects:\r\n\r\nProject name   Technology Used and Details\r\n1. Codethon\r\nDetails: Its a quiz contest project with a proper admin panel for a Investment banking Wells Fargo. Its a angular JS mobile app where user can answer mcq kind of questions which is generated randomly to the user after submitting answeres all goes to admin panel and amin can choose a winner and after selection user will get a sms and mail notification.\r\n\r\nTechnologies Used: Angular JS,NodeJS Agile Development, twilio, mandrill,\r\n\r\n1. Ubee Chat\r\nNode.Js, AngularJs,RethinkDB,Agile Development,MongoDB\r\nDetails:It's a chat application with some advanced options for users than whatsapp and hike. Multiple new options are there. We are using nodeJS with rethinkDB database in backend for the faster response from server to make the chat application faster. We made this as a chat module. We can call this chat functionality like plug and play. Also have the options to modify the theme and also the restrictions in the chat application\r\n\r\n\r\nPhonegap Projects Details:\r\n\r\n\r\nProject Name\tTechnology used   Platform\tLink / Details\r\n1. Live Cricket   Phonegap, HTML 5. Data received through API.   Current Cricket Score Update.   Android 2.2 to latest   It's a simple cricket score update mobile application for android\r\n1. Coca-Cola India (Coke-cci)\r\nPhonegap, HTML 5,\r\n• Data access DB file in device memory. Accessing that DB file directly through my application.\r\n• Bluetooth plugin to connect a printable Bluetooth device and print invoices.\r\n• SQLite Plugin to access a DB file which is within the application.\r\n\r\nAndroid 2.2 to latest\r\n\r\nThis application like maintaining the inventory through a application instead of a notebook in hand. App can directly connect with a Bluetooth printer and able to produce invoice after delivery.\r\n\r\n1. Coke MD\r\nPhonegap, HTML 5,\r\n• Data access -> From xml response.\r\n• Bluetooth plugin to connect a printable Bluetooth device and print invoices.\r\nSQLite Plugin to access a DB file which is within the application.\r\n\r\nAndroid 2.2 to latest\r\n\r\nThis application like maintaining the inventory through a application instead of a notebook in hand. App can directly connect with a Bluetooth printer and able to produce invoice after delivery. This application has offline mode also\r\n\r\n1. StockMD\r\nPhonegap, HTML 5,\r\n• Data access -> From http response.\r\n• Square Card Reader\r\n\r\nAndroid 2.2 to latest and iPad version\r\n\r\nThis is like online clinic and dispensary application\r\n\r\n1. Ubee Chat Mobile app\r\nPhonegap 2.9.0\r\n• HTML5\r\n• Jquery Mobile\r\n• Node.Js + RethinkDB\r\n• Jquery\r\n• Bluetooth plugin\r\n• Transition plugin\r\n• txt file creation and upload in server\r\n\r\nAndroid 2.3 to latest + IOS\r\n\r\n\r\nDatabase management:\r\n\r\n• Mysql database management\r\n• MongoDB\r\n• Sqlite database creation\r\n• Rethink DB\r\n• ElasticSearch\r\n• DynamoDB\r\n\r\nAWS Services\r\n• Cognito\r\n• SSM\r\n• DynamoDB\r\n• Lambda\r\n• Route 53\r\n• SNS\r\n\r\nActivities:\r\n• Participated in the college cricket tournament in the year 2007, 2008, 2009 and we were the runners up team repeatedly two years in the college.\r\n• Participated in the college football tournament in the year 2007, 2008.\r\n\r\nPersonal Details:\r\nDate of birth: 16th February, 1988\r\nFather's Name: Debasish Ghosh\r\nSex: Male\r\nMarital Status: Married\r\n\r\nMy Positive Attitudes:\r\n\r\n• Ability to handle a team. Hard working\r\n• Highly flexible to handle the situation. Stability.\r\n• Good Team Member. Trying to do better all the time.\r\n• Quick Learner under a proper guidance. Never give up. Ambitious.\r\n\r\n\r\nBangalore\tName: Ranjoy Ghosh\tDate:"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1988-02-16"
+          },
+          "sov:Gender": {
+            "@inferred": "false",
+            "#text": "Male"
+          },
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Married"
+          },
+          "sov:FathersName": "Debasish Ghosh"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Ranjoy Ghosh's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Finance (mostly Internal Audit). Ranjoy Ghosh has 9 years of work experience, with several years tenure in management, including a low-level position.",
+          "sov:MonthsOfWorkExperience": "109",
+          "sov:AverageMonthsPerEmployer": "9",
+          "sov:FulltimeDirectHirePredictiveIndex": "33",
+          "sov:MonthsOfManagementExperience": "34",
+          "sov:HighestManagementScore": "25",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": "Starting on 9/8/2016, the candidate held the following low-level management position for 2 years:\r\n\tTitle: Technical Lead for Sears Holdings Corporation\r\nStarting on 7/8/2014, the candidate held the following low-level management position for 9 months:\r\n\tTitle: Software Developer(Team Lead) for Business On Top",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "67",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "17",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "AMAZON DYNAMODB",
+                            "@id": "5530875",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DYNAMODB",
+                                "@id": "553087501",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-13"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ANALYTICS PLATFORM",
+                            "@id": "5530901",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "APACHE SOLR",
+                            "@id": "5530719",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOLR",
+                                "@id": "553071901",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-13"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ELASTICSEARCH",
+                            "@id": "5530744",
+                            "@existsInText": "true",
+                            "@totalMonths": "50",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-6"
+                          },
+                          {
+                            "@name": "ENTERPRISE RESOURCE PLANNING",
+                            "@id": "5530983",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ERP",
+                                "@id": "5530984",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-13"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "KAFKA",
+                            "@id": "5531005",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5530805",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-6; POS-9"
+                          },
+                          {
+                            "@name": "NOSQL",
+                            "@id": "5530812",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-8; POS-9"
+                          },
+                          {
+                            "@name": "REDIS",
+                            "@id": "5530835",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021194",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-6; POS-9",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BOOTSTRAP",
+                                "@id": "3391101",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-13"
+                              },
+                              {
+                                "@name": "NODE.JS",
+                                "@id": "339002002",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-13"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "XML",
+                            "@id": "011476",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "5520503",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "ANGULARJS",
+                            "@id": "5520505",
+                            "@existsInText": "true",
+                            "@totalMonths": "50",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-6"
+                          },
+                          {
+                            "@name": "BOOTSTRAP",
+                            "@id": "5520522",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "HTML5",
+                            "@id": "5520541",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "IOS",
+                            "@id": "5520545",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "IPAD",
+                            "@id": "5520547",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "PHONEGAP",
+                            "@id": "5520586",
+                            "@existsInText": "true",
+                            "@totalMonths": "50",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5500361",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-6; POS-9"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-6; POS-9"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "ENTERPRISE ARCHITECT",
+                            "@id": "016666",
+                            "@existsInText": "true",
+                            "@totalMonths": "26",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-13"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "SQLITE",
+                            "@id": "3391131",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "CISCO",
+                            "@id": "3490003",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "NETWORKING",
+                            "@id": "3490044",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "SMS",
+                            "@id": "081178",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "REST",
+                            "@id": "7180010",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB SERVICES",
+                            "@id": "011022",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM LEAD",
+                            "@id": "009222",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "7310008",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "CISCO",
+                            "@id": "1980018",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ERP",
+                            "@id": "016891",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Internal Audit",
+                        "@id": "706",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNTING",
+                            "@id": "7000058",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounting",
+                        "@id": "705",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNTING",
+                            "@id": "7000036",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Investor Relations",
+                        "@id": "704",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "7000029",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "7000021",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Lending",
+                        "@id": "234",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "080208",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Securities",
+                        "@id": "236",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVESTMENT BANKING",
+                            "@id": "080195",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Billing and Collections",
+                        "@id": "110",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVOICE",
+                            "@id": "020120",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "INVOICES",
+                            "@id": "020124",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Admin",
+                        "@id": "113",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRONT DESK",
+                            "@id": "022328",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Related",
+                        "@id": "115",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MANAGEMENT",
+                            "@id": "015035",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "47",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "15",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS-TO-BUSINESS",
+                            "@id": "081149",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Direct Sales",
+                        "@id": "102",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS-TO-BUSINESS",
+                            "@id": "081153",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Software and Tools",
+                        "@id": "310",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "BLUETOOTH",
+                            "@id": "5000238",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "P3",
+                            "@id": "004198",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2015-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "42",
+                        "sov:Skill": [
+                          {
+                            "@name": "ITS",
+                            "@id": "020239",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "P3",
+                            "@id": "004199",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2015-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Audience",
+                        "@id": "591",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING AUTOMATION",
+                            "@id": "1400122",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNTING",
+                            "@id": "005856",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "INVOICES",
+                            "@id": "020123",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Inventory",
+                        "@id": "459",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVENTORY",
+                            "@id": "020086",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Logistics",
+                        "@id": "460",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "ERP",
+                            "@id": "016892",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EMPLOYEE RESOURCE GROUP",
+                            "@id": "9000074",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ERP",
+                                "@id": "9000075",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-13"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Non-Nuclear Power Misc",
+                        "@id": "924",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021195",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          },
+                          {
+                            "@name": "P3",
+                            "@id": "004200",
+                            "@existsInText": "true",
+                            "@totalMonths": "5",
+                            "@lastUsed": "2015-09-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "12",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@totalMonths": "12",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-13"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Real Estate",
+                        "@id": "399",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL ESTATE",
+                            "@id": "3990000",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOCUMENTATION",
+                            "@id": "022620",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Training",
+                    "@id": "64",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "361",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUCTOR",
+                            "@id": "019876",
+                            "@existsInText": "true",
+                            "@totalMonths": "12",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-13"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "10",
+              "@ends": "11",
+              "@sectionType": "OBJECTIVE",
+              "#text": "Objective:"
+            },
+            {
+              "@starts": "12",
+              "@ends": "14",
+              "@sectionType": "EDUCATION"
+            },
+            {
+              "@starts": "15",
+              "@ends": "18",
+              "@sectionType": "OBJECTIVE"
+            },
+            {
+              "@starts": "19",
+              "@ends": "169",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Professional Experiences"
+            },
+            {
+              "@starts": "170",
+              "@ends": "173",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "Activities"
+            },
+            {
+              "@starts": "174",
+              "@ends": "188",
+              "@sectionType": "CONTACT INFO",
+              "#text": "Personal Details"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Ph: - 9748158413(M)",
+              "9748158413"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Ranjoy Ghosh",
+              "Bangalore\tName: Ranjoy Ghosh\tDate:"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "ranjoy.ghosh88@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "production.developer.apiture.com",
+              "stripe.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Date of birth: 16th February, 1988",
+              "Father's Name: Debasish Ghosh",
+              "Marital Status: Married",
+              "Sex: Male"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "10398",
+        "sov:ParseTime": "3062",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Fatal Problems Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:416;] We found no EDUCATION HISTORY section header for the candidate, but we calculated where we thought EDUCATION HISTORY was located in the resume. The education history section should have a header such as 'Education' before listing the content."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.",
+                    "[Sovren:323;OBJECTIVE] The following section type appeared multiple times in the resume: OBJECTIVE (2 occurrences). Each section type should only appear once in a resume.",
+                    "[Sovren:325;1,2] The following sections do not have a header: Section with index 1 (of type: EDUCATION), Section with index 2 (of type: OBJECTIVE). Every section should have a header directly above the content associated with it."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:221;POS-12,POS-13,POS-8,POS-9,POS-11,POS-10] We could not find a job title for: POS-12, POS-13, POS-8, POS-9, POS-11, POS-10. Every position in a resume should have a job title.",
+                    "[Sovren:222;POS-7] No employer name was found for:  POS-7. Every position in a resume should have an employer name."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Objective:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:e02a6d27-b6b7-4198-a097-c95659082477",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "7XIDAAAAAAA="
+      }
+    }
+  }
+}

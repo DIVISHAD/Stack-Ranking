@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>SANMIT PANKAJ VARTAK</FormattedName>
+				<GivenName>SANMIT</GivenName>
+				<MiddleName>PANKAJ</MiddleName>
+				<FamilyName>VARTAK</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>9834702809</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>sanmitvartak.sv@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<Objective>• To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.
+• Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.</Objective>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>greenbappa.ml for selling eco-friendly ganpati idols</EmployerOrgName>
+				<PositionHistory positionType="internship">
+					<Title>INTERNSHIP PROJECTS</Title>
+					<OrgName>
+						<OrganizationName>greenbappa.ml for selling eco-friendly ganpati idols</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>greenbappa.ml</WebSite>
+					</OrgInfo>
+					<Description>Greenbappa -&gt; Commercial website greenbappa.ml for selling eco-friendly ganpati idols.
+Olcademy  -&gt; Developing online learning website olcademy.in with features like SSO and wallet.
+
+BE PROJECT: Prediction of cyber bulling incident in a media based social network	.</Description>
+					<StartDate>
+						<AnyDate>notKnown</AnyDate>
+					</StartDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Machine Learning</CategoryCode>
+						<Comments>Information Technology describes 67% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>greenbappa.ml for selling eco friendly ganpati idols</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>INTERNSHIP PROJECTS</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>greenbappa.ml for selling eco friendly ganpati idols</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>Government Polytechnic</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Mumbai</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeName>Diploma in Computer Engineering</DegreeName>
+					<DegreeDate>
+						<Year>2017</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2017</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Diploma in Computer Engineering   Government Polytechnic, Mumbai	Autonomous Institute   2017   83.26</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>unspecified</sov:NormalizedDegreeName>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Government Polytechnic</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>New English School</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeName>SSC</DegreeName>
+					<DegreeDate>
+						<Year>2014</Year>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2014</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>DEGREE	INSTITUTION/SCHOOL	BOARD	YEAR   PERCENTAGE
+10th	New English School, Vasai	SSC	2014   87.4</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>secondary</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>New English School</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Rajiv Gandhi Institute Of Technology</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Engineering in Computer Science</DegreeName>
+					<DegreeMajor>
+						<Name>Engineering</Name>
+					</DegreeMajor>
+					<Comments>Bachelor of Engineering in Computer Science   Rajiv Gandhi Institute Of Technology   Mumbai University	2020   65.01</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Rajiv Gandhi Institute Of Technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>SKILL SETS:
+Coding in C, Java, Python, SQL, HTML, CSS, JavaScript, JQuery, Ajax, JSON.</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>10th	New English School, Vasai	SSC	2014</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Positions of Responsibility</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Leading a team with motivation</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>FULL NAME: SANMIT PANKAJ VARTAK
+Email id: sanmitvartak.sv@gmail.com
+CONTACT NUMBER: 9834702809
+SPECIALIZATION: Software Development
+HackerRank: sanmitvartak_sv1
+
+CAREER OBJECTIVE:
+• To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.
+• Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.
+
+ACADEMIC PROFILE:
+DEGREE	INSTITUTION/SCHOOL	BOARD	YEAR   PERCENTAGE
+10th	New English School, Vasai	SSC	2014   87.4
+Diploma in Computer Engineering   Government Polytechnic, Mumbai	Autonomous Institute   2017   83.26
+Bachelor of Engineering in Computer Science   Rajiv Gandhi Institute Of Technology   Mumbai University	2020   65.01
+
+
+PROJECTS:
+INTERNSHIP PROJECTS:
+Greenbappa -&gt; Commercial website greenbappa.ml for selling eco-friendly ganpati idols.
+Olcademy  -&gt; Developing online learning website olcademy.in with features like SSO and wallet.
+
+BE PROJECT: Prediction of cyber bulling incident in a media based social network	.
+
+
+ACTIVITIES:
+• Positions of Responsibility
+➢  Leading a team with motivation.
+• Extra-Curricular Activities
+➢ Participated in sports of college such as Kabaddi, Kho-Kho, etc.
+
+
+SKILL SETS:
+Coding in C, Java, Python, SQL, HTML, CSS, JavaScript, JQuery, Ajax, JSON.
+
+HOBBIES:
+Coding, Gym and fitness, Football, Gaming, etc.</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>US</sov:Country>
+				<sov:CultureInfo>en-US</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>SANMIT PANKAJ VARTAK's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Sales (mostly General). SANMIT PANKAJ VARTAK's experience appears to be entry level, with 0 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>0</sov:MonthsOfWorkExperience>
+				<sov:FulltimeDirectHirePredictiveIndex>0</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="94">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="38" percentOfParentTaxonomy="40">
+								<sov:Skill name="CODING" id="013739" existsInText="true" whereFound="Found in HOBBIES; SKILLS"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JSON" id="5520555" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="13" percentOfParentTaxonomy="14">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="jQuery" id="339048" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="13" percentOfParentTaxonomy="14">
+								<sov:Skill name="AJAX" id="196001" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="12" percentOfParentTaxonomy="13">
+								<sov:Skill name="ONLINE LEARNING" id="7200045" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="12" percentOfParentTaxonomy="13">
+								<sov:Skill name="SSO" id="008513" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="6" percentOfParentTaxonomy="7">
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="6">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="6" percentOfParentTaxonomy="100"></sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Hobbies>
+				<sov:Text>Coding, Gym and fitness, Football, Gaming, etc.</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="6" ends="9" sectionType="OBJECTIVE">CAREER OBJECTIVE</sov:Section>
+				<sov:Section starts="10" ends="16" sectionType="EDUCATION">ACADEMIC PROFILE</sov:Section>
+				<sov:Section starts="17" ends="24" sectionType="WORK HISTORY">PROJECTS</sov:Section>
+				<sov:Section starts="25" ends="27" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">ACTIVITIES</sov:Section>
+				<sov:Section starts="28" ends="31" sectionType="PROFESSIONAL AFFILIATIONS">Extra-Curricular Activities</sov:Section>
+				<sov:Section starts="32" ends="34" sectionType="SKILLS">SKILL SETS</sov:Section>
+				<sov:Section starts="35" ends="36" sectionType="HOBBIES">HOBBIES</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>CONTACT NUMBER: 9834702809</sov:Phone>
+					<sov:Phone>9834702809</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>SANMIT PANKAJ VARTAK</sov:Name>
+					<sov:Name>FULL NAME: SANMIT PANKAJ VARTAK</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>sanmitvartak.sv@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>greenbappa.ml</sov:Url>
+					<sov:Url>olcademy.in</sov:Url>
+				</sov:Urls>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>1398</sov:ParsedTextLength>
+			<sov:ParseTime>265</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:224;POS-1] The following work history position does not have a start date: POS-1. Every position in a resume should have a start date.</sov:Information>
+							<sov:Information>[Sovren:225;POS-1] The following work history position does not have an end date: POS-1. Every position in a resume should have an end date, unless it is a currently held position.</sov:Information>
+							<sov:Information>[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'SKILL SETS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;4] The following section does not have the header on a separate line: 'Extra-Curricular Activities'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+							<sov:Information>[Sovren:161;DEG-1] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:4a413a6c-d5a0-4ad2-b8f0-642cdf8f95b3</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>IgsCAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

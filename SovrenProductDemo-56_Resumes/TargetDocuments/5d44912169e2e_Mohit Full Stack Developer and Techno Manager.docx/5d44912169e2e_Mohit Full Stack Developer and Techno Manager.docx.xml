@@ -1,0 +1,1692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>MOHIT ASHOK KALE</FormattedName>
+				<GivenName>MOHIT</GivenName>
+				<MiddleName>ASHOK</MiddleName>
+				<FamilyName>KALE</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>440 001</PostalCode>
+					<Region>Maharashtra</Region>
+					<Municipality>Nagpur</Municipality>
+					<DeliveryAddress>
+						<AddressLine>technical lead</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91 9766914574</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>8856051511</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>mr.mohit44@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>• Seasoned IT professional with 10 years of comprehensive Technical, Managerial, and Business skill sets
+• Hands-on experience as an Individual contributor / full-stack developer (60-80%) and 20-40% as a Techno Manager
+• Expertise in Cloud apps, Agile, Scrum, Project Estimation/Budgeting, and SaaS (Software as a Service) development
+• Managed teams with more than 20 members from cross-platforms viz. front-end, back-end, Android, iPhone, QA, etc
+• Worked for both, the Product based and Outsourcing companies on multiple technology stacks/frameworks
+• Highly skilled in R&amp;D (any technology/framework), Full Stack Development, Manual Testing, POCs, and MVPs
+• Practical exposure to Hybrid Mobile apps development, and IoT/IIoT software integration/development
+• Managed multiple clients, projects, teams and Single point of Contact for clients from USA, UK, Australia, Canada, etc.
+• Experience of reporting to and working closely with the higher management and directors
+• Proficient problem-solver who envisions business and technical perspectives to develop workable solutions
+• Technical Architect and active member of the entire SDLC life cycle processes
+• Perform code review, version control, deployment; recruitment, training; and give post-release support to clients
+• Organize and conduct technical sessions/seminars on latest technologies and/or project scope
+• Industries served: Real-estate, Logistics, ERP, eCommerce, eLearning, IoT/IIoT, Healthcare, Social Network, etc.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Doyen Solutions</EmployerOrgName>
+				<PositionHistory currentEmployer="true">
+					<Title>Code review, mentor</Title>
+					<OrgName>
+						<OrganizationName>Development Center</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Hyderabad
+Duration and Team Size   From June 2018 to till date (12+ months with 4 team members)
+Project Description
+OLA is a co-living app that manages tenant and vendor services from across multiple buildings/apartments. Some of the services offered and managed are housekeeping, Ollie social, payment management, maintenance requests, etc.
+
+Technologies
+Amazon Cloud services like (IAM, Lambda, Cognito, CloudWatch, SNS, S3, RDS, VPC, etc), Node.js, MySQL, Python, Java, React.js, React Native, Docker, Serverless framework, etc.
+
+Roles and Responsibilities
+• Work closely with the Business users to gather and analyze requirement
+• Design and develop system workflow and architecture
+• Micro services development via Lambda Serverless RESTful API
+• R&amp;D of POCs for Front-end, Back-end, and React Native mobile application
+• Use DevOps tools like Git, Jira, Slack, and Docker for version control and deployment
+• Code review, mentor, and manage team members</Description>
+					<StartDate>
+						<YearMonth>2018-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 54% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>4</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Development Center</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Code review mentor</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Technical Lead</Title>
+					<OrgName>
+						<OrganizationName>Melange Towers, Hi-Tech City</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Hyderabad) from Dec' 2016 to Jun' 2019</Description>
+					<StartDate>
+						<YearMonth>2016-12</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Melange Towers Hi Tech City</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Technical Lead</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Technical support and maintenance of the existing system</Title>
+					<OrgName>
+						<OrganizationName>Development Center</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Hyderabad
+Project Description
+FindBuyers is a SaaS-based real-estate price estimation tool for properties across various cities and states in the US. It collects, process, and represents data from 40+ services and serves it to its elite clients like Berkshire Hathaway, Fox &amp; Roach, Crye-Leike, etc.
+
+Technologies	AWS EC2, S3, PHP, CodeIgniter, MySQL, Google Maps, Zillow, RETS, MLS, FB Pixel, etc
+Roles and Responsibilities
+• Technical support and maintenance of the existing system
+• Develop new features and integrate new service providers via API
+• Customize map and data representation
+
+
+Project #4: House Joy - Home service-based eCommerce (housejoy.in)
+
+Client Name/Company	HouseJoy   An Amazon funded company (India)</Description>
+					<StartDate>
+						<YearMonth>2016-12</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 65% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-8</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>8</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Development Center</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Technical support and maintenance of the existing system</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Technical support and maintenance</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Doyen Solutions</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Online Tutoring</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>Online Tutoring</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>creati.st</WebSite>
+					</OrgInfo>
+					<Description>via Smart Contents - An LMS (creati.st)
+
+Client Name/Company	Red Slider (India)
+Duration and Team Size   From January 2018 to June 2019 (18+ months with 3 team members)
+Project Description
+Creatist is a SaaS-based Learning Management System (LMS) that is used by elite schools / colleges / universities like ISB, LBSNAA, and a few more.
+
+Technologies	Azure Cloud VM, SSH, PHP CodeIgniter, MongoDB, Angular.js, Bootstrap, Spring Boot, etc.
+Roles and Responsibilities
+• Customize existing features, UI/UX, and workflow changes
+• Develop new features like YouTube integration and activities configuration
+• Optimize smart contents like Text, Poll, Multiple choice, Video, and PDF
+• Develop new statistical reports and graphs
+• Work on new version to support RESTful API architecture using Spring boot
+
+
+Project #3: Buy Side   Find Buyers - A Real-Estate Marketplace (findbuyers.com)
+
+Client Name/Company	BuySide! (USA)  getbuyside.com</Description>
+					<StartDate>
+						<YearMonth>2018-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 64% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>3</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Online Tutoring</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Online Tutoring</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Vyako Technologies Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Asst. Project Manager</Title>
+					<OrgName>
+						<OrganizationName>Vyako Technologies Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Nagpur</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2015-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Vyako Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Assistant Project Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>Vyako Technologies</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Nagpur</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Project Description
+Housejoy is an Amazon funded eCommerce company that deals in on-demand home based services like plumbing, electrical, carpentry, beauty parlor, etc.
+
+Technologies	AWS EC2, Java Spring, Hibernate, MySQL, PHP, Laravel, Bootstrap, jQuery, Grunt, Git, etc.
+Roles and Responsibilities
+• Single point of contact for the Bangalore development center
+• Develop Leads management module for their existing CRM system
+• Work on both back-end and front-end along with the team members
+• Travel on-site to the Bangalore development center during production release
+
+
+Project #5: DCC - Logistics &amp; Consignment Tracking System (dynamiccarcarrying.com.au)</Description>
+					<StartDate>
+						<YearMonth>2016-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 52% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-9</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>4</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Vyako Technologies</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Smart Factory</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Nagpur</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Project #6: Smart Factory   Industrial Machine Automation - IoT/IIoT
+
+Client Name/Company	Mahindra &amp; Mahindra, Star Circlips, and SysLogyx (India)
+Duration and Team Size   From October 2015 to November 2016 (10+ months with 9 team members)
+Development Center	Vyako Technologies, Nagpur
+Project Description
+Smart factory is all-in-one Internet of Things (IoT) product powered by a customized hardware and software that enables to automate and manage industrial processes like JH, production monitoring, sensors / signals tracking, machine controlling, etc.
+
+Technologies	Android, Bootstrap, jQuery, CakePHP, MySQL, Java Spring, Hibernate, etc
+Roles and Responsibilities
+• On-site visit with the team to understand the Industrial machine operations
+• Software design and development by syncing with the Embedded/hardware team
+• Manual testing of the entire system and deployment on the client side
+• Manage team members from front-end, back-end, Android, and QA
+
+
+Project #7: School Bus Tracking &amp; Surveillance System - IoT
+Client Name/Company	Grover Infotech (India)</Description>
+					<StartDate>
+						<YearMonth>2015-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 47% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-11</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>9</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Smart Factory</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Admin</Title>
+					<OrgName>
+						<OrganizationName>Hyundai Glovis (Australia)</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>dynamiccarcarrying.com.au</WebSite>
+					</OrgInfo>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Nagpur</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Client Name/Company	Hyundai Glovis (Australia)
+Duration and Team Size   From October 2015 to July 2016 (10 months with 6 team members)
+Development Center	Vyako Technologies, Nagpur
+Project Description
+DCC is a fleet management and consignment tracking system. The drivers are assigned a truck and multiple jobs on daily basis. Admin/Drivers/Customers have their user portals.
+
+Technologies	Java Spring, Hibernate, Bootstrap, jQuery, Ionic framework, Android, iPhone, etc
+Roles and Responsibilities
+• Mentor and manage team members
+• Direct point of contact to the client
+• Customize/develop features for front-end, back-end, and Ionic mobile app</Description>
+					<StartDate>
+						<YearMonth>2015-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-07</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 61% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-10</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>6</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Hyundai Glovis Australia</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Admin</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Vyako Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Grover InfoTech Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Mentor and manage front-end, back-end, and Android team members</Title>
+					<OrgName>
+						<OrganizationName>Grover Infotech</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Nagpur</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Nagpur
+Project Description
+SBTSS is a Internet of Things (IoT) based product that utilizes GPS, Sensors, IP Camera, Speakers, Panic Buttons, Control room, etc. to provide a safety and security solution.
+
+Technologies	Android, Luxand Face SDK, GPS, Wi-Fi, BLE, iPhone, JSP, CodeIgniter, MySQL, etc.
+Roles and Responsibilities
+• R&amp;D for biometric facial attendance, GPS tracking, and IoT integration
+• Design and develop RESTful APIs
+• Mentor and manage front-end, back-end, and Android team members
+• Real-time testing of the entire system in a school bus with students [beta testing]
+• Involved in on-site product demonstration to Hon. Nitin Gadkari (Transport Minister)
+
+
+Project #8: Appoint Expert - Virtual Healthcare Consultation
+Client Name/Company	Appoint Expert (India/USA/South Africa)
+Duration and Team Size   18+ months with 4 team members
+Development Center	SRS Infosystems, Nagpur
+Project Description
+Appoint expert is a virtual assistance/consultation platform basically for healthcare for doctors and patients. But later the platform was open for any type of virtual assistance with support of Text, Audio, Video calls, Images/Video sharing, etc.
+
+Technologies	CakePHP, MySQL, FFMPEG, Cloudinary, Exif, HTML, CSS, jQuery, Android, iPhone, PubNub
+Roles and Responsibilities
+• Design and develop RESTful back-end services using CakePHP
+• R&amp;D for POCs related to image/video orientation issues
+• Mentor team members working on Android and iPhone (native + hybrid)
+
+
+Project #9: Booking Engine - ERP
+Client Name/Company	Televakt (Norway)
+Duration and Team Size   36+ months
+Development Center	SRS Infosystems, Nagpur
+Project Description
+Booking engine is a SaaS-based ERP solution for their primary partners like Egoria Online Services and Comsoft. It's basically a bi-lingual ERP system that supports English and Norwegian language for the agents, customers, partners, and vendors.
+
+Technologies	PHP MVC, MySQL, HTML, CSS, JavaScript, jQuery, Smarty, Zend framework
+Roles and Responsibilities
+• Junior developer
+• Developed several modules like customers, orders, invoices, and subscriptions
+• Worked on agent panel with integration of the PBX machine APIs for calls
+
+
+Project #10: Few more other projects
+
+Development Center   SRS Infosystems, Nagpur
+Project Description
+• ShareAFlash.com: Social Networking site like Instagram
+• JumpDates.com: Online dating site
+• Zoho.com: Zoho products integration with Xero, KashFlow, Economics, etc.
+• Twitter.com: Real-Time twitter analytics tool with intuitive infographics
+• Wordpress: 20+ Wordpress application development and customization
+
+Technologies	PHP, MySQL, HTML, CSS, jQuery, Android, Ruby on Rails, SQL Server, etc
+Roles and Responsibilities
+• Develop Wordpress themes and plugins
+• Develop POCs in Android and Ionic framework
+• R&amp;D latest technologies/frameworks</Description>
+					<StartDate>
+						<YearMonth>2015-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 58% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-12</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>9</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Grover Infotech</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Mentor and manage front end back end and Android team members</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Team Lead</Title>
+					<OrgName>
+						<OrganizationName>Grover InfoTech Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Nagpur</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2014-09</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2015-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Grover InfoTech</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Team Lead</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Grover InfoTech</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>SRS Infosystems Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Team Lead</Title>
+					<OrgName>
+						<OrganizationName>SRS Infosystems Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Nagpur</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2010-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2014-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>SRS Infosystems</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Team Lead</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>SRS Infosystems</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>Freelancer</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2009-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-07</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>Freelancer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Nagpur University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Nagpur</Municipality>
+				</PostalAddress>
+				<Degree degreeType="masters">
+					<DegreeName>MBA</DegreeName>
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Marketing &amp; IT</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>73.00</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2014</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>• MBA in Marketing &amp; IT (2014 - 2016) from NIT, Nagpur University, with 73.00% aggregate.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.730</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>MBA</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>MBA</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Nagpur University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Nagpur University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Nagpur</Region>
+					<Municipality>Nagpur</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2009</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science and Engineering</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>68.23</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2005</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2009</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>• B.E. Computer Science and Engineering (2005-2009), from ACET, Nagpur, Nagpur University, with 68.23% aggregate.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.682</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Nagpur University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="community">
+				<School>
+					<SchoolName>Tidke Junior College, Nagpur, Maharashtra Board</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Maharashtra</Region>
+					<Municipality>Nagpur</Municipality>
+				</PostalAddress>
+				<Degree degreeType="some college">
+					<DegreeDate>
+						<Year>2005</Year>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>83.83</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2005</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>• HSSC (2005) from Tidke Junior College, Nagpur, Maharashtra Board, with 83.83%.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.838</sov:NormalizedGPA>
+							<sov:NormalizedDegreeType>some college</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Tidke Junior College Nagpur Maharashtra Board</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="secondary">
+					<DegreeName>SSC</DegreeName>
+					<DegreeDate>
+						<Year>2003</Year>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>68.00</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2003</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>• SSC (2003) from Seventh Day Adventist (SDA), Nagpur, ICSE Delhi Board, with 68.00%.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-4</sov:Id>
+							<sov:NormalizedGPA>0.680</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>secondary</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Technologies	AWS and Azure Cloud, Node.js, PHP, IoT integration, R&amp;D specialist, Java
+DevOps Tools	Git, GitHub, BitBucket, Jira, Slack, Docker, Travis CI, Jenkins, etc.
+Databases (SQL/NoSQL)   MySQL, MongoDB, DynamoDB, PostgreSQL, MS-SQL Server, and SQLite
+AWS cloud services	IAM, EC2, EBS, Lambda, Cognito, API Gateway, RDS, VPC, CloudFormation, S3, SNS, SQS, etc
+Frameworks/CMS tools	Serverless, Laravel, CodeIgniter, Wordpress, Zend, Spring, Spring Boot, Hibernate, etc
+Web services/APIs	Micro-services, SOA, Swagger API, REST APIs, OAuth 2.0, SAML/SSO, LDAP, SOAP, Curl, SSH
+Web technologies	JSON, XML, YAML, Bootstrap, jQuery, CSS, AJAX, JavaScript, Angular, React, Ionic
+Third-party APIs	Data Scraping/Extraction (ETL), Facebook, Twitter, Google Map, ESRI Maps, etc
+Payment Gateways	Stripe, PayPal, PayZippy, Authorize.net, ccAvenue, etc
+Mobility development	Android, Ionic, React Native, Luxand Face SDK Biometrics, GPS, Play Store deployment, etc
+Enterprise software	Zoho One, Xero, KashFlow, ERP, Logistics, Health Care, Real Estate, etc
+Servers/IDEs	LAMP, Tomcat, Apache, Windows, Ubuntu, VS Code, STS, Eclipse, Android Studio</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>bi-lingual ERP system that supports English and Norwegian language for [AND] • Languages known: English, Hindi, Marathi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>no</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>system that supports English and Norwegian language for the agents,</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>• Languages known: English, Hindi, Marathi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>mr</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>• Languages known: English, Hindi, Marathi</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>MOHIT ASHOK KALE
+asst. project manager   technical lead
+
+Mobile: +91 9766914574, 8856051511	Email ID: mr.mohit44@gmail.com
+Skype ID: mohit.kale44	Current Location: Nagpur
+
+
+PROFILE SUMMARY
+
+• Seasoned IT professional with 10 years of comprehensive Technical, Managerial, and Business skill sets
+• Hands-on experience as an Individual contributor / full-stack developer (60-80%) and 20-40% as a Techno Manager
+• Expertise in Cloud apps, Agile, Scrum, Project Estimation/Budgeting, and SaaS (Software as a Service) development
+• Managed teams with more than 20 members from cross-platforms viz. front-end, back-end, Android, iPhone, QA, etc
+• Worked for both, the Product based and Outsourcing companies on multiple technology stacks/frameworks
+• Highly skilled in R&amp;D (any technology/framework), Full Stack Development, Manual Testing, POCs, and MVPs
+• Practical exposure to Hybrid Mobile apps development, and IoT/IIoT software integration/development
+• Managed multiple clients, projects, teams and Single point of Contact for clients from USA, UK, Australia, Canada, etc.
+• Experience of reporting to and working closely with the higher management and directors
+• Proficient problem-solver who envisions business and technical perspectives to develop workable solutions
+• Technical Architect and active member of the entire SDLC life cycle processes
+• Perform code review, version control, deployment; recruitment, training; and give post-release support to clients
+• Organize and conduct technical sessions/seminars on latest technologies and/or project scope
+• Industries served: Real-estate, Logistics, ERP, eCommerce, eLearning, IoT/IIoT, Healthcare, Social Network, etc.
+
+
+TECHNICAL SUMMARY
+
+
+Technologies	AWS and Azure Cloud, Node.js, PHP, IoT integration, R&amp;D specialist, Java
+DevOps Tools	Git, GitHub, BitBucket, Jira, Slack, Docker, Travis CI, Jenkins, etc.
+Databases (SQL/NoSQL)   MySQL, MongoDB, DynamoDB, PostgreSQL, MS-SQL Server, and SQLite
+AWS cloud services	IAM, EC2, EBS, Lambda, Cognito, API Gateway, RDS, VPC, CloudFormation, S3, SNS, SQS, etc
+Frameworks/CMS tools	Serverless, Laravel, CodeIgniter, Wordpress, Zend, Spring, Spring Boot, Hibernate, etc
+Web services/APIs	Micro-services, SOA, Swagger API, REST APIs, OAuth 2.0, SAML/SSO, LDAP, SOAP, Curl, SSH
+Web technologies	JSON, XML, YAML, Bootstrap, jQuery, CSS, AJAX, JavaScript, Angular, React, Ionic
+Third-party APIs	Data Scraping/Extraction (ETL), Facebook, Twitter, Google Map, ESRI Maps, etc
+Payment Gateways	Stripe, PayPal, PayZippy, Authorize.net, ccAvenue, etc
+Mobility development	Android, Ionic, React Native, Luxand Face SDK Biometrics, GPS, Play Store deployment, etc
+Enterprise software	Zoho One, Xero, KashFlow, ERP, Logistics, Health Care, Real Estate, etc
+Servers/IDEs	LAMP, Tomcat, Apache, Windows, Ubuntu, VS Code, STS, Eclipse, Android Studio
+
+
+WORK EXPERIENCE
+
+• Working as a Technical Lead   Asst. Project Manager at Doyen Solutions (New address: 7C, Melange Towers, Hi-Tech City, Hyderabad) from Dec' 2016 to Jun' 2019
+• Worked as a Asst. Project Manager at Vyako Technologies Pvt. Ltd., Nagpur from Oct' 2015 to Nov' 2016
+• Worked as a Team Lead   Asst. Project Manager at Grover InfoTech Pvt. Ltd., Nagpur  from Sep' 2014 to Oct' 2015
+• Worked as a Team Lead at SRS Infosystems Pvt. Ltd., Nagpur  from July' 2010 to Sep' 2014
+• Worked as a Freelancer (Wordpress, online affiliate, PPC, local projects, etc) from June 2009 to July 2010
+
+
+PROJECT SUMMARY
+
+
+Project #1: Ollie Living App   OLA - A Real-Estate Multi-Tenant System (ollie.co)
+
+Client Name/Company	Ollie (USA)
+Development Center	Doyen Solutions, Hyderabad
+Duration and Team Size   From June 2018 to till date (12+ months with 4 team members)
+Project Description
+OLA is a co-living app that manages tenant and vendor services from across multiple buildings/apartments. Some of the services offered and managed are housekeeping, Ollie social, payment management, maintenance requests, etc.
+
+Technologies
+Amazon Cloud services like (IAM, Lambda, Cognito, CloudWatch, SNS, S3, RDS, VPC, etc), Node.js, MySQL, Python, Java, React.js, React Native, Docker, Serverless framework, etc.
+
+Roles and Responsibilities
+• Work closely with the Business users to gather and analyze requirement
+• Design and develop system workflow and architecture
+• Micro services development via Lambda Serverless RESTful API
+• R&amp;D of POCs for Front-end, Back-end, and React Native mobile application
+• Use DevOps tools like Git, Jira, Slack, and Docker for version control and deployment
+• Code review, mentor, and manage team members
+
+
+Project #2: Creat!st   Online Tutoring via Smart Contents - An LMS (creati.st)
+
+Client Name/Company	Red Slider (India)
+Duration and Team Size   From January 2018 to June 2019 (18+ months with 3 team members)
+Project Description
+Creatist is a SaaS-based Learning Management System (LMS) that is used by elite schools / colleges / universities like ISB, LBSNAA, and a few more.
+
+Technologies	Azure Cloud VM, SSH, PHP CodeIgniter, MongoDB, Angular.js, Bootstrap, Spring Boot, etc.
+Roles and Responsibilities
+• Customize existing features, UI/UX, and workflow changes
+• Develop new features like YouTube integration and activities configuration
+• Optimize smart contents like Text, Poll, Multiple choice, Video, and PDF
+• Develop new statistical reports and graphs
+• Work on new version to support RESTful API architecture using Spring boot
+
+
+Project #3: Buy Side   Find Buyers - A Real-Estate Marketplace (findbuyers.com)
+
+Client Name/Company	BuySide! (USA)  getbuyside.com
+Duration and Team Size   From December 2016 to October 2017 (10+ months with 8 team members)
+Development Center	Doyen Solutions, Hyderabad
+Project Description
+FindBuyers is a SaaS-based real-estate price estimation tool for properties across various cities and states in the US. It collects, process, and represents data from 40+ services and serves it to its elite clients like Berkshire Hathaway, Fox &amp; Roach, Crye-Leike, etc.
+
+Technologies	AWS EC2, S3, PHP, CodeIgniter, MySQL, Google Maps, Zillow, RETS, MLS, FB Pixel, etc
+Roles and Responsibilities
+• Technical support and maintenance of the existing system
+• Develop new features and integrate new service providers via API
+• Customize map and data representation
+
+
+Project #4: House Joy - Home service-based eCommerce (housejoy.in)
+
+Client Name/Company	HouseJoy   An Amazon funded company (India)
+Duration and Team Size   From April 2016 to November 2016 (9 months with 4 team members)
+Development Center	Vyako Technologies, Nagpur
+Project Description
+Housejoy is an Amazon funded eCommerce company that deals in on-demand home based services like plumbing, electrical, carpentry, beauty parlor, etc.
+
+Technologies	AWS EC2, Java Spring, Hibernate, MySQL, PHP, Laravel, Bootstrap, jQuery, Grunt, Git, etc.
+Roles and Responsibilities
+• Single point of contact for the Bangalore development center
+• Develop Leads management module for their existing CRM system
+• Work on both back-end and front-end along with the team members
+• Travel on-site to the Bangalore development center during production release
+
+
+Project #5: DCC - Logistics &amp; Consignment Tracking System (dynamiccarcarrying.com.au)
+
+Client Name/Company	Hyundai Glovis (Australia)
+Duration and Team Size   From October 2015 to July 2016 (10 months with 6 team members)
+Development Center	Vyako Technologies, Nagpur
+Project Description
+DCC is a fleet management and consignment tracking system. The drivers are assigned a truck and multiple jobs on daily basis. Admin/Drivers/Customers have their user portals.
+
+Technologies	Java Spring, Hibernate, Bootstrap, jQuery, Ionic framework, Android, iPhone, etc
+Roles and Responsibilities
+• Mentor and manage team members
+• Direct point of contact to the client
+• Customize/develop features for front-end, back-end, and Ionic mobile app
+
+
+Project #6: Smart Factory   Industrial Machine Automation - IoT/IIoT
+
+Client Name/Company	Mahindra &amp; Mahindra, Star Circlips, and SysLogyx (India)
+Duration and Team Size   From October 2015 to November 2016 (10+ months with 9 team members)
+Development Center	Vyako Technologies, Nagpur
+Project Description
+Smart factory is all-in-one Internet of Things (IoT) product powered by a customized hardware and software that enables to automate and manage industrial processes like JH, production monitoring, sensors / signals tracking, machine controlling, etc.
+
+Technologies	Android, Bootstrap, jQuery, CakePHP, MySQL, Java Spring, Hibernate, etc
+Roles and Responsibilities
+• On-site visit with the team to understand the Industrial machine operations
+• Software design and development by syncing with the Embedded/hardware team
+• Manual testing of the entire system and deployment on the client side
+• Manage team members from front-end, back-end, Android, and QA
+
+
+Project #7: School Bus Tracking &amp; Surveillance System - IoT
+
+Client Name/Company	Grover Infotech (India)
+Duration and Team Size   From October 2015 to November 2016 (10+ months with 9 team members)
+Development Center	Grover Infotech, Nagpur
+Project Description
+SBTSS is a Internet of Things (IoT) based product that utilizes GPS, Sensors, IP Camera, Speakers, Panic Buttons, Control room, etc. to provide a safety and security solution.
+
+Technologies	Android, Luxand Face SDK, GPS, Wi-Fi, BLE, iPhone, JSP, CodeIgniter, MySQL, etc.
+Roles and Responsibilities
+• R&amp;D for biometric facial attendance, GPS tracking, and IoT integration
+• Design and develop RESTful APIs
+• Mentor and manage front-end, back-end, and Android team members
+• Real-time testing of the entire system in a school bus with students [beta testing]
+• Involved in on-site product demonstration to Hon. Nitin Gadkari (Transport Minister)
+
+
+Project #8: Appoint Expert - Virtual Healthcare Consultation
+
+Client Name/Company	Appoint Expert (India/USA/South Africa)
+Duration and Team Size   18+ months with 4 team members
+Development Center	SRS Infosystems, Nagpur
+Project Description
+Appoint expert is a virtual assistance/consultation platform basically for healthcare for doctors and patients. But later the platform was open for any type of virtual assistance with support of Text, Audio, Video calls, Images/Video sharing, etc.
+
+Technologies	CakePHP, MySQL, FFMPEG, Cloudinary, Exif, HTML, CSS, jQuery, Android, iPhone, PubNub
+Roles and Responsibilities
+• Design and develop RESTful back-end services using CakePHP
+• R&amp;D for POCs related to image/video orientation issues
+• Mentor team members working on Android and iPhone (native + hybrid)
+
+
+Project #9: Booking Engine - ERP
+
+Client Name/Company	Televakt (Norway)
+Duration and Team Size   36+ months
+Development Center	SRS Infosystems, Nagpur
+Project Description
+Booking engine is a SaaS-based ERP solution for their primary partners like Egoria Online Services and Comsoft. It's basically a bi-lingual ERP system that supports English and Norwegian language for the agents, customers, partners, and vendors.
+
+Technologies	PHP MVC, MySQL, HTML, CSS, JavaScript, jQuery, Smarty, Zend framework
+Roles and Responsibilities
+• Junior developer
+• Developed several modules like customers, orders, invoices, and subscriptions
+• Worked on agent panel with integration of the PBX machine APIs for calls
+
+
+Project #10: Few more other projects
+
+Development Center   SRS Infosystems, Nagpur
+Project Description
+• ShareAFlash.com: Social Networking site like Instagram
+• JumpDates.com: Online dating site
+• Zoho.com: Zoho products integration with Xero, KashFlow, Economics, etc.
+• Twitter.com: Real-Time twitter analytics tool with intuitive infographics
+• Wordpress: 20+ Wordpress application development and customization
+
+Technologies	PHP, MySQL, HTML, CSS, jQuery, Android, Ruby on Rails, SQL Server, etc
+Roles and Responsibilities
+• Develop Wordpress themes and plugins
+• Develop POCs in Android and Ionic framework
+• R&amp;D latest technologies/frameworks
+
+
+ACADEMIC DETAILS
+
+
+• MBA in Marketing &amp; IT (2014 - 2016) from NIT, Nagpur University, with 73.00% aggregate.
+• B.E. Computer Science and Engineering (2005-2009), from ACET, Nagpur, Nagpur University, with 68.23% aggregate.
+• HSSC (2005) from Tidke Junior College, Nagpur, Maharashtra Board, with 83.83%.
+• SSC (2003) from Seventh Day Adventist (SDA), Nagpur, ICSE Delhi Board, with 68.00%.
+
+
+PERSONAL DETAILS
+
+
+• DOB: 08th January, 1988
+• Nationality: Indian
+• Gender: Male
+• Marital Status: Married
+• Languages known: English, Hindi, Marathi
+• Address: 339, Gaddi Godam, Gautam Nagar, Nagpur, Maharashtra - 440 001
+
+
+I hereby declare that all the information furnished by me so far is correct to the best of my knowledge, and I bear all the responsibility for its correctness.
+
+
+Place: Nagpur	MOHIT KALE</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1988-01-08</sov:DateOfBirth>
+				<sov:Nationality inferred="false">Indian</sov:Nationality>
+				<sov:Gender inferred="false">Male</sov:Gender>
+				<sov:MaritalStatus inferred="false">Married</sov:MaritalStatus>
+				<sov:CurrentLocation>Nagpur</sov:CurrentLocation>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>MOHIT ASHOK KALE's experience appears to be mostly concentrated in Information Technology (mostly Programming) and somewhat concentrated in User Experience (mostly Integration Design). MOHIT ASHOK KALE has 11 years of work experience, with 9 years of management experience, including a low-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>129</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>21</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>42</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>113</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>low-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a low-level management role: Code review, mentor
+Starting on 6/1/2018, the candidate held the following low-level management position for 17 months:
+	Title: Code review, mentor for Doyen Solutions, Development Center
+Starting on 12/1/2016, the candidate held the following low-level management position for 2 years and 6 months:
+	Title: Technical Lead for Doyen Solutions, Melange Towers, Hi-Tech City
+Starting on 10/1/2015, the candidate held the following low-level management position for 14 months:
+	Title: Asst. Project Manager for Vyako Technologies Pvt. Ltd
+Starting on 10/1/2015, the candidate held the following low-level management position for 13 months:
+	Title: Mentor and manage front-end, back-end, and Android team members for Grover InfoTech Pvt. Ltd, Grover Infotech
+Starting on 9/1/2014, the candidate held the following low-level management position for 13 months:
+	Title: Team Lead for Grover InfoTech Pvt. Ltd
+Starting on 7/1/2010, the candidate held the following low-level management position for 4 years and 2 months:
+	Title: Team Lead for SRS Infosystems Pvt. Ltd</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="59">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="17" percentOfParentTaxonomy="28">
+								<sov:Skill name="ANDROID STUDIO" id="3391145" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="API" id="021194" existsInText="true" totalMonths="33" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-6; POS-7; POS-8"></sov:Skill>
+								<sov:Skill name="APPLICATION DEVELOPMENT" id="021556" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="CURL" id="3391151" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="DOCKER" id="3391147" existsInText="true" totalMonths="18" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-6"></sov:Skill>
+								<sov:Skill name="Drivers" id="1004764" existsInText="true" totalMonths="9" lastUsed="2016-07-01" whereFound="Found in WORK HISTORY; POS-10"></sov:Skill>
+								<sov:Skill name="FRONT-END" id="017986" existsInText="true" totalMonths="18" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" totalMonths="26" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-6; POS-9"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12" childrenTotalMonths="37" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="ANGULAR.JS" id="339002001" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" totalMonths="31" lastUsed="2019-06-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-10; POS-11; POS-7; POS-9"></sov:ChildSkill>
+									<sov:ChildSkill name="IONIC" id="3391103" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-10; POS-12"></sov:ChildSkill>
+									<sov:ChildSkill name="NODE.JS" id="339002002" existsInText="true" totalMonths="18" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="JSON" id="5520555" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="MS .NET" id="026107" existsInText="false">
+									<sov:ChildSkill name="VS CODE" id="3391138" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="OAUTH" id="3391141" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" totalMonths="41" lastUsed="2019-06-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12; POS-7; POS-8; POS-9" childrenTotalMonths="41" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="CODEIGNITER" id="3391115" existsInText="true" totalMonths="40" lastUsed="2019-06-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12; POS-7; POS-8"></sov:ChildSkill>
+									<sov:ChildSkill name="LARAVEL" id="3391113" existsInText="true" totalMonths="8" lastUsed="2016-11-30" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-9"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="18" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+								<sov:Skill name="Ruby" id="1004736" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12" childrenTotalMonths="13" childrenLastUsed="2016-11-01">
+									<sov:ChildSkill name="Rails" id="100473602" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:ChildSkill>
+									<sov:ChildSkill name="Ruby on Rails" id="100473601" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SOFTWARE INTEGRATION" id="023540" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="10" percentOfParentTaxonomy="17">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="32" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-10; POS-11; POS-6; POS-9" childrenTotalMonths="31" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="HIBERNATE" id="3391127" existsInText="true" totalMonths="14" lastUsed="2016-11-30" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-10; POS-11; POS-9"></sov:ChildSkill>
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" totalMonths="31" lastUsed="2019-06-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-10; POS-11; POS-7; POS-9"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="jQuery" id="339048" existsInText="true" totalMonths="14" lastUsed="2016-11-30" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-10; POS-11; POS-12; POS-9"></sov:Skill>
+								<sov:Skill name="JSP" id="339001" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="7" percentOfParentTaxonomy="12">
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2016-11-01">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" totalMonths="42" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-11; POS-12; POS-6; POS-8; POS-9"></sov:Skill>
+								<sov:Skill name="POSTGRESQL" id="3391132" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="SQLITE" id="3391131" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="6" percentOfParentTaxonomy="10">
+								<sov:Skill name="ANDROID" id="5520503" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; SUMMARY; WORK HISTORY; POS-10; POS-11; POS-12"></sov:Skill>
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" totalMonths="31" lastUsed="2019-06-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-10; POS-11; POS-7; POS-9"></sov:Skill>
+								<sov:Skill name="IPHONE" id="5520548" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-10; POS-12"></sov:Skill>
+								<sov:Skill name="MODEL VIEW CONTROLLER" id="5520572" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2016-11-01">
+									<sov:ChildSkill name="MVC" id="552057201" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SOAP" id="5520605" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="3" percentOfParentTaxonomy="6">
+								<sov:Skill name="AMAZON DYNAMODB" id="5530875" existsInText="false">
+									<sov:ChildSkill name="DYNAMODB" id="553087501" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="BIOMETRICS" id="5530910" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="CONTENT MANAGEMENT SYSTEM" id="5530931" existsInText="false">
+									<sov:ChildSkill name="CMS" id="5530932" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ENTERPRISE RESOURCE PLANNING" id="5530983" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2016-11-01">
+									<sov:ChildSkill name="ERP" id="5530984" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; SUMMARY; WORK HISTORY; POS-12"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ETL" id="5530987" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-7"></sov:Skill>
+								<sov:Skill name="NOSQL" id="5530812" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="SOFTWARE AS A SERVICE" id="5531064" existsInText="true" whereFound="Found in SUMMARY" childrenTotalMonths="40" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="SAAS" id="5531065" existsInText="true" totalMonths="40" lastUsed="2019-06-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-12; POS-7; POS-8"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="3" percentOfParentTaxonomy="6">
+								<sov:Skill name="PROJECT MANAGER" id="022909" existsInText="true" totalMonths="57" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="TEAM LEAD" id="009222" existsInText="true" totalMonths="63" lastUsed="2015-10-01" whereFound="Found in WORK HISTORY; POS-3; POS-4"></sov:Skill>
+								<sov:Skill name="VERSION CONTROL" id="024037" existsInText="true" totalMonths="18" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="3" percentOfParentTaxonomy="5">
+								<sov:Skill name="AJAX" id="196001" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="CSS" id="014705" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="ECOMMERCE" id="026768" existsInText="true" totalMonths="18" lastUsed="2017-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-8; POS-9"></sov:Skill>
+								<sov:Skill name="LAMP Stack" id="196002" existsInText="false">
+									<sov:ChildSkill name="LAMP" id="19600201" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SAAS" id="1004743" existsInText="true" totalMonths="40" lastUsed="2019-06-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-12; POS-7; POS-8"></sov:Skill>
+								<sov:Skill name="SOA" id="031030" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="TOMCAT" id="009664" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="ANDROID" id="7310008" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; SUMMARY; WORK HISTORY; POS-10; POS-11; POS-12"></sov:Skill>
+								<sov:Skill name="MODEL-VIEW-CONTROLLER" id="7310042" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2016-11-01">
+									<sov:ChildSkill name="MVC" id="7310043" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="USER INTERFACE" id="7310067" existsInText="false" childrenTotalMonths="17" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="UI" id="7310068" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="Amazon Elastic Block Storage" id="5500007" existsInText="false">
+									<sov:ChildSkill name="EBS" id="550000702" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="Amazon Elastic Compute Cloud" id="5500001" existsInText="false" childrenTotalMonths="18" childrenLastUsed="2017-10-01">
+									<sov:ChildSkill name="EC2" id="550000102" existsInText="true" totalMonths="18" lastUsed="2017-10-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-8; POS-9"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="KASHFLOW" id="5500347" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-7"></sov:Skill>
+								<sov:Skill name="XERO" id="5500396" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" totalMonths="31" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; SUMMARY; WORK HISTORY; POS-11; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DEV OPS" id="0146073" existsInText="false" childrenTotalMonths="18" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="DEVOPS" id="0146074" existsInText="true" totalMonths="18" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="NETWORKING" id="3490044" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="ERP and CRM" id="195" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="CRM" id="014101" existsInText="true" totalMonths="8" lastUsed="2016-11-30" whereFound="Found in WORK HISTORY; POS-9"></sov:Skill>
+								<sov:Skill name="ERP" id="016891" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" totalMonths="18" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="PDF" id="004489" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+								<sov:Skill name="REAL-TIME" id="081190" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="SOAP" id="008187" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="LIFE CYCLE" id="022707" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="MVC" id="003233" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="SDLC" id="025956" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SOFTWARE DESIGN" id="025845" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Help Desk" id="194" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="TECHNICAL SUPPORT" id="009271" existsInText="true" totalMonths="10" lastUsed="2017-10-01" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Embedded and Realtime" id="340" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="REAL-TIME" id="081186" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="REST" id="7180010" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="VIRTUAL MACHINE" id="7180107" existsInText="false" childrenTotalMonths="17" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="VM" id="7180108" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="UNIX" id="01026309" existsInText="false" childrenTotalMonths="17" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="UX" id="010377" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="BIOMETRICS" id="3380102" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="OAUTH" id="3380016" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="SAML" id="3380025" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="SSO" id="008513" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="LDAP" id="020651" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="VM" id="010677" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="HP-UX" id="5551150" existsInText="false" childrenTotalMonths="17" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="UX" id="555115001" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compiler &amp; Runtime" id="719" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="VIRTUAL MACHINE" id="7190065" existsInText="false" childrenTotalMonths="17" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="VM" id="7190066" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CMS" id="013609" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="FRAMEWORKS" id="017954" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Middleware and Integration" id="345" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="ETL" id="016965" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="GIS" id="344" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="ESRI" id="016924" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="22">
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="6" percentOfParentTaxonomy="29">
+								<sov:Skill name="FRONT END DESIGN" id="5570111" existsInText="false" childrenTotalMonths="32" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="FRONT-END" id="5570112" existsInText="true" totalMonths="32" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-10; POS-11; POS-12; POS-6; POS-9"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="6" percentOfParentTaxonomy="29">
+								<sov:Skill name="FRONT END" id="5570300" existsInText="false" childrenTotalMonths="32" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="FRONT-END" id="5570301" existsInText="true" totalMonths="32" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-10; POS-11; POS-12; POS-6; POS-9"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="6" percentOfParentTaxonomy="29">
+								<sov:Skill name="FRONT END" id="5570217" existsInText="false" childrenTotalMonths="32" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="FRONT-END" id="5570218" existsInText="true" totalMonths="32" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-10; POS-11; POS-12; POS-6; POS-9"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="3" percentOfParentTaxonomy="11">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false" childrenTotalMonths="30" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" totalMonths="30" lastUsed="2019-06-01" whereFound="Found in QUALIFICATIONS_SUMMARY; SUMMARY; WORK HISTORY; POS-12; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="WORDPRESS" id="3391111" existsInText="true" totalMonths="26" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="1" percentOfParentTaxonomy="3">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" totalMonths="23" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-6; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="4">
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="38">
+								<sov:Skill name="ESTIMATION" id="080470" existsInText="true" totalMonths="10" lastUsed="2017-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="GPS" id="018529" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="LIFE CYCLE" id="020750" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="LMS" id="020831" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+								<sov:Skill name="REAL-TIME" id="080509" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="SENSORS" id="080467" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11; POS-12"></sov:Skill>
+								<sov:Skill name="SOFTWARE DESIGN" id="080405" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="1" percentOfParentTaxonomy="18">
+								<sov:Skill name="GPS" id="018530" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="REAL-TIME" id="080770" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="SENSORS" id="080737" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Process" id="143" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="SENSORS" id="080807" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Techniques" id="264" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="ESTIMATION" id="080635" existsInText="true" totalMonths="10" lastUsed="2017-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="GPS" id="018531" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mechanical" id="138" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="AUTOMATION DESIGN" id="023627" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2016-11-01">
+									<sov:ChildSkill name="MACHINE AUTOMATION" id="020983" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Design" id="134" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="SOFTWARE DESIGN" id="080910" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Plant" id="142" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="CONTROL ROOM" id="080821" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Power Engineering" id="308" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="CONTROL ROOM" id="080333" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Industrial" id="137" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="INDUSTRIAL PROCESSES" id="019714" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Power Engineering" id="26" percentOfOverall="2">
+							<sov:Subtaxonomy name="Non-Nuclear Power Misc" id="924" percentOfOverall="2" percentOfParentTaxonomy="92">
+								<sov:Skill name="API" id="021195" existsInText="true" totalMonths="33" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-6; POS-7; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Power Related" id="925" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="CONTROL ROOM" id="014332" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="2">
+							<sov:Subtaxonomy name="Learning &amp; Development" id="580" percentOfOverall="1" percentOfParentTaxonomy="54">
+								<sov:Skill name="LEARNING MANAGEMENT SYSTEM" id="9000193" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7" childrenTotalMonths="17" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="LMS" id="9000194" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="1" percentOfParentTaxonomy="32">
+								<sov:Skill name="EMPLOYEE RESOURCE GROUP" id="9000074" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2016-11-01">
+									<sov:ChildSkill name="ERP" id="9000075" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; SUMMARY; WORK HISTORY; POS-12"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Talent Sourcing" id="583" percentOfOverall="0" percentOfParentTaxonomy="12">
+								<sov:Skill name="CUSTOMER RELATIONSHIP MANAGEMENT" id="9000267" existsInText="false" childrenTotalMonths="8" childrenLastUsed="2016-11-30">
+									<sov:ChildSkill name="CRM" id="9000268" existsInText="true" totalMonths="8" lastUsed="2016-11-30" whereFound="Found in WORK HISTORY; POS-9"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Recruitment &amp; Staffing" id="190" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="RECRUITMENT" id="006646" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="2">
+							<sov:Subtaxonomy name="People Oriented" id="517" percentOfOverall="1" percentOfParentTaxonomy="67">
+								<sov:Skill name="MENTOR" id="021625" existsInText="true" totalMonths="31" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-10; POS-12; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Budget Related" id="516" percentOfOverall="0" percentOfParentTaxonomy="21">
+								<sov:Skill name="BUDGETING" id="012134" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="ESTIMATION" id="016952" existsInText="true" totalMonths="10" lastUsed="2017-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management and Management Tasks" id="519" percentOfOverall="0" percentOfParentTaxonomy="12">
+								<sov:Skill name="FLEET MANAGEMENT" id="017659" existsInText="true" totalMonths="9" lastUsed="2016-07-01" whereFound="Found in WORK HISTORY; POS-10"></sov:Skill>
+								<sov:Skill name="MANAGERIAL" id="021109" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Knowledge and Learning Management" id="92" percentOfOverall="1">
+							<sov:Subtaxonomy name="General Knowledge and Learning Management" id="903" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="LEARNING MANAGEMENT" id="200062" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+								<sov:Skill name="MENTOR" id="200052" existsInText="true" totalMonths="31" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-10; POS-12; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="1">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="1" percentOfParentTaxonomy="57">
+								<sov:Skill name="ECOMMERCE" id="081146" existsInText="true" totalMonths="18" lastUsed="2017-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-8; POS-9"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Direct Sales" id="102" percentOfOverall="1" percentOfParentTaxonomy="43">
+								<sov:Skill name="ECOMMERCE" id="081152" existsInText="true" totalMonths="18" lastUsed="2017-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-8; POS-9"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="1">
+							<sov:Subtaxonomy name="Logistics" id="460" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="ERP" id="016892" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in QUALIFICATIONS_SUMMARY; SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+								<sov:Skill name="LOGISTICS" id="022309" existsInText="true" totalMonths="8" lastUsed="2016-11-30" whereFound="Found in QUALIFICATIONS_SUMMARY; SUMMARY; WORK HISTORY; POS-9"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="1">
+							<sov:Subtaxonomy name="Other" id="293" percentOfOverall="1" percentOfParentTaxonomy="65">
+								<sov:Skill name="DCC" id="015087" existsInText="true" totalMonths="14" lastUsed="2016-11-30" whereFound="Found in WORK HISTORY; POS-10; POS-9"></sov:Skill>
+								<sov:Skill name="ESTIMATION" id="023408" existsInText="true" totalMonths="10" lastUsed="2017-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="SCRAPING" id="007556" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Carpentry and Painting" id="286" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="CARPENTRY" id="024609" existsInText="true" totalMonths="8" lastUsed="2016-11-30" whereFound="Found in WORK HISTORY; POS-9"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Piping" id="295" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="PLUMBING" id="022675" existsInText="true" totalMonths="8" lastUsed="2016-11-30" whereFound="Found in WORK HISTORY; POS-9"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="1">
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="1" percentOfParentTaxonomy="67">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" totalMonths="28" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-6; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Process Control" id="207" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="SENSORS" id="007774" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="1">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="1" percentOfParentTaxonomy="95">
+								<sov:Skill name="WORKFLOW" id="024213" existsInText="true" totalMonths="23" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-6; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Planning and Estimating" id="502" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="BUDGETING" id="012137" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="1">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="ACROBAT" id="012099" existsInText="false" childrenTotalMonths="17" childrenLastUsed="2019-06-01">
+									<sov:ChildSkill name="PDF" id="004488" existsInText="true" totalMonths="17" lastUsed="2019-06-01" whereFound="Found in WORK HISTORY; POS-7"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PBX" id="004390" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Non-Skilled Labor" id="11" percentOfOverall="0">
+							<sov:Subtaxonomy name="Maintenance and Cleaning" id="302" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="HOUSEKEEPING" id="019077" existsInText="true" totalMonths="18" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Construction Non-Laborer" id="22" percentOfOverall="0">
+							<sov:Subtaxonomy name="Estimating" id="380" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUDGETING" id="012133" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="ESTIMATION" id="023407" existsInText="true" totalMonths="10" lastUsed="2017-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Healthcare Non-physician Non-nurse" id="95" percentOfOverall="0">
+							<sov:Subtaxonomy name="Allied Health" id="158" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="HEALTHCARE" id="018806" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="0">
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="0" percentOfParentTaxonomy="73">
+								<sov:Skill name="MBA" id="7000321" existsInText="true" totalMonths="24" lastUsed="2016-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounting" id="705" percentOfOverall="0" percentOfParentTaxonomy="14">
+								<sov:Skill name="BUDGETING" id="7000315" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="0" percentOfParentTaxonomy="14">
+								<sov:Skill name="LIFE CYCLE" id="020748" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="0">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUDGETING" id="024511" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-11"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Bookkeeping, Office Management" id="89" percentOfOverall="0">
+							<sov:Subtaxonomy name="Bookeeping Tasks" id="533" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUDGETING" id="012132" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="INVOICES" id="020123" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="0">
+							<sov:Subtaxonomy name="Languages" id="529" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BI-LINGUAL" id="025179" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in WORK HISTORY; POS-12"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="0">
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" totalMonths="24" lastUsed="2016-01-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="941" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="QA" id="006125" existsInText="true" totalMonths="13" lastUsed="2016-11-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-11"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="0">
+							<sov:Subtaxonomy name="Real Estate" id="399" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="REAL ESTATE" id="3990000" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="7" ends="24" sectionType="SUMMARY">PROFILE SUMMARY</sov:Section>
+				<sov:Section starts="25" ends="41" sectionType="QUALIFICATIONS_SUMMARY">TECHNICAL SUMMARY</sov:Section>
+				<sov:Section starts="42" ends="50" sectionType="WORK HISTORY">WORK EXPERIENCE</sov:Section>
+				<sov:Section starts="51" ends="215" sectionType="WORK HISTORY">PROJECT SUMMARY [PROJECT_HEADERS_SUBSECTION_OF_WORK_SECTION]</sov:Section>
+				<sov:Section starts="216" ends="224" sectionType="EDUCATION">ACADEMIC DETAILS</sov:Section>
+				<sov:Section starts="225" ends="239" sectionType="CONTACT INFO">PERSONAL DETAILS</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Mobile: +91 9766914574</sov:Phone>
+					<sov:Phone>+91 9766914574</sov:Phone>
+					<sov:Phone>8856051511</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>MOHIT KALE</sov:Name>
+					<sov:Name>MOHIT ASHOK KALE</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>mr.mohit44@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>dynamiccarcarrying.com.au</sov:Url>
+					<sov:Url>findbuyers.com</sov:Url>
+					<sov:Url>getbuyside.com</sov:Url>
+					<sov:Url>Authorize.net</sov:Url>
+					<sov:Url>housejoy.in</sov:Url>
+					<sov:Url>creati.st</sov:Url>
+					<sov:Url>ollie.co</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Current Location: Nagpur</sov:OtherDatum>
+					<sov:OtherDatum>DOB: 08th January, 1988</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Married</sov:OtherDatum>
+					<sov:OtherDatum>Nationality: Indian</sov:OtherDatum>
+					<sov:OtherDatum>technical lead</sov:OtherDatum>
+					<sov:OtherDatum>Gender: Male</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>12670</sov:ParsedTextLength>
+			<sov:ParseTime>3176</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+							<sov:Information>[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:221;POS-7,POS-9,POS-11] We could not find a job title for: POS-7, POS-9, POS-11. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:222;POS-5] No employer name was found for:  POS-5. Every position in a resume should have an employer name.</sov:Information>
+							<sov:Information>[Sovren:231;DEG-3] The following educational degree does not have a degree name: DEG-3. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-4] The following educational degree is not associated with a school: DEG-4. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:133;] Multiple phone numbers were found in the contact information. Only one phone number should be included in a resume.</sov:Information>
+							<sov:Information>[Sovren:161;DEG-4] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:334f4253-1e63-4faa-a29f-55b22a72361f</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>2dP+//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

@@ -1,0 +1,1593 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Chandresh Pant",
+          "GivenName": "Chandresh",
+          "FamilyName": "Pant"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Hyderabad"
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "+91-9899876541"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "cp@cpant.in"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Travel Tripper India Private Limited",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Senior Project Manager, Delivery Lead and individual contributor",
+                "OrgName": {
+                  "OrganizationName": "Travel Tripper India Private Limited"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "JavaScript   Angular   Ruby on Rails\r\n\r\n\r\n• Helped in building the initial Travel Tripper Hyderabad engineering team.\r\n• Architect & drive engineering design and develop software applications. Hands-on coding and code reviews.\r\nEnsure technical debt is resolved in every iteration and prevent it using best practices including Code\r\nReviews, focus on quality, Continuous Integration and Test Driven Development.\r\n• Manage releases and deployments to AWS. Use appropriate AWS offering - S3, Cloud-front, EC2, Elastic\r\nBeanstalk, Lambda etc. based on the application requirement.\r\n• Work with cross-functional team of product managers, product designers, developers and QA to deliver a\r\nquality product.\r\n• Discover the true requirements underlying feature requests and translate them into technical solutions. Lead\r\nengineering efforts to ensure timely and quality delivery.\r\n•   Collaborate with the support team. Triage technical issues and ensure their timely resolution.\r\n•   Collaborate with talent acquisition team for screening, interviewing and recruitment of the right talent for the team.\r\n•   Mentor, motivate and coach the engineering team members and help them develop and grow along their career paths\r\n•   Roadmap planning, Project and Resource management.\r\n•   Successfully delivered custom Booking Engine for Marina Bay Sands and Call center application for Caesars\r\nEntertainment. Two of the most high profile customers for Travel Tripper. Worked with customer teams and product\r\nmanagers to analyse requirements. Setup the engineering teams, initial architecture and process and lead the teams\r\nto successfully deliver the products. I continuously work with the customer and represent the engineering team.\r\n• Maintain legacy Ruby on Rails application and work with the team to add new features.",
+                "StartDate": {
+                  "YearMonth": "2016-06"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 42% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Travel Tripper India",
+                    "sov:NormalizedTitle": "Senior Project Manager Delivery Lead and individual contributor",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Senior Project Manager, Delivery Lead",
+                        "Senior Project Manager",
+                        "Delivery Lead and individual contributor",
+                        "Project Manager, Delivery Lead and individual contributor",
+                        "Project Manager, Delivery Lead",
+                        "Project Manager"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Travel Tripper India"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "NCR",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Cofounder, Engineering Manager, Lead Developer & Trainer",
+                "OrgName": {
+                  "OrganizationName": "NCR"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "DELHI"
+                      ],
+                      "Municipality": "Delhi"
+                    }
+                  }
+                ],
+                "Description": "CMISOFT (Founded in April 2010 - incorporated as Private Limited firm on 04 August 2011)\r\nJavaScript   Angular   Ruby on Rails   HTML/CSS   Elixir\r\n\r\n\r\n• Setup project teams and worked on developing various web applications. Ruby on Rails Development with Ruby on Rails. Managed releases & deployments to dedicated linux servers as well as on Heroku & AWS.\r\n•   Worked as a team mentor/SME at Deloitte Bangalore, for a Ruby on Rails based Financial project.\r\n•   Maintain legacy Ruby on Rails application. Keep it updated and develop new functionality.\r\n•   Mentored team at Hughes Systique Corporation (HSC) Gurgaon, for a Ruby based Telecom project.\r\n•   Worked with team at Nokia to guide, architect and develop a telecom application using Ruby on Rails.\r\n•   Provided Corporate Training at many companies including: eDataWorld LLC, Hughes Systique Corporation,\r\nDeloitte, Wipro, IBM, Verizon.",
+                "StartDate": {
+                  "YearMonth": "2010-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-06"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 55% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "NCR",
+                    "sov:NormalizedTitle": "Cofounder Engineering Manager Lead Developer AND Trainer"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Fullstack Developer",
+                "OrgName": {
+                  "OrganizationName": "Lendstreet Financial"
+                },
+                "Description": "JS   AngularJS   Ruby on Rails/ROR   Elixir   Salesforce/Apex\r\n\r\n\r\n•   Developed Borrower/Investor Web platform using Ruby on Rails, AngularJS.\r\n•   Implemented custom amortization and other financial formulas.\r\n•   Implemented credit score/dashboard for underwriters.\r\n•   API Development using Elixir / Phoenix framework.\r\n•   Worked with integration with Salesforce. Implemented part of the solution within Salesforce Platform using\r\nApex.",
+                "StartDate": {
+                  "YearMonth": "2015-01"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-06"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 57% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Lendstreet Financial",
+                    "sov:NormalizedTitle": "Fullstack Developer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "NCR"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "SynapseIndia",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Business Analyst",
+                "OrgName": {
+                  "OrganizationName": "SynapseIndia"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "UTTAR PRADESH"
+                      ],
+                      "Municipality": "Noida"
+                    }
+                  }
+                ],
+                "Description": "Break down complex problems into understandable user stories. Prioritizing/scheduling the work to meet\r\ndeadlines. Define project scope, Create SRS, Work Breakdown Structure and User Stories.\r\n• Work with engineering teams to estimate the amount work.\r\n• Understand the problem statement / enhancements, gather the requirements, change requests & feedbacks\r\nand explore potential solutions/recommendations.\r\n• Work with project teams & project managers as a consultant to ensure successful delivery of project.",
+                "StartDate": {
+                  "YearMonth": "2005-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2010-03"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "User Experience → User Research",
+                    "Comments": "User Experience describes 33% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "SynapseIndia",
+                    "sov:NormalizedTitle": "Business Analyst"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "SynapseIndia"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "UG Software Technologies Pvt. Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Lead Developer and Manager",
+                "OrgName": {
+                  "OrganizationName": "UG Software Technologies Pvt. Ltd"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "DELHI"
+                      ],
+                      "Municipality": "Delhi"
+                    }
+                  }
+                ],
+                "Description": "HTML   ASP   PHP   Ruby   VB\r\n\r\n\r\n• Developed multiple applications in different technologies: ASP, PHP, VB, VB.NET & Ruby.\r\n• Project Management: Managed various projects which include web design and web development projects in various domains: Real-Estate, E-commerce, CMS, MLM, Job site, Dating site, Auction, Immigration, Mortgage,\r\nBook store, Event Management, etc. Monitoring project delivery to ensure that business requirements are met.\r\n• Team Management: Managed a team of 45 software developers, product designers and QA. Trained team\r\nmembers on PHP, HTML and JavaScript.",
+                "StartDate": {
+                  "YearMonth": "2003-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2005-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Big Data",
+                    "Comments": "Information Technology describes 63% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:NumberOfEmployeesSupervised": "45",
+                    "sov:NormalizedOrganizationName": "UG Software Technologies",
+                    "sov:NormalizedTitle": "Lead Developer and Manager"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "UG Software Technologies"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "CrunexWeb",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "Title": "Freelance Developer",
+                "OrgName": {
+                  "OrganizationName": "CrunexWeb"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "DELHI"
+                      ],
+                      "Municipality": "Delhi"
+                    }
+                  }
+                ],
+                "Description": "Web Developer\tWeb Developer\tPartner & Web Developer\r\n(ASP   PHP   Java)\t(ASP   Java   HTML)\t(ASP   HTML)",
+                "StartDate": {
+                  "YearMonth": "2001-01"
+                },
+                "EndDate": {
+                  "YearMonth": "2003-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Freelance",
+                    "sov:NormalizedOrganizationName": "CrunexWeb",
+                    "sov:NormalizedTitle": "Freelance Developer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "CrunexWeb"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "Goethe-Institut, Max Mueller Bhavan"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "Year": "2010"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "German"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "2010"
+                    },
+                    "EndDate": {
+                      "Year": "2010"
+                    }
+                  }
+                ],
+                "Comments": "Goethe-Institut, Max Mueller Bhavan\r\n\r\nStartDeutsch2 (A2), German, 2010 - 2010",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Goethe Institut Max Mueller Bhavan"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "Goethe-Institut, Max Mueller Bhavan"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeName": "Diploma",
+                "DegreeDate": {
+                  "Year": "2000"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Network Centered Computing"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "1998"
+                    },
+                    "EndDate": {
+                      "Year": "2000"
+                    }
+                  }
+                ],
+                "Comments": "Goethe-Institut, Max Mueller Bhavan\r\n\r\nDiploma, Network Centered Computing, 1998 - 2000",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "unspecified"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Goethe Institut Max Mueller Bhavan"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "NIIT"
+              }
+            ],
+            "Degree": [
+              {
+                "Comments": "NIIT",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "NIIT"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Advanced Certification in AI/ML",
+            "Id": "1",
+            "Description": "(Pursuing) Advanced Certification in AI/ML\r\nThe International Institute of Information Technology Hyderabad (IIIT)\r\n\r\nStartDeutsch1 (A1), German, 2010 - 2010",
+            "EffectiveDate": {
+              "FirstIssuedDate": {
+                "StringDate": "current"
+              }
+            }
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Basic German"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Basic German"
+          },
+          {
+            "LanguageCode": "de",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Basic German"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-29"
+    },
+    "NonXMLResume": {
+      "TextResume": "cp@cpant.in\r\nChandresh Pant\r\nHyderabad/India\r\nEngineering Manager, Architect and Fullstack\tOpen to move\r\nDeveloper (Ruby on Rails   JavaScript   Angular   Python)\t+91-9899876541\r\nand Machine Learning Enthusiast\r\n\r\n\r\nEngineering Manager with 19 years+ of experience with building cloud scale\r\napplications using modern software development technologies. Polyglot with\r\nexperience of using Ruby, Elixir, Python, Java and JavaScript among others.\r\nSkilled at working with corporate leaders and staff to translate complex business\r\nrequirements into robust cost-effective technology solutions. Demonstrated\r\nexperience of setting up, growing and mentoring software engineering teams.\r\nTravel / Hospitality\tCloud Computing\tAgile / Scrum\r\nFintech\tAWS\tPython\r\nE-commerce\tDeployments\tRuby / Rails\r\nTelecom\tDevops\tJavaScript/Angular\r\nStartups\tTDD\r\nMongoDB\r\n\r\nMachine Learning\tJenkins / CI\tElasticsearch\r\n\r\n\r\nExperiences\r\n06/2016 - Present   Hyderabad\r\nSenior Project Manager, Delivery Lead and individual contributor\r\nTravel Tripper India Private Limited\r\nJavaScript   Angular   Ruby on Rails\r\n\r\n\r\n• Helped in building the initial Travel Tripper Hyderabad engineering team.\r\n• Architect & drive engineering design and develop software applications. Hands-on coding and code reviews.\r\nEnsure technical debt is resolved in every iteration and prevent it using best practices including Code\r\nReviews, focus on quality, Continuous Integration and Test Driven Development.\r\n• Manage releases and deployments to AWS. Use appropriate AWS offering - S3, Cloud-front, EC2, Elastic\r\nBeanstalk, Lambda etc. based on the application requirement.\r\n• Work with cross-functional team of product managers, product designers, developers and QA to deliver a\r\nquality product.\r\n• Discover the true requirements underlying feature requests and translate them into technical solutions. Lead\r\nengineering efforts to ensure timely and quality delivery.\r\n•   Collaborate with the support team. Triage technical issues and ensure their timely resolution.\r\n•   Collaborate with talent acquisition team for screening, interviewing and recruitment of the right talent for the team.\r\n•   Mentor, motivate and coach the engineering team members and help them develop and grow along their career paths\r\n•   Roadmap planning, Project and Resource management.\r\n•   Successfully delivered custom Booking Engine for Marina Bay Sands and Call center application for Caesars\r\nEntertainment. Two of the most high profile customers for Travel Tripper. Worked with customer teams and product\r\nmanagers to analyse requirements. Setup the engineering teams, initial architecture and process and lead the teams\r\nto successfully deliver the products. I continuously work with the customer and represent the engineering team.\r\n• Maintain legacy Ruby on Rails application and work with the team to add new features.\r\n04/2010 - 06/2016   Delhi/NCR\r\nCofounder, Engineering Manager, Lead Developer & Trainer\r\nCMISOFT (Founded in April 2010 - incorporated as Private Limited firm on 04 August 2011)\r\nJavaScript   Angular   Ruby on Rails   HTML/CSS   Elixir\r\n\r\n\r\n• Setup project teams and worked on developing various web applications. Ruby on Rails Development with\r\nRuby on Rails. Managed releases & deployments to dedicated linux servers as well as on Heroku & AWS.\r\n•   Worked as a team mentor/SME at Deloitte Bangalore, for a Ruby on Rails based Financial project.\r\n•   Maintain legacy Ruby on Rails application. Keep it updated and develop new functionality.\r\n•   Mentored team at Hughes Systique Corporation (HSC) Gurgaon, for a Ruby based Telecom project.\r\n•   Worked with team at Nokia to guide, architect and develop a telecom application using Ruby on Rails.\r\n•   Provided Corporate Training at many companies including: eDataWorld LLC, Hughes Systique Corporation,\r\nDeloitte, Wipro, IBM, Verizon.\r\n\r\n\r\n01/2015 - 06/2016   Remote\r\nFullstack Developer\r\nLendstreet Financial\r\nJS   AngularJS   Ruby on Rails/ROR   Elixir   Salesforce/Apex\r\n\r\n\r\n•   Developed Borrower/Investor Web platform using Ruby on Rails, AngularJS.\r\n•   Implemented custom amortization and other financial formulas.\r\n•   Implemented credit score/dashboard for underwriters.\r\n•   API Development using Elixir / Phoenix framework.\r\n•   Worked with integration with Salesforce. Implemented part of the solution within Salesforce Platform using\r\nApex.\r\n\r\n\r\n08/2005 - 03/2010   Noida\r\nBusiness Analyst\r\nSynapseIndia\r\n\r\n\r\n• Break down complex problems into understandable user stories. Prioritizing/scheduling the work to meet\r\ndeadlines. Define project scope, Create SRS, Work Breakdown Structure and User Stories.\r\n• Work with engineering teams to estimate the amount work.\r\n• Understand the problem statement / enhancements, gather the requirements, change requests & feedbacks\r\nand explore potential solutions/recommendations.\r\n• Work with project teams & project managers as a consultant to ensure successful delivery of project.\r\n\r\n\r\n08/2003 - 07/2005   Delhi\r\nLead Developer and Manager\r\nUG Software Technologies Pvt. Ltd.\r\nHTML   ASP   PHP   Ruby   VB\r\n\r\n\r\n• Developed multiple applications in different technologies: ASP, PHP, VB, VB.NET & Ruby.\r\n• Project Management: Managed various projects which include web design and web development projects in\r\nvarious domains: Real-Estate, E-commerce, CMS, MLM, Job site, Dating site, Auction, Immigration, Mortgage,\r\nBook store, Event Management, etc. Monitoring project delivery to ensure that business requirements are met.\r\n• Team Management: Managed a team of 45 software developers, product designers and QA. Trained team\r\nmembers on PHP, HTML and JavaScript.\r\n01/2001 - 07/2003   Delhi\t02/2000 - 12/2001   Delhi   09/1999 - 01/2000   Delhi\r\nFreelance Developer\tMCS\tCrunexWeb\r\nWeb Developer\tWeb Developer\tPartner & Web Developer\r\n(ASP   PHP   Java)\t(ASP   Java   HTML)\t(ASP   HTML)\r\n\r\n\r\nLanguages\r\nEnglish, Hindi, Basic German\r\n\r\nEducation\r\n(Pursuing) Advanced Certification in AI/ML\r\nThe International Institute of Information Technology Hyderabad (IIIT)\r\n\r\nStartDeutsch1 (A1), German, 2010 - 2010\r\nGoethe-Institut, Max Mueller Bhavan\r\n\r\nStartDeutsch2 (A2), German, 2010 - 2010\r\nGoethe-Institut, Max Mueller Bhavan\r\n\r\nDiploma, Network Centered Computing, 1998 - 2000\r\nNIIT"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Chandresh Pant's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in General Management (mostly People Oriented). Chandresh Pant has 19 years of work experience, with 12 years of management experience, including a low-level position.",
+          "sov:MonthsOfWorkExperience": "226",
+          "sov:AverageMonthsPerEmployer": "45",
+          "sov:FulltimeDirectHirePredictiveIndex": "54",
+          "sov:MonthsOfManagementExperience": "140",
+          "sov:CurrentManagementLevel": "low-level",
+          "sov:HighestManagementScore": "25",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": "Current position is a low-level management role: Senior Project Manager, Delivery Lead and individual contributor\r\nStarting on 6/1/2016, the candidate held the following low-level management position for 3 years and 6 months:\r\n\tTitle: Senior Project Manager, Delivery Lead and individual contributor for Travel Tripper India Private Limited\r\nStarting on 4/1/2010, the candidate held the following low-level management position for 6 years and 3 months:\r\n\tTitle: Cofounder, Engineering Manager, Lead Developer & Trainer for NCR\r\nStarting on 8/1/2003, the candidate held the following low-level management position for 2 years:\r\n\tTitle: Lead Developer and Manager for UG Software Technologies Pvt. Ltd",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "81",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "75",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021194",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@totalMonths": "129",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@totalMonths": "140",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in HOBBIES; WORK HISTORY; POS-1; POS-2; POS-5"
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          },
+                          {
+                            "@name": "PHP",
+                            "@id": "004736",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          },
+                          {
+                            "@name": "Ruby",
+                            "@id": "1004736",
+                            "@existsInText": "true",
+                            "@totalMonths": "140",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in HOBBIES; WORK HISTORY; POS-1; POS-2; POS-3; POS-5",
+                            "@childrenTotalMonths": "116",
+                            "@childrenLastUsed": "2019-11-29",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "Rails",
+                                "@id": "100473602",
+                                "@existsInText": "true",
+                                "@totalMonths": "116",
+                                "@lastUsed": "2019-11-29",
+                                "@whereFound": "Found in HOBBIES; WORK HISTORY; POS-1; POS-2; POS-3"
+                              },
+                              {
+                                "@name": "Ruby on Rails",
+                                "@id": "100473601",
+                                "@existsInText": "true",
+                                "@totalMonths": "116",
+                                "@lastUsed": "2019-11-29",
+                                "@whereFound": "Found in WORK HISTORY; POS-1; POS-2; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "VB.NET",
+                            "@id": "010435",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROJECT MANAGER",
+                            "@id": "022909",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "TEAM MANAGEMENT",
+                            "@id": "025953",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "Amazon Elastic Compute Cloud",
+                            "@id": "5500001",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "42",
+                            "@childrenLastUsed": "2019-11-29",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "EC2",
+                                "@id": "550000102",
+                                "@existsInText": "true",
+                                "@totalMonths": "42",
+                                "@lastUsed": "2019-11-29",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5500361",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASP",
+                            "@id": "004324",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5; POS-6"
+                          },
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@totalMonths": "74",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "010994",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@totalMonths": "74",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTENT MANAGEMENT SYSTEM",
+                            "@id": "5530931",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2005-07-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CMS",
+                                "@id": "5530932",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2005-07-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ELASTICSEARCH",
+                            "@id": "5530744",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5530805",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANGULARJS",
+                            "@id": "5520505",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Telephony",
+                        "@id": "347",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "APEX",
+                            "@id": "026854",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DEV OPS",
+                            "@id": "0146073",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DEVOPS",
+                                "@id": "0146074",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in HOBBIES"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mainframe",
+                        "@id": "197",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "NCR",
+                            "@id": "003312",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "31",
+                            "@lastUsed": "2003-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Workflow and Imaging",
+                        "@id": "342",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "CMS",
+                            "@id": "013609",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Management",
+                    "@id": "80",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "People Oriented",
+                        "@id": "517",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MENTOR",
+                            "@id": "021625",
+                            "@existsInText": "true",
+                            "@totalMonths": "116",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                          },
+                          {
+                            "@name": "TEAM MANAGEMENT",
+                            "@id": "025955",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "66",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "59",
+                            "@childrenLastUsed": "2019-11-29",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@totalMonths": "59",
+                                "@lastUsed": "2019-11-29",
+                                "@whereFound": "Found in WORK HISTORY; POS-1; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Research",
+                        "@id": "558",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "USER STORIES",
+                            "@id": "5570004",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2010-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "5570113",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Integration Design",
+                        "@id": "568",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "5570110",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Recruitment & Staffing",
+                        "@id": "190",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "98",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTERVIEWING",
+                            "@id": "026321",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "RECRUITMENT",
+                            "@id": "006646",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "TALENT ACQUISITION",
+                            "@id": "9000229",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Global Mobility",
+                        "@id": "575",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "IMMIGRATION",
+                            "@id": "9000086",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Standards, Protocols, Technologies",
+                        "@id": "317",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "47",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOM",
+                            "@id": "022903",
+                            "@existsInText": "true",
+                            "@totalMonths": "74",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in HOBBIES; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "318",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "VERIZON",
+                            "@id": "010491",
+                            "@existsInText": "true",
+                            "@totalMonths": "74",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Hardware",
+                        "@id": "319",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "NOKIA",
+                            "@id": "003480",
+                            "@existsInText": "true",
+                            "@totalMonths": "74",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "RF",
+                        "@id": "268",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "56",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOM",
+                            "@id": "022904",
+                            "@existsInText": "true",
+                            "@totalMonths": "74",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in HOBBIES; WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "44",
+                        "sov:Skill": [
+                          {
+                            "@name": "BODY ENGINEERING",
+                            "@id": "022713",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "42",
+                            "@childrenLastUsed": "2019-11-29",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ENGINEERING DESIGN",
+                                "@id": "016627",
+                                "@existsInText": "true",
+                                "@totalMonths": "42",
+                                "@lastUsed": "2019-11-29",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BEST PRACTICES",
+                            "@id": "011365",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022227",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Technical Product Marketing",
+                        "@id": "586",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "93",
+                        "sov:Skill": [
+                          {
+                            "@name": "SUBJECT MATTER EXPERT",
+                            "@id": "1400032",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "74",
+                            "@childrenLastUsed": "2016-06-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SME",
+                                "@id": "1400033",
+                                "@existsInText": "true",
+                                "@totalMonths": "74",
+                                "@lastUsed": "2016-06-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Digital",
+                        "@id": "599",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "1400242",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Translations and Language Work",
+                    "@id": "91",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Translation",
+                        "@id": "901",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRANSLATE",
+                            "@id": "200002",
+                            "@existsInText": "true",
+                            "@totalMonths": "42",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Credit and Underwriting",
+                        "@id": "240",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "76",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "014614",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2016-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mortgage",
+                        "@id": "233",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "LOANS",
+                            "@id": "080236",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2005-07-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MORTGAGE",
+                                "@id": "002722",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2005-07-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "QA",
+                            "@id": "006125",
+                            "@existsInText": "true",
+                            "@totalMonths": "66",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Logistics",
+                        "@id": "460",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCHEDULING",
+                            "@id": "022740",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2010-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Planning",
+                        "@id": "208",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCHEDULING",
+                            "@id": "022739",
+                            "@existsInText": "true",
+                            "@totalMonths": "55",
+                            "@lastUsed": "2010-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS REQUIREMENTS",
+                            "@id": "022626",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2005-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "CAD/CAM",
+                    "@id": "4",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Engineering",
+                        "@id": "357",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "UG",
+                            "@id": "010087",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Hobbies": {
+          "sov:Text": "/ Hospitality\tCloud Computing\tAgile / Scrum\r\nFintech\tAWS\tPython\r\nE-commerce\tDeployments\tRuby / Rails\r\nTelecom\tDevops\tJavaScript/Angular\r\nStartups\tTDD\r\nMongoDB\r\n\r\nMachine Learning\tJenkins / CI\tElasticsearch"
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "14",
+              "@ends": "23",
+              "@sectionType": "HOBBIES",
+              "#text": "Travel"
+            },
+            {
+              "@starts": "24",
+              "@ends": "110",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Experiences"
+            },
+            {
+              "@starts": "111",
+              "@ends": "113",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages"
+            },
+            {
+              "@starts": "114",
+              "@ends": "125",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "+91-9899876541"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Chandresh Pant"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "cp@cpant.in"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "6119",
+        "sov:ParseTime": "546",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:231;DEG-1,DEG-3] The following educational degrees do not have a degree name: DEG-1, DEG-3. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'Travel'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:ce031dab-2b73-422b-b4e0-e30f00fed636",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.9.0",
+        "sov:DigitalSignature": "2f////////8="
+      }
+    }
+  }
+}

@@ -1,0 +1,1123 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "YASHALI BANSOD",
+          "GivenName": "YASHALI",
+          "FamilyName": "BANSOD"
+        },
+        "ContactMethod": [
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "Mobile": {
+              "FormattedNumber": "9011916860"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "yashalibansod25@gmail.com"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Aeronautical Development Agency, Ministry of Defence",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Govt of India Scientist B",
+                "OrgName": {
+                  "OrganizationName": "Aeronautical Development Agency, Ministry of Defence"
+                },
+                "Description": "• Project management of an in-house ERP web application\r\no Developing core libraries and business framework\r\no Heading a team of 15 developers & testers\r\no Driving the whole sprint cycle\r\no Product roadmap management\r\no Training stakeholders on product usage\r\no Interviewing & onboarding new technology resources\r\no Vendor & support resource management\r\no Administration and 100% development operations ownership\r\no Code review and release management\r\no Engaging with stakeholders for new features' designs and requirements\r\nTools and Technologies: ASP.NET, MVC.NET, C# .NET, MS SQL Server, TFS, Git, GitLab",
+                "StartDate": {
+                  "Year": "2017"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 73% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NumberOfEmployeesSupervised": "15",
+                    "sov:NormalizedOrganizationName": "Aeronautical Development Agency Ministry of Defence",
+                    "sov:NormalizedTitle": "Govt of India Scientist B",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "India Scientist B"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Aeronautical Development Agency Ministry of Defence"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Fab.com",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Pune Software Engineer",
+                "OrgName": {
+                  "OrganizationName": "Fab.com"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "Fab.com"
+                  }
+                ],
+                "Description": "• Designed and implemented product recommendation engine backed by Solr database.\r\no Implemented tag based search with Emojis\r\no Improved user-search-to-click rate by 5 times.\r\n• Designed and drove the Product preview in augmented reality.\r\no Image transformation and loader to CDN.\r\no Optimized runtimes using caching layer.\r\no Implemented extendable API's to support frequent changes in mobile app.\r\n• Integrated push notification service with coupons, products and cart\r\no Implemented search and order history based product recommendation\r\nTools and Technologies: Ruby on Rails, Solr, Amazon SNS, MySQL, Memcached, Jenkins, SVN",
+                "StartDate": {
+                  "Year": "2015"
+                },
+                "EndDate": {
+                  "Year": "2016"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 94% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Fab.com",
+                    "sov:NormalizedTitle": "Pune Software Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Fab.com"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "FactSet Software Systems India Pvt. Ltd",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Hyderabad Software Engineer I",
+                "OrgName": {
+                  "OrganizationName": "FactSet Software Systems India Pvt. Ltd"
+                },
+                "Description": "• Designed and developed a library of a web-based financial research tool.\r\n• Finished creating a PowerShell layer on top of the project using .NET PowerShell Commandlet technology.\r\n• Designed unit - test cases for the projects.\r\n• Enhanced other C++ based modules with exposure to COM technology\r\nTools and Technologies: C# .NET, MS SQL Server, Oracle, C++, PowerShell, Aspose, Perforce",
+                "StartDate": {
+                  "Year": "2014"
+                },
+                "EndDate": {
+                  "Year": "2015"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 91% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "FactSet Software Systems India",
+                    "sov:NormalizedTitle": "Hyderabad Software Engineer I"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "FactSet Software Systems India"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "National Institute of Technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech.",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science and Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "B.Tech. - Computer Science and Engineering (8.43/10)\r\nNational Institute of Technology, Nagpur (VNIT) (2014)",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "National Institute of Technology"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Software Skills\r\nProficient with Data Structures & Algorithms\r\nProgramming languages: C, C++, C#, Java, Ruby, Javascript, Typescript\r\nFrameworks: ASP.NET, Aspose, Cordova, JQuery, Rails, Angular, Bulma, Bootstrap\r\nDatabases: Oracle, SQL Server, My SQL, Elastic, Solr, Dynamo, Redis, Memcached\r\nRevision Management: GitLab, Github, Bitbucket, Perforce, SVN\r\nCloud & CI/CD: Jenkins, GitLab, Heroku, AWS"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "YASHALI BANSOD\tMobile: 9011916860 Email: yashalibansod25@gmail.com\r\n\r\nEducation\r\nB.Tech. - Computer Science and Engineering (8.43/10)\r\nNational Institute of Technology, Nagpur (VNIT) (2014)\r\n\r\nWork Experience\r\nFactSet Software Systems India Pvt. Ltd., Hyderabad Software Engineer I\t2014-2015\r\n• Designed and developed a library of a web-based financial research tool.\r\n• Finished creating a PowerShell layer on top of the project using .NET PowerShell Commandlet technology.\r\n• Designed unit - test cases for the projects.\r\n• Enhanced other C++ based modules with exposure to COM technology\r\nTools and Technologies: C# .NET, MS SQL Server, Oracle, C++, PowerShell, Aspose, Perforce\r\n\r\nFab.com, Pune Software Engineer\t2015-2016\r\n• Designed and implemented product recommendation engine backed by Solr database.\r\no Implemented tag based search with Emojis\r\no Improved user-search-to-click rate by 5 times.\r\n• Designed and drove the Product preview in augmented reality.\r\no Image transformation and loader to CDN.\r\no Optimized runtimes using caching layer.\r\no Implemented extendable API's to support frequent changes in mobile app.\r\n• Integrated push notification service with coupons, products and cart\r\no Implemented search and order history based product recommendation\r\nTools and Technologies: Ruby on Rails, Solr, Amazon SNS, MySQL, Memcached, Jenkins, SVN\r\n\r\nAeronautical Development Agency, Ministry of Defence, Govt of India Scientist B\t2017-present\r\n• Project management of an in-house ERP web application\r\no Developing core libraries and business framework\r\no Heading a team of 15 developers & testers\r\no Driving the whole sprint cycle\r\no Product roadmap management\r\no Training stakeholders on product usage\r\no Interviewing & onboarding new technology resources\r\no Vendor & support resource management\r\no Administration and 100% development operations ownership\r\no Code review and release management\r\no Engaging with stakeholders for new features' designs and requirements\r\nTools and Technologies: ASP.NET, MVC.NET, C# .NET, MS SQL Server, TFS, Git, GitLab\r\n\r\nSoftware Skills\r\nProficient with Data Structures & Algorithms\r\nProgramming languages: C, C++, C#, Java, Ruby, Javascript, Typescript\r\nFrameworks: ASP.NET, Aspose, Cordova, JQuery, Rails, Angular, Bulma, Bootstrap\r\nDatabases: Oracle, SQL Server, My SQL, Elastic, Solr, Dynamo, Redis, Memcached\r\nRevision Management: GitLab, Github, Bitbucket, Perforce, SVN\r\nCloud & CI/CD: Jenkins, GitLab, Heroku, AWS"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:PersonalInformation": {
+          "sov:CurrentSalary": {
+            "@currency": "",
+            "#text": "5.00"
+          }
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "YASHALI BANSOD's experience appears to be strongly concentrated in Information Technology (mostly Database) and slightly concentrated in Human Resources (mostly Diversity & Inclusion). YASHALI BANSOD has 6 years of work experience.",
+          "sov:MonthsOfWorkExperience": "71",
+          "sov:AverageMonthsPerEmployer": "23",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "87",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "30",
+                        "@percentOfParentTaxonomy": "34",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "true",
+                            "@totalMonths": "59",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-3",
+                            "@childrenTotalMonths": "59",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@totalMonths": "59",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "59",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "27",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": ".NET",
+                            "@id": "023039",
+                            "@existsInText": "true",
+                            "@totalMonths": "59",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-3"
+                          },
+                          {
+                            "@name": "C#",
+                            "@id": "012275",
+                            "@existsInText": "true",
+                            "@totalMonths": "59",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1; POS-3"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "Git",
+                            "@id": "1004755",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BOOTSTRAP",
+                                "@id": "3391101",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "TYPESCRIPT",
+                                "@id": "3391102",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "memcached",
+                            "@id": "1004753",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "Ruby",
+                            "@id": "1004736",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "Rails",
+                                "@id": "100473602",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                              },
+                              {
+                                "@name": "Ruby on Rails",
+                                "@id": "100473601",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                          },
+                          {
+                            "@name": "Solr",
+                            "@id": "1004759",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "Subversion",
+                            "@id": "1004756",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SVN",
+                                "@id": "100475601",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASP",
+                            "@id": "004324",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "MS ASP",
+                            "@id": "025409",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "35",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ASP.NET",
+                                "@id": "004334",
+                                "@existsInText": "true",
+                                "@totalMonths": "35",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "WEB BASED",
+                            "@id": "024402",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2015-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "WEB-BASED",
+                                "@id": "02440201",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2015-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE SOLR",
+                            "@id": "5530719",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOLR",
+                                "@id": "553071901",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ENTERPRISE RESOURCE PLANNING",
+                            "@id": "5530983",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "35",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ERP",
+                                "@id": "5530984",
+                                "@existsInText": "true",
+                                "@totalMonths": "35",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "RECOMMENDATION ENGINE",
+                            "@id": "5531051",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "REDIS",
+                            "@id": "5530835",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE CORDOVA",
+                            "@id": "5520507",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CORDOVA",
+                                "@id": "552050701",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "BOOTSTRAP",
+                            "@id": "5520522",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "35",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@totalMonths": "35",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "35",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@totalMonths": "35",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ERP",
+                            "@id": "016891",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Gaming",
+                        "@id": "551",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "PERFORCE",
+                            "@id": "5510116",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTENT DISTRIBUTED NETWORK",
+                            "@id": "3380033",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2016-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CDN",
+                                "@id": "3380034",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2016-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CDN",
+                            "@id": "7180004",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CDN",
+                            "@id": "5551338",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Content Management",
+                        "@id": "352",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DYNAMO",
+                            "@id": "025777",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRAMEWORKS",
+                            "@id": "017954",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Diversity & Inclusion",
+                        "@id": "574",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "37",
+                        "sov:Skill": [
+                          {
+                            "@name": "EMPLOYEE RESOURCE GROUP",
+                            "@id": "9000074",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "35",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ERP",
+                                "@id": "9000075",
+                                "@existsInText": "true",
+                                "@totalMonths": "35",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Talent Management",
+                        "@id": "584",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "ONBOARDING",
+                            "@id": "9000284",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Recruitment & Staffing",
+                        "@id": "190",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTERVIEWING",
+                            "@id": "026321",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT ROADMAP",
+                            "@id": "1400018",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@totalMonths": "35",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Non-Skilled Labor",
+                    "@id": "11",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Drivers",
+                        "@id": "301",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "LOADER",
+                            "@id": "020850",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEST CASES",
+                            "@id": "009422",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "017446",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "2",
+              "@ends": "5",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "6",
+              "@ends": "39",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "40",
+              "@ends": "46",
+              "@sectionType": "SKILLS",
+              "#text": "Software Skills"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Mobile: 9011916860",
+              "9011916860"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "YASHALI BANSOD",
+              "YASHALI BANSOD\tMobile: 9011916860 Email: yashalibansod25@gmail.com"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "yashalibansod25@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "Fab.com"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2421",
+        "sov:ParseTime": "511",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Software Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:7ff62181-b795-441e-884c-887f8ccf3a6c",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "ji3///////8="
+      }
+    }
+  }
+}

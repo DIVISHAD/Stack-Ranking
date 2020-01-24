@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Naresh Nelluru</FormattedName>
+				<GivenName>Naresh</GivenName>
+				<FamilyName>Nelluru</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91 955 365 8855</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>nelluru.naresh@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Innobox Systems Pvt. Ltd</EmployerOrgName>
+				<PositionHistory currentEmployer="true">
+					<OrgName>
+						<OrganizationName>Innobox Systems Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2010-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Innobox Systems</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Member Technical Staff and Team Lead</Title>
+					<OrgName>
+						<OrganizationName>Innobox Systems Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description>Projects Handled: Range of MiFi Products, EasyCare Online application, Covideo Applications, QuiqRx iOS apps
+R&amp;D or PoC Applications: Internet Radio, Sanskruti, PicDemos
+
+MiFi Products:
+A MiFi product is a portable hotspot that allows multiple stations like Laptops; mobile phones connect to a 4GLTE mobile broadband Internet connection and create an ad-hoc network. My team is involved in developing the Web UI and Display UI for the user to configure settings like changing passwords, SSIDs, LAN settings, etc. The display UI developed uses touch based and key navigation.
+
+
+EasyCare Online:
+Automobile Protection Corporation provides extended warranties to New and used vehicles under the EasyCare brand name. The EasyCare Online is a centralized application wherein the APCO manages information about the Agencies and Dealerships and also lets agencies and dealerships to manage and customize the products/contracts provided by APCO. It also helps them to manage the claims through this application.
+
+Covideo Vidoe Email Application:
+Covideo Video Email is a desktop application for sending Videos through e-mail instead of sending mail in just text format. The advantage of this application is user communicates to the others in better way. With this application, users can record his video in different formats including HD videos and send those videos to others for viewing. This involves developing MAC OSX, iOS App and back office web site
+
+Contribution as Lead and Individual Contributor:
+• Leading a team of 12 members
+• Owning the Web UI, Display UI, REST API and other user space modules.
+• Coordinate with the counterparts in getting and understanding new requirements, setting goals and achieving them with the team.
+• Distributing the tasks among the team, setting priorities and making sure they complete on-time
+• Writing the design documents for a feature development.
+• Take up new activity and do it from start to finish.
+• Be the first to take up new activity on a new module, understand, demonstrate to the team and pass it to team for further development.
+• Code reviews.
+
+Contribution as Developer:
+• Designed and developed the applications.
+• Worked on CoVideo back office web site to introduce new features and refining the existing features using PHP and MySQL.
+• Developing and unit testing the developed features.
+• Involved in designing new features.</Description>
+					<StartDate>
+						<YearMonth>2010-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 45% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>12</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Innobox Systems</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Member Technical Staff and Team Lead</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Innobox Systems</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>IT Seers Software Pvt. Ltd</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>IT Seers Software Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2010-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>IT Seers Software</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>IT Seers Software Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description>Projects Handled: Child Id website
+
+Contribution as Developer:
+• Delivered new web pages
+• Integrated USFSG Payment Gateway.</Description>
+					<StartDate>
+						<YearMonth>2010-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>IT Seers Software</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>IT Seers Software</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Aparoksha Technologies Pvt. Ltd</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>Aparoksha Technologies Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2006-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2009-12</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Aparoksha Technologies</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Aparoksha Technologies Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<Description>Projects Handled: E-Tracker, IT Seers Collaborator, Staffware, Financial Planner System, and Sustenance of Integrated Test Framework (ITF).
+
+E-Tracker:
+Pre Generated Kits (PGKs) are the welcome kits issued by banks when a customer opens an account. The System is used to track the status of the PGKs from the time of issuing a purchase order by the bank to the vendor to print the PGKs, dispatch to the branches, issuing it to customers and linking the PGK to the Account Opening Form (AOF). This system also keeps track oft the AOF status like accepted or rejected. In addition to this, the system will scan all the AOF documents and uploads it to the server and also sends email to the customer on acceptance or rejection of the account.
+
+Staffware:
+The Staffware project is used to receive the application from customers, scan the applications at the Regional Office and upload the scanned images to the server so that the application form data can be entered into a centralized system by opening the scanned images. The main use of this application is to centralize the data entry operation at only one place. This reduces the redundancy of data entered in to the centralized system.
+
+Financial Planner System:
+The financial planner system will help the customers to assess their earnings over a period of time, based on the investments they are going to make and also on their expenditures over that period. This will give the customer to visualize the earnings after a period of time and he can invest more if the client fell short of the expenditures for the future. The Wealth Advisors will carefully invest the money in different types of schemes so that the clients have appropriate returns on the money invested.
+
+Contribution as Developer:
+• Handled client communication
+• Designed the User interfaces and wrote the design documents.
+• Involved in developing the modules with the help of the team.
+• Setting up the IIS Web server and MySQL and MSSQL database.
+• Developed MIS reports using SQL Server Reporting Services (SSRS).
+• Administering the web server and database
+• Wrote user guides
+• Created Installer package to ensure application installation is smooth on a standard Windows machine using Visual Studio 2005 Setup and Deployment projects and Inno Setup package.
+
+
+Declaration:
+I hereby declare that the above-mentioned information is true to the best of my knowledge.</Description>
+					<StartDate>
+						<YearMonth>2006-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2009-12</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Business Intelligence</CategoryCode>
+						<Comments>Information Technology describes 91% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Aparoksha Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Aparoksha Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>C-DAC</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bangalore</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeName>Diploma</DegreeName>
+					<DegreeMajor>
+						<Name>Embedded Systems Design</Name>
+					</DegreeMajor>
+					<Comments>Diploma Embedded Systems Design from C-DAC, Bangalore.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>unspecified</sov:NormalizedDegreeName>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>C DAC</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Nagarjuna University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech.</DegreeName>
+					<DegreeMajor>
+						<Name>Electronics and Instrumentation Engineering</Name>
+					</DegreeMajor>
+					<Comments>B.Tech. Electronics and Instrumentation Engineering from Nagarjuna University, AP.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Nagarjuna University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Skills
+
+Architect and Design, Research and development, Leadership/Team building, Hiring, Training and Mentoring, Module Ownership
+Technical Skills
+
+• Web Dev Languages and Tools: C# .NET, ASP.NET MVC5, Entity Frameworks, LINQ
+PHP, Laraval
+JavaScript, jQuery, AngularJS
+Lua, Luci Framework
+HTML, CSS3
+• Embedded Dev Languages and Tools: C, C++, MQTT
+• Mobile Dev Languages and Tools: Objective C, Swift
+• Database Servers: MSSQL Server, MySQL Server
+• Web Servers: Apache, IIS, LigHTTPd
+• Process &amp; Version tools: JIRA, FishEye &amp; Crucible, TFS, SVN, Git
+• Installer tools: Inno Setup installer
+• Operating Systems: Linux, OpenWrt, Windows 10</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Associations>
+			<Association>
+				<Name>Technical Staff and Team Lead</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Naresh Nelluru
+nelluru.naresh@gmail.com	+91 955 365 8855
+
+
+A high performing Application Developer and Team Lead with 13 years of experience in Design, Develop, and Implementation of software application spanning from Mobile to Desktop and from limited resource devices (embedded) to web applications. Successfully handled various applications from inception to delivery. Currently handling a team of 10 people for delivering various products.
+
+Skills
+
+Architect and Design, Research and development, Leadership/Team building, Hiring, Training and Mentoring, Module Ownership
+Technical Skills
+
+• Web Dev Languages and Tools: C# .NET, ASP.NET MVC5, Entity Frameworks, LINQ
+PHP, Laraval
+JavaScript, jQuery, AngularJS
+Lua, Luci Framework
+HTML, CSS3
+• Embedded Dev Languages and Tools: C, C++, MQTT
+• Mobile Dev Languages and Tools: Objective C, Swift
+• Database Servers: MSSQL Server, MySQL Server
+• Web Servers: Apache, IIS, LigHTTPd
+• Process &amp; Version tools: JIRA, FishEye &amp; Crucible, TFS, SVN, Git
+• Installer tools: Inno Setup installer
+• Operating Systems: Linux, OpenWrt, Windows 10
+
+Education
+
+Diploma Embedded Systems Design from C-DAC, Bangalore.
+B.Tech. Electronics and Instrumentation Engineering from Nagarjuna University, AP.
+Professional Experience
+
+Innobox Systems Pvt. Ltd	Oct 2010 to till date
+IT Seers Software Pvt. Ltd.	Jan 2010 to Sep 2010
+Aparoksha Technologies Pvt. Ltd   Apr 2006 to Dec 2009
+
+
+Innobox Systems Pvt. Ltd	Oct 2010 to till date
+Member Technical Staff and Team Lead
+
+Projects Handled: Range of MiFi Products, EasyCare Online application, Covideo Applications, QuiqRx iOS apps
+R&amp;D or PoC Applications: Internet Radio, Sanskruti, PicDemos
+
+MiFi Products:
+A MiFi product is a portable hotspot that allows multiple stations like Laptops; mobile phones connect to a 4GLTE mobile broadband Internet connection and create an ad-hoc network. My team is involved in developing the Web UI and Display UI for the user to configure settings like changing passwords, SSIDs, LAN settings, etc. The display UI developed uses touch based and key navigation.
+
+
+EasyCare Online:
+Automobile Protection Corporation provides extended warranties to New and used vehicles under the EasyCare brand name. The EasyCare Online is a centralized application wherein the APCO manages information about the Agencies and Dealerships and also lets agencies and dealerships to manage and customize the products/contracts provided by APCO. It also helps them to manage the claims through this application.
+
+Covideo Vidoe Email Application:
+Covideo Video Email is a desktop application for sending Videos through e-mail instead of sending mail in just text format. The advantage of this application is user communicates to the others in better way. With this application, users can record his video in different formats including HD videos and send those videos to others for viewing. This involves developing MAC OSX, iOS App and back office web site
+
+Contribution as Lead and Individual Contributor:
+• Leading a team of 12 members
+• Owning the Web UI, Display UI, REST API and other user space modules.
+• Coordinate with the counterparts in getting and understanding new requirements, setting goals and achieving them with the team.
+• Distributing the tasks among the team, setting priorities and making sure they complete on-time
+• Writing the design documents for a feature development.
+• Take up new activity and do it from start to finish.
+• Be the first to take up new activity on a new module, understand, demonstrate to the team and pass it to team for further development.
+• Code reviews.
+
+Contribution as Developer:
+
+• Designed and developed the applications.
+• Worked on CoVideo back office web site to introduce new features and refining the existing features using PHP and MySQL.
+• Developing and unit testing the developed features.
+• Involved in designing new features.
+IT Seers Software Pvt. Ltd.	Jan 2010 to Sep 2010
+Software Engineer
+
+Projects Handled: Child Id website
+
+Contribution as Developer:
+• Delivered new web pages
+• Integrated USFSG Payment Gateway.
+Aparoksha Technologies Pvt. Ltd.	Apr 2006 to Dec 2009
+Software Engineer
+
+Projects Handled: E-Tracker, IT Seers Collaborator, Staffware, Financial Planner System, and Sustenance of Integrated Test Framework (ITF).
+
+E-Tracker:
+Pre Generated Kits (PGKs) are the welcome kits issued by banks when a customer opens an account. The System is used to track the status of the PGKs from the time of issuing a purchase order by the bank to the vendor to print the PGKs, dispatch to the branches, issuing it to customers and linking the PGK to the Account Opening Form (AOF). This system also keeps track oft the AOF status like accepted or rejected. In addition to this, the system will scan all the AOF documents and uploads it to the server and also sends email to the customer on acceptance or rejection of the account.
+
+Staffware:
+The Staffware project is used to receive the application from customers, scan the applications at the Regional Office and upload the scanned images to the server so that the application form data can be entered into a centralized system by opening the scanned images. The main use of this application is to centralize the data entry operation at only one place. This reduces the redundancy of data entered in to the centralized system.
+
+Financial Planner System:
+The financial planner system will help the customers to assess their earnings over a period of time, based on the investments they are going to make and also on their expenditures over that period. This will give the customer to visualize the earnings after a period of time and he can invest more if the client fell short of the expenditures for the future. The Wealth Advisors will carefully invest the money in different types of schemes so that the clients have appropriate returns on the money invested.
+
+Contribution as Developer:
+• Handled client communication
+• Designed the User interfaces and wrote the design documents.
+• Involved in developing the modules with the help of the team.
+• Setting up the IIS Web server and MySQL and MSSQL database.
+• Developed MIS reports using SQL Server Reporting Services (SSRS).
+• Administering the web server and database
+• Wrote user guides
+• Created Installer package to ensure application installation is smooth on a standard Windows machine using Visual Studio 2005 Setup and Deployment projects and Inno Setup package.
+
+
+Declaration:
+I hereby declare that the above-mentioned information is true to the best of my knowledge.
+(Naresh Nelluru)
+
+
+Naresh Nelluru</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Naresh Nelluru's experience appears to be mostly concentrated in Information Technology (mostly Database) and slightly concentrated in Common End-user Software (mostly Mac). Naresh Nelluru has 14 years of work experience, with 9 years of management experience, including a low-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>167</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>55</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>100</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>110</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>low-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a low-level management role: Member Technical Staff and Team Lead
+Starting on 10/1/2010, the candidate held the following low-level management position for 9 years and 3 months:
+	Title: Member Technical Staff and Team Lead for Innobox Systems Pvt. Ltd</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="55">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="18" percentOfParentTaxonomy="33">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="45" childrenLastUsed="2009-12-31">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in SKILLS; WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false" childrenTotalMonths="45" childrenLastUsed="2009-12-31">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" totalMonths="155" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-4; POS-6"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="16" percentOfParentTaxonomy="30">
+								<sov:Skill name=".NET" id="023039" existsInText="true" whereFound="Found in SKILLS" childrenTotalMonths="45" childrenLastUsed="2009-12-31">
+									<sov:ChildSkill name="VISUAL STUDIO" id="010645" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="API" id="021194" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="C#" id="012275" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="EMBEDDED SYSTEMS" id="016186" existsInText="true" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="OBJECTIVE C" id="003628" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="54" lastUsed="2010-09-30" whereFound="Found in WORK HISTORY; POS-5; POS-6"></sov:Skill>
+								<sov:Skill name="Subversion" id="1004756" existsInText="false">
+									<sov:ChildSkill name="SVN" id="100475601" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SWIFT" id="3391144" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="WEB UI" id="023530" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="ANGULARJS" id="5520505" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="IOS" id="5520545" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="UNIT TESTING" id="010254" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="REST" id="7180010" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="TEAM LEAD" id="009222" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="MICROSOFT SQL SERVER REPORTING SERVICES" id="5540952" existsInText="false" childrenTotalMonths="45" childrenLastUsed="2009-12-31">
+									<sov:ChildSkill name="SQL SERVER REPORTING SERVICES" id="554095201" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT SSRS" id="5540954" existsInText="false" childrenTotalMonths="45" childrenLastUsed="2009-12-31">
+									<sov:ChildSkill name="SSRS" id="554095401" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="ASP" id="004324" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="INTERNET INFORMATION SERVICES" id="022134" existsInText="false" childrenTotalMonths="45" childrenLastUsed="2009-12-31">
+									<sov:ChildSkill name="IIS" id="002902" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in SKILLS; WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MS ASP" id="025409" existsInText="false">
+									<sov:ChildSkill name="ASP.NET" id="004334" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="WEB SERVER" id="011021" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="USER INTERFACE" id="7310067" existsInText="false" childrenTotalMonths="110" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="UI" id="7310068" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="SYSTEMS DESIGN" id="009114" existsInText="true" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="FRAMEWORKS" id="017954" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STAFFWARE" id="008532" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="IIS" id="3490027" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in SKILLS; WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="LUA" id="5510080" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="jQuery" id="339048" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="TEST FRAMEWORK" id="3380018" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="8">
+							<sov:Subtaxonomy name="Mac" id="300" percentOfOverall="4" percentOfParentTaxonomy="48">
+								<sov:Skill name="MAC" id="020979" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="4" percentOfParentTaxonomy="48">
+								<sov:Skill name="LAN" id="020490" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operating Systems" id="299" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="MICROSOFT WINDOWS" id="024345" existsInText="false">
+									<sov:ChildSkill name="WINDOWS 10" id="0111485" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="8">
+							<sov:Subtaxonomy name="Payroll" id="961" percentOfOverall="4" percentOfParentTaxonomy="50">
+								<sov:Skill name="CLAIMS" id="022239" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounts Payable" id="933" percentOfOverall="4" percentOfParentTaxonomy="50">
+								<sov:Skill name="CLAIMS" id="013345" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Power Engineering" id="26" percentOfOverall="4">
+							<sov:Subtaxonomy name="Non-Nuclear Power Misc" id="924" percentOfOverall="4" percentOfParentTaxonomy="94">
+								<sov:Skill name="API" id="021195" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="INSTRUMENTATION" id="081113" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Power Related" id="925" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="INSTRUMENTATION" id="081107" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Clinical" id="28" percentOfOverall="4">
+							<sov:Subtaxonomy name="Claims and Billing" id="269" percentOfOverall="4" percentOfParentTaxonomy="93">
+								<sov:Skill name="CLAIMS" id="022238" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Tests and Functions" id="276" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="INSTRUMENTATION" id="019897" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="4">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="CONTRACTS" id="022274" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Construction Non-Laborer" id="22" percentOfOverall="4">
+							<sov:Subtaxonomy name="Office, Admin and Clerical" id="394" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="CONTRACTS" id="022273" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="4">
+							<sov:Subtaxonomy name="Supply Chain" id="461" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="CONTRACTS" id="014311" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="4">
+							<sov:Subtaxonomy name="Contracts" id="396" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="CONTRACTS" id="014309" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="4">
+							<sov:Subtaxonomy name="Refining" id="442" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="REFINING" id="006670" existsInText="true" totalMonths="110" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="2">
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="1" percentOfParentTaxonomy="39">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="INSTRUMENTATION" id="080270" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+								<sov:Skill name="SYSTEMS DESIGN" id="022434" existsInText="true" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Software and Tools" id="310" percentOfOverall="0" percentOfParentTaxonomy="15">
+								<sov:Skill name="DAC" id="5000234" existsInText="true" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="15">
+								<sov:Skill name="INSTRUMENTATION" id="080537" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Power Engineering" id="308" percentOfOverall="0" percentOfParentTaxonomy="15">
+								<sov:Skill name="INSTRUMENTATION" id="080363" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="0" percentOfParentTaxonomy="15">
+								<sov:Skill name="EMBEDDED SYSTEMS" id="022944" existsInText="true" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Call Center or Help Desk or Customer Service" id="46" percentOfOverall="0">
+							<sov:Subtaxonomy name="Customer Facing" id="130" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CLIENT COMMUNICATION" id="013439" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+								<sov:Skill name="DISPATCH" id="023542" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="0">
+							<sov:Subtaxonomy name="Document-centric" id="109" percentOfOverall="0" percentOfParentTaxonomy="67">
+								<sov:Skill name="DATA ENTRY" id="014123" existsInText="true" totalMonths="45" lastUsed="2009-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Billing and Collections" id="110" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="AP" id="020973" existsInText="true" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Knowledge and Learning Management" id="92" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Knowledge and Learning Management" id="903" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MENTORING" id="200051" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="0">
+							<sov:Subtaxonomy name="People Oriented" id="517" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEAM BUILDING" id="009221" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="6" ends="23" sectionType="SKILLS">Skills</sov:Section>
+				<sov:Section starts="24" ends="27" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="28" ends="105" sectionType="WORK HISTORY">Professional Experience</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>+91 955 365 8855</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Naresh Nelluru</sov:Name>
+					<sov:Name>Nelluru)
+
+
+Naresh</sov:Name>
+					<sov:Name>(Naresh Nelluru)</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>nelluru.naresh@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>6574</sov:ParsedTextLength>
+			<sov:ParseTime>749</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:221;POS-1,POS-2,POS-3] We could not find a job title for: POS-1, POS-2, POS-3. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:223;POS-1,POS-4] The following positions are currently active and at the same company: POS-1, POS-4. It is very rare to be currently employed at the same company under two different jobs. One of these positions is likely missing an end date or formatted poorly.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:67ab1c52-9165-4cb7-bf7d-a75a116a04c4</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>/pP+//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

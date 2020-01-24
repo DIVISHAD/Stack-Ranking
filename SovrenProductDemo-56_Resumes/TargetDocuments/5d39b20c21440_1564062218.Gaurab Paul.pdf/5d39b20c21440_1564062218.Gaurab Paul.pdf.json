@@ -1,0 +1,1020 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Gaurab Paul",
+          "GivenName": "Gaurab",
+          "FamilyName": "Paul"
+        },
+        "ContactMethod": [
+          {
+            "Telephone": {
+              "FormattedNumber": "+91-7042118352"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "gpaul.tech@gmail.com"
+          },
+          {
+            "Use": "businessDirect",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetWebAddress": "twitter.com/lorefnon"
+          },
+          {
+            "Use": "businessDirect",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetWebAddress": "github.com/lorefnon"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "Contributions:\r\n\r\n    GRelDAL: Bidirectional RDBMS\t    Rolify (Hierarchical role management and resource\r\nto GraphQL mapping solution\tscoping library for ruby): Improved mongodb integration\r\nfor Node.js\tsupport & test matrix (using appraisals).\r\n    InGenR: Solution for language\t    Codiad (Web based IDE): Enhancements around project\r\nagnostic inline code generation\tmanagement and optimizations around client-server\r\n    Fluid Outliner: Offline-enabled\tinformation exchange.\r\nPWA Outliner\t    Knex (SQL Query builder): Enhancements around\r\ntypescript integration",
+                "StartDate": {
+                  "AnyDate": "notKnown"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 75% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "IIT Kharagpur"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B. Tech",
+                "DegreeDate": {
+                  "Year": "2013"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science and Engineering"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "7.8"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "10"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2013"
+                    }
+                  }
+                ],
+                "Comments": "B. Tech (Computer Science and Engineering) from IIT Kharagpur\r\n(4 yrs, on campus, CGPA: 7.8 / 10, completed: 2013)",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:Graduated": "true",
+                    "sov:NormalizedGPA": "0.780",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Indian Institutes of Technology - Kharagpur"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeName": "CBSE",
+                "DegreeDate": {
+                  "Year": "2008"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Science+Maths"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "92.6"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2008"
+                    }
+                  }
+                ],
+                "Comments": "XII: CBSE, Science+Maths, Completed: 2008, Marks: 92.6%\r\nX: CBSE, Completed: 2006, Marks: 93.6",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:Graduated": "true",
+                    "sov:NormalizedGPA": "0.926",
+                    "sov:NormalizedDegreeName": "secondary",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "PublicationHistory": {
+        "Book": [
+          {
+            "Title": "FSEProceedings of the9th Joint Meeting on Foundations of  based strategy for optimally parallelized automated instrumentation of SAP/ABAP\r\napplications in constrained environments",
+            "PublicationDate": {
+              "Year": "2013"
+            },
+            "PublisherName": "Software Engineering\r\nDivide and Conquer"
+          }
+        ],
+        "OtherPublication": [
+          {
+            "Title": ""
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Skills / Exposure: Online presence\r\n\r\nFrontend Development: lorefnon.tech\r\ntwitter.com/lorefnon\r\nProficient: Javascript, Typescript, React, Redux, MobX, GraphQL,\tgithub.com/lorefnon\r\nBackbone, Knockout, Sass\r\n\r\nBasic: ReasonML, WebAssembly\r\nInterest Areas\r\nBackend Development:\r\nWeb development\r\nProficient: Ruby on Rails, Node.js, Socket.io\tReal time technologies\r\nIntermediate: AWS (EC2, ECS, S3, RS, DPS), Protobuf, ZMQ\tSystem integrations\r\nBasic: Meteor.js, Java, GAE, Clojure\r\n\r\nFunctional programming\r\nInfrastructure technologies\r\nPersistence Solutions:\r\n\r\n\r\nIntermediate: MongoDB, PostgreSQL, Redis\r\n\r\n\r\nExperience (6 years):\r\n\r\nD. E. Shaw Pvt Ltd.\t(Full time role)\r\n(Project Leader (Current): 1yr, 7 mo)\r\n(Senior Member, Technical: 1yr, 8 mo)\r\n\r\n\r\nCollaborated with multiple teams (in US, London and Hyd) on migrating applications (for trading, portfolio\r\nmanagement, data analysis, forecasting etc.) from legacy java portal stack to microservice based web\r\napplications.\r\n\r\nAs a member of a small portal infrastructure team, facilitated service integrations at Node.js layer and\r\nlibrary support for business aware components based on React, Redux, Webpack and modern web\r\ntechnologies.\r\n\r\nLed the development of a unified reporting solution for static and web based dynamic (real time) reports\r\nwhich replaces multiple legacy solutions. Led the development of an integrated component-oriented\r\ndiscussion management solution for trade collaboration within application dashboards.\r\n\r\nContributed to internal exploratory documentation and API discovery site, and data analysis components\r\nfor pivoting, multi-dimensional exploration, drill down analysis etc.\r\n\r\nAssisted in onboarding of Java/Python developers to modern (ES6+) javascript and typescript stack.\r\n\r\nStudyPad\t(Full time role, Ruby on Rails developer, 2 yrs)\r\n\r\n\r\nWorked on backend APIs for mobile clients, payment integrations with stripe, A/B testing setups,\r\ninfrastructure orchestration (AWS).\r\n\r\nWorked on real time course progress monitoring dashboard powered by Rails and Knockout.js.\r\n\r\nNifty Window\t(Full time role, Web developer, 1 yr)\r\n\r\n\r\nWorked on java based backend APIs for GAE integrated web services for E-commerce, marketing and\r\nadvertising domains. Built integrated dashboards for managing flow of consumer interactions on different\r\nsocial platforms using Backbone.js, jQuery, jade etc.\r\n\r\nIBM Research, India\t(Internship, Research trainee: 3 mo)\r\n\r\n\r\nWorked on devising new effective methodologies for determination of execution history of enterprise\r\napplications hosted in change-controlled client deployments.\r\n\r\n\r\nOpen Source Work"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "Senior Member, Technical: 1yr, 8 mo",
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "Contact\r\nGaurab Paul\r\nFull Stack Web Application Developer\tgpaul.tech@gmail.com\r\n+91-7042118352\r\n\r\nSkills / Exposure: Online presence\r\n\r\nFrontend Development: lorefnon.tech\r\ntwitter.com/lorefnon\r\nProficient: Javascript, Typescript, React, Redux, MobX, GraphQL,\tgithub.com/lorefnon\r\nBackbone, Knockout, Sass\r\n\r\nBasic: ReasonML, WebAssembly\r\nInterest Areas\r\nBackend Development:\r\nWeb development\r\nProficient: Ruby on Rails, Node.js, Socket.io\tReal time technologies\r\nIntermediate: AWS (EC2, ECS, S3, RS, DPS), Protobuf, ZMQ\tSystem integrations\r\nBasic: Meteor.js, Java, GAE, Clojure\r\n\r\nFunctional programming\r\nInfrastructure technologies\r\nPersistence Solutions:\r\n\r\n\r\nIntermediate: MongoDB, PostgreSQL, Redis\r\n\r\n\r\nExperience (6 years):\r\n\r\nD. E. Shaw Pvt Ltd.\t(Full time role)\r\n(Project Leader (Current): 1yr, 7 mo)\r\n(Senior Member, Technical: 1yr, 8 mo)\r\n\r\n\r\nCollaborated with multiple teams (in US, London and Hyd) on migrating applications (for trading, portfolio\r\nmanagement, data analysis, forecasting etc.) from legacy java portal stack to microservice based web\r\napplications.\r\n\r\nAs a member of a small portal infrastructure team, facilitated service integrations at Node.js layer and\r\nlibrary support for business aware components based on React, Redux, Webpack and modern web\r\ntechnologies.\r\n\r\nLed the development of a unified reporting solution for static and web based dynamic (real time) reports\r\nwhich replaces multiple legacy solutions. Led the development of an integrated component-oriented\r\ndiscussion management solution for trade collaboration within application dashboards.\r\n\r\nContributed to internal exploratory documentation and API discovery site, and data analysis components\r\nfor pivoting, multi-dimensional exploration, drill down analysis etc.\r\n\r\nAssisted in onboarding of Java/Python developers to modern (ES6+) javascript and typescript stack.\r\n\r\nStudyPad\t(Full time role, Ruby on Rails developer, 2 yrs)\r\n\r\n\r\nWorked on backend APIs for mobile clients, payment integrations with stripe, A/B testing setups,\r\ninfrastructure orchestration (AWS).\r\n\r\nWorked on real time course progress monitoring dashboard powered by Rails and Knockout.js.\r\n\r\nNifty Window\t(Full time role, Web developer, 1 yr)\r\n\r\n\r\nWorked on java based backend APIs for GAE integrated web services for E-commerce, marketing and\r\nadvertising domains. Built integrated dashboards for managing flow of consumer interactions on different\r\nsocial platforms using Backbone.js, jQuery, jade etc.\r\n\r\nIBM Research, India\t(Internship, Research trainee: 3 mo)\r\n\r\n\r\nWorked on devising new effective methodologies for determination of execution history of enterprise\r\napplications hosted in change-controlled client deployments.\r\n\r\n\r\nOpen Source Work\r\n\r\nPersonal Projects\tContributions:\r\n\r\n    GRelDAL: Bidirectional RDBMS\t    Rolify (Hierarchical role management and resource\r\nto GraphQL mapping solution\tscoping library for ruby): Improved mongodb integration\r\nfor Node.js\tsupport & test matrix (using appraisals).\r\n    InGenR: Solution for language\t    Codiad (Web based IDE): Enhancements around project\r\nagnostic inline code generation\tmanagement and optimizations around client-server\r\n    Fluid Outliner: Offline-enabled\tinformation exchange.\r\nPWA Outliner\t    Knex (SQL Query builder): Enhancements around\r\ntypescript integration\r\n\r\n\r\nPublications\r\n\r\nDistributed Program Tracing\r\n\r\nESEC/FSE 2013 Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering\r\n\r\nDivide and Conquer based strategy for optimally parallelized automated instrumentation of SAP/ABAP\r\napplications in constrained environments.\r\n\r\nhttps://dl.acm.org/citation.cfm?doid=2491411.2491451\r\n\r\nEducation\r\n\r\nB. Tech (Computer Science and Engineering) from IIT Kharagpur\r\n(4 yrs, on campus, CGPA: 7.8 / 10, completed: 2013)\r\n\r\nXII: CBSE, Science+Maths, Completed: 2008, Marks: 92.6%\r\nX: CBSE, Completed: 2006, Marks: 93.6 %"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Gaurab Paul's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Finance (mostly Compliance). Gaurab Paul's experience appears to be entry level, with 0 months of experience.",
+          "sov:MonthsOfWorkExperience": "0",
+          "sov:FulltimeDirectHirePredictiveIndex": "0",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "71",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "25",
+                        "@percentOfParentTaxonomy": "35",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "CODE GENERATION",
+                            "@id": "013731",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "METEOR",
+                                "@id": "3391110",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "NODE.JS",
+                                "@id": "339002002",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                              },
+                              {
+                                "@name": "REDUX",
+                                "@id": "3391108",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "TYPESCRIPT",
+                                "@id": "3391102",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                              },
+                              {
+                                "@name": "WEBPACK",
+                                "@id": "3391104",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081198",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "Ruby",
+                            "@id": "1004736",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "Rails",
+                                "@id": "100473602",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "Ruby on Rails",
+                                "@id": "100473601",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "Amazon Elastic Compute Cloud",
+                            "@id": "5500001",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "EC2",
+                                "@id": "550000102",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5500361",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLOJURE",
+                            "@id": "5530920",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5530805",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "REDIS",
+                            "@id": "5530835",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB BASED",
+                            "@id": "024402",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "WEB SERVICES",
+                            "@id": "011022",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014961",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "POSTGRESQL",
+                            "@id": "3391132",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "BACKBONE",
+                            "@id": "009539",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "CLIENT-SERVER",
+                            "@id": "1980059",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "KNOCKOUT",
+                            "@id": "5520556",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SASS",
+                            "@id": "5520599",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPEN SOURCE",
+                            "@id": "003842",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081189",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compiler & Runtime",
+                        "@id": "719",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "CODE GENERATION",
+                            "@id": "7190006",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCHANGE",
+                            "@id": "3490029",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reporting",
+                        "@id": "341",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "RDBMS",
+                            "@id": "022369",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Embedded and Realtime",
+                        "@id": "340",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081185",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "40",
+                        "sov:Skill": [
+                          {
+                            "@name": "FORECASTING",
+                            "@id": "023164",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "080179",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounting",
+                        "@id": "705",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "FORECASTING",
+                            "@id": "7000318",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRADING",
+                            "@id": "080204",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trading",
+                        "@id": "239",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRADING",
+                            "@id": "009789",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "58",
+                        "sov:Skill": [
+                          {
+                            "@name": "TOPO",
+                            "@id": "023035",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MAPPING",
+                                "@id": "021224",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "022816",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Techniques",
+                        "@id": "264",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECS",
+                            "@id": "015870",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING ANALYSIS",
+                            "@id": "1400068",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATA ANALYSIS",
+                                "@id": "1400327",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Marketing Communications",
+                        "@id": "592",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADVERTISING",
+                            "@id": "1400153",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "67",
+                        "sov:Skill": [
+                          {
+                            "@name": "FORECASTING",
+                            "@id": "017857",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "022750",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYSIS",
+                            "@id": "014960",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Talent Management",
+                        "@id": "584",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ONBOARDING",
+                            "@id": "9000284",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOCUMENTATION",
+                            "@id": "022620",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Petrochemical",
+                    "@id": "44",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Drilling",
+                        "@id": "441",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXPLORATION",
+                            "@id": "017070",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "0",
+              "@ends": "4",
+              "@sectionType": "CONTACT INFO",
+              "#text": "Contact"
+            },
+            {
+              "@starts": "5",
+              "@ends": "75",
+              "@sectionType": "SKILLS",
+              "#text": "Skills"
+            },
+            {
+              "@starts": "76",
+              "@ends": "87",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Personal Projects"
+            },
+            {
+              "@starts": "88",
+              "@ends": "98",
+              "@sectionType": "OTHER_PUBLICATIONS",
+              "#text": "Publications"
+            },
+            {
+              "@starts": "99",
+              "@ends": "105",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "+91-7042118352"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Gaurab Paul"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "gpaul.tech@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://dl.acm.org/citation.cfm?doid=2491411.2491451",
+              "twitter.com/lorefnon",
+              "github.com/lorefnon",
+              "Socket.io"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "3787",
+        "sov:ParseTime": "406",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:303;1] The following section in the resume contains more content than the work history and education sections combined: 'Skills'. This may indicate a problem with section headers, formatting, or content.",
+                    "[Sovren:312;3] The following section in the resume contains more content than recommended: 'Publications' This section should be less than 10 lines long as it can cause errors in parsing the resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:221;POS-1] We could not find a job title for: POS-1. Every position in a resume should have a job title.",
+                    "[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name.",
+                    "[Sovren:224;POS-1] The following work history position does not have a start date: POS-1. Every position in a resume should have a start date.",
+                    "[Sovren:225;POS-1] The following work history position does not have an end date: POS-1. Every position in a resume should have an end date, unless it is a currently held position.",
+                    "[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.",
+                    "[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;1,2] The following sections do not have the header on a separate line: 'Skills', 'Personal Projects'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                    "[Sovren:161;DEG-2] High school (or lower) education should not be included on resumes that contain higher-level education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:93c57230-3d1e-4b85-a67b-b92b300b6a04",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "/8QCAAAAAAA="
+      }
+    }
+  }
+}

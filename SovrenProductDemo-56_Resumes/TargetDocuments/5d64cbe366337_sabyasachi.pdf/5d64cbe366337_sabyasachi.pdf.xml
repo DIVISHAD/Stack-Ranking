@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Sabyasachi Ghosh</FormattedName>
+				<GivenName>Sabyasachi</GivenName>
+				<FamilyName>Ghosh</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>713 209</PostalCode>
+					<Region>WB</Region>
+					<Municipality>Durgapur</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Room  No  -  246, Hall  -  4, NIT</AddressLine>
+						<AddressLine>Mahatma  Gandhi</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91 7908322206</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>sabyasachi9733@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>NIT Durgapur</EmployerOrgName>
+				<PositionHistory positionType="internship" currentEmployer="true">
+					<Title>Summer research internship</Title>
+					<OrgName>
+						<OrganizationName>NIT Durgapur</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>RandomBoyz.com</WebSite>
+					</OrgInfo>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>WEST BENGAL</Region>
+							<Municipality>Durgapur</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>under the guidance of Dr.
+Parag Kumar Guhathakurta.
+❖ Worked as a Freelancer at RandomBoyz.com
+
+9.   Scholarship Received:
+
+
+❖ Received National Means Cum Merit Scholarship (2011 - 2014).
+❖ Uttarbanga Sambad Suhas Chandra Talukdar Scholarship (2014)
+❖ Received WBMCM Scholarship (2016 - Present).</Description>
+					<StartDate>
+						<Year>2019</Year>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>NIT Durgapur</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Summer research internship</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>NIT Durgapur</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>state in Higher Secondary</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeDate>
+						<YearMonth>2018-07</YearMonth>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>8.55</StringValue>
+							</MeasureValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<YearMonth>2018-07</YearMonth>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>SGPA	7.80	7.68	7.64	7.18	8.27	8.55
+CGPA	7.80	7.74	7.71	7.59	7.72	7.85
+
+
+3.	Scholastic Achievements:
+
+
+❖ Ranked 18th among more than 750, 000 candidates in state in Higher Secondary
+Examination (10+2).
+❖ Topped from school in Higher Secondary Examination and secured 5th rank in district.
+❖ Topped from school in Secondary Examination.
+❖ Ranked 1st in district in National Means Cum Merit Scholarship, West</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>state in Higher Secondary</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>Secondary &amp; Higher Secondary</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeDate>
+						<Year>2014</Year>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>91.57</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2014</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2.1
+Secondary &amp; Higher Secondary:
+
+Year of	Marks
+Examination	Board	Passing
+Obtained	Out of	%
+(Total)
+10th STD	WBBSE	2014	641	700	91.57</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.916</sov:NormalizedGPA>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Secondary AND Higher Secondary</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>4.	Skills:
+
+
+❖ Proficient In: C, C++, Git, DBMS
+❖ Familiar With: Linux, JavaScript, Bootstrap, CSS, PHP and MySQL, Data
+Structures and Algorithms
+
+6.	Strength &amp; Weakness:
+
+
+❖ Strength: Enthusiasm, dedication and determination for work.
+
+❖ Weakness: Too much honest</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>3.	Scholastic Achievements</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Ranked 1st in district in National Means Cum Merit Scholarship, West</Description>
+			</Achievement>
+			<Achievement>
+				<Description>9.   Scholarship Received</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Received National Means Cum Merit Scholarship (2011 - 2014)</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Uttarbanga Sambad Suhas Chandra Talukdar Scholarship (2014)</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Received WBMCM Scholarship (2016 - Present)</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>NATIONAL INSTITUTE OF TECHNOLOGY, DURGAPUR
+MAHATMA GANDHI AVENUE, DURGAPUR- 713209
+
+
+CURRICULUM VITAE
+
+
+1.	PERSONAL DETAILS:
+
+Name: Sabyasachi Ghosh
+❖	Date of Birth: 06/01/1999
+Guardian's Name: Rupak Kumar Ghosh
+❖	Branch / Specialization: Computer Science and Engineering
+Registration No: 16U10444
+❖	OP / SC/ ST/ OBC / PWD: OBC
+Male/Female: Male
+❖	Present  Address: Room  No  -  246, Hall  -  4, NIT  Durgapur, Mahatma  Gandhi
+Rd, Durgapur, WB - 713 209
+❖	Address  for  Correspondence: Room  No  -  246, Hall  -  4, NIT  Durgapur,
+
+Mahatma Gandhi Rd, Durgapur, WB - 713 209
+❖	E-Mail Id: sabyasachi9733@gmail.com
+Cell No: +91 7908322206
+
+2.   EDUCATIONAL QUALIFICATIONS:
+
+2.1
+Secondary &amp; Higher Secondary:
+
+Year of	Marks
+Examination	Board	Passing
+Obtained	Out of	%
+(Total)
+10th STD	WBBSE	2014	641	700	91.57
+
+12th STD	WBCHSE	2016	475	500	95.00
+
+
+2.2	Graduation:
+
+SEM	1	2	3	4	5	6
+SGPA	7.80	7.68	7.64	7.18	8.27	8.55
+CGPA	7.80	7.74	7.71	7.59	7.72	7.85
+
+
+3.	Scholastic Achievements:
+
+
+❖ Ranked 18th among more than 750, 000 candidates in state in Higher Secondary
+Examination (10+2).
+❖ Topped from school in Higher Secondary Examination and secured 5th rank in
+district.
+❖ Topped from school in Secondary Examination.
+❖ Ranked 1st in district in National Means Cum Merit Scholarship, West
+Bengal(2011).
+❖ Secured 1st rank in Zone in Science Aptitude Test organized by Paschim Banga
+Vigyan Mancha, 2013.
+
+4.	Skills:
+
+
+❖ Proficient In: C, C++, Git, DBMS
+❖ Familiar With: Linux, JavaScript, Bootstrap, CSS, PHP and MySQL, Data
+Structures and Algorithms
+
+6.	Strength &amp; Weakness:
+
+
+❖ Strength: Enthusiasm, dedication and determination for work.
+
+❖ Weakness: Too much honest
+
+7.	Projects:
+
+❖ An optimization approach for common content distribution in Adhoc network
+using JAYA algorithm under the guidance of Dr. Parag Kumar Guhathakurta,
+NIT Durgapur.
+
+❖ Personal projects like a web extension to find out the meaning of a word from a
+website, an automated script to send messages through Whatsapp Web from
+terminal to a particular person at a scheduled time.
+
+8.	Internship:
+
+❖ Summer research internship in NIT Durgapur(2019) under the guidance of Dr.
+Parag Kumar Guhathakurta.
+❖ Worked as a Freelancer at RandomBoyz.com
+
+9.   Scholarship Received:
+
+
+❖ Received National Means Cum Merit Scholarship (2011 - 2014).
+❖ Uttarbanga Sambad Suhas Chandra Talukdar Scholarship (2014)
+❖ Received WBMCM Scholarship (2016 - Present).
+
+10.   Extracurricular Activities:
+
+
+❖ Stood first in Zone in Essay Writing Competition organized by ABTA, 2013
+
+
+I hereby declare that the information given above is true and correct.
+
+
+DATED: The 1st of July, 2019.	SIGNATURE:</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1999-01-06</sov:DateOfBirth>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Sabyasachi Ghosh's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in Engineering (mostly General Engineering). Sabyasachi Ghosh's experience appears to be entry level, with 11 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>11</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>11</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>1</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="61">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="28" percentOfParentTaxonomy="46">
+								<sov:Skill name="ALGORITHM" id="022551" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in SKILLS">
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="12" percentOfParentTaxonomy="20">
+								<sov:Skill name="DATABASE MANAGEMENT SYSTEM" id="5530966" existsInText="false">
+									<sov:ChildSkill name="DBMS" id="5530967" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="8" percentOfParentTaxonomy="14">
+								<sov:Skill name="DBMS" id="015077" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="4" percentOfParentTaxonomy="7">
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="19">
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="15" percentOfParentTaxonomy="78">
+								<sov:Skill name="ALGORITHM" id="022552" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="OPTIMIZATION" id="023295" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="4" percentOfParentTaxonomy="22">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="12">
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="12" percentOfParentTaxonomy="100">
+								<sov:Skill name="SEARCH ENGINE MARKETING" id="1400232" existsInText="false">
+									<sov:ChildSkill name="SEM" id="1400233" existsInText="true" whereFound="Found in EDUCATION"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="8">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="8" percentOfParentTaxonomy="100">
+								<sov:Skill name="MICROSOFT WORD" id="022961" existsInText="false">
+									<sov:ChildSkill name="WORD" id="002379" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="7" ends="23" sectionType="CONTACT INFO">PERSONAL DETAILS</sov:Section>
+				<sov:Section starts="24" ends="57" sectionType="EDUCATION">EDUCATIONAL QUALIFICATIONS</sov:Section>
+				<sov:Section starts="58" ends="71" sectionType="SKILLS">Skills</sov:Section>
+				<sov:Section starts="72" ends="94" sectionType="WORK HISTORY">Projects</sov:Section>
+				<sov:Section starts="95" ends="104" sectionType="PROFESSIONAL AFFILIATIONS">Extracurricular Activities</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Cell No: +91 7908322206</sov:Phone>
+					<sov:Phone>+91 7908322206</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Sabyasachi Ghosh</sov:Name>
+					<sov:Name>Name: Sabyasachi Ghosh</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>sabyasachi9733@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>RandomBoyz.com</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Room  No  -  246, Hall  -  4, NIT</sov:OtherDatum>
+					<sov:OtherDatum>Date of Birth: 06/01/1999</sov:OtherDatum>
+					<sov:OtherDatum>Mahatma  Gandhi</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>2641</sov:ParsedTextLength>
+			<sov:ParseTime>320</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:231;DEG-2,DEG-1] The following educational degrees do not have a degree name: DEG-2, DEG-1. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;0,1,2,3,4] The following sections do not have the header on a separate line: 'PERSONAL DETAILS', 'EDUCATIONAL QUALIFICATIONS', 'Skills', 'Projects', 'Extracurricular Activities'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:f5e53c6b-a85b-40d8-8c85-68dc9aacca8b</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>Dn4BAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

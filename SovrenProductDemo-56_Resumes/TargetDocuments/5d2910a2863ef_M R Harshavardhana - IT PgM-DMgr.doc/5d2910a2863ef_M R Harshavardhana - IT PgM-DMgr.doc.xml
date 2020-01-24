@@ -1,0 +1,1104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Harshavardhana M R</FormattedName>
+				<GivenName>Harshavardhana</GivenName>
+				<MiddleName>M</MiddleName>
+				<FamilyName>R</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>560072</PostalCode>
+					<Region>Karnataka</Region>
+					<Municipality>Bengaluru</Municipality>
+					<DeliveryAddress>
+						<AddressLine>#808, Sri Rangantha Nilaya, 3rd Cross, 2nd Stage, 11th Block, Nagarabhavi</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91 8861776600</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>harsha.rangashamaiah@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>15+ years of experience in Technology Development, IT Project/Program/Portfolio/Delivery Management, Service Delivery, Mainframes &amp; SQL Server implementations in Retail, Manufacturing, &amp; Banking domains, Business Analysis, Financial/Cost Management.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Role/Designation</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>IT Project (Portfolio) Manager</Title>
+					<OrgName>
+						<OrganizationName>Role/Designation</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bengaluru</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Feb-2018   Till-Date
+Bengaluru, IN
+Portfolio Management
+Project Management Office
+Strategic Management
+Stakeholder Management
+Agile Scrum Management</Description>
+					<StartDate>
+						<YearMonth>2018-02</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Finance → Real Estate &amp; Facilities</CategoryCode>
+						<Comments>Finance describes 60% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Manager</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Role/Designation</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>IT Project Portfolio Manager</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Manager</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Role/Designation</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>IT  Project Delivery Management</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Scrum Master</Title>
+					<OrgName>
+						<OrganizationName>IT  Project Delivery Management</OrganizationName>
+					</OrgName>
+					<Description>Digital Banking - Digital Customer Experience - Oct/2018 to Till-Date
+•	Manage Account Aggregator (UK Open Banking) feature within Mobile Banking 3.0 as Scrum Master - running
+scrum events, preparing &amp; tracking project schedule, defining &amp; monitoring milestones, grooming backlog,
+removing blockers for the project delivery
+• Established &amp; drove the adoption of agile frameworks &amp; tools. Drove the team to follow the Organization established development practices.
+• Work with Product Manager to understand the Product Vision, Objectives &amp; maintain backlog by drafting the User Epics &amp; Stories using JIRA tool
+• Team Management of 5-10 Associates (.Net &amp; React-Native Developers, BA &amp; Tester)
+• Hands-on Tech Management to guide the team through the Technology Landscape &amp; manage the dependencies &amp; risks</Description>
+					<StartDate>
+						<YearMonth>2018-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → QA and QC</CategoryCode>
+						<Comments>Information Technology describes 60% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>10</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>IT Project Delivery Management</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Scrum Master</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>IT Project Delivery Management</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>IT Portfolio Management</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Publish periodic executive</Title>
+					<OrgName>
+						<OrganizationName>Personal &amp; Business Banking</OrganizationName>
+					</OrgName>
+					<Description>Feb/2018  to Sep/2018
+•	Manage the investment governance process and operating mechanisms for portfolio demand management, to facilitate planning resourcing requirements and prioritization
+• Set appropriate goals and priorities that coordinate with key business partners, other organizational units and third party resources
+• Understand and articulate the value for business in project and portfolio management with the Stakeholders across the Cross Functional team in the Bank
+• Oversight of project/Task milestones/objectives, risk and mitigation, and the delivery/completion in a matrix structure using Agile Development Methodologies
+•	Manage a budget of $15-20M for IT Small to Medium complex projects &amp; Coordinate yearly investment planning
+across service owners in the portfolio.
+•	Publish periodic executive Task Management summary status reports
+
+
+Fidelity Investments Management &amp; Research India (FMR LLC India) - IT Project Manager - Program Management
+• Led creation of Program Management Office(PMO) for Data Center of Excellence of 120-140 associates spreading across India Locations
+• Support BU Head &amp; Account Directors with Project Deliverables, Lead generation &amp; follow-ups and Partner-Presentations.
+• Conduct Project/Engagement reviews regularly; Plan &amp; engage stakeholders/Partners at the regular intervals
+• Plan &amp; organize the Tech Talks, Trainings &amp; Interactions within the group to encourage the Knowledge sharing
+• Business Analyst  - Machine Learning
+• Donning the Scrum Master role, performing the below responsibilities:
+1. Planned and managed work activities of a software development Team (Web Portal, Customer Onboarding) working closely in conjunction with business teams.
+2. Developed and followed and implemented improvements for Agile Project Management Plan (Agile Ceremonies).
+3. Monitored Project Progress and radiated the information to Stakeholders. Identified and mitigated Team risks and impediments (Blocking issues, Critical Defects) on daily basis.
+4. Coached team members on agile processes and facilitated planning meetings and retrospectives. Maintained Task board, and produced Daily Burndown charts
+
+Wipro Ltd - Lead Consultant/Manager - Program Management
+• Enterprise Program Management Office (PMO) drives initiatives across Verticals to align it to the delivery across the $2.5+ Billion worth Service Line.
+• Drive periodic reviews on Existing Accounts - Early warning, Program Governance, CSAT, Escalation Management, People drives, Cost of Delivery (Goal 40%), Automation and Process improvement, People Management.
+• Drive periodic reviews of New Accounts on their Delivery readiness, Start Green &amp; Stay Green processes, Interlocks discussions with Verticals, People assignment.
+• Interact with Cross Functional teams - Finance, HR, Competency, Work Force Management Group, Quality, Tools &amp; Automation - to drive through the Operations across the SBU
+• Provide regular updates to CXOs &amp; participate on the reviews of Service Line's New &amp; Existing Accounts.
+• Work with Service Line Head to have a clear view of the Account Landscapes, initiate the Org Level initiatives and drive them to close.
+• Passionate about Program Planning, Customer Engagement to align Delivery with their IT &amp; Business Strategy
+• Assist Cluster Delivery Heads in reviewing their business, Strategies &amp; cost-of-delivery
+• Lead a team of 5 to review our Contracts across the Service Line, convert them into trackable actions &amp; coordinate with Account teams to track them periodically.
+
+
+ANZ Support Services - Senior Analyst
+Technical &amp; Business Consulting:
+• Performed Technical Consulting to implement the Mainframe &amp; SQL Server solutions
+• Assisted Senior Manager in implementing the Global Financial Simplification Strategy across MIS Team by suggesting and implementing the Process Improvements.
+• Created Documentation for the Processes handled, Handled Transition to Chengdu and from Melbourne, Trained cross teams on Mainframe basics.
+• Participated as Technical Lead in Multiple Stabilization projects towards Technology Strategy of the Organization. Used it as a platform to reengineer how the current work is done.
+
+Bank of America Continuum Solutions, Analyst
+Technical &amp; Business Consulting:
+• Performed Technical Consulting to implement the Mainframe solutions
+• Performed Production Support &amp; Application Support work.
+• Performed as a Developer to upgrade the 3rd Party Infor Legacy Systems to the Infor version 9.1.
+
+Satyam Computer Services Ltd - Systems Analyst
+Technical &amp; Business Consulting:
+• Performed Technical Consulting to implement the Mainframe solutions
+• Performed Mainframe Decommissioning, Application Support &amp; Management, &amp; also worked as Onsite Coordinator.
+• Participated as Technical Lead in Multiple Stabilization projects towards Technology Strategy of the Organization. Used it as a platform to reengineer how the current work is done.
+• Participated in Requirement gathering, Development and Maintenance of Mainframe Applications &amp; managed the Decommissioning of Mainframe Application, Lead a team of 5 at offshore and had worked as Onsite Coordinator.</Description>
+					<StartDate>
+						<YearMonth>2018-02</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Project Management</CategoryCode>
+						<Comments>Information Technology describes 36% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Manager</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-8</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>140</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Personal AND Business Banking</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Publish periodic executive</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>IT Portfolio Management</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Fidelity Investments (FMR LLC)</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>IT Project Manager (Program Management)</Title>
+					<OrgName>
+						<OrganizationName>FMR LLC</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bengaluru</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>IN
+Project/Program Mgmt.
+Business Analysis
+Scrum Management
+Machine Learning(Beginner)</Description>
+					<StartDate>
+						<YearMonth>2016-03</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-02</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Machine Learning</CategoryCode>
+						<Comments>Information Technology describes 60% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>FMR</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>IT Project Manager Program Management</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>IT Project Manager</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Fidelity Investments FMR</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Wipro Technologies</EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>Lead Consultant (IT Program Management)</Title>
+					<OrgName>
+						<OrganizationName>Wipro Technologies</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bengaluru</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>IN	Project/Program Management</Description>
+					<StartDate>
+						<YearMonth>2014-09</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-03</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Finance → Real Estate &amp; Facilities</CategoryCode>
+						<Comments>Finance describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>Wipro Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Lead Consultant IT Program Management</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Lead Consultant</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Wipro Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>ANZ Bank</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Analyst (Project &amp; Technical Mgmt.)</Title>
+					<OrgName>
+						<OrganizationName>ANZ Bank</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bengaluru</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>IN	Project Management   Mainframe &amp; SQL Server</Description>
+					<StartDate>
+						<YearMonth>2011-02</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2013-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Database</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="ST">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>ANZ Bank</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Analyst Project AND Technical Mgmt</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Senior Analyst</sov:Subtitle>
+								<sov:Subtitle>Analyst (Project &amp; Technical Mgmt.)</sov:Subtitle>
+								<sov:Subtitle>Analyst</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>ANZ Bank</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Bank of America Continuum Solutions</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Analyst</Title>
+					<OrgName>
+						<OrganizationName>Bank of America Continuum Solutions</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>IN	Mainframe (COBOL, JCL, DB2)</Description>
+					<StartDate>
+						<YearMonth>2009-12</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-12</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Mainframe</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Bank of America Continuum Solutions</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Bank of America Continuum Solutions</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Satyam Computer Services Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Systems Analyst</Title>
+					<OrgName>
+						<OrganizationName>Satyam Computer Services Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>IN   USA   Mainframe (COBOL, JCL, IMS DB, DB2, VSAM) Production Support   Mainframe Application sunset
+
+
+Summary of Roles &amp; Responsibilities
+Danske Bank IT and Support Services - IT Project Manager - Project Portfolio Management</Description>
+					<StartDate>
+						<YearMonth>2003-11</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2009-12</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Project Management</CategoryCode>
+						<Comments>Information Technology describes 73% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Satyam Computer Services</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Systems Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Satyam Computer Services</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Indian Institute of Management - Indore (IIM-I)</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MP</Region>
+					<Municipality>Indore</Municipality>
+				</PostalAddress>
+				<Degree degreeType="masters">
+					<DegreeName>MBA</DegreeName>
+					<DegreeDate>
+						<YearMonth>2014-06</YearMonth>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>EPGP</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<YearMonth>2013-09</YearMonth>
+						</StartDate>
+						<EndDate>
+							<YearMonth>2014-06</YearMonth>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Indian Institute of Management - Indore (IIM-I)   MBA/EPGP (Full-Time)   Sep-2013   Jun-2014   Indore, MP</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>MBA</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>MBA</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Indian Institute of Management Indore IIM I</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>McCombs School of Business, UT</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>US</CountryCode>
+					<Region>TX</Region>
+					<Municipality>Austin</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<YearMonth>2014-02</YearMonth>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Advanced Analytics for Business Excellence</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<YearMonth>2014-01</YearMonth>
+						</StartDate>
+						<EndDate>
+							<YearMonth>2014-02</YearMonth>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>McCombs School of Business, UT- Austin (International Immersion Program)   Advanced Analytics for Business Excellence   Jan-2014   Feb-2014   Austin, TX, USA</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>McCombs School of Business UT</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Certification</Name>
+				<Id>1</Id>
+				<Description>Institution   Degree/Certification   From	To	Location
+Dr Ambedkar Institute of Technology   (Visvesvaraya Technology University - Belgavi)   Bachelor of Engineering (Telecommunication Engineering)   Oct-1999   Jun-2003   Bengaluru, KA</Description>
+				<EffectiveDate>
+					<FirstIssuedDate>
+						<YearMonth>2003-06</YearMonth>
+					</FirstIssuedDate>
+				</EffectiveDate>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Project Management Professional</Name>
+				<Id>2</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>PMP</Name>
+				<Id>3</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>In-Progress to get Certified</Name>
+				<Id>4</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<SpeakingEventsHistory>
+			<SpeakingEvent>
+				<EventName></EventName>
+				<EventType>conference</EventType>
+				<Description>Support BU Head &amp; Account Directors with Project Deliverables, Lead generation &amp; follow-ups and Partner-Presentations</Description>
+			</SpeakingEvent>
+		</SpeakingEventsHistory>
+		<Qualifications>
+			<QualificationSummary>Technical Skills
+
+Programming Language	COBOL, JCL, R-Language, Python
+Operating Systems	MVS, Windows
+Databases Development	DB2, IMS DB, VSAM, SQL Server
+Project Management tools   Jira</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>pt</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>&amp; Technical document translation from Portuguese to English for Retail</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>document translation from Portuguese to English for Retail Home Office</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Harshavardhana M R
+IT Project Manager | Harsha's LinkedIn Profile
+harsha.rangashamaiah@gmail.com	|   +91 8861776600
+
+Summary
+
+15+ years of experience in Technology Development, IT Project/Program/Portfolio/Delivery Management, Service Delivery, Mainframes &amp; SQL Server implementations in Retail, Manufacturing, &amp; Banking domains, Business Analysis, Financial/Cost Management.
+
+Certification: Project Management Professional (PMP #1620069) - Certified
+Professional Scrum Master -1 (PSM1) - In-Progress to get Certified
+
+Experience Highlights
+
+• Well experienced in Software Project Management, Development, Testing, Production Support, Client &amp; Vendor on-boarding &amp; relationship Management
+• Has extensive working experience on domains like Banking &amp; Financial Services(7Yrs+), Retail(1.5Yrs+), Manufacturing(2.5Yrs+) domains
+• Responsible for Project Management &amp; Planning, Time &amp; Cost Management, Customer Management, Quality Management, People Management, Stakeholder &amp; Procurement Management
+• Well experienced in Agile &amp; Scrum methodologies, Resource Plan, Management Reports creation
+• Worked in Onsite location in United States as Onsite Coordinator/Systems Analyst for Scoping &amp; SRS, Proposal, Prototype to Customer, Design &amp; Technical document translation from Portuguese to English for Retail Home Office Systems
+
+Education
+
+Institution   Degree/Certification   From	To	Location
+Dr Ambedkar Institute of Technology   (Visvesvaraya Technology University - Belgavi)   Bachelor of Engineering (Telecommunication Engineering)   Oct-1999   Jun-2003   Bengaluru, KA
+Indian Institute of Management - Indore (IIM-I)   MBA/EPGP (Full-Time)   Sep-2013   Jun-2014   Indore, MP
+McCombs School of Business, UT- Austin (International Immersion Program)   Advanced Analytics for Business Excellence   Jan-2014   Feb-2014   Austin, TX, USA
+
+
+Technical Skills
+
+Programming Language	COBOL, JCL, R-Language, Python
+Operating Systems	MVS, Windows
+Databases Development	DB2, IMS DB, VSAM, SQL Server
+Project Management tools   Jira
+
+
+Work Experience
+
+Company Name	Role/Designation	From	To	Location	Skillset
+Danske IT &amp; Support Services
+Subsidiary of Danske Bank
+
+IT Project (Portfolio) Manager
+
+Feb-2018
+
+Till-Date
+
+Bengaluru, IN
+
+Portfolio Management
+Project Management Office
+Strategic Management
+Stakeholder Management
+Agile Scrum Management
+
+Fidelity Investments (FMR LLC)
+IT Project Manager (Program Management)
+
+Mar-2016
+
+Feb-2018
+
+Bengaluru, IN
+
+Project/Program Mgmt.
+Business Analysis
+Scrum Management
+Machine Learning(Beginner)
+
+Wipro Technologies	Lead Consultant (IT Program Management)   Sep-2014   Mar-2016   Bengaluru, IN	Project/Program Management
+ANZ Bank	Senior Analyst (Project &amp; Technical Mgmt.)   Feb-2011   Sep-2013   Bengaluru, IN	Project Management   Mainframe &amp; SQL Server
+Bank of America Continuum Solutions   Analyst	Dec-2009   Dec-2010   Hyderabad, IN	Mainframe (COBOL, JCL, DB2)
+Satyam Computer Services Ltd	Systems Analyst	Nov-2003   Dec-2009   Hyderabad, IN   USA   Mainframe (COBOL, JCL, IMS DB, DB2, VSAM) Production Support   Mainframe Application sunset
+
+
+Summary of Roles &amp; Responsibilities
+
+Danske Bank IT and Support Services - IT Project Manager - Project Portfolio Management
+
+IT  Project Delivery Management - Digital Banking - Digital Customer Experience - Oct/2018 to Till-Date
+•	Manage Account Aggregator (UK Open Banking) feature within Mobile Banking 3.0 as Scrum Master - running
+scrum events, preparing &amp; tracking project schedule, defining &amp; monitoring milestones, grooming backlog,
+removing blockers for the project delivery
+• Established &amp; drove the adoption of agile frameworks &amp; tools. Drove the team to follow the Organization established development practices.
+• Work with Product Manager to understand the Product Vision, Objectives &amp; maintain backlog by drafting the User Epics &amp; Stories using JIRA tool
+• Team Management of 5-10 Associates (.Net &amp; React-Native Developers, BA &amp; Tester)
+• Hands-on Tech Management to guide the team through the Technology Landscape &amp; manage the dependencies &amp; risks
+
+IT Portfolio Management - Personal &amp; Business Banking - Feb/2018  to Sep/2018
+•	Manage the investment governance process and operating mechanisms for portfolio demand management, to
+facilitate planning resourcing requirements and prioritization
+• Set appropriate goals and priorities that coordinate with key business partners, other organizational units and third party resources
+• Understand and articulate the value for business in project and portfolio management with the Stakeholders across the Cross Functional team in the Bank
+• Oversight of project/Task milestones/objectives, risk and mitigation, and the delivery/completion in a matrix structure using Agile Development Methodologies
+•	Manage a budget of $15-20M for IT Small to Medium complex projects &amp; Coordinate yearly investment planning
+across service owners in the portfolio.
+•	Publish periodic executive Task Management summary status reports
+
+
+Fidelity Investments Management &amp; Research India (FMR LLC India) - IT Project Manager - Program Management
+• Led creation of Program Management Office(PMO) for Data Center of Excellence of 120-140 associates spreading across India Locations
+• Support BU Head &amp; Account Directors with Project Deliverables, Lead generation &amp; follow-ups and Partner-Presentations.
+• Conduct Project/Engagement reviews regularly; Plan &amp; engage stakeholders/Partners at the regular intervals
+• Plan &amp; organize the Tech Talks, Trainings &amp; Interactions within the group to encourage the Knowledge sharing
+• Business Analyst  - Machine Learning
+• Donning the Scrum Master role, performing the below responsibilities:
+1. Planned and managed work activities of a software development Team (Web Portal, Customer Onboarding) working closely in conjunction with business teams.
+2. Developed and followed and implemented improvements for Agile Project Management Plan (Agile Ceremonies).
+3. Monitored Project Progress and radiated the information to Stakeholders. Identified and mitigated Team risks and impediments (Blocking issues, Critical Defects) on daily basis.
+4. Coached team members on agile processes and facilitated planning meetings and retrospectives. Maintained Task board, and produced Daily Burndown charts
+
+Wipro Ltd - Lead Consultant/Manager - Program Management
+
+• Enterprise Program Management Office (PMO) drives initiatives across Verticals to align it to the delivery across the $2.5+ Billion worth Service Line.
+• Drive periodic reviews on Existing Accounts - Early warning, Program Governance, CSAT, Escalation Management, People drives, Cost of Delivery (Goal 40%), Automation and Process improvement, People Management.
+• Drive periodic reviews of New Accounts on their Delivery readiness, Start Green &amp; Stay Green processes, Interlocks discussions with Verticals, People assignment.
+• Interact with Cross Functional teams - Finance, HR, Competency, Work Force Management Group, Quality, Tools &amp; Automation - to drive through the Operations across the SBU
+• Provide regular updates to CXOs &amp; participate on the reviews of Service Line's New &amp; Existing Accounts.
+• Work with Service Line Head to have a clear view of the Account Landscapes, initiate the Org Level initiatives and drive them to close.
+• Passionate about Program Planning, Customer Engagement to align Delivery with their IT &amp; Business Strategy
+• Assist Cluster Delivery Heads in reviewing their business, Strategies &amp; cost-of-delivery
+• Lead a team of 5 to review our Contracts across the Service Line, convert them into trackable actions &amp; coordinate with Account teams to track them periodically.
+
+
+ANZ Support Services - Senior Analyst
+
+Technical &amp; Business Consulting:
+• Performed Technical Consulting to implement the Mainframe &amp; SQL Server solutions
+• Assisted Senior Manager in implementing the Global Financial Simplification Strategy across MIS Team by suggesting and implementing the Process Improvements.
+• Created Documentation for the Processes handled, Handled Transition to Chengdu and from Melbourne, Trained cross teams on Mainframe basics.
+• Participated as Technical Lead in Multiple Stabilization projects towards Technology Strategy of the Organization. Used it as a platform to reengineer how the current work is done.
+
+Bank of America Continuum Solutions, Analyst
+
+Technical &amp; Business Consulting:
+• Performed Technical Consulting to implement the Mainframe solutions
+• Performed Production Support &amp; Application Support work.
+• Performed as a Developer to upgrade the 3rd Party Infor Legacy Systems to the Infor version 9.1.
+
+Satyam Computer Services Ltd - Systems Analyst
+
+Technical &amp; Business Consulting:
+• Performed Technical Consulting to implement the Mainframe solutions
+• Performed Mainframe Decommissioning, Application Support &amp; Management, &amp; also worked as Onsite Coordinator.
+• Participated as Technical Lead in Multiple Stabilization projects towards Technology Strategy of the Organization. Used it as a platform to reengineer how the current work is done.
+• Participated in Requirement gathering, Development and Maintenance of Mainframe Applications &amp; managed the Decommissioning of Mainframe Application, Lead a team of 5 at offshore and had worked as Onsite Coordinator.
+
+
+Personal Information
+
+Permanent Address   #808, Sri Rangantha Nilaya, 3rd Cross, 2nd Stage, 11th Block, Nagarabhavi, Bengaluru, Karnataka, India   Pincode: 560072</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Harshavardhana M R's experience appears to be mostly concentrated in Information Technology (mostly Project Management) and slightly concentrated in Finance (mostly Real Estate &amp; Facilities). Harshavardhana M R has 15 years of work experience, with 5 years of management experience, including a somewhat high-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>180</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>22</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>34</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>63</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>low-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>75</sov:HighestManagementScore>
+				<sov:ExecutiveType>executive</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a low-level management role: IT Project (Portfolio) Manager
+Starting on 2/1/2018, the candidate held the following low-level management position for 21 months:
+	Title: IT Project (Portfolio) Manager for Role/Designation
+Starting on 2/1/2018, the candidate held the following somewhat high-level management position for 8 months:
+	Title: Publish periodic executive for IT Portfolio Management, Personal &amp; Business Banking
+Starting on 3/1/2016, the candidate held the following low-level management position for 23 months:
+	Title: IT Project Manager (Program Management) for Fidelity Investments (FMR LLC), FMR LLC
+Starting on 9/1/2014, the candidate held the following low-level management position for 18 months:
+	Title: Lead Consultant (IT Program Management) for Wipro Technologies</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="50">
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="16" percentOfParentTaxonomy="33">
+								<sov:Skill name="IT PROJECT MANAGEMENT" id="020226" existsInText="false" childrenTotalMonths="104" childrenLastUsed="2018-09-30">
+									<sov:ChildSkill name="IT PROJECT MANAGER" id="0202262" existsInText="true" totalMonths="104" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-2; POS-6; POS-8"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PMO" id="005052" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="PMP" id="005053" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="PROJECT MANAGER" id="022909" existsInText="true" totalMonths="104" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-2; POS-6; POS-8"></sov:Skill>
+								<sov:Skill name="TEAM MANAGEMENT" id="025953" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="11" percentOfParentTaxonomy="22">
+								<sov:Skill name="DB2" id="015075" existsInText="true" totalMonths="85" lastUsed="2010-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-5; POS-6"></sov:Skill>
+								<sov:Skill name="MS SQL SERVER" id="023733" existsInText="false" childrenTotalMonths="39" childrenLastUsed="2018-09-30">
+									<sov:ChildSkill name="SQL SERVER" id="008483" existsInText="true" totalMonths="39" lastUsed="2018-09-30" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-4; POS-8"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PROGRESS" id="025538" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in CERTIFICATIONS; WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="39" lastUsed="2018-09-30" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-4; POS-8"></sov:Skill>
+								<sov:Skill name="VSAM" id="010735" existsInText="true" totalMonths="73" lastUsed="2009-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mainframe" id="197" percentOfOverall="11" percentOfParentTaxonomy="22">
+								<sov:Skill name="COBOL" id="024882" existsInText="true" totalMonths="85" lastUsed="2010-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-5; POS-6"></sov:Skill>
+								<sov:Skill name="MAINFRAME" id="025745" existsInText="true" totalMonths="124" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-4; POS-5; POS-6; POS-8"></sov:Skill>
+								<sov:Skill name="MVS" id="003234" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="3" percentOfParentTaxonomy="6">
+								<sov:Skill name="REQUIREMENT GATHERING" id="006830" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="SYSTEMS ANALYST" id="009108" existsInText="true" totalMonths="81" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-6; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="2" percentOfParentTaxonomy="4">
+								<sov:Skill name="DATA CENTER" id="5530942" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="DB2" id="5530738" existsInText="true" totalMonths="85" lastUsed="2010-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-5; POS-6"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" totalMonths="31" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-2; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name=".NET" id="023039" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false" childrenTotalMonths="8" childrenLastUsed="2018-09-30">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" totalMonths="31" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-2; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" totalMonths="31" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-2; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="IMS" id="019583" existsInText="true" totalMonths="73" lastUsed="2009-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-6"></sov:Skill>
+								<sov:Skill name="WEB PORTAL" id="011010" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATA CENTER" id="024134" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="JCL" id="020283" existsInText="true" totalMonths="85" lastUsed="2010-12-01" whereFound="Found in SKILLS; WORK HISTORY; POS-5; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="18">
+							<sov:Subtaxonomy name="Real Estate &amp; Facilities" id="710" percentOfOverall="7" percentOfParentTaxonomy="38">
+								<sov:Skill name="FINANCIAL PROJECT MANAGEMENT" id="7000113" existsInText="false" childrenTotalMonths="49" childrenLastUsed="2018-09-30">
+									<sov:ChildSkill name="PROGRAM MANAGEMENT" id="7000114" existsInText="true" totalMonths="49" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-8"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="7000109" existsInText="true" totalMonths="95" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-6; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Treasury" id="246" percentOfOverall="6" percentOfParentTaxonomy="32">
+								<sov:Skill name="BUSINESS ANALYSIS" id="012194" existsInText="true" totalMonths="23" lastUsed="2018-02-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="7000007" existsInText="true" totalMonths="95" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-6; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="5" percentOfParentTaxonomy="26">
+								<sov:Skill name="MBA" id="7000321" existsInText="true" totalMonths="9" lastUsed="2014-06-01" whereFound="Found in EDUCATION; DEG-1"></sov:Skill>
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="7000026" existsInText="true" totalMonths="95" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-6; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="1" percentOfParentTaxonomy="4">
+								<sov:Skill name="FINANCE" id="023147" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Trading" id="239" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="FINANCIAL SERVICES" id="017478" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="10">
+							<sov:Subtaxonomy name="Business Planning" id="589" percentOfOverall="4" percentOfParentTaxonomy="43">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="1400096" existsInText="true" totalMonths="95" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-6; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="4" percentOfParentTaxonomy="43">
+								<sov:Skill name="PORTFOLIO MANAGEMENT" id="1400009" existsInText="true" totalMonths="95" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-6; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel, Partner &amp; Ecosystem Marketing" id="590" percentOfOverall="1" percentOfParentTaxonomy="7">
+								<sov:Skill name="CUSTOMER ENGAGEMENT" id="1400108" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Brand Management" id="227" percentOfOverall="1" percentOfParentTaxonomy="7">
+								<sov:Skill name="PRODUCT MANAGER" id="081160" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="RETAIL MARKETING" id="1400215" existsInText="false">
+									<sov:ChildSkill name="RETAIL" id="1400216" existsInText="true" whereFound="Found in SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="3">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS ANALYSIS" id="024469" existsInText="true" totalMonths="23" lastUsed="2018-02-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="BUSINESS CONSULTING" id="012202" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="PROCESS IMPROVEMENT" id="005521" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="PROCESS IMPROVEMENTS" id="022652" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="3">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="2" percentOfParentTaxonomy="74">
+								<sov:Skill name="LEAD GENERATION" id="081147" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="NEW ACCOUNTS" id="030542" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="RETAIL" id="030018" existsInText="true" whereFound="Found in SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Account Management" id="104" percentOfOverall="1" percentOfParentTaxonomy="26">
+								<sov:Skill name="LEAD GENERATION" id="081150" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="RELATIONSHIP MANAGEMENT" id="006721" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="Other" id="263" percentOfOverall="2" percentOfParentTaxonomy="75">
+								<sov:Skill name="SYSTEMS ANALYST" id="024907" existsInText="true" totalMonths="81" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-6; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Environmental" id="136" percentOfOverall="1" percentOfParentTaxonomy="25">
+								<sov:Skill name="MITIGATION" id="002580" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="2">
+							<sov:Subtaxonomy name="Corporate" id="727" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="GOVERNANCE" id="7270003" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Clerical &amp; Paralegal" id="397" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="DRAFTING" id="3970006" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Contracts" id="396" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="CONTRACTS" id="014309" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="1">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="1" percentOfParentTaxonomy="54">
+								<sov:Skill name="COST MANAGEMENT" id="014504" existsInText="true" whereFound="Found in SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="1" percentOfParentTaxonomy="46">
+								<sov:Skill name="CONTRACTS" id="022274" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="1">
+							<sov:Subtaxonomy name="User Research" id="558" percentOfOverall="1" percentOfParentTaxonomy="76">
+								<sov:Skill name="CUSTOMER ENGAGEMENT" id="5570007" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+								<sov:Skill name="PROTOTYPES" id="5570209" existsInText="false">
+									<sov:ChildSkill name="PROTOTYPE" id="5570210" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PROTOTYPE" id="5570148" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PROTOTYPE" id="5570107" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PROTOTYPE" id="5570097" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="0" percentOfParentTaxonomy="6">
+								<sov:Skill name="PROTOTYPE" id="5570036" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="Talent Management" id="584" percentOfOverall="1" percentOfParentTaxonomy="69">
+								<sov:Skill name="ONBOARDING" id="9000284" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="HR Analytics" id="577" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="ADVANCED ANALYTICS" id="9000106" existsInText="true" totalMonths="1" lastUsed="2014-02-01" whereFound="Found in EDUCATION; DEG-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="262" percentOfOverall="0" percentOfParentTaxonomy="14">
+								<sov:Skill name="HR" id="019094" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="1">
+							<sov:Subtaxonomy name="Central Office" id="316" percentOfOverall="1" percentOfParentTaxonomy="92">
+								<sov:Skill name="DATA CENTER" id="014970" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Skilled" id="323" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="TELECOMMUNICATION" id="022284" existsInText="true" whereFound="Found in EDUCATION"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="1">
+							<sov:Subtaxonomy name="Supply Chain" id="461" percentOfOverall="1" percentOfParentTaxonomy="92">
+								<sov:Skill name="CONTRACTS" id="014311" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Purchasing" id="458" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="PROCUREMENT" id="7270001" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Bookkeeping, Office Management" id="89" percentOfOverall="1">
+							<sov:Subtaxonomy name="Bookeeping Tasks" id="533" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUDGET" id="012120" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="1">
+							<sov:Subtaxonomy name="Reporting" id="962" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUDGET" id="022891" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="1">
+							<sov:Subtaxonomy name="Specs and Documentation" id="429" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="DOCUMENTATION" id="022620" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Installation, Maintenance, Repair" id="72" percentOfOverall="1">
+							<sov:Subtaxonomy name="General Repair" id="452" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022117" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="1">
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Call Center or Help Desk or Customer Service" id="46" percentOfOverall="1">
+							<sov:Subtaxonomy name="Help Desk" id="129" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="APPLICATION SUPPORT" id="021721" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Power Engineering" id="26" percentOfOverall="1">
+							<sov:Subtaxonomy name="Nuclear Misc" id="923" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="DECOMMISSIONING" id="015126" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="1">
+							<sov:Subtaxonomy name="Aptitudes" id="532" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="ARTICULATE" id="031025" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="1">
+							<sov:Subtaxonomy name="Drilling" id="441" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="OFFSHORE" id="003754" existsInText="true" totalMonths="8" lastUsed="2018-09-30" whereFound="Found in WORK HISTORY; POS-8"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="4" ends="7" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="8" ends="10" sectionType="CERTIFICATIONS">Certification:</sov:Section>
+				<sov:Section starts="11" ends="18" sectionType="WORK HISTORY">Experience Highlights</sov:Section>
+				<sov:Section starts="19" ends="26" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="27" ends="34" sectionType="SKILLS">Technical Skills</sov:Section>
+				<sov:Section starts="35" ends="147" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="148" ends="150" sectionType="CONTACT INFO">Personal Information</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>+91 8861776600</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Harshavardhana M R</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>harsha.rangashamaiah@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:OtherData>
+					<sov:OtherDatum>#808, Sri Rangantha Nilaya, 3rd Cross, 2nd Stage, 11th Block, Nagarabhavi</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>9395</sov:ParsedTextLength>
+			<sov:ParseTime>812</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+							<sov:Information>[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Technical Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;1] The following section does not have the header on a separate line: 'Certification:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:5f9c50a6-711b-444c-acf2-97fcefa70096</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>Vkv///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

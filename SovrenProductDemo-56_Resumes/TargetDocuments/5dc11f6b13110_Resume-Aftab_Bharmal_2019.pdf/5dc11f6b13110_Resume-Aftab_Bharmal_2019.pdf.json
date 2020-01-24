@@ -1,0 +1,601 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "AFTAB BHARMAL",
+          "GivenName": "AFTAB",
+          "FamilyName": "BHARMAL"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "401107",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mira Bhayandar",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "703 B vora township CHS LTD"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "9619936362"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "aftab.bharmal@gmail.com"
+          }
+        ]
+      },
+      "ExecutiveSummary": "Principal web developer with 10+ years of experience in web technologies.\r\nDeveloping application with high availability and scalability. Working closely\r\nwith teams across organisation for data pipelines, server management, real\r\ntime data monitoring, escalation etc. ensuring maximum up-time of\r\napplications in ad-tech industry.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Principal web developer",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "Analyzing data and conducting compatibility and quality assurance\r\ntesting.\r\n●   Played an instrumental role in critical and immediate client\r\ndeliveries.\r\n●   Responsive web design and development.\r\n●   Responsible for scheduling, organizing project elements, submitting\r\nand negotiating change orders, and resource allocation.\r\n●   Working with end to end CI, CT & CD.\r\n●   Working in Agile process implementing SCRUM Methodologies.",
+                "StartDate": {
+                  "YearMonth": "2011-04"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "User Experience → Graphic Design",
+                    "Comments": "User Experience describes 33% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Principal web developer"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Bhavnagar University"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "GUJARAT"
+              ],
+              "Municipality": "Bhavnagar"
+            },
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "YearMonth": "2004-06"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2004-06"
+                    }
+                  }
+                ],
+                "Comments": "Computer Application\t06/2004 - 04/2027\r\nBhavnagar University, Bhavnagar, India",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Bhavnagar University"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Skills\r\n\r\nLanguage\tlevel\tServers\tlevel\r\n\r\nPHP\tProfessional\tNginx\tLimited\r\nJAVA\tProfessional\tApache\tLimited\r\nJAVASCRIPT\tProfessional\tTomcat\tLimited\r\nHTML\tLimited\tNode\tLimited\r\nCSS\tLimited\tRedis\tLimited\r\n\r\nTools\tData pipeline\r\n\r\nJira\tLimited\tKafka\tLimited\r\nJenkins\tLimited\tRedis\tLimited\r\nMaven\tLimited\tRabbitMq\tLimited\r\nComposer\tLimited\tAeroSpike\tElementary\r\nGulp\tLimited\r\nNpm\tLimited\r\nGit\tProfessional\r\nsvn\tLimited"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "AFTAB BHARMAL\r\n16/06/1982 | Indian | 703 B vora township CHS LTD, Mira Bhayandar 401107, India\r\n9619936362 | aftab.bharmal@gmail.com\r\n\r\nProfile\r\n\r\nPrincipal web developer with 10+ years of experience in web technologies.\r\nDeveloping application with high availability and scalability. Working closely\r\nwith teams across organisation for data pipelines, server management, real\r\ntime data monitoring, escalation etc. ensuring maximum up-time of\r\napplications in ad-tech industry.\r\n\r\nWork experience\r\n\r\nPrincipal web developer\t04/2011 - present\r\nAftab Bharmal\r\n\r\n●   Analyzing data and conducting compatibility and quality assurance\r\ntesting.\r\n●   Played an instrumental role in critical and immediate client\r\ndeliveries.\r\n●   Responsive web design and development.\r\n●   Responsible for scheduling, organizing project elements, submitting\r\nand negotiating change orders, and resource allocation.\r\n●   Working with end to end CI, CT & CD.\r\n●   Working in Agile process implementing SCRUM Methodologies.\r\n\r\nEducation\r\nComputer Application\t06/2004 - 04/2027\r\nBhavnagar University, Bhavnagar, India\r\n\r\nSkills\r\n\r\nLanguage\tlevel\tServers\tlevel\r\n\r\nPHP\tProfessional\tNginx\tLimited\r\nJAVA\tProfessional\tApache\tLimited\r\nJAVASCRIPT\tProfessional\tTomcat\tLimited\r\nHTML\tLimited\tNode\tLimited\r\nCSS\tLimited\tRedis\tLimited\r\n\r\nTools\tData pipeline\r\n\r\nJira\tLimited\tKafka\tLimited\r\nJenkins\tLimited\tRedis\tLimited\r\nMaven\tLimited\tRabbitMq\tLimited\r\nComposer\tLimited\tAeroSpike\tElementary\r\nGulp\tLimited\r\nNpm\tLimited\r\nGit\tProfessional\r\nsvn\tLimited"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "AFTAB BHARMAL's experience appears to be somewhat concentrated in User Experience (mostly Graphic Design) and somewhat concentrated in Information Technology (mostly Internet). AFTAB BHARMAL has 9 years of work experience.",
+          "sov:MonthsOfWorkExperience": "104",
+          "sov:AverageMonthsPerEmployer": "104",
+          "sov:FulltimeDirectHirePredictiveIndex": "100",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "26",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "5570113",
+                            "@existsInText": "true",
+                            "@totalMonths": "104",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Integration Design",
+                        "@id": "568",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "5570110",
+                            "@existsInText": "true",
+                            "@totalMonths": "104",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "22",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "14",
+                        "@percentOfParentTaxonomy": "65",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "nginx",
+                            "@id": "1004758",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "TOMCAT",
+                            "@id": "009664",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "WEB DESIGN",
+                            "@id": "010994",
+                            "@existsInText": "true",
+                            "@totalMonths": "104",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "Git",
+                            "@id": "1004755",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PHP",
+                            "@id": "004736",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "Subversion",
+                            "@id": "1004756",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SVN",
+                                "@id": "100475601",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "AEROSPIKE",
+                            "@id": "5530702",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "KAFKA",
+                            "@id": "5531005",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REDIS",
+                            "@id": "5530835",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAVEN",
+                            "@id": "2510001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "JIRA",
+                            "@id": "2000006",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "13",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Logistics",
+                        "@id": "460",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCHEDULING",
+                            "@id": "022740",
+                            "@existsInText": "true",
+                            "@totalMonths": "104",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "13",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Planning",
+                        "@id": "208",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCHEDULING",
+                            "@id": "022739",
+                            "@existsInText": "true",
+                            "@totalMonths": "104",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "13",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUALITY ASSURANCE",
+                            "@id": "022250",
+                            "@existsInText": "true",
+                            "@totalMonths": "104",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Construction Non-Laborer",
+                    "@id": "22",
+                    "@percentOfOverall": "13",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Tasks and Equipment",
+                        "@id": "389",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE ORDERS",
+                            "@id": "012980",
+                            "@existsInText": "true",
+                            "@totalMonths": "104",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Transmission & Distribution",
+                    "@id": "45",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Transmission",
+                        "@id": "326",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PIPELINE",
+                            "@id": "004805",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "4",
+              "@ends": "11",
+              "@sectionType": "SUMMARY",
+              "#text": "Profile"
+            },
+            {
+              "@starts": "12",
+              "@ends": "26",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work experience"
+            },
+            {
+              "@starts": "27",
+              "@ends": "30",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "31",
+              "@ends": "50",
+              "@sectionType": "SKILLS",
+              "#text": "Skills"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "9619936362"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "AFTAB BHARMAL",
+              "Aftab Bharmal"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "aftab.bharmal@gmail.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "703 B vora township CHS LTD"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "1459",
+        "sov:ParseTime": "140",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:303;3] The following section in the resume contains more content than the work history and education sections combined: 'Skills'. This may indicate a problem with section headers, formatting, or content."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name.",
+                    "[Sovren:231;DEG-1] The following educational degree does not have a degree name: DEG-1. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:3a96508d-0f32-4909-88e8-d4499114ada3",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "HGL///////8="
+      }
+    }
+  }
+}

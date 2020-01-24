@@ -1,0 +1,495 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Bharat Gupta",
+          "GivenName": "Bharat",
+          "FamilyName": "Gupta"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "110003",
+              "Region": [
+                "DELHI"
+              ],
+              "Municipality": "New Delhi",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "14/848, Lodhi Colony, Lodhi Road"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "800-587-5449"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "bgkivines@gmail.com"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Google Play Store Audience (Geeks)",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Team Member",
+                "OrgName": {
+                  "OrganizationName": "Google Play Store Audience (Geeks)"
+                },
+                "Description": "Description\tAndroid Application with Backend using Node JS\r\nTeam size\tThree (3)\r\nMy position\tTeam Member\r\nMy responsibilities   To make fast backend\r\nTechnologies used\tAndroid Studio and Node JS\r\n\r\n\r\n© topcv.me",
+                "StartDate": {
+                  "YearMonth": "2019-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-08"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → User Interface",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Google",
+                    "sov:NormalizedTitle": "Team Member"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Google"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "JAYPEE UNIVERISTY"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science and Engineering"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "6.5"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "10"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "YearMonth": "2016-08"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2020-05"
+                    }
+                  }
+                ],
+                "Comments": "JAYPEE UNIVERISTY\tAugust 2016 - May 2020\r\nComputer Science and Engineering\r\nCGPA: 6.5/10 (Till 6th Semester)",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:Graduated": "false",
+                    "sov:NormalizedGPA": "0.650"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "JAYPEE UNIVERISTY"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "SKILLS\r\nLanguage\tEnglish, Hindi, Punjabi\r\n\r\nComputer\tC++, Android Studio, Node JS"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Language\tEnglish, Hindi, Punjabi"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Language\tEnglish, Hindi, Punjabi"
+          },
+          {
+            "LanguageCode": "pa",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Language\tEnglish, Hindi, Punjabi"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Jaypee Youth Club\t2018 - 2019"
+          },
+          {
+            "Description": "Cultural Join Secretary"
+          },
+          {
+            "Description": "Jaypee Youth Club\t2016 - 2019"
+          },
+          {
+            "Description": "Member of Football Team"
+          },
+          {
+            "Description": "Mr. Fresher 2k16\t2016"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "Football Team",
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          },
+          {
+            "Name": "My position\tTeam",
+            "Role": [
+              {
+                "Name": "Member"
+              }
+            ]
+          }
+        ]
+      },
+      "References": {
+        "Reference": [
+          {
+            "PersonName": {
+              "FormattedName": "Gaurav Raj",
+              "GivenName": "Gaurav",
+              "FamilyName": "Raj"
+            },
+            "PositionTitle": "Professor of Computer Science",
+            "ContactMethod": [
+              {
+                "Telephone": {
+                  "FormattedNumber": "981-694-8353"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "Bharat Gupta\r\nDate of birth: 23-01-1999\r\nPhone: 800-587-5449\r\nEmail: bgkivines@gmail.com\r\nAddress: 14/848, Lodhi Colony, Lodhi Road, New Delhi 110003\r\n\r\n\r\nEDUCATION\r\nJAYPEE UNIVERISTY\tAugust 2016 - May 2020\r\nComputer Science and Engineering\r\nCGPA: 6.5/10 (Till 6th Semester)\r\n\r\n\r\nACTIVITIES\r\nJaypee Youth Club\t2018 - 2019\r\nCultural Join Secretary\r\n\r\nJaypee Youth Club\t2016 - 2019\r\nMember of Football Team\r\n\r\n\r\nCERTIFICATIONS\r\n• Certification of training in 'Java Language' from Cyber Hi Tech\t2018\r\n\r\n\r\nHONORS & AWARDS\r\nMr. Fresher 2k16\t2016\r\n\r\n\r\nSKILLS\r\nLanguage\tEnglish, Hindi, Punjabi\r\n\r\nComputer\tC++, Android Studio, Node JS\r\n\r\n\r\nREFERENCES\r\nMr. Gaurav Raj\r\nProfessor of Computer Science\r\n981-694-8353\r\n\r\nPROJECTS\r\nAndroid Application\r\n(August 2019 - May 2020)\r\n\r\nCustomer\tGoogle Play Store Audience (Geeks)\r\nDescription\tAndroid Application with Backend using Node JS\r\nTeam size\tThree (3)\r\nMy position\tTeam Member\r\nMy responsibilities   To make fast backend\r\nTechnologies used\tAndroid Studio and Node JS\r\n\r\n\r\n© topcv.me"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1999-01-23"
+          }
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Bharat Gupta's experience appears to be strongly concentrated in Information Technology (mostly User Interface) and slightly concentrated in Administrative or Clerical (mostly Admin). Bharat Gupta's experience appears to be entry level, with 1 months of experience.",
+          "sov:MonthsOfWorkExperience": "1",
+          "sov:AverageMonthsPerEmployer": "1",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "98",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "37",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "7310008",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-08-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "37",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "5520503",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-08-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "22",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID STUDIO",
+                            "@id": "3391145",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2019-08-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Admin",
+                        "@id": "113",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SECRETARY",
+                            "@id": "023792",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "7",
+              "@ends": "12",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATION"
+            },
+            {
+              "@starts": "13",
+              "@ends": "20",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "ACTIVITIES"
+            },
+            {
+              "@starts": "21",
+              "@ends": "24",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "CERTIFICATIONS"
+            },
+            {
+              "@starts": "25",
+              "@ends": "28",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "HONORS & AWARDS"
+            },
+            {
+              "@starts": "29",
+              "@ends": "34",
+              "@sectionType": "SKILLS",
+              "#text": "SKILLS"
+            },
+            {
+              "@starts": "35",
+              "@ends": "39",
+              "@sectionType": "REFERENCES",
+              "#text": "REFERENCES"
+            },
+            {
+              "@starts": "40",
+              "@ends": "52",
+              "@sectionType": "WORK HISTORY",
+              "#text": "PROJECTS"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Phone: 800-587-5449",
+              "800-587-5449",
+              "981-694-8353"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Bharat Gupta"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "bgkivines@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "topcv.me"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "14/848, Lodhi Colony, Lodhi Road",
+              "Date of birth: 23-01-1999"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "970",
+        "sov:ParseTime": "140",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:323;PERSONAL INTERESTS AND ACCOMPLISHMENTS] The following section type appeared multiple times in the resume: PERSONAL INTERESTS AND ACCOMPLISHMENTS (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:231;DEG-1] The following educational degree does not have a degree name: DEG-1. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:111;] References section found in resume. References should not be included in a resume.",
+                    "[Sovren:112;] The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:728f3a53-ce28-4c74-8e61-7737a2a37c57",
+        "sov:ParserConfigurationString": "Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "mNsAAAAAAAA="
+      }
+    }
+  }
+}

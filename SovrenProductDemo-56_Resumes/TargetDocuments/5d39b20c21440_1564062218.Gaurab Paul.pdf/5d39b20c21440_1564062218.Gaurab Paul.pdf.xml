@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Gaurab Paul</FormattedName>
+				<GivenName>Gaurab</GivenName>
+				<FamilyName>Paul</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91-7042118352</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>gpaul.tech@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>businessDirect</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>twitter.com/lorefnon</InternetWebAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>businessDirect</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>github.com/lorefnon</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>Contributions:
+
+●   GRelDAL: Bidirectional RDBMS	●   Rolify (Hierarchical role management and resource
+to GraphQL mapping solution	scoping library for ruby): Improved mongodb integration
+for Node.js	support &amp; test matrix (using appraisals).
+●   InGenR: Solution for language	●   Codiad (Web based IDE): Enhancements around project
+agnostic inline code generation	management and optimizations around client-server
+●   Fluid Outliner: Offline-enabled	information exchange.
+PWA Outliner	●   Knex (SQL Query builder): Enhancements around
+typescript integration</Description>
+					<StartDate>
+						<AnyDate>notKnown</AnyDate>
+					</StartDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 75% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>IIT Kharagpur</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B. Tech</DegreeName>
+					<DegreeDate>
+						<Year>2013</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science and Engineering</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>7.8</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>10</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2013</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>B. Tech (Computer Science and Engineering) from IIT Kharagpur
+(4 yrs, on campus, CGPA: 7.8 / 10, completed: 2013)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:Graduated>true</sov:Graduated>
+							<sov:NormalizedGPA>0.780</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Indian Institutes of Technology - Kharagpur</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="secondary">
+					<DegreeName>CBSE</DegreeName>
+					<DegreeDate>
+						<Year>2008</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Science+Maths</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>92.6</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2008</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>XII: CBSE, Science+Maths, Completed: 2008, Marks: 92.6%
+X: CBSE, Completed: 2006, Marks: 93.6</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:Graduated>true</sov:Graduated>
+							<sov:NormalizedGPA>0.926</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>secondary</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<PublicationHistory>
+			<Book>
+				<Title>FSEProceedings of the9th Joint Meeting on Foundations of  based strategy for optimally parallelized automated instrumentation of SAP/ABAP
+applications in constrained environments</Title>
+				<PublicationDate>
+					<Year>2013</Year>
+				</PublicationDate>
+				<PublisherName>Software Engineering
+Divide and Conquer</PublisherName>
+			</Book>
+			<OtherPublication>
+				<Title></Title>
+			</OtherPublication>
+		</PublicationHistory>
+		<Qualifications>
+			<QualificationSummary>Skills / Exposure: Online presence
+
+Frontend Development: lorefnon.tech
+twitter.com/lorefnon
+Proficient: Javascript, Typescript, React, Redux, MobX, GraphQL,	github.com/lorefnon
+Backbone, Knockout, Sass
+
+Basic: ReasonML, WebAssembly
+Interest Areas
+Backend Development:
+Web development
+Proficient: Ruby on Rails, Node.js, Socket.io	Real time technologies
+Intermediate: AWS (EC2, ECS, S3, RS, DPS), Protobuf, ZMQ	System integrations
+Basic: Meteor.js, Java, GAE, Clojure
+
+Functional programming
+Infrastructure technologies
+Persistence Solutions:
+
+
+Intermediate: MongoDB, PostgreSQL, Redis
+
+
+Experience (6 years):
+
+D. E. Shaw Pvt Ltd.	(Full time role)
+(Project Leader (Current): 1yr, 7 mo)
+(Senior Member, Technical: 1yr, 8 mo)
+
+
+Collaborated with multiple teams (in US, London and Hyd) on migrating applications (for trading, portfolio
+management, data analysis, forecasting etc.) from legacy java portal stack to microservice based web
+applications.
+
+As a member of a small portal infrastructure team, facilitated service integrations at Node.js layer and
+library support for business aware components based on React, Redux, Webpack and modern web
+technologies.
+
+Led the development of a unified reporting solution for static and web based dynamic (real time) reports
+which replaces multiple legacy solutions. Led the development of an integrated component-oriented
+discussion management solution for trade collaboration within application dashboards.
+
+Contributed to internal exploratory documentation and API discovery site, and data analysis components
+for pivoting, multi-dimensional exploration, drill down analysis etc.
+
+Assisted in onboarding of Java/Python developers to modern (ES6+) javascript and typescript stack.
+
+StudyPad	(Full time role, Ruby on Rails developer, 2 yrs)
+
+
+Worked on backend APIs for mobile clients, payment integrations with stripe, A/B testing setups,
+infrastructure orchestration (AWS).
+
+Worked on real time course progress monitoring dashboard powered by Rails and Knockout.js.
+
+Nifty Window	(Full time role, Web developer, 1 yr)
+
+
+Worked on java based backend APIs for GAE integrated web services for E-commerce, marketing and
+advertising domains. Built integrated dashboards for managing flow of consumer interactions on different
+social platforms using Backbone.js, jQuery, jade etc.
+
+IBM Research, India	(Internship, Research trainee: 3 mo)
+
+
+Worked on devising new effective methodologies for determination of execution history of enterprise
+applications hosted in change-controlled client deployments.
+
+
+Open Source Work</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Associations>
+			<Association>
+				<Name>Senior Member, Technical: 1yr, 8 mo</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Contact
+Gaurab Paul
+Full Stack Web Application Developer	gpaul.tech@gmail.com
++91-7042118352
+
+Skills / Exposure: Online presence
+
+Frontend Development: lorefnon.tech
+twitter.com/lorefnon
+Proficient: Javascript, Typescript, React, Redux, MobX, GraphQL,	github.com/lorefnon
+Backbone, Knockout, Sass
+
+Basic: ReasonML, WebAssembly
+Interest Areas
+Backend Development:
+Web development
+Proficient: Ruby on Rails, Node.js, Socket.io	Real time technologies
+Intermediate: AWS (EC2, ECS, S3, RS, DPS), Protobuf, ZMQ	System integrations
+Basic: Meteor.js, Java, GAE, Clojure
+
+Functional programming
+Infrastructure technologies
+Persistence Solutions:
+
+
+Intermediate: MongoDB, PostgreSQL, Redis
+
+
+Experience (6 years):
+
+D. E. Shaw Pvt Ltd.	(Full time role)
+(Project Leader (Current): 1yr, 7 mo)
+(Senior Member, Technical: 1yr, 8 mo)
+
+
+Collaborated with multiple teams (in US, London and Hyd) on migrating applications (for trading, portfolio
+management, data analysis, forecasting etc.) from legacy java portal stack to microservice based web
+applications.
+
+As a member of a small portal infrastructure team, facilitated service integrations at Node.js layer and
+library support for business aware components based on React, Redux, Webpack and modern web
+technologies.
+
+Led the development of a unified reporting solution for static and web based dynamic (real time) reports
+which replaces multiple legacy solutions. Led the development of an integrated component-oriented
+discussion management solution for trade collaboration within application dashboards.
+
+Contributed to internal exploratory documentation and API discovery site, and data analysis components
+for pivoting, multi-dimensional exploration, drill down analysis etc.
+
+Assisted in onboarding of Java/Python developers to modern (ES6+) javascript and typescript stack.
+
+StudyPad	(Full time role, Ruby on Rails developer, 2 yrs)
+
+
+Worked on backend APIs for mobile clients, payment integrations with stripe, A/B testing setups,
+infrastructure orchestration (AWS).
+
+Worked on real time course progress monitoring dashboard powered by Rails and Knockout.js.
+
+Nifty Window	(Full time role, Web developer, 1 yr)
+
+
+Worked on java based backend APIs for GAE integrated web services for E-commerce, marketing and
+advertising domains. Built integrated dashboards for managing flow of consumer interactions on different
+social platforms using Backbone.js, jQuery, jade etc.
+
+IBM Research, India	(Internship, Research trainee: 3 mo)
+
+
+Worked on devising new effective methodologies for determination of execution history of enterprise
+applications hosted in change-controlled client deployments.
+
+
+Open Source Work
+
+Personal Projects	Contributions:
+
+●   GRelDAL: Bidirectional RDBMS	●   Rolify (Hierarchical role management and resource
+to GraphQL mapping solution	scoping library for ruby): Improved mongodb integration
+for Node.js	support &amp; test matrix (using appraisals).
+●   InGenR: Solution for language	●   Codiad (Web based IDE): Enhancements around project
+agnostic inline code generation	management and optimizations around client-server
+●   Fluid Outliner: Offline-enabled	information exchange.
+PWA Outliner	●   Knex (SQL Query builder): Enhancements around
+typescript integration
+
+
+Publications
+
+Distributed Program Tracing
+
+ESEC/FSE 2013 Proceedings of the 2013 9th Joint Meeting on Foundations of Software Engineering
+
+Divide and Conquer based strategy for optimally parallelized automated instrumentation of SAP/ABAP
+applications in constrained environments.
+
+https://dl.acm.org/citation.cfm?doid=2491411.2491451
+
+Education
+
+B. Tech (Computer Science and Engineering) from IIT Kharagpur
+(4 yrs, on campus, CGPA: 7.8 / 10, completed: 2013)
+
+XII: CBSE, Science+Maths, Completed: 2008, Marks: 92.6%
+X: CBSE, Completed: 2006, Marks: 93.6 %</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Gaurab Paul's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Finance (mostly Compliance). Gaurab Paul's experience appears to be entry level, with 0 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>0</sov:MonthsOfWorkExperience>
+				<sov:FulltimeDirectHirePredictiveIndex>0</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="71">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="25" percentOfParentTaxonomy="35">
+								<sov:Skill name="API" id="021194" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="CODE GENERATION" id="013731" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in SKILLS">
+									<sov:ChildSkill name="METEOR" id="3391110" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="NODE.JS" id="339002002" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+									<sov:ChildSkill name="REDUX" id="3391108" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="TYPESCRIPT" id="3391102" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:ChildSkill>
+									<sov:ChildSkill name="WEBPACK" id="3391104" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="REAL TIME" id="081198" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Ruby" id="1004736" existsInText="true" whereFound="Found in SKILLS">
+									<sov:ChildSkill name="Rails" id="100473602" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="Ruby on Rails" id="100473601" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="9" percentOfParentTaxonomy="13">
+								<sov:Skill name="Amazon Elastic Compute Cloud" id="5500001" existsInText="false">
+									<sov:ChildSkill name="EC2" id="550000102" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="7" percentOfParentTaxonomy="10">
+								<sov:Skill name="CLOJURE" id="5530920" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="REDIS" id="5530835" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="WEB BASED" id="024402" existsInText="true" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="DATA ANALYSIS" id="014961" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="POSTGRESQL" id="3391132" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="4" percentOfParentTaxonomy="5">
+								<sov:Skill name="BACKBONE" id="009539" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="CLIENT-SERVER" id="1980059" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="KNOCKOUT" id="5520556" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SASS" id="5520599" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="jQuery" id="339048" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="OPEN SOURCE" id="003842" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="REAL TIME" id="081189" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compiler &amp; Runtime" id="719" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="CODE GENERATION" id="7190006" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="EXCHANGE" id="3490029" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Reporting" id="341" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="RDBMS" id="022369" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Embedded and Realtime" id="340" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="REAL TIME" id="081185" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="6">
+							<sov:Subtaxonomy name="Compliance" id="245" percentOfOverall="3" percentOfParentTaxonomy="40">
+								<sov:Skill name="FORECASTING" id="023164" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="TRADING" id="080179" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounting" id="705" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="FORECASTING" id="7000318" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial Planning &amp; Analysis" id="235" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="TRADING" id="080204" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Trading" id="239" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="TRADING" id="009789" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="6">
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="4" percentOfParentTaxonomy="58">
+								<sov:Skill name="TOPO" id="023035" existsInText="false">
+									<sov:ChildSkill name="MAPPING" id="021224" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="1" percentOfParentTaxonomy="21">
+								<sov:Skill name="REAL TIME" id="022816" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Techniques" id="264" percentOfOverall="1" percentOfParentTaxonomy="21">
+								<sov:Skill name="ECS" id="015870" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="5">
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="3" percentOfParentTaxonomy="50">
+								<sov:Skill name="MARKETING ANALYSIS" id="1400068" existsInText="false">
+									<sov:ChildSkill name="DATA ANALYSIS" id="1400327" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Marketing Communications" id="592" percentOfOverall="1" percentOfParentTaxonomy="25">
+								<sov:Skill name="ADVERTISING" id="1400153" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="1" percentOfParentTaxonomy="25">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="4">
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="3" percentOfParentTaxonomy="67">
+								<sov:Skill name="FORECASTING" id="017857" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="TRADING" id="022750" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="DATA ANALYSIS" id="014960" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="4">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="1">
+							<sov:Subtaxonomy name="Talent Management" id="584" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="ONBOARDING" id="9000284" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="1">
+							<sov:Subtaxonomy name="Specs and Documentation" id="429" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="DOCUMENTATION" id="022620" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="1">
+							<sov:Subtaxonomy name="Drilling" id="441" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXPLORATION" id="017070" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="0" ends="4" sectionType="CONTACT INFO">Contact</sov:Section>
+				<sov:Section starts="5" ends="75" sectionType="SKILLS">Skills</sov:Section>
+				<sov:Section starts="76" ends="87" sectionType="WORK HISTORY">Personal Projects</sov:Section>
+				<sov:Section starts="88" ends="98" sectionType="OTHER_PUBLICATIONS">Publications</sov:Section>
+				<sov:Section starts="99" ends="105" sectionType="EDUCATION">Education</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>+91-7042118352</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Gaurab Paul</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>gpaul.tech@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>https://dl.acm.org/citation.cfm?doid=2491411.2491451</sov:Url>
+					<sov:Url>twitter.com/lorefnon</sov:Url>
+					<sov:Url>github.com/lorefnon</sov:Url>
+					<sov:Url>Socket.io</sov:Url>
+				</sov:Urls>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>3787</sov:ParsedTextLength>
+			<sov:ParseTime>390</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:303;1] The following section in the resume contains more content than the work history and education sections combined: 'Skills'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:312;3] The following section in the resume contains more content than recommended: 'Publications' This section should be less than 10 lines long as it can cause errors in parsing the resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:221;POS-1] We could not find a job title for: POS-1. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name.</sov:Information>
+							<sov:Information>[Sovren:224;POS-1] The following work history position does not have a start date: POS-1. Every position in a resume should have a start date.</sov:Information>
+							<sov:Information>[Sovren:225;POS-1] The following work history position does not have an end date: POS-1. Every position in a resume should have an end date, unless it is a currently held position.</sov:Information>
+							<sov:Information>[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;1,2] The following sections do not have the header on a separate line: 'Skills', 'Personal Projects'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+							<sov:Information>[Sovren:161;DEG-2] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:5ffd26d9-8110-41cb-bbc4-0bb47428468b</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>BxgDAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

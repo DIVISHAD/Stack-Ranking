@@ -1,0 +1,1338 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Shamsuddin Altamash Shaikh",
+          "GivenName": "Shamsuddin",
+          "MiddleName": "Altamash",
+          "FamilyName": "Shaikh"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "400058",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "B802, Green Tower",
+                  "Near Bhavans College",
+                  "Andheri (W)"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "+91 9820659902"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "altu9594@gmail.com"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "In Maintenance Mode",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "OrgName": {
+                  "OrganizationName": "In Maintenance Mode"
+                },
+                "Description": "Technologies Used: Cakephp, Apache, Mssql, HTML, CSS, Rest API, JQuery and bootstrap.",
+                "StartDate": {
+                  "YearMonth": "2014-10"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "In Maintenance Mode"
+                  }
+                }
+              },
+              {
+                "@currentEmployer": "true",
+                "OrgName": {
+                  "OrganizationName": "Bulk Category, Tags Update Wordpress Plugin"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2017-06"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:NormalizedOrganizationName": "Bulk Category Tags Update Wordpress Plugin"
+                  }
+                }
+              },
+              {
+                "@currentEmployer": "true",
+                "OrgName": {
+                  "OrganizationName": "Mammoth API"
+                },
+                "Description": "A Rest API which takes docx as an input and converts it to HTML.\r\n\r\nTechnologies Used: Node JS.\r\nScreenshot API",
+                "StartDate": {
+                  "YearMonth": "2017-06"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-7",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Mammoth API"
+                  }
+                }
+              },
+              {
+                "@currentEmployer": "true",
+                "OrgName": {
+                  "OrganizationName": "A Rest API"
+                },
+                "Description": "which takes an url as an input returns the screenshot of the current url in desktop and mobile view.\r\n\r\nTechnologies Used: Node JS.",
+                "StartDate": {
+                  "YearMonth": "2017-06"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-8",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:NormalizedOrganizationName": "A Rest API"
+                  }
+                }
+              },
+              {
+                "@currentEmployer": "true",
+                "OrgName": {
+                  "OrganizationName": "Wordpress Dropbox Plugin"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2017-06"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-9",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Wordpress Dropbox Plugin"
+                  }
+                }
+              },
+              {
+                "OrgName": {
+                  "OrganizationName": "KYC"
+                },
+                "Description": "Technologies Used: Cakephp, Apache, Mssql.\r\n\r\nIP2GEO API\r\nMAY 2017 - PRESENT,\r\nTechnologies Used: PHP, APACHE, Mysql and redis.\r\n\r\nSEM(Search Engine Monetization) Projects\r\nJUNE 2017 - PRESENT\r\n\r\nThis product helps in monetizing the search as well as display traffic, it also helps in monetizing the traffic from social and native platforms.\r\n\r\n\r\nhttps://docs.google.com/document/d/1IPdF9MxBSSV7E7uUaMV1iMXGFAeXKIZ_brdoSaxpncs/edit#\t1/2\r\n4/21/2019\tResume - Google Docs",
+                "StartDate": {
+                  "YearMonth": "2015-06"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-10"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 56% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "KYC"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "In Maintenance Mode"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Media.net",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Module Lead Web Application Development",
+                "OrgName": {
+                  "OrganizationName": "Media.net"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "Media.net"
+                  },
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "MAHARASHTRA"
+                      ],
+                      "Municipality": "MUMBAI"
+                    }
+                  }
+                ],
+                "Description": "MUMBAI",
+                "StartDate": {
+                  "YearMonth": "2018-10"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Media.net",
+                    "sov:NormalizedTitle": "Module Lead Web Application Development"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Web Developer",
+                "OrgName": {
+                  "OrganizationName": "Media.net"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "Media.net"
+                  },
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "MAHARASHTRA"
+                      ],
+                      "Municipality": "MUMBAI"
+                    }
+                  }
+                ],
+                "Description": "MUMBAI",
+                "StartDate": {
+                  "YearMonth": "2015-09"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-10"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Media.net",
+                    "sov:NormalizedTitle": "Web Developer"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Associate Web Developer",
+                "OrgName": {
+                  "OrganizationName": "Media.net"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "Media.net"
+                  },
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "MAHARASHTRA"
+                      ],
+                      "Municipality": "MUMBAI"
+                    }
+                  }
+                ],
+                "Description": "MUMBAI\r\n\r\nㅡ",
+                "StartDate": {
+                  "YearMonth": "2014-07"
+                },
+                "EndDate": {
+                  "YearMonth": "2015-09"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Media.net",
+                    "sov:NormalizedTitle": "Associate Web Developer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Media.net"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "M.H Saboo Siddik College of Engineering"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "MUMBAI"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.E",
+                "DegreeDate": {
+                  "YearMonth": "2014-06"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Technology"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "75"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "YearMonth": "2010-08"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2014-06"
+                    }
+                  }
+                ],
+                "Comments": "M.H Saboo Siddik College of Engineering / B.E Information\r\nTechnology - 75%\r\nAUGUST 2010 - JUNE 2014, MUMBAI",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedGPA": "0.750",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "M H Saboo Siddik College of Engineering"
+              }
+            }
+          },
+          {
+            "@schoolType": "college",
+            "School": [
+              {
+                "SchoolName": "Rizvi College of Science"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "MUMBAI"
+            },
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeName": "H.S.C",
+                "DegreeDate": {
+                  "YearMonth": "2010-02"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "75.17"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "YearMonth": "2008-08"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2010-02"
+                    }
+                  }
+                ],
+                "Comments": "Rizvi College of Science / H.S.C - 75.17%\r\nAUGUST 2008 - FEBRUARY 2010, MUMBAI",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedGPA": "0.752",
+                    "sov:NormalizedDegreeName": "secondary",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Rizvi College of Science"
+              }
+            }
+          },
+          {
+            "@schoolType": "highschool",
+            "School": [
+              {
+                "SchoolName": "S.T Theresa's High School"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "MUMBAI"
+            },
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeName": "S.S.C",
+                "DegreeDate": {
+                  "YearMonth": "2008-03"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "75.84"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "YearMonth": "1995-06"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2008-03"
+                    }
+                  }
+                ],
+                "Comments": "S.T Theresa's High School / S.S.C - 75.84%\r\nJUNE 1995 - MARCH 2008, MUMBAI.\r\n\r\n\r\nㅡ",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedGPA": "0.758",
+                    "sov:NormalizedDegreeName": "secondary",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "S T Theresas High School"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Android Certified Programming from Suven Consultants",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Web Technologist Level1 from Suven Consultants",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Intelligent Ads using PHP, Peoples Corner in Android",
+            "Id": "3",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Skills\tPHP, HTML5, Css, JQuery, Adwords, Node JS, Rest API, Angular Js\r\n2, Cakephp, Laravel, Lumen, CodeIgniter, MySQL, Mssql, ElasticSearch, AWS\r\nServices, Linux, DNS, Java, Android, J2ME, Web Optimization, Unit\r\nTest, Git, Redis, Memcache, Logstash, Wordpress, Wordpress Plugins\r\n\r\nㅡ"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "4/21/2019\tResume - Google Docs\r\n\r\n\r\nShamsuddin\tShamsuddin Altamash Shaikh\r\n\r\n\r\nAltamash\tB802, Green Tower,\r\nNear Bhavans College,\r\n\r\nShaikh\tAndheri (W), Mumbai - 400058\r\n\r\n+91 9820659902\r\nModule Lead Web\taltu9594@gmail.com\r\n\r\nApplication\tA Web Developer with 4.5 years of experience in\r\nDevelopment\tdesigning, developing, maintaining and managing products and loves to do\r\nR&D and contribute at each stack level. Proven ability in optimizing web\r\nfunctionality that improves data retrieval and workflow efficiencies.\r\n\r\nㅡ\r\n\r\nSkills\tPHP, HTML5, Css, JQuery, Adwords, Node JS, Rest API, Angular Js\r\n2, Cakephp, Laravel, Lumen, CodeIgniter, MySQL, Mssql, ElasticSearch, AWS\r\nServices, Linux, DNS, Java, Android, J2ME, Web Optimization, Unit\r\nTest, Git, Redis, Memcache, Logstash, Wordpress, Wordpress Plugins\r\n\r\nㅡ\r\n\r\nExperience\tMedia.net / Module Lead Web Application Development\r\nOCTOBER 2018 - PRESENT, MUMBAI\r\n\r\nMedia.net / Web Developer\r\nSEPTEMBER 2015 - OCTOBER 2018, MUMBAI\r\n\r\nMedia.net / Associate Web Developer\r\nJULY 2014 - SEPTEMBER 2015, MUMBAI\r\n\r\nㅡ\r\nProjects\tAccounting\r\nOCTOBER 2014 - PRESENT(In Maintenance Mode)\r\n\r\nTechnologies Used: Cakephp, Apache, Mssql, HTML, CSS, Rest API, JQuery\r\nand bootstrap.\r\n\r\nKYC\r\nJUNE 2015 - October 2016\r\nTechnologies Used: Cakephp, Apache, Mssql.\r\n\r\nIP2GEO API\r\nMAY 2017 - PRESENT,\r\nTechnologies Used: PHP, APACHE, Mysql and redis.\r\n\r\nSEM(Search Engine Monetization) Projects\r\nJUNE 2017 - PRESENT\r\n\r\nThis product helps in monetizing the search as well as display traffic, it\r\nalso helps in monetizing the traffic from social and native platforms.\r\n\r\n\r\nhttps://docs.google.com/document/d/1IPdF9MxBSSV7E7uUaMV1iMXGFAeXKIZ_brdoSaxpncs/edit#\t1/2\r\n4/21/2019\tResume - Google Docs\r\n\r\n\r\nBulk Category, Tags Update Wordpress Plugin\r\nJUNE 2017 - PRESENT\r\n\r\nMammoth API\r\nJUNE 2017 - PRESENT\r\nA Rest API which takes docx as an input and converts it to HTML.\r\n\r\nTechnologies Used: Node JS.\r\n\r\nScreenshot API\r\nJUNE 2017 - PRESENT\r\nA Rest API which takes an url as an input returns the screenshot of the\r\ncurrent url in desktop and mobile view.\r\n\r\nTechnologies Used: Node JS.\r\n\r\nWordpress Dropbox Plugin\r\nJUNE 2017 - PRESENT\r\n\r\nWordpress Custom Cache Plugin\r\nDEC 2018 - PRESENT\r\n\r\nㅡ\r\n\r\nEducation\tM.H Saboo Siddik College of Engineering / B.E Information\r\nTechnology - 75%\r\nAUGUST 2010 - JUNE 2014, MUMBAI\r\n\r\n\r\nRizvi College of Science / H.S.C - 75.17%\r\nAUGUST 2008 - FEBRUARY 2010, MUMBAI\r\n\r\n\r\nS.T Theresa's High School / S.S.C - 75.84%\r\nJUNE 1995 - MARCH 2008, MUMBAI.\r\n\r\n\r\nㅡ\r\n\r\nCertifications\tWeb Technologist Level1 from Suven Consultants\r\n\r\nand\tAndroid Certified Programming from Suven Consultants.\r\nIntelligent Ads using PHP, Peoples Corner in Android.\r\nInternships\r\n\r\n\r\nㅡ\r\n\r\nHobbies\tCricket, Music, Swimming, Travelling and Trekking\r\n\r\n\r\nhttps://docs.google.com/document/d/1IPdF9MxBSSV7E7uUaMV1iMXGFAeXKIZ_brdoSaxpncs/edit#\t2/2"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Shamsuddin Altamash Shaikh's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Power Engineering (mostly Non-Nuclear Power Misc). Shamsuddin Altamash Shaikh has 6 years of work experience.",
+          "sov:MonthsOfWorkExperience": "71",
+          "sov:AverageMonthsPerEmployer": "35",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "14",
+          "sov:CurrentManagementLevel": "low-level",
+          "sov:HighestManagementScore": "25",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": "Current position is a low-level management role: Module Lead Web Application Development\r\nStarting on 10/1/2018, the candidate held the following low-level management position for 13 months:\r\n\tTitle: Module Lead Web Application Development for Media.net",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "69",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "34",
+                        "@percentOfParentTaxonomy": "49",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021194",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-4; POS-5; POS-7"
+                          },
+                          {
+                            "@name": "APPLICATION DEVELOPMENT",
+                            "@id": "021556",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "Git",
+                            "@id": "1004755",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-7"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "62",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BOOTSTRAP",
+                                "@id": "3391101",
+                                "@existsInText": "true",
+                                "@totalMonths": "62",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "memcache",
+                            "@id": "1004754",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PHP",
+                            "@id": "004736",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2016-10-01",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS; WORK HISTORY; POS-5",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CODEIGNITER",
+                                "@id": "3391115",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              },
+                              {
+                                "@name": "LARAVEL",
+                                "@id": "3391113",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "REST",
+                            "@id": "7180010",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-4; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "DNS",
+                            "@id": "015548",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SEARCH ENGINE",
+                            "@id": "024268",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2016-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "J2ME",
+                            "@id": "020256",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "5520503",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS"
+                          },
+                          {
+                            "@name": "BOOTSTRAP",
+                            "@id": "5520522",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "HTML5",
+                            "@id": "5520541",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADS",
+                            "@id": "013650",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "CACHE",
+                            "@id": "012362",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2016-10-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "ELASTICSEARCH",
+                            "@id": "5530744",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "REDIS",
+                            "@id": "5530835",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2016-10-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "7310008",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DNS",
+                            "@id": "3490045",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023294",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "17",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Non-Nuclear Power Misc",
+                        "@id": "924",
+                        "@percentOfOverall": "17",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021195",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-4; POS-5; POS-7"
+                          },
+                          {
+                            "@name": "SEM",
+                            "@id": "007743",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2016-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Internal Audit",
+                        "@id": "706",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "42",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNTING",
+                            "@id": "7000058",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounting",
+                        "@id": "705",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "42",
+                        "sov:Skill": [
+                          {
+                            "@name": "ACCOUNTING",
+                            "@id": "7000036",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "MONETIZATION",
+                            "@id": "7000025",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2016-10-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "96",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "025565",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023295",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Digital",
+                        "@id": "599",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SEARCH ENGINE MARKETING",
+                            "@id": "1400232",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "16",
+                            "@childrenLastUsed": "2016-10-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SEM",
+                                "@id": "1400233",
+                                "@existsInText": "true",
+                                "@totalMonths": "16",
+                                "@lastUsed": "2016-10-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2015-09-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "WORDPRESS",
+                            "@id": "3391111",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Hobbies": {
+          "sov:Text": "Cricket, Music, Swimming, Travelling and Trekking\r\n\r\n\r\nhttps://docs.google.com/document/d/1IPdF9MxBSSV7E7uUaMV1iMXGFAeXKIZ_brdoSaxpncs/edit#\t2/2"
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "21",
+              "@ends": "27",
+              "@sectionType": "SKILLS",
+              "#text": "Skills"
+            },
+            {
+              "@starts": "28",
+              "@ends": "37",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Experience"
+            },
+            {
+              "@starts": "38",
+              "@ends": "86",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Projects [PROJECT_HEADERS_SUBSECTION_OF_WORK_SECTION]"
+            },
+            {
+              "@starts": "87",
+              "@ends": "101",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "102",
+              "@ends": "105",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Certifications"
+            },
+            {
+              "@starts": "106",
+              "@ends": "110",
+              "@sectionType": "TRAINING",
+              "#text": "Internships"
+            },
+            {
+              "@starts": "111",
+              "@ends": "114",
+              "@sectionType": "HOBBIES",
+              "#text": "Hobbies"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "+91 9820659902"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Shamsuddin Altamash Shaikh",
+              "Shamsuddin\tShamsuddin Altamash Shaikh"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "altu9594@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "Media.net"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Near Bhavans College",
+              "B802, Green Tower",
+              "Andheri (W)"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2747",
+        "sov:ParseTime": "497",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:221;POS-4,POS-6,POS-7,POS-8,POS-9,POS-5] We could not find a job title for: POS-4, POS-6, POS-7, POS-8, POS-9, POS-5. Every position in a resume should have a job title."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,1,3,4,6] The following sections do not have the header on a separate line: 'Skills', 'Experience', 'Education', 'Certifications', 'Hobbies'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                    "[Sovren:161;DEG-2,DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:7e8b445c-eac4-4d26-8064-f8ba76d9e3aa",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "tYT///////8="
+      }
+    }
+  }
+}

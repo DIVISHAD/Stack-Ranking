@@ -1,0 +1,1179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Vishnu Sharan Goud Bompally</FormattedName>
+				<GivenName>Vishnu</GivenName>
+				<MiddleName>Sharan Goud</MiddleName>
+				<FamilyName>Bompally</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>bompally.vishnu@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<Objective>Seeking a challenging senior level development position, with a strong emphasis on different latest technologies like ReactJs, Redux, Laravel, AngularJS, NodeJS, EmberJS and Java, Python, JQuery and all other latest technologies, where I can use my current skill set, 7 plus years of experience, and desire to define and create the best possible to become invaluable asset to the company.</Objective>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>BazarJagah</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Founder and CTO</Title>
+					<OrgName>
+						<OrganizationName>BazarJagah</OrganizationName>
+					</OrgName>
+					<Description>Project: BazarJagah, BazarJagah Business Portal
+BazarJagah is an online platform which acts as a bridge between Product manufacturers and Retailers (Vice-Versa). We serve as a medium for small Retail firms where one can buy products in bulk through our online channel.
+
+Roles and Responsibilities:
+1. Involved in the complete responsibilities of developing two web portals, includes from setting up the server, developing wireframes, designing, developing front end, developing back end, writing REST APIS, releasing the updates on the requirements.
+
+Demo: http://www.bazarjagah.com
+http://business.bazarjagah.com</Description>
+					<StartDate>
+						<YearMonth>2018-09</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>User Experience → Information Architect</CategoryCode>
+						<Comments>User Experience describes 50% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior Executive (President, C-level)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Founder</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>BazarJagah</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Founder and CTO</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>BazarJagah</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>AmeriCloud Solutions</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Web Developer/ UI Developer/ Full Stack Developer/ Angular JS Developer</Title>
+					<OrgName>
+						<OrganizationName>AmeriCloud Solutions</OrganizationName>
+					</OrgName>
+					<Description>Client: ATT
+Project: VeMon
+VeMon is a web application tool which monitors the different Radio Frequency parameters for different locations and venues all over the US. This application is mainly used to the analyze different parameters of RF signals in a given particular location.
+
+Roles and Responsibilities at Client place:
+
+1. Involved in the complete Software Development Life Cycle including Analysis, Design, Implementation, Testing and Maintenance. Working with Iterative Agile Methodologies with Scrum and Test-driven development (TDD).
+2. Widely used AngularJS Kendo UI components like calendar picker, time picker, directives, select2, modal pop-ups, ng-grid, router Provider's, progress bar, ng-Idle, ng-Upload.
+3. Complete application is developed in AngularJs and .Net, as a programmer my responsibility is to develop different modules depending upon the project requirement.
+4. Writing different components in the front end using Angular 4, HTML 5, CSS. Accessing different  RestFul API calls and getting the data.
+5. Developing services to communicate with the backend and also configuring both components and services to communicate each other.
+6. Developing filter pipes module in frontend and making sure it responds on user interaction.
+7. Developed a module using Google Maps API &amp; Angular 4 and integrated in the application.
+8. Developing a reporting module in the frontend for users to generate different KPI reports.
+9. Modifying the modules written in earlier version of Angular to latest version and rewriting the code.
+10. Worked more on rewriting code specially on Report subscription module and zone mapper module.
+11. Leveraged angular resources for all data access, encapsulating URLs and standardizing data access interfaces.
+12. Cooperating with the back-end team in the process of building the RESTful API
+13. Used Team Foundation Server (TFS) for version control of the source code along with the maintenance of the builds and the relevant documents of the same.
+
+Roles and Responsibilities:
+1. Responsible for developing the UI pages using Angular.JS, HTML5, CSS3, JavaScript, Bootstrap 3.0, JSON, and jQuery, Ajax.
+2. Writing the GRUNT with commands for building and deploying the project. Used Bower for successfully implementing the dependencies.
+3. Implementing Responsive web design for easy reading and navigation with a minimum of resizing, panning and scrolling.
+4. Developing Mobile Applications targeted for mobile form factor using HTML5, CSS3, JavaScript, JQuery, Mobile.
+5. Implementing asynchronous AJAX based rich client for improved customer experience.
+6. Designing user interface for portal for admin and users to interact with system using JSON, JavaScript, HTML 5 and CSS 3.
+7.  Involving in extensively Test Driven Development - TDD practices and code refactoring.
+8. Developing Page layouts, Navigations and presented designs and concepts to the clients and the management to review.
+9. Using firebug, IE developer toolbar and chrome canary tool for debugging javascript and fixing issues.
+10. Using Backbone js for making ajax calls (GET, POST) for triggering or fetching data from Restful API provided by the backend team.
+11. Implementing responsive web design using media queries and bootstrap.
+12. Involved in developing web Page Applications using AngularJS with other development teams.
+13. Working closely with back-end developers to find ways to push the limits of existing Web technology in service of creating the best possible user experience.</Description>
+					<StartDate>
+						<YearMonth>2017-03</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-11</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 57% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BQ">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>AmeriCloud Solutions</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Web Developer UI Developer Full Stack Developer Angular JS Developer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Senior Web Developer</sov:Subtitle>
+								<sov:Subtitle>UI Developer</sov:Subtitle>
+								<sov:Subtitle>Full Stack Developer</sov:Subtitle>
+								<sov:Subtitle>Angular JS Developer</sov:Subtitle>
+								<sov:Subtitle>Web Developer/ UI Developer/ Full Stack Developer/ Angular JS Developer</sov:Subtitle>
+								<sov:Subtitle>Web Developer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>AmeriCloud Solutions</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Resolvit LLC</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Full Stack Developer</Title>
+					<OrgName>
+						<OrganizationName>Resolvit LLC</OrganizationName>
+					</OrgName>
+					<Description>Client: PPD
+Project: Anatomic Pathology Lab - Pathologist Interface
+This project is to develop a in house, multi layered web application to perform day to day anatomic pathology lab activities, and this application is very huge and complex, important  functionality is to  analyse and prepare a detailed report of anatomic related studies for different sponsors, monitors  and connecting the complete workflow of  anatomic lab with different teams in the organization.
+And Integrating Anatomic Pathology lab - pathologist interface with main application called Connexion which is a java web application that drives central labs business process.
+
+Roles and Responsibilities at Client place:
+
+1. Involved in the complete Software Development Life Cycle including Analysis, Design, Implementation, Testing and Maintenance. Working with Iterative Agile Methodologies with Scrum and Test-driven development (TDD).
+2. Leading the complete project, understanding the requirements from the management and converting business to technical requirements.
+3. Proposed latest complete architecture for developing new project.
+4. Involved in architecting and developing the application in all phases, especially in integrating the new technology ReactJS with the main application called Connexion.
+5. Understanding the complete connexion application, which is a java web application and which as a complex infrastructure to understand.
+6. Involved in all phases of the application i.e. setting up development server , setting up mercurial (versioning tool) , writing database schema and modify depending on business requirements, integrating Anatomic Pathology lab - pathologist interface(ReactJS) in Connexion(Java).
+7. Complete ownership of setting environment for React within connexion to develop Anatomic Pathology lab - pathologist interface.
+8. Setting backend to write RestFul API's and do GET/POST/PUT/DEL.
+9. Designed and changed the application mockup according to the business requirements.
+10. Integrating react in java using frontend maven packages.
+11. Proposed and developed the cookies authentication module for Anatomic Pathology lab application (ReactJS).
+11. Developed existing connexion menu bar in ReactJS and set React Router to traverse around the different links within the application.
+12. Developed master questions, master answers modules in ReactJS, Redux using different NPM packages like axios, bootstrap.
+13. Writing actions, reducers, states, containers in ReactJS to implement Redux according to the application requirements.
+14. Developed modal based solution for master questions module using bootstrap modal in ReactJS.
+15. Developed different modules in React-Redux for application state management.
+16. Developed complete stylesheets using CSS3, Bootstrap, Material-UI.
+17. Using axios in reactjs for RestFul API calls like (GET/POST/PUT/DEL) to project the data from the database depending application requirements.
+18. Guiding other developer understand the requirements and helping him to develop the backend.
+19. Conducted full fledge training tutorials for other developers with new technology ReactJS, Redux from scratch.
+20. Guiding QA/testers an make them understand and train with unit tests in JEST (Unit test framework for ReactJS).
+21. Helping the management and business to understand, how the latest technology can change the way of doing things.</Description>
+					<StartDate>
+						<YearMonth>2017-11</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 66% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Resolvit</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Full Stack Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Resolvit</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>DNA Diagnostics Center</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Web Developer</Title>
+					<OrgName>
+						<OrganizationName>DDC</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>OH</Region>
+							<Municipality>Fairfield</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Roles and Responsibilities:
+1. As a senior web developer at DDC DNA center, I have assigned with different roles and responsibilities. Complete responsibility of Developing, Updating, supporting and maintaining all 120 web applications, server environments and domains of DDC DNA center.
+2. Key and important role in the life cycle of developing any web application i.e. from setting development environment to moving the application into production, which includes setting development server, developing front end, developing back end, writing application logic, writing application transaction logic, setting up payment gateway, testing the application, staging, adding SSL certificate, setting up the production server and moving the application to production.
+3. Supporting and solving different issues like routes, application logic errors, front end issues, back end issues and server issues for all the 120 web applications.
+4. Adding and updating coupon codes in the back end, received from different affiliates for differ
+ent applications and also testing the coupon codes respectively.
+5. Adding and renewing SSL certificates for different web applications and renewing domains on timely manner.
+6. Maintenance of 9 VPS servers, which includes updating sever packages, running cron jobs, setting up development and production environment, checking the sever log reports and running database backup's on timely manner.
+7. Writing application reports, quality check of applications, which helps management to decide the updates on the applications.
+8. Developing new logical ideas for some application, where it can reduce the process of application.
+9. Helping and supporting other junior developers in coding and guiding them with faster problem solving techniques.</Description>
+					<StartDate>
+						<YearMonth>2016-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-02</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 51% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Experienced (non-manager)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>DDC</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Web Developer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Web Developer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>DNA Diagnostics Center</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Wright State University</SchoolName>
+				</School>
+				<Degree degreeType="masters">
+					<DegreeName>Master</DegreeName>
+					<DegreeDate>
+						<Year>2015</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2013</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2015</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Specialization	University	Year
+Master of  Science in Computer Engineering   Wright State University	2013-2015</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>masters</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>masters</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Wright State</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Jawaharlal Nehru University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Technology</DegreeName>
+					<DegreeDate>
+						<Year>2011</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Technology</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2007</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2011</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Bachelor of Technology   Jawaharlal Nehru University   2007-2011</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Jawaharlal Nehru University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>TECHNICAL SKILLS
+
+● Languages: Expert in Object oriented programming with high level knowledge in core Java and J2EE frameworks (Servlet), .NET framework and C++.
+● Expert level knowledge in Laravel, AngularJS, NodeJs, ReactJS, EmberJS JQuery.
+● Expert level knowledge in different application-level package manager like composer, artisan, bower, npm and on all unit testing frameworks of AngularJS.
+● Expertise in setting up server and client environment using Virtualmin and Webmin with different operating systems.
+● Expert level knowledge in usage of Laravel, AngularJS, Jquery libraries, modules, packages and plugins.
+● External JQuery/Javascript libraries: Leaf JS, d3JS, iCheck, jQuery File Upload, Pickadate.js, Chart.js, Toolbar.js, etc.
+● Web services: JAX-WS Web Service, Restful Web Service (REST).
+● Web portals: Web Method Portal, ADF (Application Development Framework) Service.
+● Database: MySql, MongoDB, Intermediate-level knowledge in Oracle.
+● Social media APIs: Twitter API, Facebook API,Google Geolocation API, Wikipedia API
+● Script: JavaScript, jQuery, PHP, Node JS, AngularJS, Python.
+● Others: HTML5, JSON, XML, XSD, RDF, Drupal, Wordpress, CSS3, Bootstrap, JWT Authentication, Tokenizer, Sentinel Authentication.
+● Tools: Virtualmin, Webmin, JProfiler, Apache Tomcat, Apache HTTP Server, Weblogic 10.3, Eclipse, Netbeans, IntelliJ, Apache, Sublime text, Maven, phpMyAdmin.
+● Operating system: Ubuntu, CentOS, Mac, Linux, Windows.
+● Versioning tools: SVN, GIT
+
+
+OTHER SKILLS
+
+● Able to learn new languages and APIs quickly for timely productivity.
+● Working knowledge of design patterns and also Experience with internationalization of J2EE applications. Experienced in giving demos of software to customers and partners in house and at trade shows.
+● Experience developing software under Windows, Linux, and Solaris.
+
+
+STRENGTHS
+
+Positive Attitude, Consistency, Cooperative with co-members.</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<References>
+			<Reference>
+				<PersonName>
+					<FormattedName>Hemant Purohit</FormattedName>
+					<GivenName>Hemant</GivenName>
+					<FamilyName>Purohit</FamilyName>
+				</PersonName>
+				<PositionTitle>Assistant Professor, Information Science</PositionTitle>
+				<Comments>[OrgName=George Mason University]</Comments>
+			</Reference>
+			<Reference>
+				<PersonName>
+					<FormattedName>Amit P. Sheth</FormattedName>
+					<GivenName>Amit</GivenName>
+					<MiddleName>P.</MiddleName>
+					<FamilyName>Sheth</FamilyName>
+				</PersonName>
+				<PositionTitle>Director</PositionTitle>
+				<Comments>[OrgName=Kno.e.sis Center, Wright State University]</Comments>
+			</Reference>
+			<Reference>
+				<PersonName>
+					<FormattedName>T. K. Prasad</FormattedName>
+					<GivenName>T. K.</GivenName>
+					<FamilyName>Prasad</FamilyName>
+				</PersonName>
+				<PositionTitle>Professor, Computer Science</PositionTitle>
+				<Comments>[OrgName=Wright State University]</Comments>
+			</Reference>
+		</References>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Vishnu Sharan Goud Bompally
+Email-id: bompally.vishnu@gmail.com
+
+OBJECTIVE
+
+Seeking a challenging senior level development position, with a strong emphasis on different latest technologies like ReactJs, Redux, Laravel, AngularJS, NodeJS, EmberJS and Java, Python, JQuery and all other latest technologies, where I can use my current skill set, 7 plus years of experience, and desire to define and create the best possible to become invaluable asset to the company.
+
+EDUCATION
+
+Specialization	University	Year
+Master of  Science in Computer Engineering   Wright State University	2013-2015
+Bachelor of Technology   Jawaharlal Nehru University   2007-2011
+
+
+TECHNICAL SKILLS
+
+● Languages: Expert in Object oriented programming with high level knowledge in core Java and J2EE frameworks (Servlet), .NET framework and C++.
+● Expert level knowledge in Laravel, AngularJS, NodeJs, ReactJS, EmberJS JQuery.
+● Expert level knowledge in different application-level package manager like composer, artisan, bower, npm and on all unit testing frameworks of AngularJS.
+● Expertise in setting up server and client environment using Virtualmin and Webmin with different operating systems.
+● Expert level knowledge in usage of Laravel, AngularJS, Jquery libraries, modules, packages and plugins.
+● External JQuery/Javascript libraries: Leaf JS, d3JS, iCheck, jQuery File Upload, Pickadate.js, Chart.js, Toolbar.js, etc.
+● Web services: JAX-WS Web Service, Restful Web Service (REST).
+● Web portals: Web Method Portal, ADF (Application Development Framework) Service.
+● Database: MySql, MongoDB, Intermediate-level knowledge in Oracle.
+● Social media APIs: Twitter API, Facebook API,Google Geolocation API, Wikipedia API
+● Script: JavaScript, jQuery, PHP, Node JS, AngularJS, Python.
+● Others: HTML5, JSON, XML, XSD, RDF, Drupal, Wordpress, CSS3, Bootstrap, JWT Authentication, Tokenizer, Sentinel Authentication.
+● Tools: Virtualmin, Webmin, JProfiler, Apache Tomcat, Apache HTTP Server, Weblogic 10.3, Eclipse, Netbeans, IntelliJ, Apache, Sublime text, Maven, phpMyAdmin.
+● Operating system: Ubuntu, CentOS, Mac, Linux, Windows.
+● Versioning tools: SVN, GIT
+
+
+Work Experience
+
+BazarJagah (September 2018- August 2019):
+(Founder and CTO)
+Project: BazarJagah, BazarJagah Business Portal
+BazarJagah is an online platform which acts as a bridge between Product manufacturers and Retailers (Vice-Versa). We serve as a medium for small Retail firms where one can buy products in bulk through our online channel.
+
+Roles and Responsibilities:
+
+1. Involved in the complete responsibilities of developing two web portals, includes from setting up the server, developing wireframes, designing, developing front end, developing back end, writing REST APIS, releasing the updates on the requirements.
+
+Demo: http://www.bazarjagah.com
+http://business.bazarjagah.com
+
+Resolvit LLC (Nov 2017-September 2018)
+(Full Stack Developer)
+Client: PPD
+Project: Anatomic Pathology Lab - Pathologist Interface
+This project is to develop a in house, multi layered web application to perform day to day anatomic pathology lab activities, and this application is very huge and complex, important  functionality is to  analyse and prepare a detailed report of anatomic related studies for different sponsors, monitors  and connecting the complete workflow of  anatomic lab with different teams in the organization.
+And Integrating Anatomic Pathology lab - pathologist interface with main application called Connexion which is a java web application that drives central labs business process.
+
+Roles and Responsibilities at Client place:
+
+1. Involved in the complete Software Development Life Cycle including Analysis, Design, Implementation, Testing and Maintenance. Working with Iterative Agile Methodologies with Scrum and Test-driven development (TDD).
+2. Leading the complete project, understanding the requirements from the management and converting business to technical requirements.
+3. Proposed latest complete architecture for developing new project.
+4. Involved in architecting and developing the application in all phases, especially in integrating the new technology ReactJS with the main application called Connexion.
+5. Understanding the complete connexion application, which is a java web application and which as a complex infrastructure to understand.
+6. Involved in all phases of the application i.e. setting up development server , setting up mercurial (versioning tool) , writing database schema and modify depending on business requirements, integrating Anatomic Pathology lab - pathologist interface(ReactJS) in Connexion(Java).
+7. Complete ownership of setting environment for React within connexion to develop Anatomic Pathology lab - pathologist interface.
+8. Setting backend to write RestFul API's and do GET/POST/PUT/DEL.
+9. Designed and changed the application mockup according to the business requirements.
+10. Integrating react in java using frontend maven packages.
+11. Proposed and developed the cookies authentication module for Anatomic Pathology lab application (ReactJS).
+11. Developed existing connexion menu bar in ReactJS and set React Router to traverse around the different links within the application.
+12. Developed master questions, master answers modules in ReactJS, Redux using different NPM packages like axios, bootstrap.
+13. Writing actions, reducers, states, containers in ReactJS to implement Redux according to the application requirements.
+14. Developed modal based solution for master questions module using bootstrap modal in ReactJS.
+15. Developed different modules in React-Redux for application state management.
+16. Developed complete stylesheets using CSS3, Bootstrap, Material-UI.
+17. Using axios in reactjs for RestFul API calls like (GET/POST/PUT/DEL) to project the data from the database depending application requirements.
+18. Guiding other developer understand the requirements and helping him to develop the backend.
+19. Conducted full fledge training tutorials for other developers with new technology ReactJS, Redux from scratch.
+20. Guiding QA/testers an make them understand and train with unit tests in JEST (Unit test framework for ReactJS).
+21. Helping the management and business to understand, how the latest technology can change the way of doing things.
+
+AmeriCloud Solutions (Mar 2017-Nov 2018)
+(Senior Web Developer/ UI Developer/ Full Stack Developer/ Angular JS Developer)
+
+Client: ATT
+Project: VeMon
+VeMon is a web application tool which monitors the different Radio Frequency parameters for different locations and venues all over the US. This application is mainly used to the analyze different parameters of RF signals in a given particular location.
+
+Roles and Responsibilities at Client place:
+
+1. Involved in the complete Software Development Life Cycle including Analysis, Design, Implementation, Testing and Maintenance. Working with Iterative Agile Methodologies with Scrum and Test-driven development (TDD).
+2. Widely used AngularJS Kendo UI components like calendar picker, time picker, directives, select2, modal pop-ups, ng-grid, router Provider's, progress bar, ng-Idle, ng-Upload.
+3. Complete application is developed in AngularJs and .Net, as a programmer my responsibility is to develop different modules depending upon the project requirement.
+4. Writing different components in the front end using Angular 4, HTML 5, CSS. Accessing different  RestFul API calls and getting the data.
+5. Developing services to communicate with the backend and also configuring both components and services to communicate each other.
+6. Developing filter pipes module in frontend and making sure it responds on user interaction.
+7. Developed a module using Google Maps API &amp; Angular 4 and integrated in the application.
+8. Developing a reporting module in the frontend for users to generate different KPI reports.
+9. Modifying the modules written in earlier version of Angular to latest version and rewriting the code.
+10. Worked more on rewriting code specially on Report subscription module and zone mapper module.
+11. Leveraged angular resources for all data access, encapsulating URLs and standardizing data access interfaces.
+12. Cooperating with the back-end team in the process of building the RESTful API
+13. Used Team Foundation Server (TFS) for version control of the source code along with the maintenance of the builds and the relevant documents of the same.
+
+Roles and Responsibilities:
+1. Responsible for developing the UI pages using Angular.JS, HTML5, CSS3, JavaScript, Bootstrap 3.0, JSON, and jQuery, Ajax.
+2. Writing the GRUNT with commands for building and deploying the project. Used Bower for successfully implementing the dependencies.
+3. Implementing Responsive web design for easy reading and navigation with a minimum of resizing, panning and scrolling.
+4. Developing Mobile Applications targeted for mobile form factor using HTML5, CSS3, JavaScript, JQuery, Mobile.
+5. Implementing asynchronous AJAX based rich client for improved customer experience.
+6. Designing user interface for portal for admin and users to interact with system using JSON, JavaScript, HTML 5 and CSS 3.
+7.  Involving in extensively Test Driven Development - TDD practices and code refactoring.
+8. Developing Page layouts, Navigations and presented designs and concepts to the clients and the management to review.
+9. Using firebug, IE developer toolbar and chrome canary tool for debugging javascript and fixing issues.
+10. Using Backbone js for making ajax calls (GET, POST) for triggering or fetching data from Restful API provided by the backend team.
+11. Implementing responsive web design using media queries and bootstrap.
+12. Involved in developing web Page Applications using AngularJS with other development teams.
+13. Working closely with back-end developers to find ways to push the limits of existing Web technology in service of creating the best possible user experience.
+
+DNA Diagnostics Center - DDC, Fairfield OH (May 2016-Feb 2017)
+(Senior Web Developer)
+
+Roles and Responsibilities:
+
+1. As a senior web developer at DDC DNA center, I have assigned with different roles and responsibilities. Complete responsibility of Developing, Updating, supporting and maintaining all 120 web applications, server environments and domains of DDC DNA center.
+2. Key and important role in the life cycle of developing any web application i.e. from setting development environment to moving the application into production, which includes setting development server, developing front end, developing back end, writing application logic, writing application transaction logic, setting up payment gateway, testing the application, staging, adding SSL certificate, setting up the production server and moving the application to production.
+3. Supporting and solving different issues like routes, application logic errors, front end issues, back end issues and server issues for all the 120 web applications.
+4. Adding and updating coupon codes in the back end, received from different affiliates for differ
+ent applications and also testing the coupon codes respectively.
+5. Adding and renewing SSL certificates for different web applications and renewing domains on timely manner.
+6. Maintenance of 9 VPS servers, which includes updating sever packages, running cron jobs, setting up development and production environment, checking the sever log reports and running database backup's on timely manner.
+7. Writing application reports, quality check of applications, which helps management to decide the updates on the applications.
+8. Developing new logical ideas for some application, where it can reduce the process of application.
+9. Helping and supporting other junior developers in coding and guiding them with faster problem solving techniques.
+
+Projects:
+
+I. International Shopping Cart for dnacenter.com: This project involves developing of shopping cart where users can buy DNA test especially in United Kingdom and all over the world.
+1. Designed and developed the complete kit registration for users developed both frontend and backend using Laravel 5.3 framework, CSS3, Javascript, Bootstrap, MYSQL.
+2. Developed the platform where users can register their DNA test kits and also Designed and developed shopping cart where users can buy the DNA test all over the world.
+3. Writing application logic connecting front end and back end. Writing transaction logic for correct payments. Testing the payment gateway
+4. Writing REST API for coupon codes and connecting to application logic.
+5. Setting up development, staging and production server, adding SSL certification, setting up SVN server, testing the application, testing the shopping cart etc.
+
+Demos:
+https://ukcart1.dnatesting.com/
+
+II. IDENTIGENE: IDENTIGENE is the company acquired by DDC DNA. This project involves transition of the all the IT and web applications to DDC environment and it also includes developing various new carts to synchronize with DDC business flow.
+
+1. Complete responsibility of transition of all the web applications to DDC environment.
+2. Studying the complete workflow of web applications and redesigning it to synchronize with DDC work flow.
+3. Setting all the applications in DDC environment which are built on different web technology.
+4. Designed and developed shopping cart where users can buy the DNA test and their results using Laravel framework, CSS3, Javascript, Bootstrap, MYSQL.
+5. Writing application logic connecting front end and back end. Writing transaction logic for correct payments.
+6. Writing REST API for coupon codes and connecting to application logic.
+
+7. Setting up development, staging and production server, adding SSL certification, setting up SVN server, testing the application, testing the shopping carts etc.
+
+Demos:
+
+https://cart.dnatesting.com/
+https://dnatesting.com/
+https://dnatestassured.com/
+https://cart.dnatestassured.com/
+https://identigenecollectors.dnacenter.com/
+
+III. GPS Origins Kit Registration: The GPS OriginsTM (Geographic Population Structure) ancestry test combines the latest genetic research with a new ancestral tracking technique to pinpoint more precisely where your DNA began.
+
+1. Designed and developed the complete kit registration for users developed both frontend and backend using Laravel 5.3 framework, CSS3, JavaScript, Bootstrap, MYSQL.
+2. Developed the platform where users can register their DNA test kits and also Designed and developed shopping cart where users can buy the DNA test and their results.
+3. Writing application logic connecting front end and back end. Writing transaction logic for correct payments.
+4. Writing REST API for coupon codes and connecting to application logic.
+5. Setting up development, staging and production server, adding SSL certification, setting up SVN server, testing the application, testing the shopping carts etc.
+6. Writing code for generating PDF, where user can download complete GPS results.
+
+Demo: https://gpsorigins.com/
+
+IV. Automation of DNA Center WordPress site: This Project includes development of new DNAcenter web site which includes 350 plus state, city and international WordPress single sites
+
+1. Developing 350 plus sites, each state and city is a cumbersome and tedious task, so i have developed a script to automate all the WordPress sites.
+2. Developing this automation script saved a lot of time and resources. Setting up each wordpress site typically takes 40 to 50 minutes, the automated script ran for 10 minutes setting up all the sites successfully. This automation is written in Laravel 5.3 using a REST API and MYSQL.
+
+Demo: https://dnacenter.com/
+
+V. GPS Origins: The GPS OriginsTM (Geographic Population Structure) ancestry test combines the latest genetic research with a new ancestral tracking technique to pinpoint more precisely where your DNA began.
+
+1. Designed and developed the complete web application both frontend and backend using Laravel framework, CSS3, JavaScript, Bootstrap, MYSQL.
+2. Developed the platform to collect the user DNA data of different companies from front end and process the data through MATLAB using python and then displaying result in the front end.
+
+3. Designed and developed the results page and users map using leaf.js and also developed a platform to collect the user DNA data of different companies from front end and process the data through MATLAB using python and then display result in the front end.
+4. Designed and developed shopping cart where users can buy the DNA test and their results.
+5. Writing application logic connecting front end and back end. Writing transaction logic for correct payments.
+6. Writing REST API for coupon codes and connecting to application logic.
+7. Setting up development, staging and production server, adding SSL certification, setting up SVN server, testing the application, testing the shopping carts etc.
+8. Writing code for generating PDF, where user can download complete GPS results.
+
+Demo: https://gpsorigins.com/
+
+VI. Joint Care DNA: Joint Care DNATM tests the genes that may influence your collagen quality and overall joint health while providing you a recommendation to help you support your overall joint health. Joint Care DNATM examines 9 autosomal markers (SNPs) that impact your collagen and determines if your body has a genetic variant. Third-party research identifies variants in these 9 SNPs that may influence the quality of collagen produced by the body which may influence your joint health.
+
+1. Designed and developed the complete web application both frontend and backend using Laravel framework, CSS3, JavaScript, Bootstrap, MYSQL.
+2. Designed and developed the results page where user results are automatically generated using a Cron job
+3. Designed and developed shopping cart where users can buy the DNA test and their results.
+4. Writing application logic connecting front end and back end. Writing transaction logic for correct payments.
+5. Writing REST API for coupon codes and connecting to application logic.
+6. Setting up development, staging and production server, adding SSL certification, setting up SVN server, testing the application, testing the shopping carts etc.
+7. Writing code for generating PDF, where user can download complete GPS results.
+
+Demo: https://jointcaredna.com/
+
+VII. DDC Intranet Site: DDC intranet website is only for DDC employees where they have access to various information of the company
+
+1. Designed and developed the complete website both frontend and backend using Drupal 7.50, CSS3, JavaScript, Bootstrap, MYSQL.
+2. Designed and developed an application logic in Java where it converts 3000 plus company policies from .htm file format to PDF using third party Java libraries.
+
+Demo: Only DDC employees can access the site
+
+VIII. DDC DNA REST API: This project involves developing lightweight REST API for complete DDC DNA.
+
+1. Designing and developing the REST API in Laravel framework using JWT authentication.
+Demo: Internal Usage only.
+
+IX. Automation of coupon codes: This is an internal project which involves developing a automated system for adding, updating and deleting the coupon codes from different affiliates.
+
+1. Designing and developing complete application in AngularJS, HTML5, CSS3 as front end.
+2. Designed and developed a REST API with JWT Authentication using Laravel5.3 which is a junction between front and back end MYSQL.
+3. Developed complete application logic and also setup development and production server environments and also Performed testing and staging.
+
+Demo: Internal Usage only.
+
+Nemo IT Solutions (August 2015 - May 2016)
+(Web Developer/ UI Developer/ Full Stack Developer/ AngularJS Developer)
+
+Hotel Reservation System: Worked on designing and developing a single page application where users can reserve tables. This is a middleware application where it uses the web services to render the data in front-end. I was the only developer working on both frontend and backend simultaneously. Front end was completely developed in AngularJS, Bootstrap3, CSS3, JavaScript. Back-end was developed in java using Restful web services (jersey and swagger frameworks).
+
+Demo: https://github.com/goud369/
+
+NaariBazar: Designed and developed complete e-commerce website, key developer in the all stages of product development. Complete application was developed in Drupal7, PHP, Bootstrap, CSS3, HTML5.
+
+Demo: https://www.naaribazar.com/
+
+Application Showcase: Designed and developed single page application in AngularJs for show case of my web development skills, entire application was developed in AngularJS, Bootstrap, CSS3, HTML5.
+
+Demo: https://run.plnkr.co/plunks/mVKFjoEmCVeATQ0avlhh/
+
+
+Kno.e.sis Center, Dayton OH (December 2013 - August 2015) (Graduate Research Assistant)
+
+Obvio (Visualization and Knowledge Exploration for Literature-Based Discovery): Designed and implemented a Web application using the J2EE Framework for Literature-Based Discovery through graph visualization and also worked on exploration Implementation and development of metrics for semantic similarity to facilitate Literature-Based Discovery.
+
+Demo: http://knoesis-hpco.cs.wright.edu/obvio/
+
+Material Science: Worked on creating a domain specific corpus for material science domain from Wikipedia using different machine learning techniques, Ontology development, Java and Wikipedia REST API. And also developed Visualization for extracted data from Wikipedia using AngularJS and MVC Framework.
+
+Demo: http://knoesis.org/resources/demos/Vizualization.html
+
+Semantically Active Participatory System for Gender-based Violence Analysis: Worked on creating a classifier model for Gender Based violence tweets using Active Learning Technique, Ontology development, Java and also worked on understanding the behavior of different algorithms in Machine learning.
+
+Fire Department: Designed and Developed a tool for Fire Department Office Dayton, Ohio for dispatch of their Vehicles depending on geo-location of incident place using C++ and Google Geolocation API.
+
+Wright State Faculty Report Generation: Designed and Developed a system for Wright state faculty where Professor can automatically generate faculty report for whole academic year, using AngularJS, PHP, HTML5, CSS, Bootstrap and MySQL Database
+
+Demo: http://knoesis.org/resources/demos/AdsReportGeneration/
+
+Kno.e.sis Website: Designed and Developed complete website for Kno.e.sis using Drupal using different higher end modules and also by integrating different custom modules in PHP, Drupal API, HTML5, Drupal Framework, CSS
+
+Demo: http://www.knoesis.org
+
+GitHub: https://github.com/goud369/
+
+Wright State University (September 2013 - August 2015)
+(Web Developer/Programmer at Kno.e.sis Center)
+
+● Designed and Developed an integrated library for Knoesis center using PHP, JSON, HTML5, CSS3, JavaScript.
+● Designed and developed user friendly website for Prof.Dr.Grandhi(Mechanical Department) at Wright State University using Drupal.
+● Developed personal websites for Knoesis researchers using PHP, JavaScript, jQuery, HTML.
+● And Maintaining the complete Knoesis site and ijswis.org which was developed in Drupal and updating periodically as advised by Dr. Sheth.
+
+Hindustan Computers Limited Technologies (HCL), Bangalore(June 2011 - July 2013) (Program Analyst)
+
+● Designed and developed features for J2EE-based business activity monitoring and operational dashboard engine, including the rules and alert engine, webapp components, recoverability, intelligent workflow features, internationalization, and upgradeable.
+● Developed front end Java Application tools for Banking services using Java Servlets. Developed demos for sales and gave demos of software to customers.
+
+ACHIEVEMENT
+
+● In Plus2, secured State 7th Rank with 96.6 percentile.
+
+OTHER SKILLS
+
+● Able to learn new languages and APIs quickly for timely productivity.
+● Working knowledge of design patterns and also Experience with internationalization of J2EE applications. Experienced in giving demos of software to customers and partners in house and at trade shows.
+● Experience developing software under Windows, Linux, and Solaris.
+
+STRENGTHS
+
+Positive Attitude, Consistency, Cooperative with co-members.
+
+References
+
+Dr. Hemant Purohit,
+Assistant Professor, Information Science, George Mason University, er.hemantpurohit[at]gmail.com
+
+Dr. Amit P. Sheth, Director, Kno.e.sis Center, Wright State University, amit.sheth[at]wright.edu
+
+Dr. T. K. Prasad, Professor, Computer Science, Wright State University,t.k. prasad[at]wright.edu</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>US</sov:Country>
+				<sov:CultureInfo>en-US</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Vishnu Sharan Goud Bompally's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in User Experience (mostly Information Architect). Vishnu Sharan Goud Bompally's experience appears to be lower-to-mid level, with about 3 years of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>40</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>10</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>40</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>11</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>executive-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>100</sov:HighestManagementScore>
+				<sov:ExecutiveType>business_dev</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 9/1/2018, the candidate held the following executive-level management position for 11 months:
+	Title: Founder and CTO for BazarJagah</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="64">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="24" percentOfParentTaxonomy="37">
+								<sov:Skill name=".NET" id="023039" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="API" id="021194" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="APPLICATION DEVELOPMENT" id="021556" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="BACK END" id="025118" existsInText="true" totalMonths="21" lastUsed="2019-08-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1; POS-4"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="CODING" id="013739" existsInText="true" totalMonths="10" lastUsed="2017-02-28" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="DESIGN PATTERNS" id="015257" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-3" childrenTotalMonths="20" childrenLastUsed="2018-11-01">
+									<sov:ChildSkill name="ANGULAR.JS" id="339002001" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-2; POS-3"></sov:ChildSkill>
+									<sov:ChildSkill name="REACTJS" id="3391100" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:ChildSkill>
+									<sov:ChildSkill name="REDUX" id="3391108" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JSON" id="5520555" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="MIDDLEWARE" id="025406" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="OBJECT ORIENTED" id="022453" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="OBJECT ORIENTED PROGRAMMING" id="003618" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY">
+									<sov:ChildSkill name="LARAVEL" id="3391113" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2018-11-01">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="Subversion" id="1004756" existsInText="false">
+									<sov:ChildSkill name="SVN" id="100475601" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="10" percentOfParentTaxonomy="16">
+								<sov:Skill name="ANGULARJS" id="5520505" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="HTML5" id="5520541" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="MODEL VIEW CONTROLLER" id="5520572" existsInText="false">
+									<sov:ChildSkill name="MVC" id="552057201" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="RESTFUL WEB SERVICES" id="5520591" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="6" percentOfParentTaxonomy="9">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="J2EE" id="020255" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="JAX" id="339014" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JAX-WS" id="339015" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="jQuery" id="339048" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="SERVLET" id="026622" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SERVLETS" id="007817" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2018-09-01">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="20" lastUsed="2018-09-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-2; POS-4"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="4" percentOfParentTaxonomy="6">
+								<sov:Skill name="LIFE CYCLE" id="022707" existsInText="true" totalMonths="30" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-4" childrenTotalMonths="20" childrenLastUsed="2018-11-01">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT LIFE CYCLE" id="008214" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MVC" id="003233" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="4" percentOfParentTaxonomy="6">
+								<sov:Skill name="AUTHENTICATION" id="005912" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SSL" id="008512" existsInText="true" totalMonths="10" lastUsed="2017-02-28" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="TEST FRAMEWORK" id="3380018" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="AJAX" id="196001" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="CSS" id="014705" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="INTRANET" id="024782" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="TOMCAT" id="009664" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="WEB DESIGN" id="010994" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEBLOGIC" id="025364" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="REST" id="7180010" existsInText="true" totalMonths="11" lastUsed="2019-08-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="BACKBONE" id="009539" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="ROUTER" id="007247" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DESIGN PATTERNS" id="7310026" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MODEL-VIEW-CONTROLLER" id="7310042" existsInText="false">
+									<sov:ChildSkill name="MVC" id="7310043" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="USER INTERFACE" id="7310067" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3" childrenTotalMonths="20" childrenLastUsed="2018-11-01">
+									<sov:ChildSkill name="UI" id="7310068" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-2; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Business Intelligence" id="554" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="MICROSOFT TEAM FOUNDATION SERVER" id="5540955" existsInText="false" childrenTotalMonths="20" childrenLastUsed="2018-11-01">
+									<sov:ChildSkill name="TEAM FOUNDATION SERVER" id="554095501" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="UNIT TEST" id="010253" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="UNIT TESTING" id="010254" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="UNIT TESTS" id="010255" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Privacy and Data Security" id="556" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="SSL" id="5551224" existsInText="true" totalMonths="10" lastUsed="2017-02-28" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VERSION CONTROL" id="024037" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="SOLARIS" id="026332" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="HTTP" id="019117" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PDF" id="004489" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MATLAB" id="021346" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MAVEN" id="2510001" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SOLARIS" id="5551192" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="13">
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="5" percentOfParentTaxonomy="42">
+								<sov:Skill name="FRONT END" id="5570300" existsInText="true" totalMonths="39" lastUsed="2019-08-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1; POS-3; POS-4">
+									<sov:ChildSkill name="FRONT-END" id="5570301" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="WIREFRAME" id="5570249" existsInText="false" childrenTotalMonths="11" childrenLastUsed="2019-08-01">
+									<sov:ChildSkill name="WIREFRAMES" id="5570250" existsInText="true" totalMonths="11" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="5" percentOfParentTaxonomy="42">
+								<sov:Skill name="FRONT END" id="5570217" existsInText="true" totalMonths="39" lastUsed="2019-08-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-1; POS-3; POS-4">
+									<sov:ChildSkill name="FRONT-END" id="5570218" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="WIREFRAMES" id="5570033" existsInText="true" totalMonths="11" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="FRONT END DESIGN" id="5570111" existsInText="false">
+									<sov:ChildSkill name="FRONT-END" id="5570112" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="WEB DESIGN" id="5570110" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="1" percentOfParentTaxonomy="4">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEB DESIGN" id="5570113" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="WORDPRESS" id="3391111" existsInText="true" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Power Engineering" id="26" percentOfOverall="5">
+							<sov:Subtaxonomy name="Non-Nuclear Power Misc" id="924" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="API" id="021195" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in PROJECT_HEADERS; SKILLS; WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="RF" id="006959" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="4">
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="55">
+								<sov:Skill name="GPS" id="018529" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="LIFE CYCLE" id="020750" existsInText="true" totalMonths="30" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-4"></sov:Skill>
+								<sov:Skill name="RADIO FREQUENCY" id="080500" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="RF" id="006963" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="1" percentOfParentTaxonomy="24">
+								<sov:Skill name="GPS" id="018530" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="ROUTER" id="007248" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="RF" id="268" percentOfOverall="1" percentOfParentTaxonomy="14">
+								<sov:Skill name="RADIO FREQUENCY" id="080578" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="RF" id="006961" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="GPS" id="018531" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Software and Tools" id="310" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="MATLAB" id="024275" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="2">
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="2" percentOfParentTaxonomy="74">
+								<sov:Skill name="USER EXPERIENCE" id="1400241" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="USER INTERFACE" id="1400245" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="WEB DESIGN" id="1400242" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="WIREFRAMES" id="1400248" existsInText="true" totalMonths="11" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="0" percentOfParentTaxonomy="20">
+								<sov:Skill name="RETAIL MARKETING" id="1400215" existsInText="false" childrenTotalMonths="11" childrenLastUsed="2019-08-01">
+									<sov:ChildSkill name="RETAIL" id="1400216" existsInText="true" totalMonths="11" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="PRODUCT DEVELOPMENT" id="1400022" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Brand Management" id="227" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="PRODUCT DEVELOPMENT" id="005612" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="2">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS REQUIREMENTS" id="022626" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="WORK FLOW" id="011348" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WORKFLOW" id="024213" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="2">
+							<sov:Subtaxonomy name="Hardware" id="319" percentOfOverall="1" percentOfParentTaxonomy="43">
+								<sov:Skill name="ROUTER" id="007249" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="318" percentOfOverall="0" percentOfParentTaxonomy="24">
+								<sov:Skill name="BACKBONE" id="022811" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Wireless" id="313" percentOfOverall="0" percentOfParentTaxonomy="24">
+								<sov:Skill name="RADIO FREQUENCY" id="006371" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Standards, Protocols, Technologies" id="317" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="RF" id="006962" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Central Office" id="316" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="DISPATCH" id="015493" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="2">
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="1" percentOfParentTaxonomy="87">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" totalMonths="30" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="362" percentOfOverall="0" percentOfParentTaxonomy="13">
+								<sov:Skill name="PRODUCTION ENVIRONMENT" id="024327" existsInText="true" totalMonths="10" lastUsed="2017-02-28" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="2">
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="1" percentOfParentTaxonomy="95">
+								<sov:Skill name="LIFE CYCLE" id="020748" existsInText="true" totalMonths="30" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-2; POS-3; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="ALGORITHMS" id="017446" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="1">
+							<sov:Subtaxonomy name="Other" id="293" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="PICKER" id="024278" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Electronic" id="294" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="RADIO FREQUENCY" id="006373" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Scientific" id="15" percentOfOverall="1">
+							<sov:Subtaxonomy name="Bio" id="373" percentOfOverall="1" percentOfParentTaxonomy="91">
+								<sov:Skill name="DNA" id="015534" existsInText="true" totalMonths="10" lastUsed="2017-02-28" whereFound="Found in PROJECT_HEADERS; WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="GENETIC RESEARCH" id="018330" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Basic" id="376" percentOfOverall="0" percentOfParentTaxonomy="9">
+								<sov:Skill name="MATLAB" id="021347" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Clinical" id="28" percentOfOverall="1">
+							<sov:Subtaxonomy name="Tests and Functions" id="276" percentOfOverall="0" percentOfParentTaxonomy="67">
+								<sov:Skill name="ANATOMIC" id="023334" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Coding" id="270" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="CODING" id="013742" existsInText="true" totalMonths="10" lastUsed="2017-02-28" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Non-Skilled Labor" id="11" percentOfOverall="1">
+							<sov:Subtaxonomy name="Drivers" id="301" percentOfOverall="0" percentOfParentTaxonomy="67">
+								<sov:Skill name="PICKER" id="024277" existsInText="true" totalMonths="20" lastUsed="2018-11-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Non-Construction Labor" id="304" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="PRODUCTION ENVIRONMENT" id="024326" existsInText="true" totalMonths="10" lastUsed="2017-02-28" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="1">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="RETAIL" id="030018" existsInText="true" totalMonths="11" lastUsed="2019-08-01" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="0">
+							<sov:Subtaxonomy name="Specs and Documentation" id="429" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TECHNICAL REQUIREMENTS" id="009262" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="METRICS" id="021737" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="PROBLEM SOLVING" id="005482" existsInText="true" totalMonths="10" lastUsed="2017-02-28" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="0">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="0" percentOfParentTaxonomy="82">
+								<sov:Skill name="ACROBAT" id="012099" existsInText="false">
+									<sov:ChildSkill name="PDF" id="004488" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="INTRANET" id="020068" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mac" id="300" percentOfOverall="0" percentOfParentTaxonomy="18">
+								<sov:Skill name="MAC" id="020979" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="941" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="QA" id="006125" existsInText="true" totalMonths="10" lastUsed="2018-09-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Translations and Language Work" id="91" percentOfOverall="0">
+							<sov:Subtaxonomy name="Semantics" id="902" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="SEMANTIC" id="200007" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="0">
+							<sov:Subtaxonomy name="Drilling" id="441" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXPLORATION" id="017070" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Degreed Accounting" id="32" percentOfOverall="0">
+							<sov:Subtaxonomy name="Accounts Payable" id="933" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PAYMENTS" id="004363" existsInText="true" whereFound="Found in PROJECT_HEADERS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="3" ends="6" sectionType="OBJECTIVE">OBJECTIVE</sov:Section>
+				<sov:Section starts="7" ends="13" sectionType="EDUCATION">EDUCATION</sov:Section>
+				<sov:Section starts="14" ends="32" sectionType="SKILLS">TECHNICAL SKILLS</sov:Section>
+				<sov:Section starts="33" ends="132" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="133" ends="284" sectionType="PROJECT_HEADERS">Projects</sov:Section>
+				<sov:Section starts="285" ends="290" sectionType="SKILLS">OTHER SKILLS</sov:Section>
+				<sov:Section starts="291" ends="294" sectionType="QUALIFICATIONS_SUMMARY">STRENGTHS</sov:Section>
+				<sov:Section starts="295" ends="302" sectionType="REFERENCES">References</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>Vishnu Sharan Goud Bompally</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>bompally.vishnu@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>http://knoesis.org/resources/demos/AdsReportGeneration</sov:Url>
+					<sov:Url>http://knoesis.org/resources/demos/Vizualization.html</sov:Url>
+					<sov:Url>https://run.plnkr.co/plunks/mVKFjoEmCVeATQ0avlhh</sov:Url>
+					<sov:Url>https://identigenecollectors.dnacenter.com</sov:Url>
+					<sov:Url>http://knoesis-hpco.cs.wright.edu/obvio</sov:Url>
+					<sov:Url>https://cart.dnatestassured.com</sov:Url>
+					<sov:Url>http://business.bazarjagah.com</sov:Url>
+					<sov:Url>https://ukcart1.dnatesting.com</sov:Url>
+					<sov:Url>https://cart.dnatesting.com</sov:Url>
+					<sov:Url>https://dnatestassured.com</sov:Url>
+					<sov:Url>https://www.naaribazar.com</sov:Url>
+					<sov:Url>https://github.com/goud369</sov:Url>
+					<sov:Url>http://www.bazarjagah.com</sov:Url>
+					<sov:Url>https://jointcaredna.com</sov:Url>
+					<sov:Url>http://www.knoesis.org</sov:Url>
+					<sov:Url>https://dnatesting.com</sov:Url>
+					<sov:Url>https://gpsorigins.com</sov:Url>
+					<sov:Url>https://dnacenter.com</sov:Url>
+					<sov:Url>ijswis.org</sov:Url>
+				</sov:Urls>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>24500</sov:ParsedTextLength>
+			<sov:ParseTime>1404</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:303;4] The following section in the resume contains more content than the work history and education sections combined: 'Projects'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;SKILLS] The following section type appeared multiple times in the resume: SKILLS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:111;] References section found in resume. References should not be included in a resume.</sov:Information>
+							<sov:Information>[Sovren:112;] The following sections were identified as a skills section type: 'TECHNICAL SKILLS', 'OTHER SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:f0befb90-32cf-4381-be4c-0e334ced7565</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>LR/+//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

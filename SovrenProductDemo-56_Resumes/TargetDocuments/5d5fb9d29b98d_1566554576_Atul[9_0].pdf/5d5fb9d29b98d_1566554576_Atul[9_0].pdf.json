@@ -1,0 +1,915 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Atul Dusane",
+          "GivenName": "Atul",
+          "FamilyName": "Dusane"
+        },
+        "ContactMethod": [
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "atulldusane@gmail.com"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Software Design",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Senior Software Development Engineer",
+                "OrgName": {
+                  "OrganizationName": "Software Design"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "Hyderabad, Telangana\r\nDesigned and Developed Software solutions for\tPhone\r\nReturns Business of Amazon.\t976 635 3120\r\nAdded new features to Returns platform. Returns is\r\nE-mail\r\nweb based application; deployed in AWS. Returns\r\natulldusane@gmail.com\r\nplatform is used to grade the items returned by\r\ncustomer and trigger other business workflows like\r\nRefund to customer, Inventory creation, Audits etc.\r\nSkills\r\nMainly worked in Backend applications, wherein I\r\ngot to work with various AWS technologies -\r\nSoftware Design\r\nDynamo DB, Kinesis, SNS, SQS, Lambda. in Java.\r\nWorked in all lifecycles of software development -\tVery Good",
+                "StartDate": {
+                  "Year": "2018"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Cloud Computing",
+                    "Comments": "Information Technology describes 60% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Software Design",
+                    "sov:NormalizedTitle": "Senior Software Development Engineer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Software Development Engineer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Software Design"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Amdocs",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Team Leader",
+                "OrgName": {
+                  "OrganizationName": "Amdocs"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "MAHARASHTRA"
+                      ],
+                      "Municipality": "Pune"
+                    }
+                  }
+                ],
+                "Description": "Responsibilities included - Team management,\r\nConduct 1-1, Reviews, Design Solutions, Design and Develop new architectural changes, Code\r\nReviews, Rally maintenance, work in Scrum Agile\r\nmethodology.",
+                "StartDate": {
+                  "Year": "2016"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → QA and QC",
+                    "Comments": "Information Technology describes 50% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Amdocs",
+                    "sov:NormalizedTitle": "Team Leader"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Product Owner",
+                "OrgName": {
+                  "OrganizationName": "Amdocs"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "MAHARASHTRA"
+                      ],
+                      "Municipality": "Pune"
+                    }
+                  }
+                ],
+                "Description": "2.5 Years of experience as PO in MetroPCS; As a\r\nPO need to design solutions, writing high level and\r\nlow level design solutions, Work in SCRUM and track and design user stories in RALLY, lead\r\nsolutions.\r\nFollow up, with developers and approve user\r\nstories.\r\nConduct business reviews and demos with customers.",
+                "StartDate": {
+                  "Year": "2014"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "User Experience → Game Design",
+                    "Comments": "User Experience describes 67% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Owner",
+                    "sov:NormalizedOrganizationName": "Amdocs",
+                    "sov:NormalizedTitle": "Product Owner"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Software Developer",
+                "OrgName": {
+                  "OrganizationName": "T-Mobile, Rogers Canada, Bell"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "CA"
+                    }
+                  }
+                ],
+                "Description": "2010-   2014-04    04 -   Software Developer    \tAmdocs, Pune\r\nStarted in Amdocs as a Software developer,\r\nWorked on various projects involving Tuxedo\r\nServices, C, Java, SQL, Linux Shell scripting.\r\nWorked on Microservices wherein honed skills in Spring Boot, Spring Cloud, Angular JS.\r\nWorked on Splunk and AppDynamics.\r\nMainly worked for T-Mobile, Rogers Canada, Bell\r\nCanada.",
+                "StartDate": {
+                  "Year": "2010"
+                },
+                "EndDate": {
+                  "YearMonth": "2014-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "T Mobile Rogers Canada Bell",
+                    "sov:NormalizedTitle": "Software Developer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Amdocs"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "Bachelor of Engineering",
+                "DegreeDate": {
+                  "YearMonth": "2009-05"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "2006"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2009-05"
+                    }
+                  }
+                ],
+                "Comments": "2006-   2009-05    05 -   Bachelor of Engineering: Information And    \tTechnology\r\nVIT - Pune",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Technical Skills: SOA Architecture, System Design, Backend Web application in Microservices, AWS, Java,\r\nSQL, Linux, Data Structures."
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "Atul Dusane\r\nSoftware Developer\r\n9+ Years experienced Software Developer skilled at technical leadership and problem solving.\r\nExperienced in full project life cycle from design to implementation to deployment.\r\nTechnical Skills: SOA Architecture, System Design, Backend Web application in Microservices, AWS, Java,\r\nSQL, Linux, Data Structures.\r\n\r\n\r\nWork History\tPersonal Info\r\n\r\n2018-04 -\tSenior Software Development Engineer\tAddress\r\nCurrent\tAmazon, Hyderabad\tHyderabad, Telangana\r\nDesigned and Developed Software solutions for\tPhone\r\nReturns Business of Amazon.\t976 635 3120\r\nAdded new features to Returns platform. Returns is\r\nE-mail\r\nweb based application; deployed in AWS. Returns\r\natulldusane@gmail.com\r\nplatform is used to grade the items returned by\r\ncustomer and trigger other business workflows like\r\nRefund to customer, Inventory creation, Audits etc.\r\nSkills\r\nMainly worked in Backend applications, wherein I\r\ngot to work with various AWS technologies -\r\nSoftware Design\r\nDynamo DB, Kinesis, SNS, SQS, Lambda. in Java.\r\nWorked in all lifecycles of software development -\tVery Good\r\n\r\nFrom Requirement gathering to Design,\tJava\r\nDevelopment and Support.\r\nVery Good\r\n2016-01 -\tTeam Leader\r\n2018-04\tAmdocs, Pune\r\nResponsibilities included - Team management,\r\nConduct 1-1, Reviews, Design Solutions, Design\r\nand Develop new architectural changes, Code\r\nReviews, Rally maintenance, work in Scrum Agile\r\nmethodology.\r\n\r\n2014-04 -\tProduct Owner\r\n2016-01\tAmdocs, Pune\r\n2.5 Years of experience as PO in MetroPCS; As a\r\nPO need to design solutions, writing high level and\r\nlow level design solutions, Work in SCRUM and\r\ntrack and design user stories in RALLY, lead\r\nsolutions.\r\nFollow up, with developers and approve user\r\nstories.\r\nConduct business reviews and demos with\r\ncustomers.\r\n\r\n2010-04 -   Software Developer\r\n2014-04\tAmdocs, Pune\r\nStarted in Amdocs as a Software developer,\r\nWorked on various projects involving Tuxedo\r\nServices, C, Java, SQL, Linux Shell scripting.\r\nWorked on Microservices wherein honed skills in\r\nSpring Boot, Spring Cloud, Angular JS.\r\nWorked on Splunk and AppDynamics.\r\nMainly worked for T-Mobile, Rogers Canada, Bell\r\nCanada.\r\n\r\n\r\nEducation\r\n\r\n2006-05 -   Bachelor of Engineering: Information And\r\n2009-05\tTechnology\r\nVIT - Pune"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Atul Dusane's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in User Experience (mostly Game Design). Atul Dusane has 10 years of work experience, with 4 years of management experience, including a mid-level position.",
+          "sov:MonthsOfWorkExperience": "119",
+          "sov:AverageMonthsPerEmployer": "59",
+          "sov:FulltimeDirectHirePredictiveIndex": "100",
+          "sov:MonthsOfManagementExperience": "51",
+          "sov:HighestManagementScore": "55",
+          "sov:ExecutiveType": "business_dev",
+          "sov:ManagementStory": "The following management-related items were found:\r\n2016-01 -\tTeam Leader\r\n\r\nStarting on 1/1/2016, the candidate held the following low-level management position for 2 years and 3 months:\r\n\tTitle: Team Leader for Amdocs\r\nStarting on 1/1/2014, the candidate held the following low-level management position for 2 years:\r\n\tTitle: Product Owner for Amdocs",
+          "sov:AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Team Leader for Amdocs) , but was not in management in the most recent role as Senior Software Development Engineer for Software Design.",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "82",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "42",
+                        "@percentOfParentTaxonomy": "51",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "98",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1; POS-2; POS-4",
+                            "@childrenTotalMonths": "51",
+                            "@childrenLastUsed": "2014-04-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "51",
+                                "@lastUsed": "2014-04-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCRIPTING",
+                            "@id": "024873",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2014-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "23",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@totalMonths": "23",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "RALLY",
+                            "@id": "2000007",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "SOA",
+                            "@id": "031030",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOA ARCHITECTURE",
+                                "@id": "031032",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "WEB BASED",
+                            "@id": "024402",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "AMAZON KINESIS",
+                            "@id": "5500306",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "23",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "KINESIS",
+                                "@id": "550030601",
+                                "@existsInText": "true",
+                                "@totalMonths": "23",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "REQUIREMENT GATHERING",
+                            "@id": "006830",
+                            "@existsInText": "true",
+                            "@totalMonths": "27",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "SOFTWARE DESIGN",
+                            "@id": "025845",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM MANAGEMENT",
+                            "@id": "025953",
+                            "@existsInText": "true",
+                            "@totalMonths": "27",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Content Management",
+                        "@id": "352",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "DYNAMO",
+                            "@id": "025777",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2014-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "SHELL SCRIPTING",
+                            "@id": "007925",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2014-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2014-04-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Privacy and Data Security",
+                        "@id": "556",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SPLUNK",
+                            "@id": "5551270",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2014-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SPLUNK",
+                            "@id": "5530851",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2014-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Middleware and Integration",
+                        "@id": "345",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "TUXEDO",
+                            "@id": "026660",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2014-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "AMDOCS",
+                            "@id": "026118",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Game Design",
+                        "@id": "570",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "LEVEL DESIGN",
+                            "@id": "5570143",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Research",
+                        "@id": "558",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "USER STORIES",
+                            "@id": "5570004",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2016-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Auditing",
+                        "@id": "942",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005584",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "23",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "AUDITS",
+                                "@id": "005789",
+                                "@existsInText": "true",
+                                "@totalMonths": "23",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@totalMonths": "27",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@totalMonths": "27",
+                            "@lastUsed": "2018-04-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Inventory",
+                        "@id": "459",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVENTORY",
+                            "@id": "020086",
+                            "@existsInText": "true",
+                            "@totalMonths": "23",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Design",
+                        "@id": "134",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SOFTWARE DESIGN",
+                            "@id": "080910",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SOFTWARE DESIGN",
+                            "@id": "080405",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "4",
+              "@ends": "7",
+              "@sectionType": "SKILLS",
+              "#text": "Technical Skills"
+            },
+            {
+              "@starts": "8",
+              "@ends": "62",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work History"
+            },
+            {
+              "@starts": "63",
+              "@ends": "67",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "976 635 3120"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Atul Dusane"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "atulldusane@gmail.com"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "2199",
+        "sov:ParseTime": "687",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.",
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Technical Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;0,1] The following sections do not have the header on a separate line: 'Technical Skills', 'Work History'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:dae2dc49-139d-4e50-8e08-fb91072852cd",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "nWMAAAAAAAA="
+      }
+    }
+  }
+}

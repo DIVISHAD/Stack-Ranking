@@ -1,0 +1,2471 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Sukrit Kalia",
+          "GivenName": "Sukrit",
+          "FamilyName": "Kalia"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Hyderabad",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Udaya Royal Crest , Kothaguda"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "995 859 5533"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "sukritkalia2@gmail.com"
+          }
+        ]
+      },
+      "ExecutiveSummary": "A certified Scrum Master and an experienced software engineer with a passion for developing\r\ninnovative programs that expedite the efficiency and effectiveness of organizational success. Well-\r\nversed in technology and writing code to create systems that are reliable and user-friendly. Skilled\r\nleader who has the proven ability to motivate, educate, and manage a team of professionals to build\r\nsoftware programs and effectively track changes. Confident communicator, strategic thinker, and\r\ninnovative creator to develop software that is customized to meet a company's organizational needs,\r\nhighlight their core competencies, and further their success.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "PaySafe",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Senior Platform Engineer(Team Lead and Scrum Master)",
+                "OrgName": {
+                  "OrganizationName": "PaySafe"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "Projects\r\nMerchant Management\r\nWith Merchant Management, you can set up flows and payouts that best suit your platform. As a software\r\nplatform, you may want your individual users to set up their own merchant accounts. If you are a marketplace\r\nplatform, you may be collecting the payment and routing payouts to multiple users. You can generate revenue by\r\ncollecting a percentage-based fee per transaction, or split payouts for credit and debit card transactions and bank transfers.\r\n\r\nTechnologies used-:Apache Spark, AWS, Scala, Core JAVA 8, SpringBoot, SpringData JPA, REST, AngularJS, Maven.\r\n\r\n\r\nDuties and responsibilities-\r\n• Working with users to establish requirements and determine priorities.\r\n• Meeting client's face to face at their offices.\r\n• Developing new applications, components & functionality to existing systems.\r\n• Analyzing data and conducting compatibility and quality assurance testing.\r\n• Identifying & addressing conflicts with newer client-implemented software.\r\n• Investigating alternate configurations & implementing better solutions.\r\n• Designing, developing, testing & configuring for a custom pre-authenticated scenario.\r\nGlobal Logic - Noida , UP (1 year)\r\nSenior Conslutant(Team Lead and Scrum Master)\r\nProjects\r\nProvidie\r\nThis is a modular platform targeted towards customer care, sales, and service desk processes for end users,\r\ncompany employees, and citizens in the public sector. With more than 350 clients in 17 countries, its handles\r\naround 3bn interactions per year, including voice, messaging, email, video chats, social media messages, SMS,\r\nand IoT transactions. It has four modules:\r\nContact Center for omnichannel routing, recording, WFM, and quality monitoring\r\nConcierge, an omnichannel (voice and digital) bot, designed for self-service and qualification\r\nCampaign suite to push messages for marketing campaigns and notifications\r\nAnalytics for customer insights.\r\n\r\nDelphix GDPR\r\nThe Delphix Dynamic Data Platform creates a comprehensive library of data sources with the ability to pinpoint the location of sensitive data that resides in both on-prem data centers and cloud-based environments such as\r\nAWS and Azure. The Delphix platform is preconfigured to identify data values subject to GDPR, but is also\r\nadaptable to an organization's unique definitions of what is considered personal, confidential information.\r\nProvision data in just minutes and to any environment--whether on premises or in the cloud. With\r\nsophisticated automation, pre-built integrations with DevOps tools, and integrated security, Delphix gives end\r\nusers self-service data controls such as the ability to refresh or recover data to any point in time\r\n\r\nDelphix ApplicationAccelerator\r\nStreamline access to data for analytics and reporting. Delphix continually captures production data--down to the millisecond--and stores it in a space-efficient manner for days, weeks, or months. Retrieve point-in-time\r\ndata while avoiding lengthy batch processes, removing data blindspots that impact artificial intelligence,\r\nmachine learning, and compliance programs.\r\nTechnologies used-:Core JAVA 8, AWS, SpringBoot, SpringData JPA, REST, AngularJS, Maven.\r\nDuties and responsibilities-\r\n• Working with users to establish requirements and determine priorities.\r\n• Meeting client's face to face at their offices.\r\n• Developing new applications, components & functionality to existing systems.\r\n• Analyzing data and conducting compatibility and quality assurance testing.\r\n• Identifying & addressing conflicts with newer client-implemented software.\r\n• Investigating alternate configurations & implementing better solutions.\r\n• Designing, developing, testing & configuring for a custom pre-authenticated scenario.\r\nKaphaAnalytics\r\n\r\nCofounder and Technical Architect -1.7 Years\r\n\r\nProjects\r\nThe platform for ratings and reviews of enterprise technology solutions by end-user professionals for end-user\r\nprofessionals.\r\nWe are bringing together our expert opinion and the user-contributed reviews into one experience via the Interactive dashboard.\r\n\r\nFor technology buyers, the Interactive dashboard User Reviews offers:\r\nInsights from experts and peers\r\nThe full spectrum of expert research and advice and user ratings & reviews in one convenient location.\r\n\r\nA suite of interactive features\r\nAlong with the new User Reviews tab, the Interactive dashboard continues to allow users to customize the evaluation criteria ratings to create a quadrant view unique to their goals and priorities.\r\n\r\nCount on KaphaAnalytics for rigorous methodologies, processes and quality standards that deliver unbiased\r\nresearch and authentic peer reviews.\r\n\r\nTechnologies used-: Core JAVA 8 , AWS, Apache Spark , SpringBoot ,Hibernate,REST ,ElasticSearch , MongoDB ,\r\nMaven\r\n\r\n\r\nBharti Airtel ,Gurgaon\r\nSenior Software Engineer (JAVA/J2EE , ElasticSearch) - 1 Year\r\n\r\n\r\nProjects\r\nReal time log reporting and alerting Framework (ELK stack)\r\nSingle-handedly developed a framework which does the real time log reporting.\r\nThis framework analysis real time logs and generate nice colorful visualization of reports after the analysis.\r\nFor example the TPS , Top 10 consumed APIs , Average response time per API.\r\nThis is very helpful in determining the performance and log monitoring of any application.\r\nThis framework also generates alerts based up on the requirement and criticality criterian\r\nTechnologies used-: JAVA,SpringMVC , Hibernate ,AngularJS , Filebeat , Elastic Search , Logstash , Kibana ,\r\nElastAlerts , REST ,Maven\r\n\r\n\r\nSearch Solution Using Elastic Search\r\nSingle handedly developed the efficient search solution with TPS of more than 1000.It searches mobile\r\nnumbers based on any given number of digits , containing those digits.\r\nThe development involved end -to-end solution including Clustering and data retention.\r\nThis solution is being used on the official website of the organization as well as in internal projects where\r\nrequired.\r\nTechnologies used-: Core Java,SpringMVC,AngularJS,Elastic Search , Curator.\r\n\r\n\r\nException Handling Framework\r\nSingle-handedly developed a framework which handles all type of exceptions and used across the organization in every software module and project.\r\nThis framework gives flexibility to developers to define their own error codes and error messages dynamically.\r\nTechnologies used-: Spring , Core Java , REST ,Maven\r\n\r\n\r\nM2M\r\nIt's a portal which enables customer to manage SIM related activities like allocation , activation , deactivation ,\r\nadding SIM to baskets , defining own baskets etc. There is an administrator module which gives many advanced\r\nfunctionalities like bulk upload of SIMs and assigning SIMs to respective circles and cater their overall\r\nmanagement.\r\nThis portal was designed to cut the Call Centre costs.\r\nI was involved in architecture and development.\r\nTechnologies used-: Apache Spark , Hive ,Spring MVC ,Core JAVA, SOAP, AngularJS ,REST ,Maven.\r\n\r\n\r\nPolicyBazaar.com\r\nSenior Technology Associate (SpringMVC , REST , Apache Spark , Hadoop)-1.1 Years\r\n\r\n\r\nProjects\r\nELK (Audit Logs Analyser)\r\nIndependently developed a solution which shows real time audit log reports on KIBANA.\r\nThis is an any-log-parser which can be used for any application without doing much modification dynamically. I have\r\nused regular expressions to parse logs with help of logstash plugins.\r\nThis solution is my copyright and is in process of patent.\r\nTechnologies used-: Java , SpringMVC , ElasticSearch , Logstash , Kibana ,and Cuartor.\r\n\r\n\r\nInvestment\r\nInvolved in setting up right architecture for flexible, scalable and long-lasting system.\r\nDeveloped a framework to give a complete end to end solution to enable multiple insurance purchases in Term and Investment Customer Journey.\r\nKey features - Front end: Dynamic form (UI) creation using json stored in mongodb. Front end is supported by\r\nangular-js.\r\nGeneral validations and special validation handled in run time using the algorithms performed on preloaded json.\r\nImplemented Algorithm to handle data preparation for web service consumption.\r\nTransformation and conversion of data to communicate and validation.\r\nComplete revamp of Health Insurance Customer Journey\r\nKey features:\r\nMultiple health insurance purchase in a go based upon multiple Profile create.\r\nMultiple Attachment (Super Top-up, Critical Illness) support.\r\nRoles and Responsibilities-:\r\nInterface between Business and Technology.\r\nTechnologies used-:Apache Spark ,Hadoop ,AngularJS,Spring MVC ,Core JAVA, Javascript , MongoDB , REST ,Maven.\r\n\r\n\r\nNagarro Software , Gurgaon, India\r\nSenior Associate Technology -8 Months\r\n\r\nProjects\r\nElectronic Banking User\r\nWorked with other developers for a Leading investment bank and developed a banking application. The\r\napplication maintains the data of the customers of the bank and facilitates various operations like real time\r\ntransactions, generating reports, equity trading.\r\nTools Used-Eclipse Indigo, Oracle Weblogic. Putty, SVN, JIRA, Jenkins\r\nModel- Agile Scrum\r\n\r\nFaceBook Sentimental Analyzer\r\nDeveloped an application called FACEBOOK COMPARISON POC for the investment bank which compares one\r\nbank with another in terms of LIKES, COMMENTS, ACTIVITY (PEOPLE TALKING ABOUT) considering real time\r\ndata.\r\nInvolved in training freshers for various technologies like MVC framework, AngularJS , D3.JS ,UML etc.\r\nTechnologies used-: Spring MVC , Hibernate, D3.JS , Core JAVA, jQuery ,openXMA.\r\n\r\nEquity And Derivatives\r\nWorked with other developers for a Leading investment bank on an application which manages equity and derivatives for a user portfolio. The investment in both equity and derivatives is managed and based on some\r\nalgorithms , user would be able to choose the best out of it.\r\nTools Used-Eclipse Indigo, Oracle Weblogic. Putty, SVN, JIRA, Jenkins\r\nModel- Agile Scrum\r\nTechnologies used-: Spring MVC , Hibernate, D3.JS , Core JAVA, jQuery, openXMA\r\n\r\n\r\nHcentive Technology India Private Limited\r\nConsultant Technology (JAVA)- 8 Months\r\n\r\nProjects\r\nSending Customized Assertions using SAML\r\nThe data of an individual user was required to be sent to the CMS of US govt to check the\tof a particular user for a particular opted Health Plan.\r\nImplemented SAML to send customized assertions for the same.\r\nI have made my own library which is generic and can send any customized assertion for any use\tcase.\r\nBroker Exchange System\r\nA connected, integrated capability for the sales team with rich proposal creation and CRM functionality\r\nrelevant to various market segments\r\nPre-configured carrier relationships that assist in streamlining overall time to market\r\nhandling enrollment, billing and benefit admin functions\r\nSelf service, guided decision support and intuitive help throughout the process of benefit shopping,\r\nenrollment and payment\r\nTechnologies used-: Spring MVC , SpringData , jQuery , AngularJS.\r\nSapient Corporation\r\nAssociate, Technology (JAVA) 1 year 10 months\r\n\r\nProjects\r\nWellington Management , Portfolio Management\r\nThe application enables analysts and users to make the right decision in the unpredictable nature of the stock\r\nmarket.\r\nTechnologies used -: Spring MVC, JSP, CSS, JDBC.\r\n\r\nResource Management , Wellington management\r\nBuild a Resource Management System for a reputed which keeps track of performance at employee level. It\r\nis a tool to accelerate performance at organization level. It gives management both macroscopic and microscopic view about how the organization is performing against its objectives.\r\nIt provides weekly, monthly and quarterly reports.\r\nTechnologies used -: Spring MVC, HTML, CSS, JQuery, Hibernate.\r\n\r\nElectronic Banking Management-: This is internal application for banks internal use. Bank\tadvisors use it to manage customers, their accounts, institutes and other important things.\r\nTechnologies used -: Spring MVC, JSP, CSS, JDBC.\r\n\r\nWorked on a business application which measures and reports productivity to clients\tconsidering\r\nvarious parameters.\r\nThe application captures some essential parameters like, for example, time taken by\temployee to\r\ncomplete a particular task versus time assigned, and on the basis of these\tparameters it derives the productivity quotient.\r\nThe application provides reports (as per the need of the client) to clients on daily-basis via emails, like for\r\nexample clients wants to know that how many trade blotters are being executed today.\r\nTechnologies used-: Spring MVC, Hibernate, MySQL.\r\n\r\nDuties and responsibilities-\r\n• Development of Java interfaces.\r\n• Working with users to establish requirements and determine priorities.\r\n• Meeting client's face to face at their offices.\r\n• Developing new applications, components & functionality to existing systems.\r\n• Involved in accurately providing estimated development times.\r\n• Developing new functionalities, both back-end and front-end.\r\n• Analyzing data and conducting compatibility and quality assurance testing.\r\n• Identifying & addressing conflicts with newer client-implemented software.\r\n• Investigating alternate configurations & implementing better solutions.\r\n• Designing, developing, testing & configuring for a custom pre-authenticated scenario.",
+                "StartDate": {
+                  "YearMonth": "2019-04"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 57% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "PaySafe",
+                    "sov:NormalizedTitle": "Senior Platform Engineer Team Lead and Scrum Master",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Senior Platform Engineer",
+                        "Team Lead and Scrum Master",
+                        "Platform Engineer(Team Lead and Scrum Master)",
+                        "Platform Engineer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "PaySafe"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Maharshi Dayanand University"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "HARYANA"
+              ],
+              "Municipality": "Rohtak"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "Bachelor Of Engineering",
+                "DegreeDate": {
+                  "Year": "2009"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2009"
+                    }
+                  }
+                ],
+                "Comments": "Maharshi Dayanand University , Rohtak- Year: 2009\r\n\r\nBachelor Of Engineering(Computer Science)",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Maharshi Dayanand University"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Indian Institute Of Information Technology, Bangalore"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bangalore"
+            },
+            "Degree": [
+              {
+                "@degreeType": "some post-graduate",
+                "DegreeName": "Post Graduate Diploma in Software Development",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Big Data and Machine Learning"
+                    ]
+                  }
+                ],
+                "DegreeMinor": [
+                  {
+                    "Name": [
+                      "Information Technology"
+                    ]
+                  }
+                ],
+                "Comments": "Great Lakes Institiute Of Management -Year 2019\r\nPost Graduate Program in Big Data and Machine Learning\r\n\r\n\r\nIndian Institute Of Information Technology, Bangalore(IIIT-B) - year 2011\r\nPost Graduate Diploma in Software Development\r\n\r\nSecured 87th rank in entrance exam",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "somepostgraduate",
+                    "sov:NormalizedDegreeType": "some post-graduate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Indian Institute Of Information Technology Bangalore"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "certified Scrum Master",
+            "Id": "1",
+            "Description": "certification; matched to list"
+          },
+          {
+            "Name": "MongoDB Certified Professional Year",
+            "Id": "2",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "MongoDB For Java Developers (Exam: MJ-101)",
+            "Id": "3",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "HIPPAA Year",
+            "Description": "certification; found in CERTIFICATIONS",
+            "EffectiveDate": {
+              "FirstIssuedDate": {
+                "Year": "2013"
+              }
+            }
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Spotlight Award for Showing extra-ordinary Competencies -GlobalLogic"
+          },
+          {
+            "Description": "Core Value Award for creativity"
+          },
+          {
+            "Description": "Core Value Award for client focused delivery"
+          },
+          {
+            "Description": "Have won Best Actor awards at both school and college level"
+          },
+          {
+            "Description": "Have won first prize in ad-mad show in a university level fest (Spark- 08) held in Maharshi Dayanand"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "An active member of \"ART OF LIVING\" organization founded by \"SRI SRI GURU RAVI SHANKAR\"",
+            "Role": [
+              {
+                "Name": "member"
+              }
+            ]
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "Sukrit Kalia\r\nUdaya Royal Crest , Kothaguda , Hyderabad•995 859 5533 •\r\nsukritkalia2@gmail.com\r\n\r\n\r\nProfessional Summary\r\nA certified Scrum Master and an experienced software engineer with a passion for developing\r\ninnovative programs that expedite the efficiency and effectiveness of organizational success. Well-\r\nversed in technology and writing code to create systems that are reliable and user-friendly. Skilled\r\nleader who has the proven ability to motivate, educate, and manage a team of professionals to build\r\nsoftware programs and effectively track changes. Confident communicator, strategic thinker, and\r\ninnovative creator to develop software that is customized to meet a company's organizational needs,\r\nhighlight their core competencies, and further their success.\r\n\r\n\r\nWork History\r\nPaySafe- Hyderabad(April 2019 - Present)\r\nSenior Platform Engineer(Team Lead and Scrum Master)\r\n\r\nProjects\r\nMerchant Management\r\nWith Merchant Management, you can set up flows and payouts that best suit your platform. As a software\r\nplatform, you may want your individual users to set up their own merchant accounts. If you are a marketplace\r\nplatform, you may be collecting the payment and routing payouts to multiple users. You can generate revenue by\r\ncollecting a percentage-based fee per transaction, or split payouts for credit and debit card transactions and\r\nbank transfers.\r\n\r\nTechnologies used-:Apache Spark, AWS, Scala, Core JAVA 8, SpringBoot, SpringData JPA, REST, AngularJS, Maven.\r\n\r\n\r\nDuties and responsibilities-\r\n• Working with users to establish requirements and determine priorities.\r\n• Meeting client's face to face at their offices.\r\n• Developing new applications, components & functionality to existing systems.\r\n• Analyzing data and conducting compatibility and quality assurance testing.\r\n• Identifying & addressing conflicts with newer client-implemented software.\r\n• Investigating alternate configurations & implementing better solutions.\r\n• Designing, developing, testing & configuring for a custom pre-authenticated scenario.\r\nGlobal Logic - Noida , UP (1 year)\r\nSenior Conslutant(Team Lead and Scrum Master)\r\nProjects\r\nProvidie\r\nThis is a modular platform targeted towards customer care, sales, and service desk processes for end users,\r\ncompany employees, and citizens in the public sector. With more than 350 clients in 17 countries, its handles\r\naround 3bn interactions per year, including voice, messaging, email, video chats, social media messages, SMS,\r\nand IoT transactions. It has four modules:\r\nContact Center for omnichannel routing, recording, WFM, and quality monitoring\r\nConcierge, an omnichannel (voice and digital) bot, designed for self-service and qualification\r\nCampaign suite to push messages for marketing campaigns and notifications\r\nAnalytics for customer insights.\r\n\r\nDelphix GDPR\r\nThe Delphix Dynamic Data Platform creates a comprehensive library of data sources with the ability to pinpoint\r\nthe location of sensitive data that resides in both on-prem data centers and cloud-based environments such as\r\nAWS and Azure. The Delphix platform is preconfigured to identify data values subject to GDPR, but is also\r\nadaptable to an organization's unique definitions of what is considered personal, confidential information.\r\nProvision data in just minutes and to any environment--whether on premises or in the cloud. With\r\nsophisticated automation, pre-built integrations with DevOps tools, and integrated security, Delphix gives end\r\nusers self-service data controls such as the ability to refresh or recover data to any point in time\r\n\r\nDelphix ApplicationAccelerator\r\nStreamline access to data for analytics and reporting. Delphix continually captures production data--down to\r\nthe millisecond--and stores it in a space-efficient manner for days, weeks, or months. Retrieve point-in-time\r\ndata while avoiding lengthy batch processes, removing data blindspots that impact artificial intelligence,\r\nmachine learning, and compliance programs.\r\nTechnologies used-:Core JAVA 8, AWS, SpringBoot, SpringData JPA, REST, AngularJS, Maven.\r\nDuties and responsibilities-\r\n• Working with users to establish requirements and determine priorities.\r\n• Meeting client's face to face at their offices.\r\n• Developing new applications, components & functionality to existing systems.\r\n• Analyzing data and conducting compatibility and quality assurance testing.\r\n• Identifying & addressing conflicts with newer client-implemented software.\r\n• Investigating alternate configurations & implementing better solutions.\r\n• Designing, developing, testing & configuring for a custom pre-authenticated scenario.\r\nKaphaAnalytics\r\n\r\nCofounder and Technical Architect -1.7 Years\r\n\r\n\r\nProjects\r\n\r\nThe platform for ratings and reviews of enterprise technology solutions by end-user professionals for end-user\r\nprofessionals.\r\nWe are bringing together our expert opinion and the user-contributed reviews into one experience via the\r\nInteractive dashboard.\r\n\r\nFor technology buyers, the Interactive dashboard User Reviews offers:\r\nInsights from experts and peers\r\nThe full spectrum of expert research and advice and user ratings & reviews in one convenient location.\r\n\r\nA suite of interactive features\r\nAlong with the new User Reviews tab, the Interactive dashboard continues to allow users to customize the\r\nevaluation criteria ratings to create a quadrant view unique to their goals and priorities.\r\n\r\nCount on KaphaAnalytics for rigorous methodologies, processes and quality standards that deliver unbiased\r\nresearch and authentic peer reviews.\r\n\r\nTechnologies used-: Core JAVA 8 , AWS, Apache Spark , SpringBoot ,Hibernate,REST ,ElasticSearch , MongoDB ,\r\nMaven\r\n\r\n\r\nBharti Airtel ,Gurgaon\r\nSenior Software Engineer (JAVA/J2EE , ElasticSearch) - 1 Year\r\n\r\n\r\nProjects\r\nReal time log reporting and alerting Framework (ELK stack)\r\nSingle-handedly developed a framework which does the real time log reporting.\r\nThis framework analysis real time logs and generate nice colorful visualization of reports after the analysis.\r\nFor example the TPS , Top 10 consumed APIs , Average response time per API.\r\nThis is very helpful in determining the performance and log monitoring of any application.\r\nThis framework also generates alerts based up on the requirement and criticality criterian\r\nTechnologies used-: JAVA,SpringMVC , Hibernate ,AngularJS , Filebeat , Elastic Search , Logstash , Kibana ,\r\nElastAlerts , REST ,Maven\r\n\r\n\r\nSearch Solution Using Elastic Search\r\nSingle handedly developed the efficient search solution with TPS of more than 1000.It searches mobile\r\nnumbers based on any given number of digits , containing those digits.\r\nThe development involved end -to-end solution including Clustering and data retention.\r\nThis solution is being used on the official website of the organization as well as in internal projects where\r\nrequired.\r\nTechnologies used-: Core Java,SpringMVC,AngularJS,Elastic Search , Curator.\r\n\r\n\r\nException Handling Framework\r\nSingle-handedly developed a framework which handles all type of exceptions and used across the organization\r\nin every software module and project.\r\nThis framework gives flexibility to developers to define their own error codes and error messages dynamically.\r\nTechnologies used-: Spring , Core Java , REST ,Maven\r\n\r\n\r\nM2M\r\nIt's a portal which enables customer to manage SIM related activities like allocation , activation , deactivation ,\r\nadding SIM to baskets , defining own baskets etc. There is an administrator module which gives many advanced\r\nfunctionalities like bulk upload of SIMs and assigning SIMs to respective circles and cater their overall\r\nmanagement.\r\nThis portal was designed to cut the Call Centre costs.\r\nI was involved in architecture and development.\r\nTechnologies used-: Apache Spark , Hive ,Spring MVC ,Core JAVA, SOAP, AngularJS ,REST ,Maven.\r\n\r\n\r\nPolicyBazaar.com\r\nSenior Technology Associate (SpringMVC , REST , Apache Spark , Hadoop)-1.1 Years\r\n\r\n\r\nProjects\r\n\r\nELK (Audit Logs Analyser)\r\nIndependently developed a solution which shows real time audit log reports on KIBANA.\r\nThis is an any-log-parser which can be used for any application without doing much modification dynamically. I have\r\nused regular expressions to parse logs with help of logstash plugins.\r\nThis solution is my copyright and is in process of patent.\r\nTechnologies used-: Java , SpringMVC , ElasticSearch , Logstash , Kibana ,and Cuartor.\r\n\r\n\r\nInvestment\r\nInvolved in setting up right architecture for flexible, scalable and long-lasting system.\r\nDeveloped a framework to give a complete end to end solution to enable multiple insurance purchases in Term and\r\nInvestment Customer Journey.\r\nKey features - Front end: Dynamic form (UI) creation using json stored in mongodb. Front end is supported by\r\nangular-js.\r\nGeneral validations and special validation handled in run time using the algorithms performed on preloaded json.\r\nImplemented Algorithm to handle data preparation for web service consumption.\r\nTransformation and conversion of data to communicate and validation.\r\nComplete revamp of Health Insurance Customer Journey\r\nKey features:\r\nMultiple health insurance purchase in a go based upon multiple Profile create.\r\nMultiple Attachment (Super Top-up, Critical Illness) support.\r\nRoles and Responsibilities-:\r\nInterface between Business and Technology.\r\nTechnologies used-:Apache Spark ,Hadoop ,AngularJS,Spring MVC ,Core JAVA, Javascript , MongoDB , REST ,Maven.\r\n\r\n\r\nNagarro Software , Gurgaon, India\r\n\r\nSenior Associate Technology -8 Months\r\n\r\n\r\nProjects\r\nElectronic Banking User\r\nWorked with other developers for a Leading investment bank and developed a banking application. The\r\napplication maintains the data of the customers of the bank and facilitates various operations like real time\r\ntransactions, generating reports, equity trading.\r\nTools Used-Eclipse Indigo, Oracle Weblogic. Putty, SVN, JIRA, Jenkins\r\nModel- Agile Scrum\r\n\r\nFaceBook Sentimental Analyzer\r\nDeveloped an application called FACEBOOK COMPARISON POC for the investment bank which compares one\r\nbank with another in terms of LIKES, COMMENTS, ACTIVITY (PEOPLE TALKING ABOUT) considering real time\r\ndata.\r\nInvolved in training freshers for various technologies like MVC framework, AngularJS , D3.JS ,UML etc.\r\nTechnologies used-: Spring MVC , Hibernate, D3.JS , Core JAVA, jQuery ,openXMA.\r\n\r\nEquity And Derivatives\r\nWorked with other developers for a Leading investment bank on an application which manages equity and\r\nderivatives for a user portfolio. The investment in both equity and derivatives is managed and based on some\r\nalgorithms , user would be able to choose the best out of it.\r\nTools Used-Eclipse Indigo, Oracle Weblogic. Putty, SVN, JIRA, Jenkins\r\nModel- Agile Scrum\r\nTechnologies used-: Spring MVC , Hibernate, D3.JS , Core JAVA, jQuery, openXMA\r\n\r\n\r\nHcentive Technology India Private Limited\r\n\r\nConsultant Technology (JAVA)- 8 Months\r\n\r\n\r\nProjects\r\nSending Customized Assertions using SAML\r\nThe data of an individual user was required to be sent to the CMS of US govt to check the\tof a\r\nparticular user for a particular opted Health Plan.\r\nImplemented SAML to send customized assertions for the same.\r\nI have made my own library which is generic and can send any customized assertion for any use\tcase.\r\nBroker Exchange System\r\nA connected, integrated capability for the sales team with rich proposal creation and CRM functionality\r\nrelevant to various market segments\r\nPre-configured carrier relationships that assist in streamlining overall time to market\r\nhandling enrollment, billing and benefit admin functions\r\nSelf service, guided decision support and intuitive help throughout the process of benefit shopping,\r\nenrollment and payment\r\nTechnologies used-: Spring MVC , SpringData , jQuery , AngularJS.\r\nSapient Corporation\r\nAssociate, Technology (JAVA) 1 year 10 months\r\n\r\nProjects\r\nWellington Management , Portfolio Management\r\nThe application enables analysts and users to make the right decision in the unpredictable nature of the stock\r\nmarket.\r\nTechnologies used -: Spring MVC, JSP, CSS, JDBC.\r\n\r\nResource Management , Wellington management\r\nBuild a Resource Management System for a reputed which keeps track of performance at employee level. It\r\nis a tool to accelerate performance at organization level. It gives management both macroscopic and\r\nmicroscopic view about how the organization is performing against its objectives.\r\nIt provides weekly, monthly and quarterly reports.\r\nTechnologies used -: Spring MVC, HTML, CSS, JQuery, Hibernate.\r\n\r\nElectronic Banking Management-: This is internal application for banks internal use. Bank\tadvisors use it\r\nto manage customers, their accounts, institutes and other important things.\r\nTechnologies used -: Spring MVC, JSP, CSS, JDBC.\r\n\r\nWorked on a business application which measures and reports productivity to clients\tconsidering\r\nvarious parameters.\r\nThe application captures some essential parameters like, for example, time taken by\temployee to\r\ncomplete a particular task versus time assigned, and on the basis of these\tparameters it derives the\r\nproductivity quotient.\r\nThe application provides reports (as per the need of the client) to clients on daily-basis via emails, like for\r\nexample clients wants to know that how many trade blotters are being executed today.\r\nTechnologies used-: Spring MVC, Hibernate, MySQL.\r\n\r\nDuties and responsibilities-\r\n• Development of Java interfaces.\r\n• Working with users to establish requirements and determine priorities.\r\n• Meeting client's face to face at their offices.\r\n• Developing new applications, components & functionality to existing systems.\r\n• Involved in accurately providing estimated development times.\r\n• Developing new functionalities, both back-end and front-end.\r\n• Analyzing data and conducting compatibility and quality assurance testing.\r\n• Identifying & addressing conflicts with newer client-implemented software.\r\n• Investigating alternate configurations & implementing better solutions.\r\n• Designing, developing, testing & configuring for a custom pre-authenticated scenario.\r\nAwards-\r\nSpotlight Award for Showing extra-ordinary Competencies -GlobalLogic\r\nCore Value Award for creativity.\r\nCore Value Award for client focused delivery.\r\nTrainings-:\r\nFundamentals of Finance\r\nTrading and risk management.\r\nNysa Communication Private Limited\r\nSoftware Developer (JAVA) 1.1 Year, Noida\r\n\r\nProjects\r\nOnline Admissions Management\r\n• Worked with other developers on application of a university which takes care of\r\nonline admission process and counseling.\r\nDuties and responsibilities-\r\n• Development of Java interfaces.\r\n• Working with users to establish requirements and determine priorities.\r\n• Involved in accurately providing estimated development times.\r\n• Developing new functionalities, both back-end and front-end.\r\n• Analyzing data and conducting compatibility and quality assurance testing.\r\n• Identifying & addressing conflicts with newer client-implemented software.\r\n• Investigating alternate configurations & implementing better solutions.\r\n• Designing, developing, testing & configuring for a custom pre-authenticated scenario.\r\nTechnologies used-: Core Java, HTML , CSS , JDBC.\r\n\r\nEducation\r\nGreat Lakes Institiute Of Management -Year 2019\r\nPost Graduate Program in Big Data and Machine Learning\r\n\r\n\r\nIndian Institute Of Information Technology, Bangalore(IIIT-B) - year 2011\r\nPost Graduate Diploma in Software Development\r\n\r\nSecured 87th rank in entrance exam\r\n\r\n\r\nMaharshi Dayanand University , Rohtak- Year: 2009\r\n\r\nBachelor Of Engineering(Computer Science)\r\n\r\n\r\nCertifications\r\nMongoDB For Java Developers (Exam: MJ-101)\r\nMongoDB Certified Professional Year: 2015\r\n\r\nBusiness Associates Certification\r\nHIPPAA Year: 2013\r\n\r\n\r\nInterests\r\n\r\nExploring new technologies , Drama , Reding Fictions/Non Fictions\r\nSeminars Delivered\r\n\r\nBiomedical Instrumentation and Devices.\r\nOrganizing Body: IEEE-IMBS, DELHI.\r\nCorporate Governance.\r\n\r\nExtra Curricular Activities\r\n•   An active member of \"ART OF LIVING\" organization founded by \"SRI SRI GURU RAVI SHANKAR\".\r\n•   Certificate holder of the YES+ course organized by the ART OF LIVING organization aimed at providing\r\nhealthy body and peaceful mind among the youth.\r\n•   Have participated in various sports and athletic events and won prizes in school and college.\r\n•\tHave won 4 prizes in ad-zap event in various State level symposiums.\r\n•   Have won in Software Debugging event in a State level symposium.\r\n•   Have won Best Actor awards at both school and college level.\r\n•   Got a certificate from IEEE in \"TECHNICAL PAPER PRESENTATION\".\r\n•   Have won first prize in ad-mad show in a university level fest (Spark- 08) held in Maharshi Dayanand\r\nUniversity.\r\nReferences\r\nReferences can be provided on request."
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Sukrit Kalia's experience appears to be mostly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Finance (mostly Compliance). Sukrit Kalia's experience appears to be entry level, with 8 months of experience.",
+          "sov:MonthsOfWorkExperience": "8",
+          "sov:AverageMonthsPerEmployer": "8",
+          "sov:FulltimeDirectHirePredictiveIndex": "50",
+          "sov:MonthsOfManagementExperience": "8",
+          "sov:CurrentManagementLevel": "low-level",
+          "sov:HighestManagementScore": "25",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": "Current position is a low-level management role: Senior Platform Engineer(Team Lead and Scrum Master)\r\nStarting on 4/1/2019, the candidate held the following low-level management position for 7 months:\r\n\tTitle: Senior Platform Engineer(Team Lead and Scrum Master) for PaySafe",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "63",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "19",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTIFICIAL INTELLIGENCE",
+                            "@id": "5530905",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "CLUSTERING",
+                            "@id": "5530921",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "CONTENT MANAGEMENT SYSTEM",
+                            "@id": "5530931",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CMS",
+                                "@id": "5530932",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "DATA SOURCES",
+                            "@id": "5530960",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "ELASTICSEARCH",
+                            "@id": "5530744",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "5530761",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "5531016",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-1; POS-1"
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5530805",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "10",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022551",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "APACHE SPARK",
+                            "@id": "3391146",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "API",
+                            "@id": "021194",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "EXCHANGE",
+                            "@id": "022840",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "Hadoop",
+                            "@id": "1004744",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "Hive",
+                            "@id": "1004749",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "D3.JS",
+                                "@id": "3391106",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JSON",
+                            "@id": "5520555",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081198",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; DEG-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "Subversion",
+                            "@id": "1004756",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SVN",
+                                "@id": "100475601",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECLIPSE",
+                            "@id": "015844",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "J2EE",
+                            "@id": "020255",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in CERTIFICATIONS; TRAINING; WORK HISTORY; POS-1",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "HIBERNATE",
+                                "@id": "3391127",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              },
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JSP",
+                            "@id": "339001",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5500361",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSURANCE TESTING",
+                            "@id": "023564",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "QUALITY ASSURANCE TESTING",
+                                "@id": "006226",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JIRA",
+                            "@id": "2000006",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "3380002",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-1; POS-1"
+                          },
+                          {
+                            "@name": "SAML",
+                            "@id": "3380025",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLUSTERING",
+                            "@id": "3490022",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DEV OPS",
+                            "@id": "0146073",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DEVOPS",
+                                "@id": "0146074",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "EXCHANGE",
+                            "@id": "3490029",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SMS",
+                            "@id": "081178",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "JDBC",
+                            "@id": "020287",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MACHINE LEARNING",
+                            "@id": "7200149",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-1; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANGULARJS",
+                            "@id": "5520505",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SOAP",
+                            "@id": "5520605",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "WEBLOGIC",
+                            "@id": "025364",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "IEEE",
+                            "@id": "026096",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081189",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SOAP",
+                            "@id": "008187",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "UML",
+                            "@id": "010148",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM LEAD",
+                            "@id": "009222",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "USER INTERFACE",
+                            "@id": "7310067",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "UI",
+                                "@id": "7310068",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Embedded and Realtime",
+                        "@id": "340",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081185",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAVEN",
+                            "@id": "2510001",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Gaming",
+                        "@id": "551",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCALA",
+                            "@id": "5510135",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Reporting",
+                        "@id": "341",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DECISION SUPPORT",
+                            "@id": "023179",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CRM",
+                            "@id": "014101",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Workflow and Imaging",
+                        "@id": "342",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CMS",
+                            "@id": "013609",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLUSTERING",
+                            "@id": "013564",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLUSTERING",
+                            "@id": "5551333",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REST",
+                            "@id": "7180010",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCALA",
+                            "@id": "007474",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data Mining",
+                        "@id": "192",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARTIFICIAL INTELLIGENCE",
+                            "@id": "003449",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Compliance",
+                        "@id": "245",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005583",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "DERIVATIVES",
+                            "@id": "024287",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "080179",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRADING",
+                            "@id": "080204",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007100",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in TRAINING"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Trading",
+                        "@id": "239",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRADING",
+                            "@id": "009789",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management",
+                        "@id": "241",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "MORTGAGE BANKING",
+                            "@id": "023217",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BANKING MANAGEMENT",
+                                "@id": "010155",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "017446",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "FINANCE",
+                            "@id": "023147",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in TRAINING"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Real Estate & Facilities",
+                        "@id": "710",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "7000109",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "7000026",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Treasury",
+                        "@id": "246",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "7000007",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Credit and Underwriting",
+                        "@id": "240",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "014614",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "8",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Information Architect",
+                        "@id": "567",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRONT END",
+                            "@id": "5570300",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "FRONT-END",
+                                "@id": "5570301",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Human Computer Interaction",
+                        "@id": "561",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRONT END",
+                            "@id": "5570217",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "FRONT-END",
+                                "@id": "5570218",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Integration Design",
+                        "@id": "568",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRONT END DESIGN",
+                            "@id": "5570111",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "FRONT-END",
+                                "@id": "5570112",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Interactive Design",
+                        "@id": "572",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570157",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Game Design",
+                        "@id": "570",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570127",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570120",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Visual Design",
+                        "@id": "565",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570073",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Motion Design",
+                        "@id": "564",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "VISUALIZATION",
+                            "@id": "5570059",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHM",
+                            "@id": "022552",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "ANALYZER",
+                            "@id": "020302",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "080537",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "022816",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "TPS",
+                            "@id": "009763",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "025565",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "080270",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Military",
+                        "@id": "267",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "TPS",
+                            "@id": "009764",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "080363",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software and Tools",
+                        "@id": "310",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "BIOMEDICAL INSTRUMENTATION",
+                            "@id": "011631",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKET INSIGHTS",
+                            "@id": "1400322",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CUSTOMER INSIGHTS",
+                                "@id": "1400324",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "HADOOP",
+                            "@id": "1400328",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Planning",
+                        "@id": "589",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "1400096",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "PORTFOLIO MANAGEMENT",
+                            "@id": "1400009",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "75",
+                        "sov:Skill": [
+                          {
+                            "@name": "SALES TEAM",
+                            "@id": "030830",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "74",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "022750",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007099",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in TRAINING"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022227",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "51",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSURANCE TESTING",
+                            "@id": "023565",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "RISK MANAGEMENT",
+                            "@id": "007098",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in TRAINING"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "49",
+                        "sov:Skill": [
+                          {
+                            "@name": "QUALITY ASSURANCE",
+                            "@id": "022250",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in TRAINING; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Accounts Receivable",
+                        "@id": "940",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022226",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Auditing",
+                        "@id": "942",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005584",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BILLING",
+                            "@id": "011553",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022229",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Billing and Collections",
+                        "@id": "110",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "BILLING",
+                            "@id": "022474",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Closing and Processing",
+                        "@id": "114",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEPTIONS",
+                            "@id": "017029",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Talent Sourcing",
+                        "@id": "583",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER RELATIONSHIP MANAGEMENT",
+                            "@id": "9000267",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "8",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CRM",
+                                "@id": "9000268",
+                                "@existsInText": "true",
+                                "@totalMonths": "8",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in WORK HISTORY; POS-1"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Non-Nuclear Power Misc",
+                        "@id": "924",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021195",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "081113",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Power Related",
+                        "@id": "925",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "INSTRUMENTATION",
+                            "@id": "081107",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Standards, Protocols, Technologies",
+                        "@id": "317",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "IEEE",
+                            "@id": "019505",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          },
+                          {
+                            "@name": "SMS",
+                            "@id": "081157",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Call Center or Help Desk or Customer Service",
+                    "@id": "46",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Customer Facing",
+                        "@id": "130",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SERVICE DESK",
+                            "@id": "007806",
+                            "@existsInText": "true",
+                            "@totalMonths": "8",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Corporate",
+                        "@id": "727",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "GOVERNANCE",
+                            "@id": "7270003",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mergers & Acquisitions",
+                        "@id": "721",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CORPORATE GOVERNANCE",
+                            "@id": "7210006",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Scientific",
+                    "@id": "15",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bio",
+                        "@id": "373",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BIOMEDICAL",
+                            "@id": "011630",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Pharmaceutical",
+                    "@id": "75",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Non-Drug",
+                        "@id": "454",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BIOMEDICAL",
+                            "@id": "011629",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Aptitudes",
+                        "@id": "532",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONFIDENT",
+                            "@id": "031022",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:TrainingHistory": {
+          "sov:Text": "Fundamentals of Finance\r\nTrading and risk management.\r\nNysa Communication Private Limited\r\nSoftware Developer (JAVA) 1.1 Year, Noida\r\nProjects\r\nOnline Admissions Management\r\n• Worked with other developers on application of a university which takes care of online admission process and counseling.\r\nDuties and responsibilities-\r\n• Development of Java interfaces.\r\n• Working with users to establish requirements and determine priorities.\r\n• Involved in accurately providing estimated development times.\r\n• Developing new functionalities, both back-end and front-end.\r\n• Analyzing data and conducting compatibility and quality assurance testing.\r\n• Identifying & addressing conflicts with newer client-implemented software.\r\n• Investigating alternate configurations & implementing better solutions.\r\n• Designing, developing, testing & configuring for a custom pre-authenticated scenario.\r\nTechnologies used-: Core Java, HTML , CSS , JDBC.",
+          "sov:Training": [
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Fundamentals of Finance"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Trading and risk management"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": "Nysa Communication Private Limited",
+              "sov:Description": "Nysa Communication Private Limited"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Software Developer (JAVA) 1.1 Year, Noida"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Projects"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Online Admissions Management"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Worked with other developers on application of a university which takes care of online admission process and counseling"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Duties and responsibilities"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Development of Java interfaces"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Working with users to establish requirements and determine priorities"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Involved in accurately providing estimated development times"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Developing new functionalities, both back-end and front-end"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Analyzing data and conducting compatibility and quality assurance testing"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Identifying & addressing conflicts with newer client-implemented software"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Investigating alternate configurations & implementing better solutions"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Designing, developing, testing & configuring for a custom pre-authenticated scenario"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Technologies used-: Core Java, HTML , CSS , JDBC"
+            }
+          ]
+        },
+        "sov:Hobbies": {
+          "sov:Text": "Exploring new technologies , Drama , Reding Fictions/Non Fictions\r\nSeminars Delivered\r\n\r\nBiomedical Instrumentation and Devices.\r\nOrganizing Body: IEEE-IMBS, DELHI.\r\nCorporate Governance."
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "5",
+              "@ends": "14",
+              "@sectionType": "SUMMARY",
+              "#text": "Professional Summary"
+            },
+            {
+              "@starts": "15",
+              "@ends": "261",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work History"
+            },
+            {
+              "@starts": "262",
+              "@ends": "265",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "Awards"
+            },
+            {
+              "@starts": "266",
+              "@ends": "286",
+              "@sectionType": "TRAINING",
+              "#text": "Trainings"
+            },
+            {
+              "@starts": "287",
+              "@ends": "302",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            },
+            {
+              "@starts": "303",
+              "@ends": "310",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "Certifications"
+            },
+            {
+              "@starts": "311",
+              "@ends": "319",
+              "@sectionType": "HOBBIES",
+              "#text": "Interests"
+            },
+            {
+              "@starts": "320",
+              "@ends": "330",
+              "@sectionType": "PROFESSIONAL AFFILIATIONS",
+              "#text": "Extra Curricular Activities"
+            },
+            {
+              "@starts": "331",
+              "@ends": "332",
+              "@sectionType": "REFERENCES",
+              "#text": "References"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "995 859 5533"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Sukrit Kalia"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "sukritkalia2@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "PolicyBazaar.com"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "16438",
+        "sov:ParseTime": "749",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:111;] References section found in resume. References should not be included in a resume."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:1ada8617-8773-40e2-adae-b8d43d86b8e5",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "qhcAAAAAAAA="
+      }
+    }
+  }
+}

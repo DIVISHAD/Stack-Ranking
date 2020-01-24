@@ -1,0 +1,1214 @@
+[{
+        "resume_analysis" : [
+            {
+                "analysis" : "Harish Kumar Upadhyay's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in Purchasing, Procurement, Inventory Control, Supply Chain (mostly Supply Chain). Harish Kumar Upadhyay has 7 years of work experience.", 
+                "months_of_experience" : "78", 
+                "average_months_per_employer" : "15", 
+                "full_time_direct_hire_predictive_analysis" : "40", 
+                "months_of_manager_experience" : ""
+            }
+        ], 
+        "personal_info" : [{
+            "first_name" : "Harish", 
+            "middle_name" : "Kumar", 
+            "last_name" : "Upadhyay", 
+            "available_at" : "", 
+            "country_code" : "", 
+            "pin_code" : "", 
+            "municipality" : "", 
+            "region" : "", 
+            "address" : "", 
+            "phone_number" : "918123340865", 
+            "email" : "inimitableharish@gmail.com", 
+            "dob" : "", 
+            "nationality" : "", 
+            "gender" : "", 
+            "marital_status" : "", 
+            "father_name" : "", 
+            "passport_number" : "K5399477", 
+            "hobbies" : ""
+        }], 
+        "objective" : "Autodidact, Thinker, Open Source advocator, Start-up evangelist, Polyglot Programmer, Unix lover, Quick Learner.Seeking a challenging\r\nopportunity in the field of software for - machine learning and artificial intelligence, data science, building product from scratch, architechture and designing or research with a leadership position.", 
+        "education_history" : [
+            {
+                "school_type" : "university", 
+                "school_name" : "Cochin University of Science and Technology", 
+                "school_country_code" : "IN", 
+                "school_municipality" : "Cochin", 
+                "school_region" : "KERALA", 
+                "id" : "DEG-1", 
+                "degree_type" : "bachelors", 
+                "degree_name" : "B.Tech.", 
+                "major" : "Information Technology", 
+                "start_date" : "2008", 
+                "end_date" : "2012", 
+                "comments" : "Degree\tCollege\tCourse\t% Score\r\nB.Tech.\tCochin University of Science and Technology  2008 -2012     BTech, Information Technology   72%", 
+                "score" : "0.720", 
+                "id_value" : "1"
+            }, 
+            {
+                "school_type" : "UNSPECIFIED", 
+                "school_name" : "Mount Assisi School", 
+                "school_country_code" : "IN", 
+                "school_municipality" : "Bhagalpur", 
+                "school_region" : "Bihar", 
+                "id" : "DEG-2", 
+                "degree_type" : "", 
+                "degree_name" : "", 
+                "major" : "", 
+                "start_date" : "", 
+                "end_date" : "2005", 
+                "comments" : "10th\tMount Assisi School, Bhagalpur, Bihar   2005  \tICSE board\t88 %", 
+                "score" : "0.880", 
+                "id_value" : "2"
+            }
+        ], 
+        "employment_history" : [
+            {
+                "org_name" : "Medlife.com", 
+                "position_type" : "", 
+                "current_employee" : "true", 
+                "title" : "", 
+                "description" : "- Distributed Caching layer for the product, write-through and read-through and read-aside cache with cache synchronization and eviction policies.\r\n\r\n- Working on different monoliths services to decoupled microservices.Developed Pill Reminder Micro-Service from scratch.Myra Integration.\r\n- eCommerce logistics and supply chain management.Worked on a Microservice for authentication and authorization for access control for all apps.", 
+                "start_date" : "", 
+                "end_date" : "", 
+                "id" : "POS-1", 
+                "id_value" : "1"
+            }, 
+            {
+                "org_name" : "Rackspace", 
+                "position_type" : "directHire", 
+                "current_employee" : "", 
+                "title" : "Cloud Networking - Senior Software Engineer", 
+                "description" : "(1.7 years): Rackspace was the client for Accion Labs, where Rackspace has setup its own public cloud develoment center and center of excellence.\r\n\r\nOpen source contributions at Rackspace: 1. Quark - https://review.openstack.org/#/c/527913/ 2. nova - https://review.openstack.org/#/c/563418/\r\n\r\n3. Wafflehaus.neutron -https://github.com/roaet/wafflehaus.neutron/commit/01f6d69ae759ec2f24f2f7cf9dcfa4a4734f7e1c\r\n\r\n4. Wafflehaus - https://github.com/roaet/wafflehaus/commit/eb9a7381623c4829453bcbb4d1bd078ecf236056", 
+                "start_date" : "", 
+                "end_date" : "", 
+                "id" : "POS-2", 
+                "id_value" : "2"
+            }, 
+            {
+                "org_name" : "Happay", 
+                "position_type" : "directHire", 
+                "current_employee" : "", 
+                "title" : "Software Engineer", 
+                "description" : "Early Stage Start-up - (1.6 Years)\r\n\r\nEnd to end ownership of the version 2 of the product. Happay is a card processing payment platform. It does the expense management for card\r\ntransactions and is a B2B solution. Worked on pricing and invoicing module, Loyalty Engine looking after Notification service, Wallet and Card app,\r\nPolicy application, coding async apis and tasks, benchmarking different solutions and scaling out to allow more customer on boarding. Building", 
+                "start_date" : "", 
+                "end_date" : "", 
+                "id" : "POS-3", 
+                "id_value" : "3"
+            }, 
+            {
+                "org_name" : "Intel Security", 
+                "position_type" : "directHire", 
+                "current_employee" : "", 
+                "title" : "Software Engineer", 
+                "description" : "build tools   - (3 years)\r\n\r\n1.Prometheus Server (April 2015- November 2015): A facility which enables submitting samples for analysis of threat in real time.\r\n\r\n2. REST Server (Nov 2014- to March 2015): Serves reputation scores over a restful web service. The reputation score decides if the file is malicious.\r\n\r\n3. Streaming Updates and Cloud Server (January 2013 - September 2014): Distributed and data agnostic system of Connectors, Data store and Nginx. It normalizes data, aims at fetching data from different sources and producing streams of reputation for clients and services (SaaS)\r\n\r\n4. Mobile Cloud 2.0 Android Anti-Virus (Feb 11, '13 - Aug '13): Classifies APKs as malicious or clean from various android app stores.", 
+                "start_date" : "", 
+                "end_date" : "", 
+                "id" : "POS-4", 
+                "id_value" : "4"
+            }, 
+            {
+                "org_name" : "TCS", 
+                "position_type" : "internship", 
+                "current_employee" : "", 
+                "title" : "Associate Software Developer Trainee, PowerUpCloud", 
+                "description" : "2018 sep-Jan2019) -Sr Architect AI/ML\r\n\r\n\r\nMultiple Opensource librariess -Keras, PyTorch, Tensorflow, OpenCV, Kaggle, Floydhub, Google Collab, OpenFace,\r\nSciKit-learn, Tesseract, Spacy, nltk, Preprocessing data, Lemattization, Stemming, Data Cleaning, Stopwords\r\nremoval, Special characters removal, budiling training and inference NLP models.\r\nAI/Machine Learning\r\nSupervised Deep Learning, Artificial Neural Network (ANN), Jupyter Notebook, 1. Salary prediction based on\r\nexperience. 2.Developed applications to find out reason for customer churn 2. Finding user transaction pattern using\r\nK-Means clustering 3. Working on applying NSL_DSS and other data set for an solving intrusion detection problem.\r\n4. Multiple projects Conversational AI with Context Management and NLP/ NLU layer.\r\n\r\nPython (6.5+ years) with Django, Flask, Bottle, Anaconda distribution, Java and Spring Boot 2.0 (1+yrs) with Maven\r\nPrograming Languages\r\nDependency Management, NodeJs (basics)\r\n\r\nVCS and code review\tGit, Bit bucket, Gitlab, Launchpad, Gerrit review system, code collaborator, SVN.\r\n\r\nComputer Networking\tIntent-based (basics), network aware applications, Router, Switches, VLAN, SDN, data plane, control plane, TCP,\r\nHTTP, UDP, Shared IP, subnet, networks, ports, VLAN, interfaces etc.\r\nOperating Systems & IDE\tIDEs-Eclipse, PyCharm, VSCode, Spyder, Jupyter Notebook, Sublime, Vim OS: Ubuntu 14.04, 12.04, Centos, Mac.\r\n\r\nCloud Services\tAWS (Rekognition, RDS, SQS, EC2, S3, SNS, Cloud Watch, Lambda, API Gateway etc), GCP (CloudML, compute engine, CloudSQL, Cloud Function (for online prediction), Pub/Sub, BigQuery, Notification Services - Twilio and Sendgrid, Azure (instances, vision, luis)\r\n\r\nDatabases/Cache\tCache - Redis. SQL - PostgreSQL, MySQL. (master-slave, replication and connection pooling for PostgreSQL),\r\nNoSQL - Hbase, MongoDb, Recently started using GraphDb (Neo4J)\r\n\r\nQueueing Mechanism, Others\tSQS, Kafka, RabbitMQ, Celery, Docker, Slack, Zoom, Jira, Kafka, Hadoop (basics), oops concept, Version One,\r\nBugzilla, Nose Framework, Shell Scripting, web crawling, Jenkins, Apache, Nginx.", 
+                "start_date" : "", 
+                "end_date" : "", 
+                "id" : "POS-5", 
+                "id_value" : "5"
+            }
+        ], 
+        "language_history" : [
+            {
+                "language" : "en", 
+                "read" : "true", 
+                "write" : "true", 
+                "speak" : "true", 
+                "comments" : "[RESUME_LANGUAGE]"
+            }
+        ], 
+        "skills_history" : [
+            {
+                "name" : "Information Technology | Programming", 
+                "skills" : [
+                    {
+                        "name" : "ALGORITHM", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "API", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "CODING", 
+                        "months" : "15", 
+                        "last_used" : "2017-03-01"
+                    }, 
+                    {
+                        "name" : "DJANGO", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "DOCKER", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "Git", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "Hadoop", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "HBase", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "JENKINS", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "PYTHON", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "REAL TIME", 
+                        "months" : "34", 
+                        "last_used" : "2015-11-30"
+                    }, 
+                    {
+                        "name" : "SCRIPTING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "SOFTWARE ENGINEER", 
+                        "months" : "66", 
+                        "last_used" : "2018-09-07"
+                    }, 
+                    {
+                        "name" : "Subversion", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Big Data", 
+                "skills" : [
+                    {
+                        "name" : "ARTIFICIAL INTELLIGENCE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "CLUSTERING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "DATA SCIENCE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "DISTRIBUTED SYSTEMS", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "HADOOP", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "HBASE", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "KAFKA", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "MACHINE LEARNING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "MONGODB", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "NATURAL LANGUAGE PROCESSING", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "NOSQL", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "RECOMMENDATION ENGINE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "REDIS", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "REPLICATION", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "SOFTWARE AS A SERVICE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Internet", 
+                "skills" : [
+                    {
+                        "name" : "B2C", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "ECOMMERCE", 
+                        "months" : "10", 
+                        "last_used" : "2019-12-16"
+                    }, 
+                    {
+                        "name" : "nginx", 
+                        "months" : "36", 
+                        "last_used" : "2015-11-30"
+                    }, 
+                    {
+                        "name" : "SAAS", 
+                        "months" : "34", 
+                        "last_used" : "2015-11-30"
+                    }, 
+                    {
+                        "name" : "SECURITY", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "STREAMING", 
+                        "months" : "34", 
+                        "last_used" : "2015-11-30"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Operations, Monitoring and Software Management", 
+                "skills" : [
+                    {
+                        "name" : "CLUSTERING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "NETWORKING", 
+                        "months" : "19", 
+                        "last_used" : "2018-09-07"
+                    }, 
+                    {
+                        "name" : "VLAN", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Security", 
+                "skills" : [
+                    {
+                        "name" : "ACCESS CONTROL", 
+                        "months" : "10", 
+                        "last_used" : "2019-12-16"
+                    }, 
+                    {
+                        "name" : "AUTHENTICATION", 
+                        "months" : "10", 
+                        "last_used" : "2019-12-16"
+                    }, 
+                    {
+                        "name" : "DISTRIBUTED SYSTEMS", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "INTRUSION", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "MACHINE LEARNING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Database", 
+                "skills" : [
+                    {
+                        "name" : "CACHE", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "DATA CLEANING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "DATABASE MODELING", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "MYSQL", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "POSTGRESQL", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "REPLICATION", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "SQL", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Architecture", 
+                "skills" : [
+                    {
+                        "name" : "SDE", 
+                        "months" : "10", 
+                        "last_used" : "2019-12-16"
+                    }, 
+                    {
+                        "name" : "SDLC", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Protocols and Standards", 
+                "skills" : [
+                    {
+                        "name" : "HTTP", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "IEEE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "OPEN SOURCE", 
+                        "months" : "17", 
+                        "last_used" : "2018-09-07"
+                    }, 
+                    {
+                        "name" : "REAL TIME", 
+                        "months" : "34", 
+                        "last_used" : "2015-11-30"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Machine Learning", 
+                "skills" : [
+                    {
+                        "name" : "ARTIFICIAL NEURAL NETWORK", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "DATA SCIENCE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "DEEP LEARNING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "K-MEANS", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "MACHINE LEARNING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Network", 
+                "skills" : [
+                    {
+                        "name" : "CLUSTERING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "ROUTER", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "TCP", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "TELNET", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "VLAN", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Distributed Systems", 
+                "skills" : [
+                    {
+                        "name" : "DATA STRUCTURES", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "DISTRIBUTED SYSTEMS", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "FAULT-TOLERANT", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "IAAS", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "REST", 
+                        "months" : "34", 
+                        "last_used" : "2015-11-30"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Java", 
+                "skills" : [
+                    {
+                        "name" : "ECLIPSE", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "JAVA", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Enterprise Storage", 
+                "skills" : [
+                    {
+                        "name" : "CLUSTERING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "DATA PLANE", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "DISTRIBUTED SYSTEMS", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "UDP", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Cloud Computing", 
+                "skills" : [
+                    {
+                        "name" : "Amazon Elastic Compute Cloud", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "MONGODB", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | UNIX and LINUX", 
+                "skills" : [
+                    {
+                        "name" : "APACHE", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "SHELL SCRIPTING", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Embedded and Realtime", 
+                "skills" : [
+                    {
+                        "name" : "REAL TIME", 
+                        "months" : "34", 
+                        "last_used" : "2015-11-30"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | User Interface", 
+                "skills" : [
+                    {
+                        "name" : "ANDROID", 
+                        "months" : "34", 
+                        "last_used" : "2015-11-30"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Mobile Applications", 
+                "skills" : [
+                    {
+                        "name" : "ANDROID", 
+                        "months" : "34", 
+                        "last_used" : "2015-11-30"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | QA and QC", 
+                "skills" : [
+                    {
+                        "name" : "BUGZILLA", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "JIRA", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | ERP and CRM", 
+                "skills" : [
+                    {
+                        "name" : "TESSERACT", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Gaming", 
+                "skills" : [
+                    {
+                        "name" : "DJANGO", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Config Deploy Upgrade Migrate", 
+                "skills" : [
+                    {
+                        "name" : "MAVEN", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Privacy and Data Security", 
+                "skills" : [
+                    {
+                        "name" : "VLAN", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Training", 
+                "skills" : [
+                    {
+                        "name" : "DATA ACQUISITION", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Workflow and Imaging", 
+                "skills" : [
+                    {
+                        "name" : "IMAGE PROCESSING", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Information Technology | Data Mining", 
+                "skills" : [
+                    {
+                        "name" : "ARTIFICIAL INTELLIGENCE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Purchasing, Procurement, Inventory Control, Supply Chain | Supply Chain", 
+                "skills" : [
+                    {
+                        "name" : "SUPPLY CHAIN", 
+                        "months" : "10", 
+                        "last_used" : "2019-12-16"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Purchasing, Procurement, Inventory Control, Supply Chain | Logistics", 
+                "skills" : [
+                    {
+                        "name" : "LOGISTICS", 
+                        "months" : "10", 
+                        "last_used" : "2019-12-16"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Sales | General", 
+                "skills" : [
+                    {
+                        "name" : "ECOMMERCE", 
+                        "months" : "10", 
+                        "last_used" : "2019-12-16"
+                    }, 
+                    {
+                        "name" : "RETAIL", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Sales | Direct Sales", 
+                "skills" : [
+                    {
+                        "name" : "ECOMMERCE", 
+                        "months" : "10", 
+                        "last_used" : "2019-12-16"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Sales | Entry Level", 
+                "skills" : [
+                    {
+                        "name" : "ASSOCIATE", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Marketing | Advertising", 
+                "skills" : [
+                    {
+                        "name" : "B2B", 
+                        "months" : "15", 
+                        "last_used" : "2017-03-01"
+                    }, 
+                    {
+                        "name" : "B2C", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Marketing | Channel, Partner & Ecosystem Marketing", 
+                "skills" : [
+                    {
+                        "name" : "B2B", 
+                        "months" : "15", 
+                        "last_used" : "2017-03-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Marketing | Data & Analytics", 
+                "skills" : [
+                    {
+                        "name" : "DATA SCIENCE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "HADOOP", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Marketing | Channel Management", 
+                "skills" : [
+                    {
+                        "name" : "RETAIL MARKETING", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Marketing | General", 
+                "skills" : [
+                    {
+                        "name" : "MARKETING", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Engineering | Computer Hardware", 
+                "skills" : [
+                    {
+                        "name" : "NEURAL NETWORK", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "REAL TIME", 
+                        "months" : "34", 
+                        "last_used" : "2015-11-30"
+                    }, 
+                    {
+                        "name" : "ROUTER", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Engineering | General Engineering", 
+                "skills" : [
+                    {
+                        "name" : "ALGORITHM", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "OPTICAL", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "OPTIMIZATION", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Engineering | Air and Aerospace", 
+                "skills" : [
+                    {
+                        "name" : "APACHE", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }, 
+                    {
+                        "name" : "OPTICAL", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Engineering | Optical", 
+                "skills" : [
+                    {
+                        "name" : "COMPUTER VISION", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "OPTICAL", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Engineering | Surveying", 
+                "skills" : [
+                    {
+                        "name" : "ALGORITHMS", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Finance | Financial Planning & Analysis", 
+                "skills" : [
+                    {
+                        "name" : "SUPPLY CHAIN", 
+                        "months" : "10", 
+                        "last_used" : "2019-12-16"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Finance | Other", 
+                "skills" : [
+                    {
+                        "name" : "ALGORITHMS", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "User Experience | Web Design", 
+                "skills" : [
+                    {
+                        "name" : "INTEGRATOR", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "User Experience | Interactive Design", 
+                "skills" : [
+                    {
+                        "name" : "VISUALIZATION", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "User Experience | Game Design", 
+                "skills" : [
+                    {
+                        "name" : "VISUALIZATION", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "User Experience | Graphic Design", 
+                "skills" : [
+                    {
+                        "name" : "VISUALIZATION", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "User Experience | Visual Design", 
+                "skills" : [
+                    {
+                        "name" : "VISUALIZATION", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "User Experience | Motion Design", 
+                "skills" : [
+                    {
+                        "name" : "VISUALIZATION", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Telecommunications | Skilled", 
+                "skills" : [
+                    {
+                        "name" : "INVOICING", 
+                        "months" : "15", 
+                        "last_used" : "2017-03-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Telecommunications | Standards, Protocols, Technologies", 
+                "skills" : [
+                    {
+                        "name" : "IEEE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "OPTICAL", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Telecommunications | Network", 
+                "skills" : [
+                    {
+                        "name" : "INTRUSION DETECTION", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Telecommunications | Hardware", 
+                "skills" : [
+                    {
+                        "name" : "ROUTER", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Clinical | Coding", 
+                "skills" : [
+                    {
+                        "name" : "CODING", 
+                        "months" : "15", 
+                        "last_used" : "2017-03-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Clinical | Other", 
+                "skills" : [
+                    {
+                        "name" : "GCP", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Clinical | Tests and Functions", 
+                "skills" : [
+                    {
+                        "name" : "ONCOLOGY", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }, 
+                    {
+                        "name" : "RADIOLOGY", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Common End-user Software | Visual", 
+                "skills" : [
+                    {
+                        "name" : "QUARK", 
+                        "months" : "17", 
+                        "last_used" : "2018-09-07"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Common End-user Software | Mac", 
+                "skills" : [
+                    {
+                        "name" : "MAC", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Knowledge and Learning Management | General Knowledge and Learning Management", 
+                "skills" : [
+                    {
+                        "name" : "NEURAL", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Nursing | Billing and Coding", 
+                "skills" : [
+                    {
+                        "name" : "CODING", 
+                        "months" : "15", 
+                        "last_used" : "2017-03-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Nursing | Oncology", 
+                "skills" : [
+                    {
+                        "name" : "ONCOLOGY", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Nursing | Radiology", 
+                "skills" : [
+                    {
+                        "name" : "RADIOLOGY", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Scientific | Chemical", 
+                "skills" : [
+                    {
+                        "name" : "GCP", 
+                        "months" : "2", 
+                        "last_used" : "2013-02-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Scientific | Bio", 
+                "skills" : [
+                    {
+                        "name" : "BIOMEDICAL", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "General Management | Budget Related", 
+                "skills" : [
+                    {
+                        "name" : "PRICING", 
+                        "months" : "15", 
+                        "last_used" : "2017-03-01"
+                    }
+                ]
+            }, 
+            {
+                "name" : "Personal Attributes | Attitude", 
+                "skills" : [
+                    {
+                        "name" : "TEAM PLAYER", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "CAD/CAM | Other", 
+                "skills" : [
+                    {
+                        "name" : "CASCADE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Healthcare Non-physician Non-nurse | Allied Health", 
+                "skills" : [
+                    {
+                        "name" : "HEALTHCARE", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }, 
+            {
+                "name" : "Human Resources | Learning & Development", 
+                "skills" : [
+                    {
+                        "name" : "LEARNING SOLUTIONS", 
+                        "months" : "", 
+                        "last_used" : ""
+                    }
+                ]
+            }
+        ]
+    }]

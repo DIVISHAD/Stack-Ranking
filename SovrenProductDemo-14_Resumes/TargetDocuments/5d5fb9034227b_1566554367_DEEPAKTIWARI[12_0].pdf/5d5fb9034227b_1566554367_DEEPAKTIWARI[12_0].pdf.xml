@@ -1,0 +1,1113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>DEEPAK TIWARI</FormattedName>
+				<GivenName>DEEPAK</GivenName>
+				<FamilyName>TIWARI</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91-9415745215</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91-6392251563</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91-9450458358</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>reach.deepaktiwari@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>linkedIn</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>in.linkedin.com/pub/deepak-tiwari/a0/921/3b</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>§ 12 Yrs IT Professional with expertise in Web Application Design &amp; Development on Full Stack MEAN/MERN Technologies.
+§ Application Architect, Developer/IC, Project/Technical Lead ,SME,CoE Committee Member,EAG Engineer
+§ TCS	Certified ESA(Enterprise System Architecture) Engineer with 93%.
+§ DataCamp	Certified Data Scientist on Python track.
+§ Top Rank holder out of 560 Teams worldwide in UST Global D3	Hackathon 2017 and 2018.(Machine Learning +AI)</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>UST Global</EmployerOrgName>
+				<PositionHistory>
+					<Title>Leads/Manger/Architects to mentor the students, set up Exit</Title>
+					<OrgName>
+						<OrganizationName>UST Global</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>https://deepak-tiwari-ilearn.netlify.com</WebSite>
+					</OrgInfo>
+					<Description>Project: UST D3 Hackathon 2018.
+Public URL: https://deepak-tiwari-ilearn.netlify.com	Themes: Interfaces
+
+Responsibilities: Environment: RESTful Architecture/MEAN Stack
+This project I made as part of D3 Hackathon in which I participated	§ AngularJS 1.0.5/Bootstrap 2.2.2.
+and got top10 rank out of 560 Teams worldwide.	§ RequireJS/HTML 5/CSS3
+Team Size -1	§ ExpressJS/MongoDB
+DURATION: 3 Months	(SELF - OWNED)	§ NodeJS,Bower,Grunt,Gulp
+§ Artificial Intelligence &amp; Machine Learning
+
+
+Description: The project can be successfully deployed across Accounts in organization where it can be used by Technical
+Leads/Manger/Architects to mentor the students, set up Exit criteria's and keep refining the Account level technical needs and standards.
+The application is built on AI/ML framework which adds another dimension to the application through inbuilt systems like iMentor and iRecall2Predict which defines career path to associates and suggests them courses and adds gamification to the app by telling them of their
+performances as well. It uses the concept like Sentiment Analysis ,Full Text Search ,Recommender Engine ,Automatic Quiz Creation , Web
+Scraping the Wiki Pedia content , Chat bots etc.</Description>
+					<StartDate>
+						<Year>2018</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2018</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 60% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>UST Global</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Leads/Manager/Architects to mentor the students set up Exit</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>UST Global</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Nature of Work</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Technical Lead, Project Leader &amp; Web Application</Title>
+					<OrgName>
+						<OrganizationName>Nature of Work</OrganizationName>
+					</OrgName>
+					<Description>Designing &amp; Development using Java/J2EE,	AngularJS1.0.5, HTML 5,
+AngularJS, Bootstrap, Spring and Hibernate.	, JavaScript, Java/J2EE,
+TATA	4th-Aug-2010
+Assistant	Managed a Team of 18 associates.	,Modernizr,RequireJS,
+Consultanc	till
+Consultant	Responsibilities	Spring 3.x,Hibernate,
+y Services	04-Mar-2015
+Technical Lead.	JSP,Struts,JSF,JSON,
+Team Building &amp; Maximizing Team	XML,Ajax,C/C++
+Throughput
+Agile &amp; Reliable Support Process</Description>
+					<StartDate>
+						<YearMonth>2010-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 94% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>18</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>Nature of Work</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Technical Lead Project Leader AND Web Application</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Technical Lead</sov:Subtitle>
+								<sov:Subtitle>Project Leader &amp; Web Application</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Nature of Work</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Fellow</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>TOTAL WORK EXPERIENCE	11 YEARS</Description>
+					<StartDate>
+						<YearMonth>2010-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedTitle>Fellow</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>CDAC</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>CDAC</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>UTTAR PRADESH</Region>
+							<Municipality>Noida</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>development in Java/J2EE.	,JSP,Struts,JSF</Description>
+					<StartDate>
+						<YearMonth>2007-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2007-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>CDAC</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>CDAC</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>M.J.P Rohilkhand University</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>UTTAR PRADESH</Region>
+					<Municipality>Bareilly</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech</DegreeName>
+					<DegreeDate>
+						<Year>2007</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>CS &amp; IT</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>71</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2007</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>B.Tech (CS &amp; IT)	2007	I.E.T , M.J.P Rohilkhand University ,Bareilly	7.1 D.G.P.A [71% (1st Div)]</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.710</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>M J P Rohilkhand University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="high school or equivalent">
+					<DegreeName>Class XII</DegreeName>
+					<DegreeDate>
+						<Year>2002</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>I.S.C</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>75</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2002</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Class XII	2002	I.S.C	75% (1st Div)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.750</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>highSchoolOrEquivalent</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>highSchoolOrEquivalent</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="some high school or equivalent">
+					<DegreeName>Class X</DegreeName>
+					<DegreeDate>
+						<Year>2000</Year>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>89</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2000</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>EDUCATIONAL SUMMARY
+
+Year of	Name of Institute/	Percentage of Marks in aggregate and Exam/Degree
+Passing	Board/University	Division
+Class X	2000	I.C.S.E	89% (1st Div)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedGPA>0.890</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>someHighSchoolOrEquivalent</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some high school or equivalent</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Certified Engineer</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified ESA(Enterprise System Architecture) Engineer with 93</Name>
+				<Id>2</Id>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified Data Scientist on Python track</Name>
+				<Id>3</Id>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>TCS Certified</Name>
+				<Id>4</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>JavaScript (ES6/7) and CSS3 Certified Professional from SoloLearn</Name>
+				<Id>5</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>(ES6/7)</Name>
+				<Id>5</Id>
+				<Description>JavaScript (ES6/7) and CSS3 Certified Professional from SoloLearn</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>JavaScript</Name>
+				<Id>5</Id>
+				<Description>JavaScript (ES6/7) and CSS3 Certified Professional from SoloLearn</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Python Developer from Data Camp</Name>
+				<Id>8</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Machine Learning Engineer from Data Camp</Name>
+				<Id>9</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Data Scientist from Data Camp</Name>
+				<Id>10</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Received Synergy Award from TCS Executive V.P for Implementing Critical Process Change</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Received Best Production Support Team Award for FY '13 in TCS</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Received (S) miles award for being part of TCS Technical Recruitment Panel for various Campus and Off Campus hiring</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Received CLP Faculty Award in TCS for mentoring associates on AngularJS, REST and Performance Tuning</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Appreciation Note from TCS Senior Management for Flawless System Performance &amp; Improved Concurrency for FY'13</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Consistently ranked A and promoted to positions of higher responsibility within TCS</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Rank 5 holder among 560 Teams worldwide in UST D3 Hackathon '17	. (Theme- Artificial Intelligence &amp; Machine</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Top -10 Rank Holder among 700 Teams worldwide in UST D3 Hackathon '18.	(Theme - Interfaces)</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Application Architect, Developer/IC, Project/Technical Lead ,SME,CoE Committee Member,EAG Engineer</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2019-11-29</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>DEEPAK TIWARI (Application Architect,UI Lead &amp; Developer-Full Stack MEAN/MERN)
+Linked In: in.linkedin.com/pub/deepak-tiwari/a0/921/3b/
+E-mail: reach.deepaktiwari@gmail.com
+Phone No.: +91-9415745215(P),+91-6392251563 (S),+91-9450458358
+
+SUMMARY
+
+§ 12 Yrs IT Professional with expertise in Web Application Design &amp; Development on Full Stack MEAN/MERN Technologies.
+§ Application Architect, Developer/IC, Project/Technical Lead ,SME,CoE Committee Member,EAG Engineer
+§ TCS	Certified ESA(Enterprise System Architecture) Engineer with 93%.
+§ DataCamp	Certified Data Scientist on Python track.
+§ Top Rank holder out of 560 Teams worldwide in UST Global D3	Hackathon 2017 and 2018.(Machine Learning +AI)
+
+
+EXPERIENCE HIGHLIGHTS
+
+Place	Designation	Responsibilities/Nature of Work	Softwares Used.	Exp.
+SFDX,AWS,ReactJS,Angu
+Senior	Salesforce Lead , Engineering Testing Frameworks	larJS1.x,Aura with	27th Apr 2019
+EA Sport
+Architect	for Code Coverage and Quality Metrics for SFDX.	LTS.Mocha,Sinon and	till Date
+Jasmine
+ReactJS
+Application Architect(onsite) -(U.K) - Experian
+,NodeJS,MongoDB,Angu
+,Maersk ,Boots	larJS,HTML
+Technical Analyst(offshore) - Walmart ,Philips,	5,ES6,Docker,Webpack,	11-Mar-2015
+Application	HighMark
+UST Global	MySQL,RequireJS,Expres	till
+Architect	Responsibilities	sJS,Vue.JS,Angular2+,Ty	24-April2019
+Application Architect	peScript,Microservices,
+Data Analytics and Machine Learning	AWS,Azure,Jenkins,Spri
+Development/Code Reviews/Team Lead	ngBoot
+
+Nature of Work
+Technical Lead, Project Leader &amp; Web Application
+Designing &amp; Development using Java/J2EE,	AngularJS1.0.5, HTML 5,
+AngularJS, Bootstrap, Spring and Hibernate.	, JavaScript, Java/J2EE,
+TATA	4th-Aug-2010
+Assistant	Managed a Team of 18 associates.	,Modernizr,RequireJS,
+Consultanc	till
+Consultant	Responsibilities	Spring 3.x,Hibernate,
+y Services	04-Mar-2015
+Technical Lead.	JSP,Struts,JSF,JSON,
+Team Building &amp; Maximizing Team	XML,Ajax,C/C++
+Throughput
+Agile &amp; Reliable Support Process
+
+Senior	9th -Oct-2007
+CDAC	The nature of work involved Web Application	Javascript, Java/J2EE
+Research	till
+Noida	development in Java/J2EE.	,JSP,Struts,JSF
+Fellow	1st -Aug-2010
+
+TOTAL WORK EXPERIENCE	11 YEARS
+CHRONOLOGY OF RECENT PROJECT(S) UNDERTAKEN
+
+COMPANY: Experian, United Kingdom	Project: DATA PATROL
+Responsibilities: -
+Full Stack Application Engineer / Application Architect / Technical Lead / Development / SME / On-Site Lead
+Web-Application System Architect and System Designer focusing on developing huge scalable applications in NodeJS, React JS,
+AngularJS, Python, MongoDB, HTML 5, ExpressJS, ES6 / MS Typescript frameworks specially NodeJS and its Packages.
+Experience working with common front-end development tools such as Babel, Webpack, NPM, YARN.
+Working with RESTful API's (JSON/XML Web Services) and GraphQL.
+Working with Git, Stash, Bit Bucket, Web Hooks, and Nexus.
+Experience with SOLID Design Principles of OOPs, Design Patterns like Factory/Observer/Strategy/Proxy and Software Architectural
+Design Patterns like Layered/Client-Server/Master-Slave/Pipe-filter/Broker/Peer-to-Peer/Event-bus/MVC/Blackboard Pattern.
+Building Serverless REST API in Node.js &amp; MongoDB App and Dockerising it.
+Testing AngularJS Apps with Jasmine, Karma, Protractor and React Apps with Jest and Enzyme.
+Handling Authentication in MERN Stack using Bearer Token and Session Cookie.
+Setting up CI/CD Pipeline for Node.JS app with Jenkins.
+Securing Node.JS RESTful APIs with JWT Web Tokens
+Knowledge on Micro-services in Spring Boot, Web Sockets and ReactJS and security using JWT.
+Doing Data Visualization, Text Classification, Sentiment Analysis and building Chatbots using Python.
+Knowledge on Web crawlers and SEO Optimization.
+Optimizing ReactJS Apps and Web Performance.
+
+Description: Experian plc is a consumer credit reporting company. Experian collects and aggregates information on over one billion people and
+businesses including 235 million individual US consumers and more than 25 million US businesses. In addition to its credit services, Experian also
+sells decision analytic and marketing assistance to businesses, including individual fingerprinting and targeting. Its consumer services include
+online access to credit history and products meant to protect from fraud and identity theft.
+
+
+COMPANY: Boots eCommerce, London, United Kingdom	Project: Beautiful You 1.7
+Responsiilities: -
+Application Architect on Full Stack / Development
+Requirement Analysis, Client Interaction
+SPA Web Application development using
+ReactJS, ES6+, MongoDB, NodeJS, Docker, Azure, AWS, Jenkins.
+Performance Tuning and SEO Optimization for Website SERP
+Building RESTful APIs, JSON and Multithreaded Web Services.
+Design, Development of Microservices and scale using Message Queues, Spring bot and Kubernetes.
+Build and Deployment with Continuous Delivery using ReactJS, Docker and Microsoft Azure.
+Handling Security, Authentication and Authorization.
+Developing Applications on OOPs SOLID Principles.
+Desgn and Develop applications using SpringBoot + Spring MVC + Spring Security + MySQL
+Working with UX Team to design CSS styles using Layouting/Responsive/Adaptive Design,Specificity and Namespacing.
+
+Description: Boots is the UK's largest pharmacy-led health and beauty chain. Boots UK is part of the Retail Pharmacy International Division of
+Walgreens Boots Alliance, Inc, the first global pharmacy-led health and wellbeing enterprise.
+The Responsibilities were focused in development and maintenance of their Commercial Boots website which offered a catalogue, selection of
+various products to be bought online from their stores with option for Online Payment Gateways and Step Door Deliveries.
+CHRONOLOGY OF RECENT PROJECT(S) UNDERTAKEN   .contd
+
+COMPANY: Maersk - United Kingdom	Project: Maersk Line
+Responsibilities: -
+Front End Lead and Senior Developer
+Optimization &amp; Benchmarking while developing Application using Full Stack Technologies.
+Responsible for automating the daily operations, monitoring, automated installation, configuration and patching of Linux
+Application servers, and production application deployment.
+System administration for the entire system development lifecycle in a dynamic data searching, indexing services environment.
+Full Stack Web Application Development using MongoDB, ExpressJS, ReactJS and NodeJS.
+Operationalizing Node.js for Server-side Rendering and Managing Threads in NodeJS.
+Improving Performance in ReactJS and NodeJS.
+Setting up Continuous Build and Deployment and Delivery using Jenkins, Docker and Azure.
+Setting up Authentication for Node.js and MongoDB for a ReactJS App.
+Working with APIs using Flask, FlaskRESTPlus and SwaggerUI.
+Working with AngularJS 1.5, Webpack, Node and Spring Boots.
+Resolving cross-browser/platform issues
+Developing dash boarding or charting applications on responsive web / mobile.
+
+Description: Maersk Line, is the largest operating unit in A.P. Moller-Maersk by revenue and staff.Maersk is structured into two main business
+segments: transport &amp; logistics and energy. These two branches include several subsidiaries such as container shipping and related activities.
+"Container shipping and related activities" is the largest business area for A.P. Moller-Maersk, providing almost half of the group's revenue in 2008.
+It comprises worldwide container services, logistics and forwarding and terminal activities under the brand names: Maersk Line, Safmarine,
+and Damco.
+
+
+PROJECT: Disrupt &amp; Move from Reading to Remembering by adding Self-teaching/mentoring capability and gamification to eLearning
+systems using Artificial Intelligence and Machine Learning.
+
+Company: UST Global	Project: UST D3 Hackathon 2018.
+Public URL: https://deepak-tiwari-ilearn.netlify.com	Themes: Interfaces
+
+Responsibilities: Environment: RESTful Architecture/MEAN Stack
+This project I made as part of D3 Hackathon in which I participated	§ AngularJS 1.0.5/Bootstrap 2.2.2.
+and got top10 rank out of 560 Teams worldwide.	§ RequireJS/HTML 5/CSS3
+Team Size -1	§ ExpressJS/MongoDB
+DURATION: 3 Months	(SELF - OWNED)	§ NodeJS,Bower,Grunt,Gulp
+§ Artificial Intelligence &amp; Machine Learning
+
+
+Description: The project can be successfully deployed across Accounts in organization where it can be used by Technical
+Leads/Manger/Architects to mentor the students, set up Exit criteria's and keep refining the Account level technical needs and standards.
+The application is built on AI/ML framework which adds another dimension to the application through inbuilt systems like iMentor and
+iRecall2Predict which defines career path to associates and suggests them courses and adds gamification to the app by telling them of their
+performances as well. It uses the concept like Sentiment Analysis ,Full Text Search ,Recommender Engine ,Automatic Quiz Creation , Web
+Scraping the Wiki Pedia content , Chat bots etc.
+
+
+EDUCATION , TRAINING &amp; CERTIFICATION
+EDUCATIONAL SUMMARY
+
+Year of	Name of Institute/	Percentage of Marks in aggregate and
+Exam/Degree
+Passing	Board/University	Division
+Class X	2000	I.C.S.E	89% (1st Div)
+Class XII	2002	I.S.C	75% (1st Div)
+B.Tech (CS &amp; IT)	2007	I.E.T , M.J.P Rohilkhand University ,Bareilly	7.1 D.G.P.A [71% (1st Div)]
+
+TRAININGS
+
+1. Training at PNB	Institute of Information Technology, Lucknow for Advanced Java and J2EE Technologies.
+2. Received 4 months Training in Siemens	as Graduate Trainee on their Office Automation Solution.
+3. Certification on Analysis and Algorithmic Design Principles from Udemy
+4. MEAN Stack Web Developer Training from Udemy.
+5. React+Redux Training from Udemy
+
+CERTIFICATIONS
+
+§   Java Certified Engineer from Cambridge Certification Authority
+§   Python Developer from Data Camp
+§   Machine Learning Engineer from Data Camp
+§   Data Scientist from Data Camp
+§   TCS Certified	Engineer on Enterprise Architecture Design Principles. Score 93%.
+§   JavaScript (ES6/7) and CSS3 Certified Professional from SoloLearn.
+
+
+AWARDS/APPRECIATIONS
+
+Received Synergy Award from TCS Executive V.P for Implementing Critical Process Change.
+Received Best Production Support Team Award for FY '13 in TCS.
+Appreciation Note from TCS Senior Management for Flawless System Performance &amp; Improved Concurrency for FY'13.
+Consistently ranked A and promoted to positions of higher responsibility within TCS.
+Received (S) miles award for being part of TCS Technical Recruitment Panel for various Campus and Off Campus hiring.
+Received CLP Faculty Award in TCS for mentoring associates on AngularJS, REST and Performance Tuning.
+Rank 5 holder among 560 Teams worldwide in UST D3 Hackathon '17	. (Theme- Artificial Intelligence &amp; Machine
+Learning).
+Top -10 Rank Holder among 700 Teams worldwide in UST D3 Hackathon '18.	(Theme - Interfaces).</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>DEEPAK TIWARI's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and slightly concentrated in User Experience (mostly Industrial Design). DEEPAK TIWARI's experience appears to be entry level, with 15 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>15</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>3</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>13</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>low-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 1/1/2018, the candidate held the following low-level management position for 12 months:
+	Title: Leads/Manger/Architects to mentor the students, set up Exit for UST Global
+Starting on 8/1/2010, the candidate held the following low-level management position for 1 months:
+	Title: Technical Lead, Project Leader &amp; Web Application for Nature of Work</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="69">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="17" percentOfParentTaxonomy="25">
+								<sov:Skill name="ARTIFICIAL INTELLIGENCE" id="5530905" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DATA VISUALIZATION" id="5530962" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in CERTIFICATIONS; SUMMARY; WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="SENTIMENT ANALYSIS" id="5531060" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="12" percentOfParentTaxonomy="17">
+								<sov:Skill name="AUTHENTICATION" id="005912" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in CERTIFICATIONS; SUMMARY; WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="TOKENS" id="3380015" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="12" percentOfParentTaxonomy="17">
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in CERTIFICATIONS; SUMMARY; WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="11" percentOfParentTaxonomy="16">
+								<sov:Skill name="API" id="021194" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="APPLICATION DEVELOPMENT" id="021556" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="C/C++" id="002371" existsInText="true" totalMonths="1" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" totalMonths="1" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="CLP" id="013561" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"></sov:Skill>
+								<sov:Skill name="DESIGN PATTERNS" id="015257" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DOCKER" id="3391147" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="13" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-1; POS-4"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" totalMonths="2" lastUsed="2010-08-31" whereFound="Found in CERTIFICATIONS; WORK HISTORY; POS-1; POS-2" childrenTotalMonths="13" childrenLastUsed="2018-12-31">
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" totalMonths="13" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-1; POS-4"></sov:ChildSkill>
+									<sov:ChildSkill name="NODE.JS" id="339002002" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+									<sov:ChildSkill name="REACTJS" id="3391100" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+									<sov:ChildSkill name="REDUX" id="3391108" existsInText="true" whereFound="Found in TRAINING"></sov:ChildSkill>
+									<sov:ChildSkill name="TYPESCRIPT" id="3391102" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+									<sov:ChildSkill name="VUE.JS" id="3391105" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+									<sov:ChildSkill name="WEBPACK" id="3391104" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="JSON" id="5520555" existsInText="true" totalMonths="1" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in CERTIFICATIONS; SUMMARY; WORK HISTORY">
+									<sov:ChildSkill name="FLASK" id="3391121" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="REQUIREMENT ANALYSIS" id="022962" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SYSTEM DEVELOPMENT" id="009085" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" totalMonths="1" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="9" percentOfParentTaxonomy="13">
+								<sov:Skill name="ANGULARJS" id="5520505" existsInText="true" totalMonths="13" lastUsed="2018-12-31" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-1; POS-4"></sov:Skill>
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" totalMonths="13" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-1; POS-4"></sov:Skill>
+								<sov:Skill name="MODEL VIEW CONTROLLER" id="5520572" existsInText="false">
+									<sov:ChildSkill name="MVC" id="552057201" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SOCKETS" id="5520606" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data Mining" id="192" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="ARTIFICIAL INTELLIGENCE" id="003449" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="J2EE" id="020255" existsInText="true" totalMonths="2" lastUsed="2010-08-31" whereFound="Found in TRAINING; WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="2" lastUsed="2010-08-31" whereFound="Found in CERTIFICATIONS; TRAINING; WORK HISTORY; POS-1; POS-2" childrenTotalMonths="1" childrenLastUsed="2010-08-31">
+									<sov:ChildSkill name="HIBERNATE" id="3391127" existsInText="true" totalMonths="1" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" totalMonths="1" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JSF" id="339034" existsInText="true" totalMonths="2" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="JSP" id="339001" existsInText="true" totalMonths="2" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="STRUTS" id="026009" existsInText="true" totalMonths="2" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="AJAX" id="196001" existsInText="true" totalMonths="1" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="ECOMMERCE" id="026768" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SECURITY" id="022110" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="CLIENT-SERVER" id="1980059" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="OPTIMIZATION" id="023294" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SYSTEMS ADMINISTRATION" id="009105" existsInText="false">
+									<sov:ChildSkill name="SYSTEM ADMINISTRATION" id="009077" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="REST" id="7180010" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APPLICATION DESIGN" id="021547" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="ENTERPRISE ARCHITECTURE" id="016667" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="MVC" id="003233" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DESIGN PATTERNS" id="7310026" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="MODEL-VIEW-CONTROLLER" id="7310042" existsInText="false">
+									<sov:ChildSkill name="MVC" id="7310043" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="UNIX" id="01026309" existsInText="false">
+									<sov:ChildSkill name="UX" id="010377" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="APPLICATION DEPLOYMENT" id="021532" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="FRAMEWORKS" id="017954" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="TEAM LEAD" id="009222" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="HP-UX" id="5551150" existsInText="false">
+									<sov:ChildSkill name="UX" id="555115001" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SOCKETS" id="026534" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SYSTEM ADMINISTRATION" id="3490001" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="13">
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="12" percentOfParentTaxonomy="90">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in CERTIFICATIONS; SUMMARY; WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="FRONT END DESIGN" id="5570111" existsInText="false">
+									<sov:ChildSkill name="FRONT-END" id="5570112" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Information Architect" id="567" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="FRONT END" id="5570300" existsInText="true" whereFound="Found in WORK HISTORY">
+									<sov:ChildSkill name="FRONT-END" id="5570301" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="FRONT END" id="5570217" existsInText="true" whereFound="Found in WORK HISTORY">
+									<sov:ChildSkill name="FRONT-END" id="5570218" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Interactive Design" id="572" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VISUALIZATION" id="5570157" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VISUALIZATION" id="5570127" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VISUALIZATION" id="5570120" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Visual Design" id="565" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VISUALIZATION" id="5570073" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Motion Design" id="564" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="VISUALIZATION" id="5570059" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="7">
+							<sov:Subtaxonomy name="Environmental" id="136" percentOfOverall="6" percentOfParentTaxonomy="94">
+								<sov:Skill name="UST" id="010331" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SUMMARY; WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="JSF" id="020356" existsInText="true" totalMonths="2" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="SIEMENS" id="080720" existsInText="true" whereFound="Found in TRAINING"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="0" percentOfParentTaxonomy="3">
+								<sov:Skill name="ITS" id="020239" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="OPTIMIZATION" id="023295" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="3">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="1" percentOfParentTaxonomy="54">
+								<sov:Skill name="ECOMMERCE" id="081146" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="RETAIL" id="030018" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Account Management" id="104" percentOfOverall="1" percentOfParentTaxonomy="42"></sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Direct Sales" id="102" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="ECOMMERCE" id="081152" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Knowledge and Learning Management" id="92" percentOfOverall="1">
+							<sov:Subtaxonomy name="General Knowledge and Learning Management" id="903" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="MENTOR" id="200052" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="MENTORING" id="200051" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Petrochemical" id="44" percentOfOverall="1">
+							<sov:Subtaxonomy name="Refining" id="442" percentOfOverall="1" percentOfParentTaxonomy="86">
+								<sov:Skill name="REFINING" id="006670" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Drilling" id="441" percentOfOverall="0" percentOfParentTaxonomy="14">
+								<sov:Skill name="OFFSHORE" id="003754" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="1">
+							<sov:Subtaxonomy name="Technical Product Marketing" id="586" percentOfOverall="0" percentOfParentTaxonomy="33">
+								<sov:Skill name="SUBJECT MATTER EXPERT" id="1400032" existsInText="false">
+									<sov:ChildSkill name="SME" id="1400033" existsInText="true" whereFound="Found in SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="0" percentOfParentTaxonomy="26">
+								<sov:Skill name="SEARCH ENGINE OPTIMIZATION" id="1400234" existsInText="false">
+									<sov:ChildSkill name="SEO" id="1400235" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel Management" id="226" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="RETAIL MARKETING" id="1400215" existsInText="false">
+									<sov:ChildSkill name="RETAIL" id="1400216" existsInText="true" whereFound="Found in WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Data &amp; Analytics" id="588" percentOfOverall="0" percentOfParentTaxonomy="16">
+								<sov:Skill name="DATA ANALYTICS" id="1400067" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="0" percentOfParentTaxonomy="9">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="1">
+							<sov:Subtaxonomy name="People Oriented" id="517" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="MENTOR" id="021625" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="TEAM BUILDING" id="009221" existsInText="true" totalMonths="1" lastUsed="2010-08-31" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="1">
+							<sov:Subtaxonomy name="Other" id="293" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="SCRAPING" id="007556" existsInText="true" totalMonths="12" lastUsed="2018-12-31" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="1">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="0" percentOfParentTaxonomy="83">
+								<sov:Skill name="CREDIT" id="022227" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="CREDIT REPORTING" id="023658" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="METRICS" id="021737" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="SHIPPING" id="022445" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PERFORMANCE TUNING" id="004550" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="0">
+							<sov:Subtaxonomy name="Tax" id="702" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="NEXUS" id="7000014" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Credit and Underwriting" id="240" percentOfOverall="0" percentOfParentTaxonomy="50">
+								<sov:Skill name="CREDIT" id="014614" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Recruiting" id="37" percentOfOverall="0">
+							<sov:Subtaxonomy name="Recruiting Tasks and Activities" id="492" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="RECRUITMENT" id="006647" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="0">
+							<sov:Subtaxonomy name="Recruitment &amp; Staffing" id="190" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="RECRUITMENT" id="006646" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Retail" id="78" percentOfOverall="0">
+							<sov:Subtaxonomy name="Types" id="510" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="RETAIL PHARMACY" id="025894" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Healthcare Non-physician Non-nurse" id="95" percentOfOverall="0">
+							<sov:Subtaxonomy name="Operations" id="165" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PHARMACY" id="004648" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Education" id="77" percentOfOverall="0">
+							<sov:Subtaxonomy name="Positions" id="505" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEACHING" id="026880" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="0">
+							<sov:Subtaxonomy name="Logistics" id="460" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="LOGISTICS" id="022309" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Installation, Maintenance, Repair" id="72" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Repair" id="452" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022117" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="0">
+							<sov:Subtaxonomy name="Document-centric" id="109" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="FINGERPRINTING" id="031003" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Call Center or Help Desk or Customer Service" id="46" percentOfOverall="0">
+							<sov:Subtaxonomy name="Customer Facing" id="130" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CLIENT INTERACTION" id="013440" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Nursing" id="99" percentOfOverall="0">
+							<sov:Subtaxonomy name="Techniques" id="457" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CHARTING" id="089003" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Transmission &amp; Distribution" id="45" percentOfOverall="0">
+							<sov:Subtaxonomy name="Transmission" id="326" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="PIPELINE" id="004805" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Training" id="64" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="361" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEACHING" id="026879" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Clinical" id="28" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="277" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="RETAIL PHARMACY" id="025893" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:TrainingHistory>
+				<sov:Text>1. Training at PNB	Institute of Information Technology, Lucknow for Advanced Java and J2EE Technologies.
+2. Received 4 months Training in Siemens	as Graduate Trainee on their Office Automation Solution.
+3. Certification on Analysis and Algorithmic Design Principles from Udemy
+4. MEAN Stack Web Developer Training from Udemy.
+5. React+Redux Training from Udemy</sov:Text>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity>Institute of Information Technology</sov:Entity>
+					<sov:Description>1. Training at PNB	Institute of Information Technology, Lucknow for Advanced Java and J2EE Technologies</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity>Siemens</sov:Entity>
+					<sov:Description>2. Received 4 months Training in Siemens	as Graduate Trainee on their Office Automation Solution</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>3. Certification on Analysis and Algorithmic Design Principles from Udemy</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>4. MEAN Stack Web Developer Training from Udemy</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>5. React+Redux Training from Udemy</sov:Description>
+				</sov:Training>
+			</sov:TrainingHistory>
+			<sov:Sections>
+				<sov:Section starts="5" ends="13" sectionType="SUMMARY">SUMMARY</sov:Section>
+				<sov:Section starts="14" ends="54" sectionType="WORK HISTORY">EXPERIENCE HIGHLIGHTS</sov:Section>
+				<sov:Section starts="55" ends="149" sectionType="WORK HISTORY">CHRONOLOGY OF RECENT PROJECT(S) UNDERTAKEN [PROJECT_HEADERS_SUBSECTION_OF_WORK_SECTION]</sov:Section>
+				<sov:Section starts="150" ends="159" sectionType="EDUCATION">EDUCATION , TRAINING &amp; CERTIFICATION</sov:Section>
+				<sov:Section starts="160" ends="167" sectionType="TRAINING">TRAININGS</sov:Section>
+				<sov:Section starts="168" ends="177" sectionType="CERTIFICATIONS">CERTIFICATIONS</sov:Section>
+				<sov:Section starts="178" ends="188" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">AWARDS/APPRECIATIONS</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Phone No.: +91-9415745215</sov:Phone>
+					<sov:Phone>+91-9415745215</sov:Phone>
+					<sov:Phone>(P),+91-6392251563</sov:Phone>
+					<sov:Phone>+91-6392251563</sov:Phone>
+					<sov:Phone>+91-9450458358</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>deepak-tiwari</sov:Name>
+					<sov:Name>DEEPAK TIWARI</sov:Name>
+					<sov:Name>DEEPAK TIWARI (Application Architect,UI Lead &amp; Developer-Full Stack MEAN/MERN)</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>reach.deepaktiwari@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>in.linkedin.com/pub/deepak-tiwari/a0/921/3b</sov:Url>
+					<sov:Url>https://deepak-tiwari-ilearn.netlify.com</sov:Url>
+				</sov:Urls>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>10685</sov:ParsedTextLength>
+			<sov:ParseTime>1948</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:221;POS-2] We could not find a job title for: POS-2. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:222;POS-3] No employer name was found for:  POS-3. Every position in a resume should have an employer name.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-2,DEG-1] The following educational degrees are not associated with a school: DEG-2, DEG-1. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:133;] Multiple phone numbers were found in the contact information. Only one phone number should be included in a resume.</sov:Information>
+							<sov:Information>[Sovren:161;DEG-2,DEG-1] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:c19c0335-7f06-42eb-96d4-4a8a23f86524</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.9.0</sov:ParserVersion>
+			<sov:DigitalSignature>Dr3+//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

@@ -1,0 +1,1607 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Purna Chandra B",
+          "GivenName": "Purna",
+          "MiddleName": "Chandra",
+          "FamilyName": "B"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Hyderabad",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Full Stack Engineer"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "+919160278155"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "bpcrao@gmail.com"
+          }
+        ]
+      },
+      "ExecutiveSummary": "+919160278155\r\n\r\nProfessional experience of 12 Years\tbpcrao@gmail.com\r\nDomain experience in e-Discovery, Telecom and Market Research\r\nGood in design principles, design patterns\t• linkedin.com/pub/purna-\r\nExperience working in Agile frameworks like Scrum and Kanban\tboyapati/16/b34/10b\r\nExposure to full stack technologies\r\nstackoverflow.com/users/4653486/pu\r\nrna",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "JProfiler, Yourkit",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Engineer",
+                "OrgName": {
+                  "OrganizationName": "JProfiler, Yourkit"
+                },
+                "Description": "Performance issues, JProfiler, Yourkit",
+                "StartDate": {
+                  "YearMonth": "2006-10"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "X",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "JProfiler Yourkit",
+                    "sov:NormalizedTitle": "Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "JProfiler Yourkit"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Principal Engineer",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "Testing",
+                "StartDate": {
+                  "YearMonth": "2013-03"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Principal Engineer"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "OpenText Technologies",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Principal Engineer",
+                "OrgName": {
+                  "OrganizationName": "OpenText Technologies"
+                },
+                "Description": "SKILLS",
+                "StartDate": {
+                  "Year": "2017"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "OpenText Technologies",
+                    "sov:NormalizedTitle": "Principal Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "OpenText Technologies"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Pramati Technologies",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Pramati Technologies"
+                },
+                "Description": "JUNIT, TestNG, Mocking, TDD",
+                "StartDate": {
+                  "YearMonth": "2017-01"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → QA and QC",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Pramati Technologies"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Pramati Technologies"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Nokia Siemens Networks",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "R&d Engineer",
+                "OrgName": {
+                  "OrganizationName": "Nokia Siemens Networks"
+                },
+                "Description": "Performance\r\n\r\nWorked on Deadlock issues,",
+                "StartDate": {
+                  "Year": "2009"
+                },
+                "EndDate": {
+                  "YearMonth": "2013-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SK",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Nokia Siemens Networks",
+                    "sov:NormalizedTitle": "R&d Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Nokia Siemens Networks"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Sasken Communication Technologies Ltd",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Cloud Technologies"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2009-02"
+                },
+                "EndDate": {
+                  "YearMonth": "2009-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Cloud Technologies"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Sasken Communication Technologies"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "School of Information Technology JNTU Hyderabad"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Hyderabad"
+            },
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "M.S.I.T",
+                "DegreeDate": {
+                  "Year": "2006"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Software Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "2004"
+                    },
+                    "EndDate": {
+                      "Year": "2006"
+                    }
+                  }
+                ],
+                "Comments": "Exposure to AWS, GCP, Docker\r\nCourses\r\nServer-side Development with NodeJS @ Coursera\r\nIntroduction to Data Science @ Coursera\tUI Technologies\r\nGoogle Cloud Platform Fundamentals @ Google\r\nGCP Essentials @ Qwiklabs\tEmberJS, AngularJS, VueJS,\r\nGetting Started with Google Kubernetes Engine @ Coursera\tBackboneJS, Dojo, Marionette\r\n\r\n\r\nMiddleware\r\n2004 - 2006\tM.S.I.T (Software Engineering)\r\nSchool of Information Technology JNTU Hyderabad in association with Carnegie\r\nOracle SOA suite, Camunda workflow",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "masters",
+                    "sov:NormalizedDegreeType": "masters"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "School of Information Technology JNTU Hyderabad"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Mellon University"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "Year": "2003"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Technology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "1999"
+                    },
+                    "EndDate": {
+                      "Year": "2003"
+                    }
+                  }
+                ],
+                "Comments": "Mellon University\r\nengine, Apache Service Mix\r\n\r\n1999 - 2003\tB.Technology (Computer Science Engineering)\r\nBackend Technologies",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Mellon University"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "JNTU"
+              }
+            ],
+            "Degree": [
+              {
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Design"
+                    ]
+                  }
+                ],
+                "DegreeMinor": [
+                  {
+                    "Name": [
+                      "technology"
+                    ]
+                  }
+                ],
+                "Comments": "JNTU\r\nCore Java, Spring, Hibernate, Gradle,\r\nWebservices, Elasticsearch\r\nLAUNCHPAD @ OPENTEXT\r\nRoles & Responsibilities\r\n\r\n1.   Work on features development\tWORK EXPERIENCE\r\n2.   Code reviews for the team\r\n3.   Design reviews and Discussions\r\n4.   Architectural Discussions\r\n5.   Productions Issues support\r\n6.   Release Support\r\n\r\nSoftware Technologies:\r\nJava, Spring, Hibernate, webservices, Tomcat, Docker, AWS, Postgres, elastic search, Backbonejs\r\nMarionette and VueJS\r\n\r\n\r\nDescription:\r\nLaunchPad is an Application which manages the project for e-Discovery product called Axcellerate of Recommind, to create and manage Cases for Lawyers and Law firms, which there by enable them to setup authorization and configuration of their e-Discovery product\r\n\r\n\r\nAFFINNOVA STUDIO @ PRAMATI\r\nRoles & Responsibilities\r\n\r\n1.   Work on features development\r\n2.   Code reviews for the team\r\n3.   Design reviews and Discussions\r\n4.   Scrum master\r\n\r\nSoftware Technologies:\r\nGroovy, SQL Server, Tomcat, GORM, EmberJS, Dojo\r\n\r\nDescription:\r\nAffinnova by Nielsen is the technology platform of choice for companies seeking to dramatically\r\nimprove their innovation and marketing success rates. Powered by Affinnova's optimization\r\nalgorithms and predictive analytics and insights, marketers can explore a substantially wider\r\ncreative space of product.\r\n\r\n\r\nCORE NETWORK PRODUCTIVITY SUITE @ NOKIA SIEMENS\r\nNETWORKS\r\nRoles & Responsibilities\r\n\r\n1. Work on features development\r\n2. Code reviews for the team\r\n3. Design reviews and Discussions\r\n\r\nSoftware Technologies:\r\nJava, EJB, Vaadin, Oracle SOA Suite, Weblogic, Eclipse, Maven\r\n\r\nDescription:\r\nA set of new value-add applications which use flexible Service Oriented Architecture (SOA)\r\ntechnology on the basis of NSN's Process Automation Enabling\r\nDashboard: Every application in CNPS needs a summary portlet, the infrastructure for this is\r\ngiven by dashboard, Some of features the dashboard provides are common widgets like Filter\r\nTable, Application Portlet etc.\r\nTaskList: Every application in CNPS created a tasks which are generated by the applications or by the CNPS system all which is handled by the task List application.It is built using Oracle Work\r\nList as backend and GUI using Vaadin.\r\nScheduler: This application is used to schedule the tasks of all the applications with features like\r\nRun Once, Schedule, Cancel is built using EJB 3.0 Timers and GUI using Vaadin.\r\nFNI: This is one application in CNPS which collects the performance/capacity statistics of Network Elements and does a forecast of them to say when in future the network element can\r\nbe overloaded so that the network operator can plan well ahead and avoid any outages.\r\n\r\n\r\nNETACT BSS @ NOKIA SIEMENS NETWORKS\r\nRoles & Responsibilities\r\n\r\n1.   Work on features development\r\n2.   Code reviews for the team\r\n3.   Design reviews and Discussions\r\n4.   Scrum master\r\n\r\nSoftware Technologies:\r\nSNMP, Telnet, JMS, Java, XML, XSLT, Oracle, Linux, Apache Servicemix, Web Services, Oracle\r\n\r\nDescription:\r\nNetAct is the operations support system (OSS). It is used to manage overall network operations and individual network elements., Its used to manage Charging and Billing Network Elements, Charge @\r\nOnce, Meinberg Lantime Server, Radisys Media Server etc..\r\nFault Management: Collects traps from the above mentioned Network Elements and shows it in the FM GUI, so that operators can handle the alarms by approving or clearing them.\r\nInventory Management: Maintains and collects the Inventory of the network elements like the IP\r\naddress, Interfaces, Ports etc\r\n@-COM (ADVANTAGE COMMANDER) @ NOKIA SIEMENS\r\nNETWORKS\r\nRoles & Responsibilities\r\n\r\n1. Work on features development\r\n2. Code reviews for the team\r\n3. Design reviews and Discussions\r\n\r\nSoftware Technologies:\r\nSNMP, Telnet, JMS, Java, XML, XSLT, Oracle, Linux, Apache Servicemix, Web Services, Oracle\r\n\r\nDescription:\r\nAdvantage Commander is a NMS which is used to manage many network Elements it has modules like Configuration Management, Fault Management, Performance Management, Inventory\r\nManagement, Auditing etc.\r\nPerformance Management: This Module tracks and gathers the Performance statistics of the network elements like the CPU, Memory used, ports open, data flowing etc.\r\nFault Management: Collects traps from the above mentioned Network Elements and shows it in the FM GUI, so that operators can handle the alarms by approving or clearing them\r\n\r\n\r\nNET PROVISION @ SUBEX\r\nRoles & Responsibilities\r\n\r\n1. Work on features development\r\n2. Code reviews for peers\r\n\r\nSoftware Technologies:\r\nJAVA, JSP, Extjs Tomcat\r\n\r\nDescription:\r\nNet Provision is MPLS VPN provisioning software, It gives service providers complete top-to-bottom\r\nautomated control over applications, policies and services including IP-VPNs, Virtual LANs,\r\nbroadband access, optical etc.It has modules called SIA, SIX and SIV which enable creating access\r\npaths, VPN paths, SIX is one component which enables user to execute custom scripts of",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "JNTU"
+              }
+            }
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "Purna Chandra B\r\nFull Stack Engineer\r\nHyderabad\r\n\r\nSUMMARY\t+919160278155\r\n\r\nProfessional experience of 12 Years\tbpcrao@gmail.com\r\nDomain experience in e-Discovery, Telecom and Market Research\r\nGood in design principles, design patterns\t• linkedin.com/pub/purna-\r\nExperience working in Agile frameworks like Scrum and Kanban\tboyapati/16/b34/10b\r\nExposure to full stack technologies\r\nstackoverflow.com/users/4653486/pu\r\nrna\r\nWORK EXPERIENCE\r\n2017-01 - to\tPrincipal Engineer\r\ndate\tOpenText Technologies\tSKILLS\r\n\r\n2013-03 -\tPrincipal Engineer\r\nTesting\r\n2017-01\tPramati Technologies\r\nJUNIT, TestNG, Mocking, TDD\r\n2009-03 -\tR&d Engineer\r\n2013-02\tNokia Siemens Networks\tPerformance\r\n\r\nWorked on Deadlock issues,\r\n2006-10 -\tEngineer\r\nPerformance issues, JProfiler, Yourkit\r\n2009-02\tSasken Communication Technologies Ltd\r\n\r\nCloud Technologies\r\nEDUCATION\r\nExposure to AWS, GCP, Docker\r\nCourses\r\nServer-side Development with NodeJS @ Coursera\r\nIntroduction to Data Science @ Coursera\tUI Technologies\r\nGoogle Cloud Platform Fundamentals @ Google\r\nGCP Essentials @ Qwiklabs\tEmberJS, AngularJS, VueJS,\r\nGetting Started with Google Kubernetes Engine @ Coursera\tBackboneJS, Dojo, Marionette\r\n\r\n\r\nMiddleware\r\n2004 - 2006\tM.S.I.T (Software Engineering)\r\nSchool of Information Technology JNTU Hyderabad in association with Carnegie\r\nOracle SOA suite, Camunda workflow\r\nMellon University\r\nengine, Apache Service Mix\r\n\r\n1999 - 2003\tB.Technology (Computer Science Engineering)\r\nBackend Technologies\r\nJNTU\r\nCore Java, Spring, Hibernate, Gradle,\r\nWebservices, Elasticsearch\r\nLAUNCHPAD @ OPENTEXT\r\nRoles & Responsibilities\r\n\r\n1.   Work on features development\tWORK EXPERIENCE\r\n2.   Code reviews for the team\r\n3.   Design reviews and Discussions\r\n4.   Architectural Discussions\r\n5.   Productions Issues support\r\n6.   Release Support\r\n\r\nSoftware Technologies:\r\n\r\nJava, Spring, Hibernate, webservices, Tomcat, Docker, AWS, Postgres, elastic search, Backbonejs\r\nMarionette and VueJS\r\n\r\n\r\nDescription:\r\nLaunchPad is an Application which manages the project for e-Discovery product called Axcellerate\r\nof Recommind, to create and manage Cases for Lawyers and Law firms, which there by enable them\r\nto setup authorization and configuration of their e-Discovery product\r\n\r\n\r\nAFFINNOVA STUDIO @ PRAMATI\r\nRoles & Responsibilities\r\n\r\n1.   Work on features development\r\n2.   Code reviews for the team\r\n3.   Design reviews and Discussions\r\n4.   Scrum master\r\n\r\nSoftware Technologies:\r\n\r\nGroovy, SQL Server, Tomcat, GORM, EmberJS, Dojo\r\n\r\nDescription:\r\n\r\nAffinnova by Nielsen is the technology platform of choice for companies seeking to dramatically\r\nimprove their innovation and marketing success rates. Powered by Affinnova's optimization\r\nalgorithms and predictive analytics and insights, marketers can explore a substantially wider\r\ncreative space of product.\r\n\r\n\r\nCORE NETWORK PRODUCTIVITY SUITE @ NOKIA SIEMENS\r\nNETWORKS\r\nRoles & Responsibilities\r\n\r\n1. Work on features development\r\n2. Code reviews for the team\r\n3. Design reviews and Discussions\r\n\r\nSoftware Technologies:\r\n\r\nJava, EJB, Vaadin, Oracle SOA Suite, Weblogic, Eclipse, Maven\r\n\r\nDescription:\r\n\r\nA set of new value-add applications which use flexible Service Oriented Architecture (SOA)\r\ntechnology on the basis of NSN's Process Automation Enabling\r\nDashboard: Every application in CNPS needs a summary portlet, the infrastructure for this is\r\ngiven by dashboard, Some of features the dashboard provides are common widgets like Filter\r\nTable, Application Portlet etc.\r\nTaskList: Every application in CNPS created a tasks which are generated by the applications or\r\nby the CNPS system all which is handled by the task List application.It is built using Oracle Work\r\nList as backend and GUI using Vaadin.\r\nScheduler: This application is used to schedule the tasks of all the applications with features like\r\nRun Once, Schedule, Cancel is built using EJB 3.0 Timers and GUI using Vaadin.\r\nFNI: This is one application in CNPS which collects the performance/capacity statistics of\r\nNetwork Elements and does a forecast of them to say when in future the network element can\r\nbe overloaded so that the network operator can plan well ahead and avoid any outages.\r\n\r\n\r\nNETACT BSS @ NOKIA SIEMENS NETWORKS\r\nRoles & Responsibilities\r\n\r\n1.   Work on features development\r\n2.   Code reviews for the team\r\n3.   Design reviews and Discussions\r\n4.   Scrum master\r\n\r\nSoftware Technologies:\r\n\r\nSNMP, Telnet, JMS, Java, XML, XSLT, Oracle, Linux, Apache Servicemix, Web Services, Oracle\r\n\r\nDescription:\r\n\r\nNetAct is the operations support system (OSS). It is used to manage overall network operations and\r\nindividual network elements., Its used to manage Charging and Billing Network Elements, Charge @\r\nOnce, Meinberg Lantime Server, Radisys Media Server etc..\r\nFault Management: Collects traps from the above mentioned Network Elements and shows it in\r\nthe FM GUI, so that operators can handle the alarms by approving or clearing them.\r\nInventory Management: Maintains and collects the Inventory of the network elements like the IP\r\naddress, Interfaces, Ports etc\r\n@-COM (ADVANTAGE COMMANDER) @ NOKIA SIEMENS\r\nNETWORKS\r\nRoles & Responsibilities\r\n\r\n1. Work on features development\r\n2. Code reviews for the team\r\n3. Design reviews and Discussions\r\n\r\nSoftware Technologies:\r\n\r\nSNMP, Telnet, JMS, Java, XML, XSLT, Oracle, Linux, Apache Servicemix, Web Services, Oracle\r\n\r\nDescription:\r\n\r\nAdvantage Commander is a NMS which is used to manage many network Elements it has modules\r\nlike Configuration Management, Fault Management, Performance Management, Inventory\r\nManagement, Auditing etc.\r\nPerformance Management: This Module tracks and gathers the Performance statistics of the\r\nnetwork elements like the CPU, Memory used, ports open, data flowing etc.\r\nFault Management: Collects traps from the above mentioned Network Elements and shows it in\r\nthe FM GUI, so that operators can handle the alarms by approving or clearing them\r\n\r\n\r\nNET PROVISION @ SUBEX\r\nRoles & Responsibilities\r\n\r\n1. Work on features development\r\n2. Code reviews for peers\r\n\r\nSoftware Technologies:\r\n\r\nJAVA, JSP, Extjs Tomcat\r\n\r\nDescription:\r\n\r\nNet Provision is MPLS VPN provisioning software, It gives service providers complete top-to-bottom\r\nautomated control over applications, policies and services including IP-VPNs, Virtual LANs,\r\nbroadband access, optical etc.It has modules called SIA, SIX and SIV which enable creating access\r\npaths, VPN paths, SIX is one component which enables user to execute custom scripts of"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Purna Chandra B's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in Engineering (mostly General Engineering). Purna Chandra B has 13 years of work experience.",
+          "sov:MonthsOfWorkExperience": "160",
+          "sov:AverageMonthsPerEmployer": "26",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "63",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "B2B SOFTWARE",
+                            "@id": "023446",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2006-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE ENGINEERING",
+                                "@id": "008221",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2006-01-01",
+                                "@whereFound": "Found in EDUCATION; DEG-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "DESIGN PATTERNS",
+                            "@id": "015257",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "DOCKER",
+                            "@id": "3391147",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1; DEG-3"
+                          },
+                          {
+                            "@name": "GRADLE",
+                            "@id": "3391152",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "GROOVY",
+                            "@id": "3391158",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "GUI",
+                            "@id": "018626",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "MIDDLEWARE",
+                            "@id": "025406",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "XML",
+                            "@id": "011476",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "XSLT",
+                            "@id": "026875",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECLIPSE",
+                            "@id": "015844",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "EJB",
+                            "@id": "339002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "HIBERNATE",
+                                "@id": "3391127",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; DEG-3"
+                              },
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; DEG-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JMS",
+                            "@id": "020323",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "JSP",
+                            "@id": "339001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "7",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "JUNIT",
+                            "@id": "020369",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-01-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "TESTNG",
+                            "@id": "2000003",
+                            "@existsInText": "true",
+                            "@totalMonths": "1",
+                            "@lastUsed": "2017-01-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; DEG-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1; DEG-3"
+                          },
+                          {
+                            "@name": "POSTGRES",
+                            "@id": "005136",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "MPLS",
+                            "@id": "1980011",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "NETWORK OPERATIONS",
+                            "@id": "003407",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "TELNET",
+                            "@id": "1980006",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "VPN",
+                            "@id": "010726",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "SOA",
+                            "@id": "031030",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1; DEG-3"
+                          },
+                          {
+                            "@name": "TOMCAT",
+                            "@id": "009664",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "WEB SERVICES",
+                            "@id": "011022",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "WEBLOGIC",
+                            "@id": "025364",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "5530958",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "ELASTICSEARCH",
+                            "@id": "5530744",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "JMS",
+                            "@id": "5530786",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "PREDICTIVE ANALYTICS",
+                            "@id": "5531046",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "DESIGN PATTERNS",
+                            "@id": "7310026",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "GRAPHICAL USER INTERFACE",
+                            "@id": "7310031",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "GUI",
+                                "@id": "7310032",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; DEG-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "USER INTERFACE",
+                            "@id": "7310067",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2006-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "UI",
+                                "@id": "7310068",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2006-01-01",
+                                "@whereFound": "Found in EDUCATION; DEG-1"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Content Management",
+                        "@id": "352",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPENTEXT",
+                            "@id": "003858",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "022159",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CONFIGURATION MANAGEMENT",
+                                "@id": "014175",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; DEG-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MAVEN",
+                            "@id": "2510001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2003-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2; DEG-3"
+                          },
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANGULARJS",
+                            "@id": "5520505",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "DOJO",
+                            "@id": "5520533",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Embedded and Realtime",
+                        "@id": "340",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "RADISYS",
+                            "@id": "006418",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Privacy and Data Security",
+                        "@id": "556",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "VPN",
+                            "@id": "5551281",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROVISIONING",
+                            "@id": "7180109",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "BILLING",
+                            "@id": "022475",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "FAULT MANAGEMENT",
+                            "@id": "017204",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mail",
+                        "@id": "343",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "SNMP",
+                            "@id": "008181",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "7200001",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "37",
+                        "sov:Skill": [
+                          {
+                            "@name": "ITS",
+                            "@id": "020239",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "OPTICAL",
+                            "@id": "080533",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023295",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "SIEMENS",
+                            "@id": "080720",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "025565",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2003-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2; DEG-3"
+                          },
+                          {
+                            "@name": "OPTICAL",
+                            "@id": "080269",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "RF",
+                        "@id": "268",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "TELECOM",
+                            "@id": "022904",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Hardware",
+                        "@id": "319",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "34",
+                        "sov:Skill": [
+                          {
+                            "@name": "NOKIA",
+                            "@id": "003480",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Standards, Protocols, Technologies",
+                        "@id": "317",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "29",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPTICAL",
+                            "@id": "022172",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "TELECOM",
+                            "@id": "022903",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "19",
+                        "sov:Skill": [
+                          {
+                            "@name": "NETWORK OPERATIONS",
+                            "@id": "022262",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "318",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "19",
+                        "sov:Skill": [
+                          {
+                            "@name": "VPN",
+                            "@id": "010725",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Market Research",
+                        "@id": "223",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "39",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKET RESEARCH",
+                            "@id": "1400326",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "NIELSEN",
+                            "@id": "1400054",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "35",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA SCIENCE",
+                            "@id": "1400075",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "PREDICTIVE ANALYTICS",
+                            "@id": "1400071",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Litigation",
+                        "@id": "400",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CASES",
+                            "@id": "200091",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "E-DISCOVERY",
+                            "@id": "4000005",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; SUMMARY; DEG-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Talent Management",
+                        "@id": "584",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PERFORMANCE MANAGEMENT",
+                            "@id": "9000269",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "HR Management",
+                        "@id": "579",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PERFORMANCE MANAGEMENT",
+                            "@id": "9000152",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "017446",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management",
+                        "@id": "241",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDITING",
+                            "@id": "005665",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "STATISTICS",
+                            "@id": "008585",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Inventory",
+                        "@id": "459",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "INVENTORY",
+                            "@id": "020086",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          },
+                          {
+                            "@name": "KANBAN",
+                            "@id": "027010",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Auditing",
+                        "@id": "942",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUDIT",
+                            "@id": "005584",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "AUDITING",
+                                "@id": "005666",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; DEG-3"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100"
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Scientific",
+                    "@id": "15",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bio",
+                        "@id": "373",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "58",
+                        "sov:Skill": [
+                          {
+                            "@name": "RNA",
+                            "@id": "007121",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Chemical",
+                        "@id": "377",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "42",
+                        "sov:Skill": [
+                          {
+                            "@name": "GCP",
+                            "@id": "018186",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "WORKFLOW",
+                            "@id": "024213",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2006-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "4",
+              "@ends": "12",
+              "@sectionType": "SUMMARY",
+              "#text": "SUMMARY"
+            },
+            {
+              "@starts": "13",
+              "@ends": "29",
+              "@sectionType": "WORK HISTORY",
+              "#text": "WORK EXPERIENCE"
+            },
+            {
+              "@starts": "30",
+              "@ends": "182",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATION"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "+919160278155"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Purna Chandra B"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "bpcrao@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "stackoverflow.com/users/4653486/pu",
+              "linkedin.com/pub/purna",
+              "application.It",
+              "etc.It"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "6320",
+        "sov:ParseTime": "737",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:221;POS-3,POS-6] We could not find a job title for: POS-3, POS-6. Every position in a resume should have a job title.",
+                    "[Sovren:222;POS-2] No employer name was found for:  POS-2. Every position in a resume should have an employer name.",
+                    "[Sovren:231;DEG-2,DEG-3] The following educational degrees do not have a degree name: DEG-2, DEG-3. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'SUMMARY'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:1c448e43-8c27-4a19-9542-4536e8a3b051",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "lj39//////8="
+      }
+    }
+  }
+}

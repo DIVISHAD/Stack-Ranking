@@ -1,0 +1,640 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "ALISHA SABAT",
+          "GivenName": "ALISHA",
+          "FamilyName": "SABAT"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "Odisha"
+              ],
+              "Municipality": "Ganjam",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Nandighosh Nivas, Gandhi Nagar 2nd lane, Berhampur",
+                  "English, Hindi, Odiya"
+                ]
+              }
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "Mobile": {
+              "FormattedNumber": "+91-9348484787"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "alishasabat1@gmail.com"
+          }
+        ]
+      },
+      "Objective": "To work for an organization with highly enthusiastic and motivating environment with best growth   opportunities and to use my skills and knowledge to solve the organization's problem and work towards betterment of organization as well as achieving personal goals.",
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Biju Patnaik University of Technology/ National Institute of Science and Technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "DIPLOMA",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Technology"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2020"
+                    }
+                  }
+                ],
+                "Comments": "S.N.   DEGREE / DIPLOMA   BOARD / UNIVERSITY / INSTITUTE   PERCENTAGE / DIVISION   Y.O.P.\r\n1\tB.Tech.\tBiju Patnaik University of Technology/ National Institute of Science and Technology.   8.32\t2020",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:Graduated": "false",
+                    "sov:NormalizedDegreeName": "unspecified",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Biju Patnaik University of Technology National Institute of Science and Technology"
+              }
+            }
+          },
+          {
+            "@schoolType": "college",
+            "School": [
+              {
+                "SchoolName": "Khalikote college"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ODISHA"
+              ],
+              "Municipality": "Khalikote"
+            },
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "Year": "2016"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Council of Higher Secondary Education"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "78"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2016"
+                    }
+                  }
+                ],
+                "Comments": "2\t12th\tCouncil of Higher Secondary Education/Khalikote college   78%\t2016",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedGPA": "0.780"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Khalikote college"
+              }
+            }
+          },
+          {
+            "@schoolType": "secondary",
+            "School": [
+              {
+                "SchoolName": "Board of Secondary Education"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "90.2"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "3\t10th\tBoard of Secondary Education/ Saraswati Sishu Vidya Mandir   90.2%\t2014",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedGPA": "0.902",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Board of Secondary Education"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "TECHNICAL SKILLS\r\n• Productivity tools: MS Office (Word, Excel & PowerPoint).\r\n• Language and Tools: C, Java, Python, R-programming, SQL, HTML."
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "• Languages known: English, Hindi, Odiya."
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "• Languages known: English, Hindi, Odiya."
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "ALISHA SABAT\r\nMobile No.: +91-9348484787\r\nEmail Id: alishasabat1@gmail.com\r\n\r\n\r\nCAREER OBJECTIVE\r\nTo work for an organization with highly enthusiastic and motivating environment with best growth   opportunities and to use my skills and knowledge to solve the organization's problem and work towards betterment of organization as well as achieving personal goals.\r\nACADEMIC QUALIFICATIONS\r\n\r\nS.N.   DEGREE / DIPLOMA   BOARD / UNIVERSITY / INSTITUTE   PERCENTAGE / DIVISION   Y.O.P.\r\n1\tB.Tech.\tBiju Patnaik University of Technology/ National Institute of Science and Technology.   8.32\t2020\r\n2\t12th\tCouncil of Higher Secondary Education/Khalikote college   78%\t2016\r\n3\t10th\tBoard of Secondary Education/ Saraswati Sishu Vidya Mandir   90.2%\t2014\r\n\r\n\r\nTECHNICAL SKILLS\r\n• Productivity tools: MS Office (Word, Excel & PowerPoint).\r\n• Language and Tools: C, Java, Python, R-programming, SQL, HTML.\r\nTRAINING & CERTIFICATIONS\r\n• C  Course from Lakshay, Berhampur.\r\n• Data analytics from NIST, Berhampur.\r\n• Python from Internshala.\r\n• Web development from internshala.\r\nPROJECTS, WORKSHOPS, SEMINARS\r\n• House Price prediction using Data Analytics\r\n• Hospital Management System GUI based using Python.\r\nEXTRA-CURRICULAR ACTIVITIES\r\n• Participated in different sports in college and school.\r\n• Participated in various competitions in college.\r\nPERSONAL PROFILE\r\n• Date of Birth: 12th April, 1999.\r\n• Father's Name: Mr. Goura Hari Sabat\r\n• Address: Nandighosh Nivas, Gandhi Nagar 2nd lane, Berhampur, Ganjam, Odisha.\r\n• Languages known: English, Hindi, Odiya."
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1999-04-12"
+          },
+          "sov:FathersName": "Mr. Goura Hari Sabat"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "ALISHA SABAT's experience appears to be mostly concentrated in Information Technology (mostly Programming) and somewhat concentrated in Common End-user Software (mostly Core Office). ALISHA SABAT's experience appears to be entry level, with 0 months of experience.",
+          "sov:MonthsOfWorkExperience": "0",
+          "sov:FulltimeDirectHirePredictiveIndex": "0",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "65",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "19",
+                        "@percentOfParentTaxonomy": "30",
+                        "sov:Skill": [
+                          {
+                            "@name": "GUI",
+                            "@id": "018626",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in TRAINING"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; TRAINING"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "15",
+                        "@percentOfParentTaxonomy": "23",
+                        "sov:Skill": [
+                          {
+                            "@name": "GRAPHICAL USER INTERFACE",
+                            "@id": "7310031",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "GUI",
+                                "@id": "7310032",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in TRAINING"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Privacy and Data Security",
+                        "@id": "556",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "NIST",
+                            "@id": "5551314",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in TRAINING"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in TRAINING"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "MS OFFICE",
+                            "@id": "022137",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "NIST",
+                            "@id": "003463",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in TRAINING"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "35",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "35",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "EXCEL",
+                            "@id": "022841",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MICROSOFT OFFICE",
+                            "@id": "024467",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS OFFICE",
+                                "@id": "022136",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT POWERPOINT",
+                            "@id": "023613",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "POWERPOINT",
+                                "@id": "021977",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT WORD",
+                            "@id": "022961",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "WORD",
+                                "@id": "002379",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:TrainingHistory": {
+          "sov:Text": "& CERTIFICATIONS\r\n• C  Course from Lakshay, Berhampur.\r\n• Data analytics from NIST, Berhampur.\r\n• Python from Internshala.\r\n• Web development from internshala.\r\nPROJECTS, WORKSHOPS, SEMINARS\r\n• House Price prediction using Data Analytics\r\n• Hospital Management System GUI based using Python.",
+          "sov:Training": [
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "CERTIFICATIONS"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "C  Course from Lakshay, Berhampur"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Data analytics from NIST, Berhampur"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Python from Internshala"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Web development from internshala"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "PROJECTS, WORKSHOPS, SEMINARS"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": "House Price",
+              "sov:Description": "House Price prediction using Data Analytics"
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Hospital Management System GUI based using Python"
+            }
+          ]
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "5",
+              "@ends": "6",
+              "@sectionType": "OBJECTIVE",
+              "#text": "CAREER OBJECTIVE"
+            },
+            {
+              "@starts": "7",
+              "@ends": "14",
+              "@sectionType": "EDUCATION",
+              "#text": "ACADEMIC QUALIFICATIONS"
+            },
+            {
+              "@starts": "15",
+              "@ends": "17",
+              "@sectionType": "SKILLS",
+              "#text": "TECHNICAL SKILLS"
+            },
+            {
+              "@starts": "18",
+              "@ends": "25",
+              "@sectionType": "TRAINING",
+              "#text": "TRAINING"
+            },
+            {
+              "@starts": "26",
+              "@ends": "28",
+              "@sectionType": "PROFESSIONAL AFFILIATIONS",
+              "#text": "EXTRA-CURRICULAR ACTIVITIES"
+            },
+            {
+              "@starts": "29",
+              "@ends": "33",
+              "@sectionType": "CONTACT INFO",
+              "#text": "PERSONAL PROFILE"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Mobile No.: +91-9348484787",
+              "+91-9348484787"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "ALISHA SABAT"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "alishasabat1@gmail.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Nandighosh Nivas, Gandhi Nagar 2nd lane, Berhampur",
+              " Father's Name: Mr. Goura Hari Sabat",
+              "Date of Birth: 12th April, 1999."
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "1517",
+        "sov:ParseTime": "156",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Fatal Problems Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:413;] We found no WORK HISTORY for the candidate. A resume should always include a work history section."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:231;DEG-2,DEG-3] The following educational degrees do not have a degree name: DEG-2, DEG-3. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'TECHNICAL SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;3] The following section does not have the header on a separate line: 'TRAINING'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                    "[Sovren:161;DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:018e7637-5ee4-4c68-8da2-b07672848d8b",
+        "sov:ParserConfigurationString": "Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "G9AAAAAAAAA="
+      }
+    }
+  }
+}

@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>ALISHA SABAT</FormattedName>
+				<GivenName>ALISHA</GivenName>
+				<FamilyName>SABAT</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Odisha</Region>
+					<Municipality>Ganjam</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Nandighosh Nivas, Gandhi Nagar 2nd lane, Berhampur</AddressLine>
+						<AddressLine>English, Hindi, Odiya</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91-9348484787</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>alishasabat1@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<Objective>To work for an organization with highly enthusiastic and motivating environment with best growth   opportunities and to use my skills and knowledge to solve the organization's problem and work towards betterment of organization as well as achieving personal goals.</Objective>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Biju Patnaik University of Technology/ National Institute of Science and Technology</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>DIPLOMA</DegreeName>
+					<DegreeMajor>
+						<Name>Technology</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2020</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>S.N.   DEGREE / DIPLOMA   BOARD / UNIVERSITY / INSTITUTE   PERCENTAGE / DIVISION   Y.O.P.
+1	B.Tech.	Biju Patnaik University of Technology/ National Institute of Science and Technology.   8.32	2020</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:Graduated>false</sov:Graduated>
+							<sov:NormalizedDegreeName>unspecified</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Biju Patnaik University of Technology National Institute of Science and Technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="college">
+				<School>
+					<SchoolName>Khalikote college</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ODISHA</Region>
+					<Municipality>Khalikote</Municipality>
+				</PostalAddress>
+				<Degree>
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Council of Higher Secondary Education</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>78</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>2	12th	Council of Higher Secondary Education/Khalikote college   78%	2016</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.780</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Khalikote college</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>Board of Secondary Education</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeDate>
+						<Year>2014</Year>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>90.2</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2014</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>3	10th	Board of Secondary Education/ Saraswati Sishu Vidya Mandir   90.2%	2014</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.902</sov:NormalizedGPA>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Board of Secondary Education</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>TECHNICAL SKILLS
+• Productivity tools: MS Office (Word, Excel &amp; PowerPoint).
+• Language and Tools: C, Java, Python, R-programming, SQL, HTML.</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>• Languages known: English, Hindi, Odiya.</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>• Languages known: English, Hindi, Odiya.</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>ALISHA SABAT
+Mobile No.: +91-9348484787
+Email Id: alishasabat1@gmail.com
+
+
+CAREER OBJECTIVE
+To work for an organization with highly enthusiastic and motivating environment with best growth   opportunities and to use my skills and knowledge to solve the organization's problem and work towards betterment of organization as well as achieving personal goals.
+ACADEMIC QUALIFICATIONS
+
+S.N.   DEGREE / DIPLOMA   BOARD / UNIVERSITY / INSTITUTE   PERCENTAGE / DIVISION   Y.O.P.
+1	B.Tech.	Biju Patnaik University of Technology/ National Institute of Science and Technology.   8.32	2020
+2	12th	Council of Higher Secondary Education/Khalikote college   78%	2016
+3	10th	Board of Secondary Education/ Saraswati Sishu Vidya Mandir   90.2%	2014
+
+
+TECHNICAL SKILLS
+• Productivity tools: MS Office (Word, Excel &amp; PowerPoint).
+• Language and Tools: C, Java, Python, R-programming, SQL, HTML.
+TRAINING &amp; CERTIFICATIONS
+• C  Course from Lakshay, Berhampur.
+• Data analytics from NIST, Berhampur.
+• Python from Internshala.
+• Web development from internshala.
+PROJECTS, WORKSHOPS, SEMINARS
+• House Price prediction using Data Analytics
+• Hospital Management System GUI based using Python.
+EXTRA-CURRICULAR ACTIVITIES
+• Participated in different sports in college and school.
+• Participated in various competitions in college.
+PERSONAL PROFILE
+• Date of Birth: 12th April, 1999.
+• Father's Name: Mr. Goura Hari Sabat
+• Address: Nandighosh Nivas, Gandhi Nagar 2nd lane, Berhampur, Ganjam, Odisha.
+• Languages known: English, Hindi, Odiya.</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1999-04-12</sov:DateOfBirth>
+				<sov:FathersName>Mr. Goura Hari Sabat</sov:FathersName>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>ALISHA SABAT's experience appears to be mostly concentrated in Information Technology (mostly Programming) and somewhat concentrated in Common End-user Software (mostly Core Office). ALISHA SABAT's experience appears to be entry level, with 0 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>0</sov:MonthsOfWorkExperience>
+				<sov:FulltimeDirectHirePredictiveIndex>0</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="65">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="19" percentOfParentTaxonomy="30">
+								<sov:Skill name="GUI" id="018626" existsInText="true" whereFound="Found in TRAINING"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in SKILLS; TRAINING"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="15" percentOfParentTaxonomy="23">
+								<sov:Skill name="GRAPHICAL USER INTERFACE" id="7310031" existsInText="false">
+									<sov:ChildSkill name="GUI" id="7310032" existsInText="true" whereFound="Found in TRAINING"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Privacy and Data Security" id="556" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="NIST" id="5551314" existsInText="true" whereFound="Found in TRAINING"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="DATA ANALYTICS" id="5530940" existsInText="true" whereFound="Found in TRAINING"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="MS OFFICE" id="022137" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="5" percentOfParentTaxonomy="8">
+								<sov:Skill name="NIST" id="003463" existsInText="true" whereFound="Found in TRAINING"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="35">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="35" percentOfParentTaxonomy="100">
+								<sov:Skill name="EXCEL" id="022841" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="false">
+									<sov:ChildSkill name="MS OFFICE" id="022136" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT POWERPOINT" id="023613" existsInText="false">
+									<sov:ChildSkill name="POWERPOINT" id="021977" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MICROSOFT WORD" id="022961" existsInText="false">
+									<sov:ChildSkill name="WORD" id="002379" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:TrainingHistory>
+				<sov:Text>&amp; CERTIFICATIONS
+• C  Course from Lakshay, Berhampur.
+• Data analytics from NIST, Berhampur.
+• Python from Internshala.
+• Web development from internshala.
+PROJECTS, WORKSHOPS, SEMINARS
+• House Price prediction using Data Analytics
+• Hospital Management System GUI based using Python.</sov:Text>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>CERTIFICATIONS</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>C  Course from Lakshay, Berhampur</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>Data analytics from NIST, Berhampur</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>Python from Internshala</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>Web development from internshala</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>PROJECTS, WORKSHOPS, SEMINARS</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity>House Price</sov:Entity>
+					<sov:Description>House Price prediction using Data Analytics</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>Hospital Management System GUI based using Python</sov:Description>
+				</sov:Training>
+			</sov:TrainingHistory>
+			<sov:Sections>
+				<sov:Section starts="5" ends="6" sectionType="OBJECTIVE">CAREER OBJECTIVE</sov:Section>
+				<sov:Section starts="7" ends="14" sectionType="EDUCATION">ACADEMIC QUALIFICATIONS</sov:Section>
+				<sov:Section starts="15" ends="17" sectionType="SKILLS">TECHNICAL SKILLS</sov:Section>
+				<sov:Section starts="18" ends="25" sectionType="TRAINING">TRAINING</sov:Section>
+				<sov:Section starts="26" ends="28" sectionType="PROFESSIONAL AFFILIATIONS">EXTRA-CURRICULAR ACTIVITIES</sov:Section>
+				<sov:Section starts="29" ends="33" sectionType="CONTACT INFO">PERSONAL PROFILE</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Mobile No.: +91-9348484787</sov:Phone>
+					<sov:Phone>+91-9348484787</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>ALISHA SABAT</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>alishasabat1@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:OtherData>
+					<sov:OtherDatum>Nandighosh Nivas, Gandhi Nagar 2nd lane, Berhampur</sov:OtherDatum>
+					<sov:OtherDatum> Father's Name: Mr. Goura Hari Sabat</sov:OtherDatum>
+					<sov:OtherDatum>Date of Birth: 12th April, 1999.</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>1517</sov:ParsedTextLength>
+			<sov:ParseTime>153</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Fatal Problems Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:413;] We found no WORK HISTORY for the candidate. A resume should always include a work history section.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:231;DEG-2,DEG-3] The following educational degrees do not have a degree name: DEG-2, DEG-3. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'TECHNICAL SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;3] The following section does not have the header on a separate line: 'TRAINING'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+							<sov:Information>[Sovren:161;DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:5836bb03-7052-45b8-952e-475763c2db0d</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>l3/8//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

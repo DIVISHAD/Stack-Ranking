@@ -1,0 +1,488 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "SAI RAHUL PRASAD NAGUMANTRI",
+          "GivenName": "SAI",
+          "MiddleName": "RAHUL PRASAD",
+          "FamilyName": "NAGUMANTRI"
+        },
+        "ContactMethod": [
+          {
+            "Telephone": {
+              "FormattedNumber": "+91-9010884748"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "rahulnagumantri@live.com"
+          },
+          {
+            "Use": "linkedIn",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetWebAddress": "https://in.linkedin.com/in/rahulprasadns"
+          }
+        ]
+      },
+      "Objective": "• To get into every corner of Technology and get something big out of it.\r\n\r\nTechnical Tools and Skills:\r\n• JavaScript, Python, C, HTML, CSS, SASS, XML, JSON, MySQL, Jquery, Raspian(Raspberry pi),\r\nIOT, Kony Visualizer",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Kony India Pvt. LTD",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Engineer",
+                "OrgName": {
+                  "OrganizationName": "Software Enginner"
+                },
+                "Description": "where I'm into debugging of Kony Visualizer code which is the Client side Product on Kony\r\nwhere we can develop application for Mobile(Native Android, IOS, Windows and Web),\r\nDesktop (Native Windows and Web) which is write once run any where product.\r\nMy role here is to find bugs and dubug the code and fix bugs in designing of the applications that are developed on this product.\r\nTools: Kony Visualizer, JavaScript, Android(Gradle) IOS(Xcode) Windows build\r\nmechanism, HTML, CSS, JSON and MySQL",
+                "StartDate": {
+                  "YearMonth": "2017-03"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Software Enginner",
+                    "sov:NormalizedTitle": "Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Kony India"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Computer Science Mania",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Founder and Admin",
+                "OrgName": {
+                  "OrganizationName": "Computer Science Mania"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "http://www.cse1317.blogspot.com"
+                  }
+                ],
+                "Description": "(Link: http://www.cse1317.blogspot.com)",
+                "StartDate": {
+                  "YearMonth": "2015-10"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior Executive (President, C-level)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TM",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Founder",
+                    "sov:NormalizedOrganizationName": "Computer Science Mania",
+                    "sov:NormalizedTitle": "Founder and Admin"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Computer Science Mania"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech in Computer Science and Engineering",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Technoligy"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "Year": "2013"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "• B.Tech in Computer Science and Engineering at Vignan's Institure of Information\r\nTechnoligy.\r\n-(2013-17)\r\nAchieviments:\r\n• Won 4 Spot Awards and a Technoligical Excellence Award.\r\n\r\nOther areas of Interest:\r\n• I love making Tutorials and Blogging online related to minute problems faced by most of the people using Computers and Gadgets.\r\n• Interested in latest Gadgets that come in Market.\r\n• One best Hobbie is Micro Photography.",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Won 4 Spot Awards and a Technoligical Excellence Award"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "SAI RAHUL PRASAD NAGUMANTRI\r\nE-mail: rahulnagumantri@live.com   Linkedin: https://in.linkedin.com/in/rahulprasadns   Ph.: +91-9010884748\r\n\r\nCareer Objective:\r\n• To get into every corner of Technology and get something big out of it.\r\n\r\nTechnical Tools and Skills:\r\n• JavaScript, Python, C, HTML, CSS, SASS, XML, JSON, MySQL, Jquery, Raspian(Raspberry pi),\r\nIOT, Kony Visualizer\r\n\r\nExperience:\r\n• Kony India Pvt. LTD.: Software Enginner\t- March 2017 - Present\r\nst\r\nAt Kony which is my 1 company where i'm currently working as a software Engineer\r\nwhere I'm into debugging of Kony Visualizer code which is the Client side Product on Kony\r\nwhere we can develop application for Mobile(Native Android, IOS, Windows and Web),\r\nDesktop (Native Windows and Web) which is write once run any where product.\r\nMy role here is to find bugs and dubug the code and fix bugs in designing of the\r\napplications that are developed on this product.\r\nTools: Kony Visualizer, JavaScript, Android(Gradle) IOS(Xcode) Windows build\r\nmechanism, HTML, CSS, JSON and MySQL\r\n\r\n•   Blogging: Founder and Admin at Computer Science Mania. - October 2015- July 2016\r\n(Link: http://www.cse1317.blogspot.com)\r\n\r\n\r\n•   Tutorials: Tutorials on Basic Computer problems.\t-   June 2015-Present\r\n(Link: https://goo.gl/jHmP1f)\r\n\r\n\r\nOther Experience:\r\n• Campassador at Dell.\r\n• Student Partner at Microsoft.\r\n\r\nEducation:\r\n• B.Tech in Computer Science and Engineering at Vignan's Institure of Information\r\nTechnoligy.\r\n-(2013-17)\r\nAchieviments:\r\n• Won 4 Spot Awards and a Technoligical Excellence Award.\r\n\r\nOther areas of Interest:\r\n• I love making Tutorials and Blogging online related to minute problems faced by most of\r\nthe people using Computers and Gadgets.\r\n• Interested in latest Gadgets that come in Market.\r\n• One best Hobbie is Micro Photography."
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "SAI RAHUL PRASAD NAGUMANTRI's experience appears to be strongly concentrated in Information Technology (mostly Programming). SAI RAHUL PRASAD NAGUMANTRI's experience appears to be lower-to-mid level, with about 4 years of experience.",
+          "sov:MonthsOfWorkExperience": "42",
+          "sov:AverageMonthsPerEmployer": "21",
+          "sov:FulltimeDirectHirePredictiveIndex": "40",
+          "sov:MonthsOfManagementExperience": "9",
+          "sov:HighestManagementScore": "100",
+          "sov:ExecutiveType": "general",
+          "sov:ManagementStory": "Starting on 10/1/2015, the candidate held the following executive-level management position for 9 months:\r\n\tTitle: Founder and Admin for Computer Science Mania",
+          "sov:AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Founder and Admin for Computer Science Mania) , but was not in management in the most recent role as Engineer for Kony India Pvt. LTD.",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "100",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "44",
+                        "@percentOfParentTaxonomy": "44",
+                        "sov:Skill": [
+                          {
+                            "@name": "GRADLE",
+                            "@id": "3391152",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "JSON",
+                            "@id": "5520555",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "VISUALIZER",
+                            "@id": "010657",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "31",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "5520503",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "IOS",
+                            "@id": "5520545",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "KONY",
+                            "@id": "5520557",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "XCODE",
+                            "@id": "5520624",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "7310008",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Gaming",
+                        "@id": "551",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "XCODE",
+                            "@id": "5510171",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@totalMonths": "33",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "3",
+              "@ends": "9",
+              "@sectionType": "OBJECTIVE",
+              "#text": "Career Objective"
+            },
+            {
+              "@starts": "10",
+              "@ends": "29",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Experience"
+            },
+            {
+              "@starts": "30",
+              "@ends": "33",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Other Experience"
+            },
+            {
+              "@starts": "34",
+              "@ends": "45",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Ph.: +91-9010884748",
+              "+91-9010884748"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "SAI RAHUL PRASAD NAGUMANTRI"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "rahulnagumantri@live.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://in.linkedin.com/in/rahulprasadns",
+              "http://www.cse1317.blogspot.com",
+              "https://goo.gl/jHmP1f"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "1769",
+        "sov:ParseTime": "468",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:c7e9f0c4-399e-4dd8-8c30-942a5fe52e97",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "nisBAAAAAAA="
+      }
+    }
+  }
+}

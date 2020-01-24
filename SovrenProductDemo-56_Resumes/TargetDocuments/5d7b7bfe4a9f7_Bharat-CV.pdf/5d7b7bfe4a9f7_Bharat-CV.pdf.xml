@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Bharat Gupta</FormattedName>
+				<GivenName>Bharat</GivenName>
+				<FamilyName>Gupta</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>110003</PostalCode>
+					<Region>DELHI</Region>
+					<Municipality>New Delhi</Municipality>
+					<DeliveryAddress>
+						<AddressLine>14/848, Lodhi Colony, Lodhi Road</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>800-587-5449</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>bgkivines@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Google Play Store Audience (Geeks)</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Team Member</Title>
+					<OrgName>
+						<OrganizationName>Google Play Store Audience (Geeks)</OrganizationName>
+					</OrgName>
+					<Description>Description	Android Application with Backend using Node JS
+Team size	Three (3)
+My position	Team Member
+My responsibilities   To make fast backend
+Technologies used	Android Studio and Node JS
+
+
+© topcv.me</Description>
+					<StartDate>
+						<YearMonth>2019-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-08</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → User Interface</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Google</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Team Member</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Google</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>JAYPEE UNIVERISTY</SchoolName>
+				</School>
+				<Degree>
+					<DegreeMajor>
+						<Name>Computer Science and Engineering</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>6.5</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>10</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<YearMonth>2016-08</YearMonth>
+						</StartDate>
+						<EndDate>
+							<YearMonth>2020-05</YearMonth>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>JAYPEE UNIVERISTY	August 2016 - May 2020
+Computer Science and Engineering
+CGPA: 6.5/10 (Till 6th Semester)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:Graduated>false</sov:Graduated>
+							<sov:NormalizedGPA>0.650</sov:NormalizedGPA>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>JAYPEE UNIVERISTY</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>SKILLS
+Language	English, Hindi, Punjabi
+
+Computer	C++, Android Studio, Node JS</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Language	English, Hindi, Punjabi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Language	English, Hindi, Punjabi</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>pa</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Language	English, Hindi, Punjabi</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Jaypee Youth Club	2018 - 2019</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Cultural Join Secretary</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Jaypee Youth Club	2016 - 2019</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Member of Football Team</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Mr. Fresher 2k16	2016</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Football Team</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+			<Association>
+				<Name>My position	Team</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<References>
+			<Reference>
+				<PersonName>
+					<FormattedName>Gaurav Raj</FormattedName>
+					<GivenName>Gaurav</GivenName>
+					<FamilyName>Raj</FamilyName>
+				</PersonName>
+				<PositionTitle>Professor of Computer Science</PositionTitle>
+				<ContactMethod>
+					<Telephone>
+						<FormattedNumber>981-694-8353</FormattedNumber>
+					</Telephone>
+				</ContactMethod>
+			</Reference>
+		</References>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Bharat Gupta
+Date of birth: 23-01-1999
+Phone: 800-587-5449
+Email: bgkivines@gmail.com
+Address: 14/848, Lodhi Colony, Lodhi Road, New Delhi 110003
+
+
+EDUCATION
+JAYPEE UNIVERISTY	August 2016 - May 2020
+Computer Science and Engineering
+CGPA: 6.5/10 (Till 6th Semester)
+
+
+ACTIVITIES
+Jaypee Youth Club	2018 - 2019
+Cultural Join Secretary
+
+Jaypee Youth Club	2016 - 2019
+Member of Football Team
+
+
+CERTIFICATIONS
+• Certification of training in 'Java Language' from Cyber Hi Tech	2018
+
+
+HONORS &amp; AWARDS
+Mr. Fresher 2k16	2016
+
+
+SKILLS
+Language	English, Hindi, Punjabi
+
+Computer	C++, Android Studio, Node JS
+
+
+REFERENCES
+Mr. Gaurav Raj
+Professor of Computer Science
+981-694-8353
+
+PROJECTS
+Android Application
+(August 2019 - May 2020)
+
+Customer	Google Play Store Audience (Geeks)
+Description	Android Application with Backend using Node JS
+Team size	Three (3)
+My position	Team Member
+My responsibilities   To make fast backend
+Technologies used	Android Studio and Node JS
+
+
+© topcv.me</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1999-01-23</sov:DateOfBirth>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Bharat Gupta's experience appears to be strongly concentrated in Information Technology (mostly User Interface) and slightly concentrated in Administrative or Clerical (mostly Admin). Bharat Gupta's experience appears to be entry level, with 1 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>1</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>1</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="98">
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="37" percentOfParentTaxonomy="38">
+								<sov:Skill name="ANDROID" id="7310008" existsInText="true" totalMonths="1" lastUsed="2019-08-31" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="37" percentOfParentTaxonomy="38">
+								<sov:Skill name="ANDROID" id="5520503" existsInText="true" totalMonths="1" lastUsed="2019-08-31" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="22" percentOfParentTaxonomy="22">
+								<sov:Skill name="ANDROID STUDIO" id="3391145" existsInText="true" totalMonths="1" lastUsed="2019-08-31" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="2">
+							<sov:Subtaxonomy name="Admin" id="113" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="SECRETARY" id="023792" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="7" ends="12" sectionType="EDUCATION">EDUCATION</sov:Section>
+				<sov:Section starts="13" ends="20" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">ACTIVITIES</sov:Section>
+				<sov:Section starts="21" ends="24" sectionType="CERTIFICATIONS">CERTIFICATIONS</sov:Section>
+				<sov:Section starts="25" ends="28" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">HONORS &amp; AWARDS</sov:Section>
+				<sov:Section starts="29" ends="34" sectionType="SKILLS">SKILLS</sov:Section>
+				<sov:Section starts="35" ends="39" sectionType="REFERENCES">REFERENCES</sov:Section>
+				<sov:Section starts="40" ends="52" sectionType="WORK HISTORY">PROJECTS</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Phone: 800-587-5449</sov:Phone>
+					<sov:Phone>800-587-5449</sov:Phone>
+					<sov:Phone>981-694-8353</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Bharat Gupta</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>bgkivines@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>topcv.me</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>14/848, Lodhi Colony, Lodhi Road</sov:OtherDatum>
+					<sov:OtherDatum>Date of birth: 23-01-1999</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>970</sov:ParsedTextLength>
+			<sov:ParseTime>140</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:323;PERSONAL INTERESTS AND ACCOMPLISHMENTS] The following section type appeared multiple times in the resume: PERSONAL INTERESTS AND ACCOMPLISHMENTS (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:231;DEG-1] The following educational degree does not have a degree name: DEG-1. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:111;] References section found in resume. References should not be included in a resume.</sov:Information>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:8dc5f850-9660-4447-91a5-3d06518348c9</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>mm////////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Sanjeev Kumar</FormattedName>
+				<GivenName>Sanjeev</GivenName>
+				<FamilyName>Kumar</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>9911066909</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>say.sanjeev@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>•	A result oriented IT professional with 11 years of experience in Software Development, maintenance, support and Team Management
+•	Currently associated with Quovantis Technology as Development Manager and managing a team of 15+ members.
+•	Apart from managing the team, working as individual contributor in mPulse and has worked extensively on Database optimizations, Performance and Security testing
+•	Has hands-on knowledge of Python, Celery, Java, J2ee, Spring, Hibernate, Web services, Database.
+•	Proficient with various phases of SDLC and Agile Methodology with Onsite experience.
+•	Good communication, collaboration and team building skills with proficiency at grasping new technical concepts quickly and utilize the same in a productive manner
+•	Worked extensively on healthcare domain with GE Healthcare, mPulse.
+
+Programming Languages: Java, Pyrhon, J2EE, Jquery, SQL.
+Technologies and Frameworks: Tornado, AsyncIO, Spring, Hibernate, Restful Web-services, Apache Tomcat, ActiveMQ, Gradle, Redis, Rabbitmq, Celery, Apache Airflow, ElasticSearch
+Databases:, Postgres.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Quovantis Technologies</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Development Manager</Title>
+					<OrgName>
+						<OrganizationName>Quovantis Technologies</OrganizationName>
+					</OrgName>
+					<Description>Project Description: mPulse is a SAAS based B2B communication platform for marketers and healthcare organizations which involves multi-channel communications - email, sms, push notifications and secure messages.
+Tech Stack - Java, Spring, Hibernate, Python, Celery, Rabbitmq, Tornado, Jetty, ElasticSearch
+Responsibilities:
+•	Client interaction for requirement gathering, understanding business value, conducting demonstrations.
+•	Preparing High Level Design and solutioning of functionalities that are critical for the system.
+•	Solving complex problems pertaining to business requirements.
+•	Owning the entire end-to-end delivery of the Sprint(two weeks cycle).
+•	Managing the team including their aspirations, learning and motivation.</Description>
+					<StartDate>
+						<YearMonth>2013-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 61% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Executive (VP, Dept Head)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Quovantis Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Development Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Quovantis Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Novamantic Technolgoy</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Java Developer</Title>
+					<OrgName>
+						<OrganizationName>Novamantic Technolgoy</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>Kaboodle.com</WebSite>
+					</OrgInfo>
+					<Description>Project Description:Kaboodle is a social shopping community where people discover, recommend and share products. Kaboodle's powerful shopping tools allow people to organize their shopping through lists, discover new things from people with similar style, get discounts on popular products and find best prices.
+
+Responsibilities:
+•	Worked effectively with design teams to ensure software solutions elevated client side experience.
+•	Worked on implementing document database creation through Apache Lucene
+•	Wrote Selenium testcases to Automate UI testing.
+Technologies: Java6, Spring, Hibernate, JMS, Apache Lucene</Description>
+					<StartDate>
+						<YearMonth>2011-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2013-01</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Novamantic Technolgoy</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Java Developer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Java Developer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Novamantic Technolgoy</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>GE Healthcare</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Java Developer</Title>
+					<OrgName>
+						<OrganizationName>GE Healthcare</OrganizationName>
+					</OrgName>
+					<Description>Project Description: This project aims at providing free flow movement of a patient's electronic medical record from one healthcare institution having one vendor EMR to the other healthcare institution having some other vendor EMR.
+
+Responsibilities:
+•	Carried out requirement specification and information gathering.
+•	Design and develop the web service, which intercept service request from EMR client through SOAP message.
+•	Uses JAXB parser to create patient summary document, conforming to the standard schema	and submitted it to the central repository.
+
+Technologies: Java6, Spring Framework, Restful Web Services, JAXB, XML, SQL, JUnit.</Description>
+					<StartDate>
+						<YearMonth>2007-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 93% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="ST">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>GE Healthcare</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Java Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>GE Healthcare</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>IIIT</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>KARNATAKA</Region>
+					<Municipality>Bangalore</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Technology</DegreeName>
+					<DegreeMajor>
+						<Name>Computer Science</Name>
+					</DegreeMajor>
+					<Comments>•	Bachelor of Technology (Computer Science) from GBPUAT, Pantnagar, Uttarakhand, India.
+•	Master of Technology(IT) from IIIT-Bangalore.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>IIIT</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Operating Systems: Linux, Windows.</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Sanjeev Kumar / Development Manager
+Mobile - 9911066909
+Email - say.sanjeev@gmail.com
+
+Professional Highlights
+•	A result oriented IT professional with 11 years of experience in Software Development, maintenance, support and Team Management
+•	Currently associated with Quovantis Technology as Development Manager and managing a team of 15+ members.
+•	Apart from managing the team, working as individual contributor in mPulse and has worked extensively on Database optimizations, Performance and Security testing
+•	Has hands-on knowledge of Python, Celery, Java, J2ee, Spring, Hibernate, Web services, Database.
+•	Proficient with various phases of SDLC and Agile Methodology with Onsite experience.
+•	Good communication, collaboration and team building skills with proficiency at grasping new technical concepts quickly and utilize the same in a productive manner
+•	Worked extensively on healthcare domain with GE Healthcare, mPulse.
+
+Programming Languages: Java, Pyrhon, J2EE, Jquery, SQL.
+Technologies and Frameworks: Tornado, AsyncIO, Spring, Hibernate, Restful Web-services, Apache Tomcat, ActiveMQ, Gradle, Redis, Rabbitmq, Celery, Apache Airflow, ElasticSearch
+Databases:, Postgres.
+Operating Systems: Linux, Windows.
+
+Professional Experience
+Quovantis Technologies	01/2013 to Present
+Project: mPulse Mobile
+Role: Development Manager
+Project Description: mPulse is a SAAS based B2B communication platform for marketers and healthcare organizations which involves multi-channel communications - email, sms, push notifications and secure messages.
+Tech Stack - Java, Spring, Hibernate, Python, Celery, Rabbitmq, Tornado, Jetty, ElasticSearch
+Responsibilities:
+•	Client interaction for requirement gathering, understanding business value, conducting demonstrations.
+•	Preparing High Level Design and solutioning of functionalities that are critical for the system.
+•	Solving complex problems pertaining to business requirements.
+•	Owning the entire end-to-end delivery of the Sprint(two weeks cycle).
+•	Managing the team including their aspirations, learning and motivation.
+
+
+Novamantic Technolgoy	07/2011 to 01/2013
+Project: Kaboodle.com
+Role: Senior Java Developer
+Project Description:Kaboodle is a social shopping community where people discover, recommend and share products. Kaboodle's powerful shopping tools allow people to organize their shopping through lists, discover new things from people with similar style, get discounts on popular products and find best prices.
+
+Responsibilities:
+•	Worked effectively with design teams to ensure software solutions elevated client side experience.
+•	Worked on implementing document database creation through Apache Lucene
+•	Wrote Selenium testcases to Automate UI testing.
+Technologies: Java6, Spring, Hibernate, JMS, Apache Lucene
+
+
+GE Healthcare	06/2007 to 10/2010
+Project: Interoperability between EMR.
+Role: Java Developer
+Project Description: This project aims at providing free flow movement of a patient's electronic medical record from one healthcare institution having one vendor EMR to the other healthcare institution having some other vendor EMR.
+
+Responsibilities:
+•	Carried out requirement specification and information gathering.
+•	Design and develop the web service, which intercept service request from EMR client through SOAP message.
+•	Uses JAXB parser to create patient summary document, conforming to the standard schema	and submitted it to the central repository.
+
+Technologies: Java6, Spring Framework, Restful Web Services, JAXB, XML, SQL, JUnit.
+
+Educational Qualifications
+•	Bachelor of Technology (Computer Science) from GBPUAT, Pantnagar, Uttarakhand, India.
+•	Master of Technology(IT) from IIIT-Bangalore.</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>US</sov:Country>
+				<sov:CultureInfo>en-US</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Sanjeev Kumar's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Healthcare Non-physician Non-nurse (mostly Allied Health). Sanjeev Kumar has 12 years of work experience, with 7 years of management experience, including a mid-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>141</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>47</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>85</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>83</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>mid-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>55</sov:HighestManagementScore>
+				<sov:ExecutiveType>business_dev</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a mid-level management role: Development Manager
+Starting on 1/1/2013, the candidate held the following mid-level management position for 6 years and 11 months:
+	Title: Development Manager for Quovantis Technologies</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="77">
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="55" percentOfParentTaxonomy="71">
+								<sov:Skill name="J2EE" id="020255" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="141" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3" childrenTotalMonths="141" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="HIBERNATE" id="3391127" existsInText="true" totalMonths="101" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-2"></sov:ChildSkill>
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" totalMonths="141" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-2; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JAXB" id="339016" existsInText="true" totalMonths="40" lastUsed="2010-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="JMS" id="020323" existsInText="true" totalMonths="18" lastUsed="2013-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="jQuery" id="339048" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="7" percentOfParentTaxonomy="10">
+								<sov:Skill name="ELASTICSEARCH" id="5530744" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="JMS" id="5530786" existsInText="true" totalMonths="18" lastUsed="2013-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="LUCENE" id="5530794" existsInText="true" totalMonths="18" lastUsed="2013-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="REDIS" id="5530835" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SOFTWARE AS A SERVICE" id="5531064" existsInText="false" childrenTotalMonths="83" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="SAAS" id="5531065" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="5" percentOfParentTaxonomy="6">
+								<sov:Skill name="GRADLE" id="3391152" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="Lucene" id="1004760" existsInText="true" totalMonths="18" lastUsed="2013-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" totalMonths="40" lastUsed="2010-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="SAAS" id="1004743" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SECURITY" id="022110" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="TOMCAT" id="009664" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" totalMonths="40" lastUsed="2010-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="REQUIREMENT GATHERING" id="006830" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SDLC" id="025956" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="SMS" id="081178" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="18" childrenLastUsed="2013-01-01">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="18" lastUsed="2013-01-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="POSTGRES" id="005136" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="40" lastUsed="2010-10-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" totalMonths="18" lastUsed="2013-01-01" whereFound="Found in SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="JUNIT" id="020369" existsInText="true" totalMonths="40" lastUsed="2010-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="SELENIUM" id="2000001" existsInText="true" totalMonths="18" lastUsed="2013-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="RESTFUL WEB SERVICES" id="5520591" existsInText="true" totalMonths="40" lastUsed="2010-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="SOAP" id="5520605" existsInText="true" totalMonths="40" lastUsed="2010-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="USER INTERFACE" id="7310067" existsInText="false" childrenTotalMonths="18" childrenLastUsed="2013-01-01">
+									<sov:ChildSkill name="UI" id="7310068" existsInText="true" totalMonths="18" lastUsed="2013-01-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="TEAM MANAGEMENT" id="025953" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="FRAMEWORKS" id="017954" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="EMR" id="016241" existsInText="true" totalMonths="40" lastUsed="2010-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="SOAP" id="008187" existsInText="true" totalMonths="40" lastUsed="2010-10-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Healthcare Non-physician Non-nurse" id="95" percentOfOverall="11">
+							<sov:Subtaxonomy name="Allied Health" id="158" percentOfOverall="11" percentOfParentTaxonomy="100">
+								<sov:Skill name="HEALTHCARE" id="018806" existsInText="true" totalMonths="123" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="5">
+							<sov:Subtaxonomy name="Advertising" id="595" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="B2B" id="1400202" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Channel, Partner &amp; Ecosystem Marketing" id="590" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="B2B" id="1400117" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="2">
+							<sov:Subtaxonomy name="Game Design" id="570" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="LEVEL DESIGN" id="5570143" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="2">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS REQUIREMENTS" id="022626" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Call Center or Help Desk or Customer Service" id="46" percentOfOverall="2">
+							<sov:Subtaxonomy name="Customer Facing" id="130" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="CLIENT INTERACTION" id="013440" existsInText="true" totalMonths="83" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="0">
+							<sov:Subtaxonomy name="People Oriented" id="517" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEAM BUILDING" id="009221" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="TEAM MANAGEMENT" id="025955" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Installation, Maintenance, Repair" id="72" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Repair" id="452" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022117" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="Equipment" id="364" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MAINTENANCE" id="022116" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="4" ends="15" sectionType="SUMMARY">Professional Highlights</sov:Section>
+				<sov:Section starts="16" ends="17" sectionType="SKILLS">Operating Systems</sov:Section>
+				<sov:Section starts="18" ends="55" sectionType="WORK HISTORY">Professional Experience</sov:Section>
+				<sov:Section starts="56" ends="58" sectionType="EDUCATION">Educational Qualifications</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Mobile - 9911066909</sov:Phone>
+					<sov:Phone>9911066909</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Sanjeev Kumar</sov:Name>
+					<sov:Name>Sanjeev Kumar / Development Manager</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>say.sanjeev@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>Kaboodle.com</sov:Url>
+				</sov:Urls>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>3687</sov:ParsedTextLength>
+			<sov:ParseTime>468</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Operating Systems'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;1] The following section does not have the header on a separate line: 'Operating Systems'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:5d6e5ce2-8e69-45b2-ab2d-2ded827b4359</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>TkkBAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

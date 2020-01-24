@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Girish Kumar Gupta</FormattedName>
+				<GivenName>Girish</GivenName>
+				<MiddleName>Kumar</MiddleName>
+				<FamilyName>Gupta</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>MAHARASHTRA</Region>
+					<Municipality>Mumbai</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91 9013001288</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>girishgargdce1@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>linkedIn</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>https://www.linkedin.com/in/girish-gupta-63556624</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Over 9 Yrs. experience in software development using python, Golang, C, C++, SQL, MongoDB, Nodejs,
+shell scripting, micro-services, automation, pyspark.
+I have written services using pyspark and python that handled millions of requests in real time in IPL.
+I develop and execute unit tests to ensure code quality is maintained.
+Other responsibilities include Data modeling, Code Reviews, Technical Design and Mentoring
+I have been instrumental in initiating, managing and providing sessions on MongoDB &amp; Node.JS as part of the company's Gem University.
+I am known and recognized as Initiative taker, Quick learner, Quality Champion, Hardworking,
+Disciplined.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Hotstar SDE</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<OrgName>
+						<OrganizationName>Hotstar SDE</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>MAHARASHTRA</Region>
+							<Municipality>Mumbai</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Project Title: - Game Engine
+Created jobs using pyspark that processes millions of user answers in real time for watch and play game during IPL.
+Written a proxy server using golang that converts vod to live stream.
+Written Game simulation engine that simulates a complete cricket match.
+I have also been instrumental in deploying applications using terraforms, ansible and packer.</Description>
+					<StartDate>
+						<YearMonth>2018-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 68% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Hotstar SDE</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Hotstar SDE</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Acorn machine Intelligence Lab</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Tech Lead, Development &amp; Deployment Lead</Title>
+					<OrgName>
+						<OrganizationName>Acorn machine Intelligence Lab</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>HARYANA</Region>
+							<Municipality>Gurgaon</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Tech lead, Gurgaon September '17 - Oct 2018
+Project Title: - Loan Portfolio Monitoring tool
+Role: Tech Lead, Development &amp; Deployment Lead
+Developed and deployed the tool from scratch internally to OakNorth bank for User
+Review/Feedback, wherein the tool helped ON Credit team reduce daily operations time by
+50% and identify high risk loans in early state.
+Designed data model to handle any type of loans, borrower and reporting.
+
+Technologies: {Backend - Python (Flask, Pandas, PyTest, microservices, docker)}, {Storage - MySQL, AWS S3, postgresql}, {Frontend - reactjs}, {Version Control - Git}
+Project Title: - Property Monitoring tool
+Developed AI based products for the various stakeholders within the company, with a goal of bringing down the turnaround time of credit assessments and customer loan disbursal to a
+quarter of current industry standards.
+Create a property price prediction tool that was used at the time of credit underwriting for
+London based SME mortgage loans.
+Technologies: {Backend - Python (Flask, Pandas, machine learning methods like KNN, Python, SQL, Redshift, Jupyter, GIT, JIRA)
+Note: machine learning model was created by someone else. I was mainly involved in data engineering.</Description>
+					<StartDate>
+						<YearMonth>2017-09</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2018-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 60% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BT">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Acorn machine Intelligence Lab</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Tech Lead Development AND Deployment Lead</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Acorn machine Intelligence Lab</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Gemini Solutions Pvt Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Gemini Solutions Pvt Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>HARYANA</Region>
+							<Municipality>Gurgaon</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>I was involved in developing a complete cloud-based tool to manage risk numbers across various
+teams through centralized database.
+A Web-based tool that is primarily a centralized and auditable database update utility.
+Designed algorithm to stale risk measures getting produced by financial models.
+Generate Periodic reports for Usages by various groups and users.
+I have been instrumental in peer code reviews.
+Query builder for any database (MS SQL, My SQL, Sybase, Postgresql, Oracle with commit
+/rollback, workflow through JIRA.
+Technologies: Python (Django, pytest, microservices, MSSQL, Sybase, Oracle, jquery}
+
+Project Title: - New Risk Framework (For the largest Fixed Income Investment Bank in the world)
+Security classification: classification of various bonds (Fixed Income) based on different financial
+analytics models.
+Specialized Sybase/Oracle oriented loaders: post processing of risk measures generated by
+financial models and loading into Sybase/Oracle.
+pimcloud library: Created highly efficient and easy to use wrapper for memcache library and exposed this to developers.
+Technologies Used: C++, STL, Boost, Scripting, gcc, Oracle, Sybase, python</Description>
+					<StartDate>
+						<YearMonth>2013-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 89% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Gemini Solutions</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Gemini Solutions</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Samsung India Software Centre</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Samsung India Software Centre</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>UTTAR PRADESH</Region>
+							<Municipality>Noida</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Tomoyo. Written various hooks on system calls in C.
+Updated LTP test suite for Tomoyo by writing different test cases. And Bullseye Coverage for this
+module reached high as compared to other modules in Linux Kernel. (Functional 97 % and Conditional 74 %).</Description>
+					<StartDate>
+						<YearMonth>2011-11</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2013-05</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Compiler &amp; Runtime</CategoryCode>
+						<Comments>Information Technology describes 75% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Samsung</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Samsung</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Sony India Software Centre</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>Sony India Software Centre</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bangalore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Project: - TransferJet protocol (It is a P2P shortrange high bandwidth data transmission NFC technology)
+Developed an Automation Framework using shell scripts for individual test scenarios belonging
+to various categories: simple config, long run, error and fault.
+Linux kernel programming, C, BASH, Makefile, Python</Description>
+					<StartDate>
+						<YearMonth>2010-07</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2011-10</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → UNIX and LINUX</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SQ">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Sony India Software Centre</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Sony India Software Centre</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Delhi College of Engineering</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>DELHI</Region>
+					<Municipality>Delhi</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.E.</DegreeName>
+					<DegreeDate>
+						<Year>2010</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2006</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2010</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>B.E. Computer Engineering from Delhi College of Engineering, Delhi (2006-2010)
+
+Key Achievements</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Delhi College of Engineering</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="high school or equivalent">
+					<DegreeName>X Std</DegreeName>
+					<DegreeDate>
+						<Year>2006</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>VISA</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2006</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Examination (AIEEE) 2006.
+Achieved 19th Rank in Rajasthan in All Rajasthan Talented Examination while in Class 11.
+Secured 38th Rank in Rajasthan in X Std.
+
+VISA: On Site exposure to Newport beach California, USA for 1 month. Have B1/B2 visa for USA valid up
+to 2026.</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>someHighSchoolOrEquivalent</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>high school or equivalent</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Technical Skills
+Data structure &amp; algorithms, Design Patterns, Object oriented Programming
+Languages: Python, Node.js, Java Script, C, C++, C#, Reactjs, Scripting (Bash, shell), jquery, Golang(basic)
+Databases: SQL (Sybase, Oracle, MSSQL, Postgresql), NoSQL(MongoDB), Dynamodb, Redis
+Frameworks/Libraries: Django, Flask, Kafka, pyspark, ORM, Ngnix, Influxdb, Telegraf, aws, terraform,
+packer, docker, ansible, EMR, gocd pipelines
+Tools: Visual Studio, Eclipse, gdb, gcc, vim, pycharm, goland, postman, git, svn, npm, Superset, Grafana</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi, English, Japanese (Basics)</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi, English, Japanese (Basics)</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>ja</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi, English, Japanese (Basics)</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>I am known and recognized as Initiative taker, Quick learner, Quality Champion, Hardworking</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Employee of the Quarter-4 2015 in Gemini Solutions Pvt Ltd</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Best Team Award in SONY in 2011</Description>
+			</Achievement>
+			<Achievement>
+				<Description>I am an adventure seeker and also a fitness buff. I'm also an avid swimmer, runner and cyclist and have</Description>
+			</Achievement>
+			<Achievement>
+				<Description>run quiet a few half marathons &amp; Triathlons. I next intend to run a full marathon in coming years</Description>
+			</Achievement>
+			<Achievement>
+				<Description>I have done sky diving, paragliding, horse riding. I recently started exploring Golf</Description>
+			</Achievement>
+			<Achievement>
+				<Description>I have participated in many hackathons and won prizes</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>https://www.linkedin.com/in/girish-gupta-63556624
+https://www.linkedin.com/in/girish-gupta-63556624/
+
+Girish Kumar Gupta	Mumbai (India)
+
++91 9013001288 girishgargdce1@gmail.com	https://www.linkedin.com/in/girish-gupta-63556624
+Summary
+Over 9 Yrs. experience in software development using python, Golang, C, C++, SQL, MongoDB, Nodejs,
+shell scripting, micro-services, automation, pyspark.
+I have written services using pyspark and python that handled millions of requests in real time in IPL.
+I develop and execute unit tests to ensure code quality is maintained.
+Other responsibilities include Data modeling, Code Reviews, Technical Design and Mentoring
+I have been instrumental in initiating, managing and providing sessions on MongoDB &amp; Node.JS as part of the company's Gem University.
+I am known and recognized as Initiative taker, Quick learner, Quality Champion, Hardworking,
+Disciplined.
+
+
+Technical Skills
+Data structure &amp; algorithms, Design Patterns, Object oriented Programming
+Languages: Python, Node.js, Java Script, C, C++, C#, Reactjs, Scripting (Bash, shell), jquery, Golang(basic)
+Databases: SQL (Sybase, Oracle, MSSQL, Postgresql), NoSQL(MongoDB), Dynamodb, Redis
+Frameworks/Libraries: Django, Flask, Kafka, pyspark, ORM, Ngnix, Influxdb, Telegraf, aws, terraform,
+packer, docker, ansible, EMR, gocd pipelines
+Tools: Visual Studio, Eclipse, gdb, gcc, vim, pycharm, goland, postman, git, svn, npm, Superset, Grafana
+
+Work Experience
+
+Hotstar SDE-2 Mumbai	October '18 - Current
+Project Title: - Game Engine
+Created jobs using pyspark that processes millions of user answers in real time for watch and play game during IPL.
+Written a proxy server using golang that converts vod to live stream.
+Written Game simulation engine that simulates a complete cricket match.
+I have also been instrumental in deploying applications using terraforms, ansible and packer.
+
+Acorn machine Intelligence Lab, Tech lead, Gurgaon September '17 - Oct 2018
+Project Title: - Loan Portfolio Monitoring tool
+Role: Tech Lead, Development &amp; Deployment Lead
+Developed and deployed the tool from scratch internally to OakNorth bank for User
+Review/Feedback, wherein the tool helped ON Credit team reduce daily operations time by
+50% and identify high risk loans in early state.
+Designed data model to handle any type of loans, borrower and reporting.
+
+Technologies: {Backend - Python (Flask, Pandas, PyTest, microservices, docker)}, {Storage - MySQL, AWS
+S3, postgresql}, {Frontend - reactjs}, {Version Control - Git}
+Project Title: - Property Monitoring tool
+Developed AI based products for the various stakeholders within the company, with a goal of bringing down the turnaround time of credit assessments and customer loan disbursal to a
+quarter of current industry standards.
+Create a property price prediction tool that was used at the time of credit underwriting for
+London based SME mortgage loans.
+Technologies: {Backend - Python (Flask, Pandas, machine learning methods like KNN, Python, SQL,
+Redshift, Jupyter, GIT, JIRA)
+Note: machine learning model was created by someone else. I was mainly involved in data engineering.
+
+Gemini Solutions Pvt Ltd, Gurgaon	May '13 - June'17
+Project Title: - Cronus Web Application
+I was involved in developing a complete cloud-based tool to manage risk numbers across various
+teams through centralized database.
+A Web-based tool that is primarily a centralized and auditable database update utility.
+Designed algorithm to stale risk measures getting produced by financial models.
+Generate Periodic reports for Usages by various groups and users.
+I have been instrumental in peer code reviews.
+Query builder for any database (MS SQL, My SQL, Sybase, Postgresql, Oracle with commit
+/rollback, workflow through JIRA.
+Technologies: Python (Django, pytest, microservices, MSSQL, Sybase, Oracle, jquery}
+
+Project Title: - New Risk Framework (For the largest Fixed Income Investment Bank in the world)
+Security classification: classification of various bonds (Fixed Income) based on different financial
+analytics models.
+Specialized Sybase/Oracle oriented loaders: post processing of risk measures generated by
+financial models and loading into Sybase/Oracle.
+pimcloud library: Created highly efficient and easy to use wrapper for memcache library and exposed this to developers.
+Technologies Used: C++, STL, Boost, Scripting, gcc, Oracle, Sybase, python
+
+Samsung India Software Centre, Noida	November '11 - May '13
+Project: - Linux Security
+Worked Linux Security Module, Tomoyo. Written various hooks on system calls in C.
+Updated LTP test suite for Tomoyo by writing different test cases. And Bullseye Coverage for this
+module reached high as compared to other modules in Linux Kernel. (Functional 97 % and Conditional 74 %).
+
+
+Sony India Software Centre, Bangalore	July '10 - October'11
+Project: - TransferJet protocol (It is a P2P shortrange high bandwidth data transmission NFC technology)
+Developed an Automation Framework using shell scripts for individual test scenarios belonging
+to various categories: simple config, long run, error and fault.
+Linux kernel programming, C, BASH, Makefile, Python
+Educational Qualifications:
+B.E. Computer Engineering from Delhi College of Engineering, Delhi (2006-2010)
+
+Key Achievements
+Employee of the Quarter-4 2015 in Gemini Solutions Pvt Ltd.
+Best Team Award in SONY in 2011.
+Secured All India Rank 257 out of more than 400,000 examinees in the All India Engineering Entrance
+Examination (AIEEE) 2006.
+Achieved 19th Rank in Rajasthan in All Rajasthan Talented Examination while in Class 11.
+Secured 38th Rank in Rajasthan in X Std.
+
+VISA: On Site exposure to Newport beach California, USA for 1 month. Have B1/B2 visa for USA valid up
+to 2026.
+
+Activities
+I am an adventure seeker and also a fitness buff. I'm also an avid swimmer, runner and cyclist and have
+run quiet a few half marathons &amp; Triathlons. I next intend to run a full marathon in coming years.
+I have done sky diving, paragliding, horse riding. I recently started exploring Golf.
+I have participated in many hackathons and won prizes.
+
+Languages
+Hindi, English, Japanese (Basics)
+
+External Links
+https://github.com/girishgupta211
+http://stackoverflow.com/users/1061664/girish-gupta
+https://www.linkedin.com/in/girish-gupta-63556624/
+https://medium.com/@GirishGupta211</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Girish Kumar Gupta's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Finance (mostly Mortgage). Girish Kumar Gupta has 9 years of work experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>110</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>22</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>13</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 9/1/2017, the candidate held the following low-level management position for 13 months:
+	Title: Tech Lead, Development &amp; Deployment Lead for Acorn machine Intelligence Lab</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="76">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="33" percentOfParentTaxonomy="44">
+								<sov:Skill name=".NET" id="023039" existsInText="false">
+									<sov:ChildSkill name="VISUAL STUDIO" id="010645" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ALGORITHM" id="022551" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="C#" id="012275" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="C++" id="012287" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="DESIGN PATTERNS" id="015257" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DJANGO" id="3391160" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="DOCKER" id="3391147" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2018-10-01">
+									<sov:ChildSkill name="NODE.JS" id="339002002" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:ChildSkill>
+									<sov:ChildSkill name="REACTJS" id="3391100" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="memcache" id="1004754" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="OBJECT ORIENTED" id="022453" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="OBJECT ORIENTED PROGRAMMING" id="003618" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="ORM" id="1004741" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" totalMonths="78" lastUsed="2018-10-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-3; POS-5" childrenTotalMonths="27" childrenLastUsed="2019-11-18">
+									<sov:ChildSkill name="FLASK" id="3391121" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2"></sov:ChildSkill>
+									<sov:ChildSkill name="PANDAS" id="3391116" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+									<sov:ChildSkill name="PYSPARK" id="3391125" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="REAL TIME" id="081198" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SCRIPTING" id="024873" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="STRUCTURED SOFTWARE" id="022594" existsInText="false">
+									<sov:ChildSkill name="SOFTWARE DEVELOPMENT" id="008213" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="Subversion" id="1004756" existsInText="false">
+									<sov:ChildSkill name="SVN" id="100475601" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="19" percentOfParentTaxonomy="25">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="62" childrenLastUsed="2018-10-01">
+									<sov:ChildSkill name="DATA MODEL" id="01503803" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+									<sov:ChildSkill name="DATA MODELING" id="01503802" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="POSTGRESQL" id="3391132" existsInText="true" totalMonths="62" lastUsed="2018-10-01" whereFound="Found in SKILLS; WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" totalMonths="62" lastUsed="2018-10-01" whereFound="Found in SKILLS; SUMMARY; WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="SYBASE" id="025283" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="AMAZON DYNAMODB" id="5530875" existsInText="false">
+									<sov:ChildSkill name="DYNAMODB" id="553087501" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="DATA MODEL" id="5530955" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="DATA STRUCTURE" id="5530961" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="KAFKA" id="5531005" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="NOSQL" id="5530812" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="REDIS" id="5530835" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" totalMonths="62" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2; POS-3"></sov:Skill>
+								<sov:Skill name="UNIT TESTS" id="010255" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="KERNEL" id="020397" existsInText="true" totalMonths="18" lastUsed="2013-05-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+								<sov:Skill name="REAL TIME" id="081189" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="SECURITY" id="022110" existsInText="true" totalMonths="67" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3; POS-4"></sov:Skill>
+								<sov:Skill name="WEB BASED" id="024402" existsInText="false" childrenTotalMonths="49" childrenLastUsed="2017-06-01">
+									<sov:ChildSkill name="WEB-BASED" id="02440201" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Embedded and Realtime" id="340" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="REAL TIME" id="081185" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATA MODEL" id="014993" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="DATA MODELING" id="024098" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SDE" id="007572" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="TECHNICAL DESIGN" id="025754" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="jQuery" id="339048" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Gaming" id="551" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="BASH" id="5510016" existsInText="true" totalMonths="16" lastUsed="2011-10-31" whereFound="Found in SKILLS; WORK HISTORY; POS-5"></sov:Skill>
+								<sov:Skill name="DJANGO" id="5510043" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in SKILLS; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="VERSION CONTROL" id="024037" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" totalMonths="34" lastUsed="2013-05-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="SHELL SCRIPTING" id="007925" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SHELL SCRIPTS" id="007926" existsInText="true" totalMonths="16" lastUsed="2011-10-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Compiler &amp; Runtime" id="719" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="KERNEL" id="7190035" existsInText="true" totalMonths="34" lastUsed="2013-05-01" whereFound="Found in WORK HISTORY; POS-4; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DESIGN PATTERNS" id="7310026" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Prebuilt Software" id="252" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="FRAMEWORKS" id="017954" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="EMR" id="016241" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="11">
+							<sov:Subtaxonomy name="Mortgage" id="233" percentOfOverall="5" percentOfParentTaxonomy="41">
+								<sov:Skill name="LOANS" id="080236" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2" childrenTotalMonths="13" childrenLastUsed="2018-10-01">
+									<sov:ChildSkill name="MORTGAGE" id="002722" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+									<sov:ChildSkill name="MORTGAGE LOANS" id="002765" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+									<sov:ChildSkill name="UNDERWRITING" id="010192" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Credit and Underwriting" id="240" percentOfOverall="5" percentOfParentTaxonomy="41">
+								<sov:Skill name="CREDIT" id="014614" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="LOAN PORTFOLIO" id="024030" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="LOANS" id="022185" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2" childrenTotalMonths="13" childrenLastUsed="2018-10-01">
+									<sov:ChildSkill name="UNDERWRITING" id="010190" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Lending" id="234" percentOfOverall="1" percentOfParentTaxonomy="10">
+								<sov:Skill name="LOANS" id="080217" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations" id="237" percentOfOverall="1" percentOfParentTaxonomy="5">
+								<sov:Skill name="FIXED INCOME" id="023108" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="243" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="ALGORITHMS" id="017446" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DATA MODELING" id="024099" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="2" percentOfParentTaxonomy="70">
+								<sov:Skill name="REAL TIME" id="022816" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="1" percentOfParentTaxonomy="20">
+								<sov:Skill name="ALGORITHM" id="022552" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Design" id="134" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="ACORN" id="025357" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+								<sov:Skill name="TECHNICAL DESIGN" id="025755" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Surveying" id="298" percentOfOverall="0" percentOfParentTaxonomy="4">
+								<sov:Skill name="ALGORITHMS" id="024338" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="2">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="1" percentOfParentTaxonomy="52">
+								<sov:Skill name="CREDIT" id="022227" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="DATA MODELING" id="014996" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Management Activities or Functions" id="436" percentOfOverall="1" percentOfParentTaxonomy="48">
+								<sov:Skill name="OPERATIONS" id="003875" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="2">
+							<sov:Subtaxonomy name="Assembly" id="379" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="PACKER" id="026190" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Non-Skilled Labor" id="11" percentOfOverall="2">
+							<sov:Subtaxonomy name="Warehouse and Picking" id="305" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="PACKER" id="026189" existsInText="true" totalMonths="14" lastUsed="2019-11-18" whereFound="Found in SKILLS; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="1">
+							<sov:Subtaxonomy name="Technical Product Marketing" id="586" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="SUBJECT MATTER EXPERT" id="1400032" existsInText="false" childrenTotalMonths="13" childrenLastUsed="2018-10-01">
+									<sov:ChildSkill name="SME" id="1400033" existsInText="true" totalMonths="13" lastUsed="2018-10-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="1">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="1" percentOfParentTaxonomy="85">
+								<sov:Skill name="WORKFLOW" id="024213" existsInText="true" totalMonths="49" lastUsed="2017-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Modeling" id="501" percentOfOverall="0" percentOfParentTaxonomy="15">
+								<sov:Skill name="DATA MODELING" id="024100" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="TEST CASES" id="009422" existsInText="true" totalMonths="18" lastUsed="2013-05-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Knowledge and Learning Management" id="92" percentOfOverall="0">
+							<sov:Subtaxonomy name="General Knowledge and Learning Management" id="903" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="MENTORING" id="200051" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Environmental" id="6" percentOfOverall="0">
+							<sov:Subtaxonomy name="Testing, Assessments, and Monitoring" id="328" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="GEM" id="018233" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="6" ends="16" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="17" ends="24" sectionType="SKILLS">Technical Skills</sov:Section>
+				<sov:Section starts="25" ends="84" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="85" ends="98" sectionType="EDUCATION">Educational Qualifications</sov:Section>
+				<sov:Section starts="99" ends="104" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">Activities</sov:Section>
+				<sov:Section starts="105" ends="112" sectionType="LANGUAGES">Languages</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>+91 9013001288</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>girish-gupta</sov:Name>
+					<sov:Name>Girish Kumar Gupta</sov:Name>
+					<sov:Name>Girish Kumar Gupta	Mumbai (India)</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>girishgargdce1@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>http://stackoverflow.com/users/1061664/girish-gupta</sov:Url>
+					<sov:Url>https://www.linkedin.com/in/girish-gupta-63556624</sov:Url>
+					<sov:Url>https://medium.com/@GirishGupta211</sov:Url>
+					<sov:Url>https://github.com/girishgupta211</sov:Url>
+				</sov:Urls>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>6304</sov:ParsedTextLength>
+			<sov:ParseTime>977</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:221;POS-1,POS-3,POS-4,POS-5] We could not find a job title for: POS-1, POS-3, POS-4, POS-5. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Technical Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:161;DEG-2] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:c4ca0a00-8fba-4b95-8a28-276897f48d0c</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>+Z/9//////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

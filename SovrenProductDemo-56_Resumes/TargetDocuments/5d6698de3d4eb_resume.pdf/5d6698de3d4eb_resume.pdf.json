@@ -1,0 +1,605 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Yash Soni",
+          "GivenName": "Yash",
+          "FamilyName": "Soni"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MADHYA PRADESH"
+              ],
+              "Municipality": "Indore",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Gandhi Chock, Petlawad Dist. Jhabua(M.P)"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "7697473908"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "yash42408@gmail.com"
+          }
+        ]
+      },
+      "Objective": "Work for an organization which provides me the opportunity to improve my skills and knowledge to growthalong with the\r\norganization objective.",
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "RGPV University"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MADHYA PRADESH"
+              ],
+              "Municipality": "Indore"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.E",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "CSE"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "7.48"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2020"
+                    }
+                  }
+                ],
+                "Comments": "Class/ Sem\tSchool/College\tYear\tBOARD/UNIVERSITY\tCGPA\r\nB.E CSE\tSri\tAurobindo\tinstitute of\t2020\tRGPV University\t7.48(pursuing)\r\ntechnology, Indore",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:Graduated": "false",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "RGPV University"
+              }
+            }
+          },
+          {
+            "@schoolType": "secondary",
+            "School": [
+              {
+                "SchoolName": "secondary school"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "M.P."
+              ],
+              "Municipality": "Petlawad"
+            },
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "76.5"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "10th\tShardha Vidhaya Mandir High\t2014\tM.P. Board\t76.5%\r\nsecondary school, Petlawad(M.P.)\r\n\r\nTECHANICAL SKILLS: -\r\n➢\tLANGUAGE KNOWN: - C, C++, JAVA, J2EE, HTML, CSS\r\n➢\tFRAMEWORKS KNOWN: - MVC Framework\r\n➢\tAPPLICATION KNOWN: - Apache Tomcat, Eclipse, Netbeans\r\n➢\tDATABASE KNOWLEDGE: - Oracle, SQL Server",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedGPA": "0.765",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "secondary school"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "➢\tAbility to learn and support new applications and systems.\r\n➢\tLeadership.\r\n➢\tWork with team.\r\n➢\tAbility to Work Under Pressure"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "➢\tLanguages known: Hindi and English"
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "➢\tLanguages known: Hindi and English"
+          }
+        ]
+      },
+      "Associations": {
+        "Association": [
+          {
+            "Name": "Hour of Code event member(Hackcoppers)",
+            "Role": [
+              {
+                "Name": "member"
+              }
+            ]
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "RESUME\r\n\r\n\r\nYash Soni\r\nUtsav Residency 14 kumar mohalla malharganj Indore(M.P)\r\nContact No. 7697473908\r\nEmail ID: yash42408@gmail.com\r\n\r\n\r\nOBJECTIVE:\r\nWork for an organization which provides me the opportunity to improve my skills and knowledge to growthalong with the\r\norganization objective.\r\n\r\nEDUCATIONAL QUALIFICATION:\r\n\r\n\r\nClass/ Sem\tSchool/College\tYear\tBOARD/UNIVERSITY\tCGPA\r\nB.E CSE\tSri\tAurobindo\tinstitute of\t2020\tRGPV University\t7.48(pursuing)\r\ntechnology, Indore\r\n12th\tShardha Vidhaya Mandir High\t2016\tM.P. Board\t80.6%\r\nsecondary school, Petlawad(M.P.)\r\n10th\tShardha Vidhaya Mandir High\t2014\tM.P. Board\t76.5%\r\nsecondary school, Petlawad(M.P.)\r\n\r\nTECHANICAL SKILLS: -\r\n➢\tLANGUAGE KNOWN: - C, C++, JAVA, J2EE, HTML, CSS\r\n➢\tFRAMEWORKS KNOWN: - MVC Framework\r\n➢\tAPPLICATION KNOWN: - Apache Tomcat, Eclipse, Netbeans\r\n➢\tDATABASE KNOWLEDGE: - Oracle, SQL Server\r\n\r\nKEY STRENGHTS:\r\n➢\tAbility to learn and support new applications and systems.\r\n➢\tLeadership.\r\n➢\tWork with team.\r\n➢\tAbility to Work Under Pressure\r\n\r\nEXTRA-CURRICULAR ACTIVITIES:\r\n➢\tHour of Code event member(Hackcoppers).\r\n➢\tChess Player in College team.\r\n\r\nINTERNSHIP: STERLING INSTITUTE INDORE\r\n\r\nIt is a 45 days internship program where I am trained in JAVA and henceforth given a project of my own choice\r\nTo be complete within deadline in JAVA using MVC framework and MAVEN tool.\r\n\r\nPERSONAL PROFILE:\r\n\r\n➢\tFather's name: Mr.Sunil Kumar Soni\r\n➢\tMother's name: Mrs. Aasha Soni\r\n➢\tDOB / Place of birth: 01-06-1999/Meghnagar\r\n➢\tLanguages known: Hindi and English\r\n➢\tPermanent address: Gandhi Chock, Petlawad Dist. Jhabua(M.P)\r\nDECLARATION:-I hereby declare that all the above-mentioned information is true to the best of my knowledge and belief.\r\n\r\n\r\nPlace: Indore (M.P.)\r\n\r\n(YASH SONI)"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1999-01-06"
+          },
+          "sov:Birthplace": "Meghnagar",
+          "sov:FathersName": "Mr.Sunil Kumar Soni",
+          "sov:MothersMaidenName": "Mrs. Aasha Soni"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Yash Soni's experience appears to be strongly concentrated in Information Technology (mostly Database) and somewhat concentrated in Marketing (mostly Digital). Yash Soni's experience appears to be entry level, with 0 months of experience.",
+          "sov:MonthsOfWorkExperience": "0",
+          "sov:FulltimeDirectHirePredictiveIndex": "0",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "79",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "22",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenLastUsed": "2014-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@lastUsed": "2014-01-01",
+                                "@whereFound": "Found in EDUCATION; DEG-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "@childrenLastUsed": "2014-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@lastUsed": "2014-01-01",
+                                "@whereFound": "Found in EDUCATION; DEG-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECLIPSE",
+                            "@id": "015844",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "J2EE",
+                            "@id": "020255",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "9",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "TOMCAT",
+                            "@id": "009664",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "@childrenLastUsed": "2014-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@lastUsed": "2014-01-01",
+                                "@whereFound": "Found in EDUCATION; DEG-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "@childrenLastUsed": "2014-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@lastUsed": "2014-01-01",
+                                "@whereFound": "Found in EDUCATION; DEG-2"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "FRAMEWORKS",
+                            "@id": "017954",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@lastUsed": "2014-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "21",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Digital",
+                        "@id": "599",
+                        "@percentOfOverall": "21",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SEARCH ENGINE MARKETING",
+                            "@id": "1400232",
+                            "@existsInText": "false",
+                            "@childrenLastUsed": "2020-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SEM",
+                                "@id": "1400233",
+                                "@existsInText": "true",
+                                "@lastUsed": "2020-01-01",
+                                "@whereFound": "Found in EDUCATION; DEG-1"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "9",
+              "@ends": "12",
+              "@sectionType": "OBJECTIVE",
+              "#text": "OBJECTIVE:"
+            },
+            {
+              "@starts": "13",
+              "@ends": "29",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATIONAL QUALIFICATION"
+            },
+            {
+              "@starts": "30",
+              "@ends": "35",
+              "@sectionType": "QUALIFICATIONS_SUMMARY",
+              "#text": "KEY STRENGHTS"
+            },
+            {
+              "@starts": "36",
+              "@ends": "44",
+              "@sectionType": "PROFESSIONAL AFFILIATIONS",
+              "#text": "EXTRA-CURRICULAR ACTIVITIES"
+            },
+            {
+              "@starts": "45",
+              "@ends": "57",
+              "@sectionType": "CONTACT INFO",
+              "#text": "PERSONAL PROFILE"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Contact No. 7697473908",
+              "7697473908"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Yash Soni",
+              "YASH SONI",
+              "(YASH SONI)"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "yash42408@gmail.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Place of birth: 01-06-1999/Meghnagar",
+              "Father's name: Mr.Sunil Kumar Soni",
+              "Mother's name: Mrs. Aasha Soni",
+              "01-06-1999"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "1698",
+        "sov:ParseTime": "140",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Fatal Problems Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:413;] We found no WORK HISTORY for the candidate. A resume should always include a work history section."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:151;0] The following section does not have the header on a separate line: 'OBJECTIVE:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                    "[Sovren:161;DEG-2] High school (or lower) education should not be included on resumes that contain higher-level education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:ecb93f38-9025-4515-8aca-ab7744ad4d8a",
+        "sov:ParserConfigurationString": "Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "CJgBAAAAAAA="
+      }
+    }
+  }
+}

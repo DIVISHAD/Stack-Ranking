@@ -1,0 +1,1923 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "V V SUNIL KUMAR MANYAM",
+          "GivenName": "V",
+          "MiddleName": "V SUNIL KUMAR",
+          "FamilyName": "MANYAM"
+        },
+        "ContactMethod": [
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "Mobile": {
+              "FormattedNumber": "+91-9008141141"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "mvv.sunil@gmail.com"
+          }
+        ]
+      },
+      "ExecutiveSummary": "● Experienced in using the latest technologies in projects like Ehcache, Aerospike, MongoDB, Elasticsearch\r\nto achieve High data volumes and low latency and scalable applications.\r\n● Experienced in building from scratch or decoupling the software modules to achieve the microservice module\r\n● Designed horizontally scalable n tier distributed systems.\r\n● Strong in core computers science areas like Design, Architecture, Data Structures, and Algorithms.\r\n● Strong troubleshooting, problem-solving skills with result oriented approaches.\r\n● Experienced in working in an Agile based team, played the role of the Scrum master for multiple projects.\r\n● Excellent Inter-team communication to resolve ambiguous dependencies.\r\n● Excellent Communication and customer interaction experience.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Amazon",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "played scrum master role",
+                "OrgName": {
+                  "OrganizationName": "Amazon"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "Hyderabad\r\n\r\nBIL is the tool which helps the Amazon international seller to list the products from source market place to other (cross region) target market places. Pricing plays a key vital role in BIL as there is a need for re-pricing\r\nthe products in target market places based on the factors like shipping price difference, VAT, currency\r\nfluctuations, etc..\r\nDesigning, building and enhancing the technology stack for the new pricing rule in BIL which supports\r\npricing for European sellers. Also played a key role in re-architecting the BIL tool to separate the pricing\r\ncomponents for better granularity(microservice architecture), better reusability, and maintainability. Also\r\nplayed scrum master role for this project.\r\n\r\nTechnologies Used: Java, Kinesis, SOAP, MongoDB.",
+                "StartDate": {
+                  "YearMonth": "2018-06"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Cloud Computing",
+                    "Comments": "Information Technology describes 51% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "Q",
+                      "#text": "Probable"
+                    },
+                    "sov:NormalizedOrganizationName": "Amazon",
+                    "sov:NormalizedTitle": "played scrum master role"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "OrgName": {
+                  "OrganizationName": "Amazon"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "Checkers is a key project for Amazon in terms of providing a better experience for China-based sellers by\r\ngetting there funds directly disbursed to there bank accounts, instead of via third-party tool called Payoneer.\r\nThis project not only helps the Chinese seller to get a better experience but also helps Amazon in saving the commition paid to third-party customers.\r\n\r\nPlayed a key role in enhancing existing registration flow and settings page and delivering the product to\r\nprovide support for Checkers in place of existing third-party tool Payoneer for China based sellers. As I am the only individual technical contributor(worked as a loaner) for this project interacted with multiple cross region\r\nteams like Registration, Settings page, Product management, China legal team and also the Higher management\r\nteam to get correct traction for this project.\r\n\r\nTechnologies Used: Java, Javascript, REST, G2S2(ion).\r\n\r\nAchievement: \"Above and Beyond\" Award for this project.",
+                "StartDate": {
+                  "YearMonth": "2017-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-05"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Distributed Systems",
+                    "Comments": "Information Technology describes 57% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Amazon"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Amazon"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Snapdeal",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Buyer Seller Message Feature",
+                "OrgName": {
+                  "OrganizationName": "Snapdeal"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "BuyerSeller message feature aids in building a loyal customer database, reduce the CPS (contacts per suborder) and control product returns. Sellers can use this chat facility to interact with buyers who initiate a\r\nconversation with them. This way if consumers are unhappy with their purchases they can talk to the seller\r\ndirectly. Sellers can also be allowed to contact buyers freely in order to avoid RTO (courier return).\r\n\r\nPlayed a key role in building technology stack and important modules in the project like offers flow and\r\ncache module, also responsible for communicating with dependent teams to resolving issues and push the feature on time. Responsible for mentoring the junior members of the team.\r\n\r\nTechnologies Used: Java, AeroSpike, REST, SQL.\r\nAchievement: Received Spot Award for this project.",
+                "StartDate": {
+                  "YearMonth": "2015-12"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-03"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 84% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Snapdeal",
+                    "sov:NormalizedTitle": "Buyer Seller Message Feature"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Seller Front Mobile API's",
+                "OrgName": {
+                  "OrganizationName": "Snapdeal"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "Seller Front Mobile API's team provides the data to Android and IOS teams through REST endpoints. SF\r\nMobile API's team gets data from different teams in different ways with different standards and consolidate data to provide to Android and IOS in the required format.\r\n\r\nPlayed a key role in enhancing product performance and decreasing the REST endpoints latency using\r\ntechnologies like caching and parallel programming. Supported the team with production support, code review and mentoring the junior members. Point of contact for the project for external components.\r\n\r\nTechnologies Used: Java, Spring MVC, SQL, EhCache, Aerospike",
+                "StartDate": {
+                  "YearMonth": "2016-06"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-03"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Mobile Applications",
+                    "Comments": "Information Technology describes 92% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Snapdeal",
+                    "sov:NormalizedTitle": "Seller Front Mobile APIs"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Seller Rating Panel (SRP)",
+                "OrgName": {
+                  "OrganizationName": "Snapdeal"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "Seller rating panel is part of the seller front in seller.snapdeal.com web. It is a platform for all the Sellers of Snapdeal to see their active ratings and historical trends. It also provides high-level details about how his\r\nrating is calculated with customer comments and feedbacks, so that can improve their ratings. SRP also provides the impersonate view for account managers to see all seller information.\r\n\r\nDeveloped most of the components in the product from UI to DB. Developed and showcase the new\r\nfeatures to Seller onboarding team and higher management for best customer experience. Improved the response\r\ntime of the REST endpoints using Ehcache.\r\n\r\nTechnologies Used: Java, Spring MVC, REST, SQL, EhCache\r\nAchievement: Received Spot Award for this project.",
+                "StartDate": {
+                  "YearMonth": "2015-04"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Java",
+                    "Comments": "Information Technology describes 90% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BQ",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Snapdeal",
+                    "sov:NormalizedTitle": "Seller Rating Panel SRP",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Seller Rating Panel"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Snapdeal"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "EMC2",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "EMC2"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "Watch4Net or Prosphere suite is enterprise-class crossdomain performance and service level\r\nmanagement software. Perform crossdomain performance monitoring of infrastructure and data center\r\ncomponents, in realtime, to a single customizable dashboard.\r\n\r\nDeveloped the new Alert consolidation flows for VNX, VMware, VMax alert consolidation and\r\nenhanced the existing data consolidations. Developed RESTFul service for maintaining the configuration of the product. Played a vital role in fixing the customer escalation for the product and enhancing the monitoring tool in the product.\r\n\r\nTechnologies Used: Java, Spring, Oracle PL/SQL, Rabbitmq.\r\nAchievement: One of the very few people to get Gold Award for developing the Mobile App POC for the product this project (stretch activity)",
+                "StartDate": {
+                  "YearMonth": "2011-01"
+                },
+                "EndDate": {
+                  "YearMonth": "2015-03"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "EMC2"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "EMC2"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Left Hand Networks",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Left Hand Networks"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "LeftHand Networks provides server virtualization that converts the DAS into ISCSI SAN. This product\r\nmakes use of the unused space on hypervisors like ESX servers to create a clustered ISCSI SAN. The virtual\r\nclustered ISCSI SAN has features like Network Raid, Replication, Snapshot, etc..\r\n\r\nResponsible for the Developing the Client side product 02VSA which enables the deployment of LHN\r\ncluster on ESX server from scratch. Involved in writing and testing the JUNIT's for the core functionality in of\r\nLHN to integrate them with a unified infrastructure platform. Involved addition of other new feature as well as unittesting.\r\n\r\nTechnologies Used: Java 1.5, .NET C#, C++",
+                "StartDate": {
+                  "YearMonth": "2010-03"
+                },
+                "EndDate": {
+                  "YearMonth": "2010-12"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Enterprise Storage",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-7",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Left Hand Networks"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Left Hand Networks"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "HPSTSD, Bangalore",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "HPSTSD, Bangalore"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "MAHARASHTRA"
+                      ],
+                      "Municipality": "WAI"
+                    }
+                  }
+                ],
+                "Description": "Windows Adaptive Infrastructure is a NAS Cluster which provides Scalable File Serving and application high availability through virtualization. The product enables multiple SQL Server instances to be\r\nconsolidated onto substantially fewer servers.\r\n\r\nPlayed a significant role in porting the product filesystem to WIN2K8 server which also involved fixing\r\nthe issues in the core component of the product, rootcausing and resolving some of the critical HA(High Availability) defects. Developed the test tools which help to reduce the QA cycle and improve the quality of the product.\r\n\r\nTechnologies Used: C++, .Net C#",
+                "StartDate": {
+                  "YearMonth": "2008-07"
+                },
+                "EndDate": {
+                  "YearMonth": "2010-02"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 99% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-8",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BS",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "HPSTSD Bangalore"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "HPSTSD Bangalore"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Vellore Institute of Technology"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "TAMIL NADU"
+              ],
+              "Municipality": "Vellore"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "Bachelor of Technology in Computer",
+                "DegreeDate": {
+                  "Year": "2008"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Technology"
+                    ]
+                  }
+                ],
+                "DegreeMinor": [
+                  {
+                    "Name": [
+                      "Engineering"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "75"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2008"
+                    }
+                  }
+                ],
+                "Comments": "Bachelor of Technology in Computer\tVellore Institute of Technology (Deemed\r\nScience Engineering\t2008\tUniversity), Vellore\t75%",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedGPA": "0.750",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Vellore Institute of Technology"
+              }
+            }
+          },
+          {
+            "@schoolType": "community",
+            "School": [
+              {
+                "SchoolName": "SASI Junior College"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "high school or equivalent",
+                "DegreeName": "Class XII",
+                "DegreeDate": {
+                  "Year": "2004"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Board of Intermediate"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "86.2"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2004"
+                    }
+                  }
+                ],
+                "Comments": "Class XII (Board of Intermediate\r\n)\t2004\tSASI Junior College, Vellivennu\t86.2%",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedGPA": "0.862",
+                    "sov:NormalizedDegreeName": "highSchoolOrEquivalent",
+                    "sov:NormalizedDegreeType": "highSchoolOrEquivalent"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "SASI Junior College"
+              }
+            }
+          },
+          {
+            "@schoolType": "highschool",
+            "School": [
+              {
+                "SchoolName": "Board of Secondary Education"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "some high school or equivalent",
+                "DegreeName": "Class X",
+                "DegreeDate": {
+                  "Year": "2002"
+                },
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "77.5"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2002"
+                    }
+                  }
+                ],
+                "Comments": "Class X (Board of Secondary Education) 2002\tSASI Junior College, Vellivennu\t77.5%",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedGPA": "0.775",
+                    "sov:NormalizedDegreeName": "someHighSchoolOrEquivalent",
+                    "sov:NormalizedDegreeType": "some high school or equivalent"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Board of Secondary Education"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "Software Skill Summary\r\n\r\n●\tlanguages: Java, J2ee, Net C#, Adobe Flex, C, C++\r\n●\tFramework/Patterns: Rabbitmq, Kafka, ehCache, Kinesis\r\n●\tDatabase stores: MySQL, MongoDB, Aerospike, Elasticsearch\r\n●\tServers: Apache Tomcat\r\n●\tTools/Packages: Maven, SVN, Eclipse, IntelliJ\r\n●\tOperating System: Windows, Centos, Ubuntu, RHEL5, iOS\r\n●\tMiscellaneous: Oops designing skills, Data structures, and Algorithms"
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "zh",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "project not only helps the Chinese seller to get a"
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Achievement: \"Above and Beyond\" Award for this project"
+          },
+          {
+            "Description": "Achievement: Received Spot Award for this project"
+          },
+          {
+            "Description": "Achievement: One of the very few people to get Gold Award for developing the Mobile App POC for the"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "V V SUNIL KUMAR MANYAM\r\nEmail: mvv.sunil@gmail.com\r\nMobile: +91-9008141141\r\n\r\nHands-on technical person with 11 years of experience in architecture, design, development, and\r\nimplementation of complex software systems using Java/J2ee technologies with specialized knowledge in high\r\ndata volumes with low latency and high throughput system, looking to continue making a significant\r\ncontribution in architecture and design for unsolved problems.\r\n\r\nProfessional Summary\r\n\r\n● Experienced in using the latest technologies in projects like Ehcache, Aerospike, MongoDB, Elasticsearch\r\nto achieve High data volumes and low latency and scalable applications.\r\n● Experienced in building from scratch or decoupling the software modules to achieve the microservice module\r\n● Designed horizontally scalable n tier distributed systems.\r\n● Strong in core computers science areas like Design, Architecture, Data Structures, and Algorithms.\r\n● Strong troubleshooting, problem-solving skills with result oriented approaches.\r\n● Experienced in working in an Agile based team, played the role of the Scrum master for multiple projects.\r\n● Excellent Inter-team communication to resolve ambiguous dependencies.\r\n● Excellent Communication and customer interaction experience.\r\n\r\nSoftware Skill Summary\r\n\r\n●\tlanguages: Java, J2ee, Net C#, Adobe Flex, C, C++\r\n●\tFramework/Patterns: Rabbitmq, Kafka, ehCache, Kinesis\r\n●\tDatabase stores: MySQL, MongoDB, Aerospike, Elasticsearch\r\n●\tServers: Apache Tomcat\r\n●\tTools/Packages: Maven, SVN, Eclipse, IntelliJ\r\n●\tOperating System: Windows, Centos, Ubuntu, RHEL5, iOS\r\n●\tMiscellaneous: Oops designing skills, Data structures, and Algorithms\r\n\r\n\r\nWork Experience\r\nBIL Pricing\t(June, 2018 to Present)\r\nAmazon, Hyderabad\r\n\r\nBIL is the tool which helps the Amazon international seller to list the products from source market place\r\nto other (cross region) target market places. Pricing plays a key vital role in BIL as there is a need for re-pricing\r\nthe products in target market places based on the factors like shipping price difference, VAT, currency\r\nfluctuations, etc..\r\nDesigning, building and enhancing the technology stack for the new pricing rule in BIL which supports\r\npricing for European sellers. Also played a key role in re-architecting the BIL tool to separate the pricing\r\ncomponents for better granularity(microservice architecture), better reusability, and maintainability. Also\r\nplayed scrum master role for this project.\r\n\r\nTechnologies Used: Java, Kinesis, SOAP, MongoDB.\r\n\r\nCheckers Project\t(April, 2017 to May 2018)\r\nAmazon, Hyderabad\r\n\r\nCheckers is a key project for Amazon in terms of providing a better experience for China-based sellers by\r\ngetting there funds directly disbursed to there bank accounts, instead of via third-party tool called Payoneer.\r\nThis project not only helps the Chinese seller to get a better experience but also helps Amazon in saving the\r\ncommition paid to third-party customers.\r\n\r\nPlayed a key role in enhancing existing registration flow and settings page and delivering the product to\r\nprovide support for Checkers in place of existing third-party tool Payoneer for China based sellers. As I am the\r\nonly individual technical contributor(worked as a loaner) for this project interacted with multiple cross region\r\nteams like Registration, Settings page, Product management, China legal team and also the Higher management\r\nteam to get correct traction for this project.\r\n\r\nTechnologies Used: Java, Javascript, REST, G2S2(ion).\r\n\r\nAchievement: \"Above and Beyond\" Award for this project.\r\n\r\nBuyer Seller Message Feature\t(December, 2015 to March 2017)\r\nSnapdeal, Bangalore\r\n\r\nBuyerSeller message feature aids in building a loyal customer database, reduce the CPS (contacts per\r\nsuborder) and control product returns. Sellers can use this chat facility to interact with buyers who initiate a\r\nconversation with them. This way if consumers are unhappy with their purchases they can talk to the seller\r\ndirectly. Sellers can also be allowed to contact buyers freely in order to avoid RTO (courier return).\r\n\r\nPlayed a key role in building technology stack and important modules in the project like offers flow and\r\ncache module, also responsible for communicating with dependent teams to resolving issues and push the\r\nfeature on time. Responsible for mentoring the junior members of the team.\r\n\r\nTechnologies Used: Java, AeroSpike, REST, SQL.\r\n\r\nAchievement: Received Spot Award for this project.\r\nSeller Front Mobile API's\t(June, 2016 to March 2017)\r\nSnapdeal, Bangalore\r\n\r\nSeller Front Mobile API's team provides the data to Android and IOS teams through REST endpoints. SF\r\nMobile API's team gets data from different teams in different ways with different standards and consolidate data\r\nto provide to Android and IOS in the required format.\r\n\r\nPlayed a key role in enhancing product performance and decreasing the REST endpoints latency using\r\ntechnologies like caching and parallel programming. Supported the team with production support, code review\r\nand mentoring the junior members. Point of contact for the project for external components.\r\n\r\nTechnologies Used: Java, Spring MVC, SQL, EhCache, Aerospike\r\n\r\nSeller Rating Panel (SRP)\t(April, 2015 to February, 2016)\r\nSnapdeal, Bangalore\r\n\r\nSeller rating panel is part of the seller front in seller.snapdeal.com web. It is a platform for all the Sellers\r\nof Snapdeal to see their active ratings and historical trends. It also provides high-level details about how his\r\nrating is calculated with customer comments and feedbacks, so that can improve their ratings. SRP also provides\r\nthe impersonate view for account managers to see all seller information.\r\n\r\nDeveloped most of the components in the product from UI to DB. Developed and showcase the new\r\nfeatures to Seller onboarding team and higher management for best customer experience. Improved the response\r\ntime of the REST endpoints using Ehcache.\r\n\r\nTechnologies Used: Java, Spring MVC, REST, SQL, EhCache\r\n\r\nAchievement: Received Spot Award for this project.\r\n\r\nWatch4Net/ProSphere\t(January, 2011 to March, 2015)\r\nEMC2, Bangalore\r\n\r\nWatch4Net or Prosphere suite is enterprise-class crossdomain performance and service level\r\nmanagement software. Perform crossdomain performance monitoring of infrastructure and data center\r\ncomponents, in realtime, to a single customizable dashboard.\r\n\r\nDeveloped the new Alert consolidation flows for VNX, VMware, VMax alert consolidation and\r\nenhanced the existing data consolidations. Developed RESTFul service for maintaining the configuration of the\r\nproduct. Played a vital role in fixing the customer escalation for the product and enhancing the monitoring tool\r\nin the product.\r\n\r\nTechnologies Used: Java, Spring, Oracle PL/SQL, Rabbitmq.\r\n\r\nAchievement: One of the very few people to get Gold Award for developing the Mobile App POC for the\r\nproduct this project (stretch activity)\r\nLeft Hand Networks\t(March, 2010 to December, 2010)\r\n\r\nHPSTSD Bangalore\r\n\r\nLeftHand Networks provides server virtualization that converts the DAS into ISCSI SAN. This product\r\nmakes use of the unused space on hypervisors like ESX servers to create a clustered ISCSI SAN. The virtual\r\nclustered ISCSI SAN has features like Network Raid, Replication, Snapshot, etc..\r\n\r\nResponsible for the Developing the Client side product 02VSA which enables the deployment of LHN\r\ncluster on ESX server from scratch. Involved in writing and testing the JUNIT's for the core functionality in of\r\nLHN to integrate them with a unified infrastructure platform. Involved addition of other new feature as well as\r\nunittesting.\r\n\r\nTechnologies Used: Java 1.5, .NET C#, C++\r\n\r\nWAI(Windows Adaptive Infrastructure)\t(July, 2008 to February, 2010)\r\n\r\nHPSTSD, Bangalore\r\n\r\nWindows Adaptive Infrastructure is a NAS Cluster which provides Scalable File Serving and\r\napplication high availability through virtualization. The product enables multiple SQL Server instances to be\r\nconsolidated onto substantially fewer servers.\r\n\r\nPlayed a significant role in porting the product filesystem to WIN2K8 server which also involved fixing\r\nthe issues in the core component of the product, rootcausing and resolving some of the critical HA(High\r\nAvailability) defects. Developed the test tools which help to reduce the QA cycle and improve the quality of the\r\nproduct.\r\n\r\nTechnologies Used: C++, .Net C#\r\n\r\nEducation Summary\r\n\r\nBachelor of Technology in Computer\tVellore Institute of Technology (Deemed\r\nScience Engineering\t2008\tUniversity), Vellore\t75%\r\n\r\nClass XII (Board of Intermediate\r\nEducation)\t2004\tSASI Junior College, Vellivennu\t86.2%\r\n\r\nClass X (Board of Secondary Education) 2002\tSASI Junior College, Vellivennu\t77.5%"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "V V SUNIL KUMAR MANYAM's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Marketing (mostly Product). V V SUNIL KUMAR MANYAM has 12 years of work experience.",
+          "sov:MonthsOfWorkExperience": "138",
+          "sov:AverageMonthsPerEmployer": "27",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "94",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "72",
+                        "@percentOfParentTaxonomy": "77",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECLIPSE",
+                            "@id": "015844",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "J2EE",
+                            "@id": "020255",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "117",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1; POS-2; POS-3; POS-4; POS-5; POS-6; POS-7",
+                            "@childrenTotalMonths": "70",
+                            "@childrenLastUsed": "2017-03-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@totalMonths": "70",
+                                "@lastUsed": "2017-03-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4; POS-5; POS-6"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "16",
+                            "@childrenLastUsed": "2017-03-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "16",
+                                "@lastUsed": "2017-03-31",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "20",
+                            "@childrenLastUsed": "2010-02-28",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@totalMonths": "20",
+                                "@lastUsed": "2010-02-28",
+                                "@whereFound": "Found in WORK HISTORY; POS-8"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2015-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "PL/SQL",
+                            "@id": "004871",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2015-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "REPLICATION",
+                            "@id": "025246",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "95",
+                            "@lastUsed": "2017-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3; POS-4; POS-5; POS-6; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "AEROSPIKE",
+                            "@id": "5530702",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2017-03-31",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-3; POS-4"
+                          },
+                          {
+                            "@name": "DATA CENTER",
+                            "@id": "5530942",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2015-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "DISTRIBUTED SYSTEMS",
+                            "@id": "5530974",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "ELASTICSEARCH",
+                            "@id": "5530744",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "KAFKA",
+                            "@id": "5531005",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5530805",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "REPLICATION",
+                            "@id": "5531054",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA STRUCTURES",
+                            "@id": "6180000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          },
+                          {
+                            "@name": "DISTRIBUTED SYSTEMS",
+                            "@id": "7180106",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "REST",
+                            "@id": "7180010",
+                            "@existsInText": "true",
+                            "@totalMonths": "38",
+                            "@lastUsed": "2018-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3; POS-4; POS-5"
+                          },
+                          {
+                            "@name": "VIRTUALIZATION",
+                            "@id": "7180009",
+                            "@existsInText": "true",
+                            "@totalMonths": "30",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "AMAZON KINESIS",
+                            "@id": "5500306",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "18",
+                            "@childrenLastUsed": "2019-11-18",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "KINESIS",
+                                "@id": "550030601",
+                                "@existsInText": "true",
+                                "@totalMonths": "18",
+                                "@lastUsed": "2019-11-18",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-1"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5500361",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SKILLS; SUMMARY; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "5520503",
+                            "@existsInText": "true",
+                            "@totalMonths": "9",
+                            "@lastUsed": "2017-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "IOS",
+                            "@id": "5520545",
+                            "@existsInText": "true",
+                            "@totalMonths": "9",
+                            "@lastUsed": "2017-03-01",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "19",
+                            "@childrenLastUsed": "2017-03-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@totalMonths": "19",
+                                "@lastUsed": "2017-03-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SOAP",
+                            "@id": "5520605",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DAS",
+                            "@id": "5551108",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "DISTRIBUTED SYSTEMS",
+                            "@id": "5551330",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          },
+                          {
+                            "@name": "EMC VMAX",
+                            "@id": "5551126",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "51",
+                            "@childrenLastUsed": "2015-03-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "VMAX",
+                                "@id": "555112601",
+                                "@existsInText": "true",
+                                "@totalMonths": "51",
+                                "@lastUsed": "2015-03-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-6"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "EMC VNX",
+                            "@id": "5551127",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "51",
+                            "@childrenLastUsed": "2015-03-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "VNX",
+                                "@id": "555112701",
+                                "@existsInText": "true",
+                                "@totalMonths": "51",
+                                "@lastUsed": "2015-03-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-6"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ISCSI",
+                            "@id": "5551158",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "NETWORK ATTACHED STORAGE",
+                            "@id": "5551171",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "20",
+                            "@childrenLastUsed": "2010-02-28",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "NAS",
+                                "@id": "555117101",
+                                "@existsInText": "true",
+                                "@totalMonths": "20",
+                                "@lastUsed": "2010-02-28",
+                                "@whereFound": "Found in WORK HISTORY; POS-8"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "RAID",
+                            "@id": "5551181",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADOBE FLEX",
+                            "@id": "7310004",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "ANDROID",
+                            "@id": "7310008",
+                            "@existsInText": "true",
+                            "@totalMonths": "9",
+                            "@lastUsed": "2017-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "19",
+                            "@childrenLastUsed": "2017-03-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@totalMonths": "19",
+                                "@lastUsed": "2017-03-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "USER INTERFACE",
+                            "@id": "7310067",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "10",
+                            "@childrenLastUsed": "2016-02-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "UI",
+                                "@id": "7310068",
+                                "@existsInText": "true",
+                                "@totalMonths": "10",
+                                "@lastUsed": "2016-02-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "RAID",
+                            "@id": "027096",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "REALTIME",
+                            "@id": "081188",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2015-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "SOAP",
+                            "@id": "008187",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": ".NET",
+                            "@id": "023039",
+                            "@existsInText": "true",
+                            "@totalMonths": "30",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7; POS-8"
+                          },
+                          {
+                            "@name": "C#",
+                            "@id": "012275",
+                            "@existsInText": "true",
+                            "@totalMonths": "30",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-7; POS-8"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@totalMonths": "30",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-7; POS-8"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2018-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "Subversion",
+                            "@id": "1004756",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SVN",
+                                "@id": "100475601",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT MANAGEMENT",
+                            "@id": "005633",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2018-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@totalMonths": "19",
+                            "@lastUsed": "2017-03-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-4; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA CENTER",
+                            "@id": "024134",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2015-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "NAS",
+                            "@id": "3490039",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2010-02-28",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "SERVER VIRTUALIZATION",
+                            "@id": "3490014",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "VIRTUALIZATION",
+                            "@id": "3490016",
+                            "@existsInText": "true",
+                            "@totalMonths": "30",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Embedded and Realtime",
+                        "@id": "340",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "REALTIME",
+                            "@id": "081182",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2015-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "VMWARE",
+                            "@id": "026285",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2015-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DEPLOYMENT",
+                            "@id": "023631",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "MAVEN",
+                            "@id": "2510001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "TOMCAT",
+                            "@id": "009664",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DISTRIBUTED SYSTEMS",
+                            "@id": "3380011",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT MANAGEMENT",
+                            "@id": "1400021",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2018-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Brand Management",
+                        "@id": "227",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT MANAGEMENT",
+                            "@id": "081161",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2018-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT MANAGEMENT",
+                            "@id": "005634",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2018-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "SHIPPING",
+                            "@id": "022445",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Telecom",
+                        "@id": "146",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "54",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT MANAGEMENT",
+                            "@id": "022258",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2018-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "32",
+                        "sov:Skill": [
+                          {
+                            "@name": "RAID",
+                            "@id": "027097",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2010-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "REALTIME",
+                            "@id": "023496",
+                            "@existsInText": "true",
+                            "@totalMonths": "51",
+                            "@lastUsed": "2015-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "9",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "024338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "025565",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in SUMMARY; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Management",
+                    "@id": "80",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Budget Related",
+                        "@id": "516",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRICING",
+                            "@id": "005394",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Tax",
+                        "@id": "702",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "86",
+                        "sov:Skill": [
+                          {
+                            "@name": "VAT",
+                            "@id": "7000015",
+                            "@existsInText": "true",
+                            "@totalMonths": "18",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "243",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "ALGORITHMS",
+                            "@id": "017446",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Scientific",
+                    "@id": "15",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Chemical",
+                        "@id": "377",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ION",
+                            "@id": "020128",
+                            "@existsInText": "true",
+                            "@totalMonths": "14",
+                            "@lastUsed": "2018-05-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Knowledge and Learning Management",
+                    "@id": "92",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Knowledge and Learning Management",
+                        "@id": "903",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MENTORING",
+                            "@id": "200051",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2017-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Talent Management",
+                        "@id": "584",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ONBOARDING",
+                            "@id": "9000284",
+                            "@existsInText": "true",
+                            "@totalMonths": "10",
+                            "@lastUsed": "2016-02-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Purchasing",
+                        "@id": "458",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUYER",
+                            "@id": "025714",
+                            "@existsInText": "true",
+                            "@totalMonths": "16",
+                            "@lastUsed": "2017-03-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Messages and Contact",
+                        "@id": "112",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER INTERACTION",
+                            "@id": "014742",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Attitude",
+                        "@id": "528",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROBLEM-SOLVING",
+                            "@id": "005483",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SUMMARY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "941",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "QA",
+                            "@id": "006125",
+                            "@existsInText": "true",
+                            "@totalMonths": "20",
+                            "@lastUsed": "2010-02-28",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "9",
+              "@ends": "20",
+              "@sectionType": "SUMMARY",
+              "#text": "Professional Summary"
+            },
+            {
+              "@starts": "21",
+              "@ends": "31",
+              "@sectionType": "SKILLS",
+              "#text": "Software Skill Summary"
+            },
+            {
+              "@starts": "32",
+              "@ends": "154",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Work Experience"
+            },
+            {
+              "@starts": "155",
+              "@ends": "160",
+              "@sectionType": "EDUCATION",
+              "#text": "Education Summary"
+            },
+            {
+              "@starts": "161",
+              "@ends": "163",
+              "@sectionType": "EDUCATION",
+              "#text": "Education"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Mobile: +91-9008141141",
+              "+91-9008141141"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "V V SUNIL KUMAR MANYAM"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "mvv.sunil@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "seller.snapdeal.com"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "8537",
+        "sov:ParseTime": "2031",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:323;EDUCATION] The following section type appeared multiple times in the resume: EDUCATION (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:221;POS-2,POS-6,POS-7,POS-8] We could not find a job title for: POS-2, POS-6, POS-7, POS-8. Every position in a resume should have a job title."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Software Skill Summary'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;4] The following section does not have the header on a separate line: 'Education'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                    "[Sovren:161;DEG-2,DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:6d9fc5a4-4342-4169-bf7f-9bda99ce6ef5",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "iDL8//////8="
+      }
+    }
+  }
+}

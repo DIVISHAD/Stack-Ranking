@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>VAIRA SUNDARI N</FormattedName>
+				<GivenName>VAIRA</GivenName>
+				<MiddleName>SUNDARI</MiddleName>
+				<FamilyName>N</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>641668</PostalCode>
+					<Region>TAMIL NADU</Region>
+					<Municipality>Coimbatore</Municipality>
+					<DeliveryAddress>
+						<AddressLine>github.com/vairasundari/Javaprograms</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>9787432339</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>vairasundarin2020@srishakthi.ac.in</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>businessDirect</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>https://github.com/vairasundari/Javaprograms</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>Institution: SSIET Coimbatore.
+Project Title: Sri Shakthi International School.
+Description: Developed a website for Sri Shakthi International School as a
+team.
+Institution: CODEBIND Technology, Coimbatore.
+Duration: 5 Days.
+Project Title: Online Hotel Management System.
+Description: Developed Online Hotel Management Application for book a
+hotel.
+IMPLANT TRAINING / INTERNSHIP
+
+Company Name: CODEBIND Technologies Coimbatore.
+Duration: 5 Days
+Purpose: Training in Web Development.
+
+Company Name: Cegonsoft, Bangalore.
+Duration: 1 Days
+Purpose: To gain knowledge on Web development and project deployment.
+
+Company Name: CODEBIND Technologies Coimbatore.
+Duration: 5 Days
+Purpose: Internship for Web Development.
+
+ACADEMIC / EXTRA-CURRICULAR ACTIVITIES
+• Attended Workshop on ANDROID conducted by CODEBIND TECHNOLOGY on
+JUN 13.2017.
+• Completed a "COPORATE TRAINING TEST" based on placement Aptitude
+Questions conducted by CODEBIND TECHNOLOGY on JUN 13 2017.
+• Participated in the national Level Technical symposium "YUKTAHA 2k19" on
+12th and 13th Feb 2019 at PSG INSTITUTE OF TECHNOLOGY AND APPLIED
+RESEARCH, Coimbatore.</Description>
+					<StartDate>
+						<AnyDate>notKnown</AnyDate>
+					</StartDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → User Interface</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Sri Shakthi Institute</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B-TECH</DegreeName>
+					<DegreeMajor>
+						<Name>Engineering and Technology</Name>
+					</DegreeMajor>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>7.64</StringValue>
+							</MeasureValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2016</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2020</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Course	Institution	Board /	Year of	Percentage/
+University	Completion	CGPA
+B-TECH	Sri Shakthi Institute of	Anna	2016-2020	7.64*
+(IT)	Engineering and Technology	University	(Upto 6th semester)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:Graduated>false</sov:Graduated>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Sri Shakthi Institute</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>State Board</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeName>HSC</DegreeName>
+					<DegreeDate>
+						<Year>2016</Year>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>92.5</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2016</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>HSC	Kadri Mills Higher Secondary	State Board	2016	92.5%
+School</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedGPA>0.925</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>secondary</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>State Board</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="secondary">
+				<School>
+					<SchoolName>State Board</SchoolName>
+				</School>
+				<Degree degreeType="secondary">
+					<DegreeName>SSLC</DegreeName>
+					<DegreeDate>
+						<Year>2014</Year>
+					</DegreeDate>
+					<DegreeMeasure>
+						<EducationalMeasure>
+							<MeasureSystem>GPA</MeasureSystem>
+							<MeasureValue>
+								<StringValue>95.4</StringValue>
+							</MeasureValue>
+							<LowestPossibleValue>
+								<StringValue>0</StringValue>
+							</LowestPossibleValue>
+							<HighestPossibleValue>
+								<StringValue>100</StringValue>
+							</HighestPossibleValue>
+						</EducationalMeasure>
+					</DegreeMeasure>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2014</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>SSLC	St.Josphs Girls Higher Secondary	State Board	2014	95.4%
+School</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedGPA>0.954</sov:NormalizedGPA>
+							<sov:NormalizedDegreeName>secondary</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>State Board</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>AREAS OF INTEREST
+
+•	Full Stack Development
+•	Web Design
+•	App development
+
+IT SKILLS
+
+•	Languages: C, Data Structure, Java, Java Script, HTML, CSS.
+•	Software: MS Office, Argo UML.
+
+KEY STRENGTHS
+• Positive thinker
+• Responsible
+• Adaptability</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>ta</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Tamil, English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Tamil, English</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>VAIRA SUNDARI N
+Software Engineer
+9787432339
+VairaSundari
+VairaSundariN
+https://github.com/vairasundari/Javaprograms
+vairasundarin2020@srishakthi.ac.in
+4/330, AnnaNagar, KaravazhiMathappur,
+Somanur, Coimbatore-641668.
+
+To be an integral part of competitive environment to apply my knowledge and skills for
+the development of the organization.
+
+ACADEMIC BACKGROUND
+
+Course	Institution	Board /	Year of	Percentage/
+University	Completion	CGPA
+B-TECH	Sri Shakthi Institute of	Anna	2016-2020	7.64*
+(IT)	Engineering and Technology	University	(Upto 6th semester)
+
+HSC	Kadri Mills Higher Secondary	State Board	2016	92.5%
+School
+SSLC	St.Josphs Girls Higher Secondary	State Board	2014	95.4%
+School
+
+TRAINING/PROGRAMS
+
+•	Attended 3 weeks training on C and JAVA at Sri Shakthi Institute of Engineering
+and Technology.
+•	Undergoing training on FULL STACK DEVELOPMENT at Sri Shakthi Institute of
+Engineering and Technology.
+•	Completed course on C and JAVA in CODETANTRA platform.
+
+AREAS OF INTEREST
+
+•	Full Stack Development
+•	Web Design
+•	App development
+
+IT SKILLS
+
+•	Languages: C, Data Structure, Java, Java Script, HTML, CSS.
+•	Software: MS Office, Argo UML.
+
+KEY STRENGTHS
+• Positive thinker
+• Responsible
+• Adaptability
+PROJECTS
+
+Institution: SSIET Coimbatore.
+Project Title: Sri Shakthi International School.
+Description: Developed a website for Sri Shakthi International School as a
+team.
+Institution: CODEBIND Technology, Coimbatore.
+Duration: 5 Days.
+Project Title: Online Hotel Management System.
+Description: Developed Online Hotel Management Application for book a
+hotel.
+IMPLANT TRAINING / INTERNSHIP
+
+Company Name: CODEBIND Technologies Coimbatore.
+Duration: 5 Days
+Purpose: Training in Web Development.
+
+Company Name: Cegonsoft, Bangalore.
+Duration: 1 Days
+Purpose: To gain knowledge on Web development and project deployment.
+
+Company Name: CODEBIND Technologies Coimbatore.
+Duration: 5 Days
+Purpose: Internship for Web Development.
+
+ACADEMIC / EXTRA-CURRICULAR ACTIVITIES
+• Attended Workshop on ANDROID conducted by CODEBIND TECHNOLOGY on
+JUN 13.2017.
+• Completed a "COPORATE TRAINING TEST" based on placement Aptitude
+Questions conducted by CODEBIND TECHNOLOGY on JUN 13 2017.
+• Participated in the national Level Technical symposium "YUKTAHA 2k19" on
+12th and 13th Feb 2019 at PSG INSTITUTE OF TECHNOLOGY AND APPLIED
+RESEARCH, Coimbatore.
+
+PERSONAL DETAILS
+
+Date of Birth: 23-03-1999
+Father's Name: Natarajan R
+Mother's Name: Lakshmi N
+Gender: Female
+Nationality: Indian
+Languages known: Tamil, English
+Hometown: Coimbatore
+Mobility: Willing to relocate anywhere in India or abroad.
+
+(Vaira Sundari N)</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1999-03-23</sov:DateOfBirth>
+				<sov:Nationality inferred="false">Indian</sov:Nationality>
+				<sov:Gender inferred="false">Female</sov:Gender>
+				<sov:FathersName>Natarajan R</sov:FathersName>
+				<sov:MothersMaidenName>Lakshmi N</sov:MothersMaidenName>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>VAIRA SUNDARI N's experience appears to be strongly concentrated in Information Technology (mostly Internet) and slightly concentrated in User Experience (mostly Graphic Design). VAIRA SUNDARI N's experience appears to be entry level, with 0 months of experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>0</sov:MonthsOfWorkExperience>
+				<sov:FulltimeDirectHirePredictiveIndex>0</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="78">
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="11" percentOfParentTaxonomy="14">
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="WEB DESIGN" id="010994" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="10" percentOfParentTaxonomy="13">
+								<sov:Skill name="ANDROID" id="7310008" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="10" percentOfParentTaxonomy="13">
+								<sov:Skill name="ANDROID" id="5520503" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="10" percentOfParentTaxonomy="13">
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="10" percentOfParentTaxonomy="13">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS; TRAINING"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="DATA STRUCTURE" id="5530961" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Financial" id="350" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="ARGO" id="023497" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Multimedia" id="351" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="MS OFFICE" id="022137" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="UML" id="010148" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="11">
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="5" percentOfParentTaxonomy="50">
+								<sov:Skill name="WEB DESIGN" id="5570113" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="5" percentOfParentTaxonomy="50">
+								<sov:Skill name="WEB DESIGN" id="5570110" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="11">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="11" percentOfParentTaxonomy="100">
+								<sov:Skill name="MICROSOFT OFFICE" id="024467" existsInText="false">
+									<sov:ChildSkill name="MS OFFICE" id="022136" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:TrainingHistory>
+				<sov:Text>•	Attended 3 weeks training on C and JAVA at Sri Shakthi Institute of Engineering
+and Technology.
+•	Undergoing training on FULL STACK DEVELOPMENT at Sri Shakthi Institute of Engineering and Technology.
+•	Completed course on C and JAVA in CODETANTRA platform.</sov:Text>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity>Sri Shakthi Institute</sov:Entity>
+					<sov:Description>Attended 3 weeks training on C and JAVA at Sri Shakthi Institute of Engineering</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>and Technology</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity>Sri Shakthi Institute</sov:Entity>
+					<sov:Description>Undergoing training on FULL STACK DEVELOPMENT at Sri Shakthi Institute of Engineering and Technology</sov:Description>
+				</sov:Training>
+				<sov:Training>
+					<sov:Type>Unknown</sov:Type>
+					<sov:TrainingName />
+					<sov:Entity />
+					<sov:Description>Completed course on C and JAVA in CODETANTRA platform</sov:Description>
+				</sov:Training>
+			</sov:TrainingHistory>
+			<sov:Sections>
+				<sov:Section starts="13" ends="24" sectionType="EDUCATION">ACADEMIC BACKGROUND</sov:Section>
+				<sov:Section starts="25" ends="32" sectionType="TRAINING">TRAINING/PROGRAMS</sov:Section>
+				<sov:Section starts="33" ends="47" sectionType="SKILLS">AREAS OF INTEREST</sov:Section>
+				<sov:Section starts="48" ends="81" sectionType="WORK HISTORY">PROJECTS</sov:Section>
+				<sov:Section starts="82" ends="88" sectionType="CONTACT INFO">PERSONAL DETAILS</sov:Section>
+				<sov:Section starts="89" ends="93" sectionType="LANGUAGES">Languages known</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>9787432339</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>VAIRA SUNDARI N</sov:Name>
+					<sov:Name>VairaSundariN</sov:Name>
+					<sov:Name>Vaira Sundari N</sov:Name>
+					<sov:Name>(Vaira Sundari N)</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>vairasundarin2020@srishakthi.ac.in</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>https://github.com/vairasundari/Javaprograms</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>github.com/vairasundari/Javaprograms</sov:OtherDatum>
+					<sov:OtherDatum>Father's Name: Natarajan R</sov:OtherDatum>
+					<sov:OtherDatum>Date of Birth: 23-03-1999</sov:OtherDatum>
+					<sov:OtherDatum>Mother's Name: Lakshmi N</sov:OtherDatum>
+					<sov:OtherDatum>Nationality: Indian</sov:OtherDatum>
+					<sov:OtherDatum>Gender: Female</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>2607</sov:ParsedTextLength>
+			<sov:ParseTime>421</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:221;POS-1] We could not find a job title for: POS-1. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:222;POS-1] No employer name was found for:  POS-1. Every position in a resume should have an employer name.</sov:Information>
+							<sov:Information>[Sovren:224;POS-1] The following work history position does not have a start date: POS-1. Every position in a resume should have a start date.</sov:Information>
+							<sov:Information>[Sovren:225;POS-1] The following work history position does not have an end date: POS-1. Every position in a resume should have an end date, unless it is a currently held position.</sov:Information>
+							<sov:Information>[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'AREAS OF INTEREST'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:151;5] The following section does not have the header on a separate line: 'Languages known'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+							<sov:Information>[Sovren:161;DEG-2,DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:0106a22a-dfcd-4fa4-a270-129ad73a55a9</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.EntryLevel = True; Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>m13///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

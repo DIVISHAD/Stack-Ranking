@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Zameer Shaik</FormattedName>
+				<GivenName>Zameer</GivenName>
+				<FamilyName>Shaik</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<PostalCode>500008</PostalCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+					<DeliveryAddress>
+						<AddressLine>303, Yaam Residency</AddressLine>
+						<AddressLine>Brindavan Colony, Tolichowki</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91 996-300-7601</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>techie.zameer@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Oracle Corporation</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Senior Member of Technical Staff</Title>
+					<OrgName>
+						<OrganizationName>Oracle Corporation</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>India
+Oracle DB	(Expert)
+Primary developer of Oracle UIM, Oracle's inventory product for Telecom domain.
+Shell Scripting	(Advanced)</Description>
+					<StartDate>
+						<YearMonth>2016-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Database</CategoryCode>
+						<Comments>Information Technology describes 50% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Oracle</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Member of Technical Staff</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Member of Technical Staff</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Oracle</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Angular/Bootstrap</EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>Technology Consultant</Title>
+					<OrgName>
+						<OrganizationName>Angular/Bootstrap</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>India
+HTML5/CSS3	(Expert)	Principle developer and Lead of the ADP Datacloud, the Big Data platform that powers
+reporting for all ADP clients.
+Designed the ETL pipeline that transformed data from multiple products into data hub for
+analytics
+
+Senior developer of the team and have built ADP's payroll product for SMEs</Description>
+					<StartDate>
+						<YearMonth>2010-12</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 44% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>Angular/Bootstrap</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Technology Consultant</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Angular/Bootstrap</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Nagarjuna University</SchoolName>
+				</School>
+				<Degree degreeType="masters">
+					<DegreeName>Masters of Computer Applications</DegreeName>
+					<DegreeDate>
+						<YearMonth>2007-05</YearMonth>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Applications</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<YearMonth>2004-09</YearMonth>
+						</StartDate>
+						<EndDate>
+							<YearMonth>2007-05</YearMonth>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>o   Result Oriented	Nagarjuna University / Masters of Computer Applications
+September 2004 - May 2007, India
+Academic topper in 3 out of 6 semesters</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>masters</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>masters</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Nagarjuna University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>JNV University</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Science</DegreeName>
+					<Comments>ADDRESS	JNV University / Bachelor of Science</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>BSc</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>BSc</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>JNV University</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Oracle Certified</Name>
+				<Id>1</Id>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified Java Programmer</Name>
+				<Id>2</Id>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified Java</Name>
+				<Id>3</Id>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified Web Component Developer</Name>
+				<Id>4</Id>
+				<Description>certification; matched to list</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Zeta Interactive / Senior Software Engineer
+o   Disciplined and Hard working	May 2007 - September 2010, Hyderabad, India
+o   Proven Leadership skills	Architected and built integration services around core product Zetamail.
+o   Technology savvy	Built internal reporting tool to log and report metrics around emails campaigns
+o   Strong Communication Skills
+o   Excellent decision-making skills   EDUCATION
+o   Excellent troubleshooting skills
+
+
+August 2001 - May 2004, India
+F#: 303, Yaam Residency,
+Brindavan Colony, Tolichowki,
+Hyderabad, India - 500008	AWARDS
+EMAIL
+Awarded "Associate of the Quarter" and "Best employee of the Month" multiple times in ADP.
+techie.zameer@gmail.com
+Awarded "Employee of the Month" 2 times in Zeta Interactive.
+
+PHONE
++91 996-300-7601	CERTIFICATIONS
+
+Linkedin	Oracle Certified Java Programmer
+abdul-zameer-shaik	Oracle Certified Web Component Developer
+
+
+1
+Oracle Project Summary
+
+Project Name: Unified Inventory Management (UIM)	Duration: May 2016 to till Date
+Role: Senior Member of Technical Staff
+
+Project Description:
+Unified Inventory Management (UIM) is a telecom inventory management application which helps in managing and modelling of
+customers, resources, services. It provides life-cycle management of resources. This application is flexible that it can replace
+existing inventory management systems or can work cooperatively with them. It has patterns for functionalities like life-cycle
+management of resources, services, consumption pattern, etc. Highly scalable application.
+
+Tech Stack: Java, ADF, JPA, SOAP, REST, Oracle SQL, PL/SQL, WebLogic, Jenkins, SVN
+
+Contributions:
+
+•	Interact with the stake-holders to gather requirement and then design accordingly.
+•	Have implemented new functionalities and have exposed them in the form of webservices (SOAP and REST).
+•	Contributed to the product installation framework.
+•	Interact with customers in debugging issues and providing resolution to them.
+Client: Major telecom domain clients
+
+
+ADP Projects Summary
+Project Name: ADP DataCloud	Duration: Sep 2015 to Apr 2016
+
+Role: Technology Consultant
+
+Project Description:
+
+•   Big data platform providing analytical solutions to ADP customers.
+•   Analyzing new metrics what could be suitable for clients and then work on developing them.
+•   Working as development lead taking responsibilities of analyzing the product requirements and providing best
+solution possible.
+
+
+Tech Stack: Java EE, AngularJS, JQuery, Bootstrap, REST Web services, Oracle, WebSphere, Git
+
+Contributions/Responsibilities:
+
+•	Developed the UI framework and REST clients
+•	Distributing the tasks to team members and reviewing their work.
+•	Requirements discussion with scrum master and product owner.
+•	Unit Testing.
+Client: Tightly integrated with all major ADP HCM products.
+
+
+2
+Project Name: TS2RUN ETL Tool	Duration: May 2013 to Sep 2015
+Role: Technology Consultant
+
+Project Description:
+
+•   As company came up with an initiative of having only one product per business line so this product was developed for
+migrating all the clients from one product to another ADP product
+•   During the initial phase, we did extensive analysis for understanding the source and destination products.
+•   Once analyzing all the details, we then proceeded with the design phase.
+•   We decided to use all the latest technologies while building this product like AngularJS, JQuery, REST Web services,
+Spring and hibernate.
+•   Worked as Module lead for UI and REST layer.
+
+
+Tech Stack: Java EE, AngularJS, Bootstrap, JQuery, REST Web services, Spring, Hibernate, WebSphere
+
+Responsibilities:
+
+•	Analyzing requirements.
+•	Coding the core modules of this product.
+•	Involved in bug fixing and production support.
+•	Unit Testing.
+Client: Used internally for migrating clients from one payroll system to another payroll system
+
+
+Project Name: EasyPayNet	Duration: Dec 2010 to Apr 2013
+Role: Senior Software Engineer
+
+Project Description:
+
+•   EasyPayNet makes payroll EASY. This is meant for serving the clients whose employee count ranges from 1-50. Around
+120,000 clients are using EasyPayNet application in USA.
+•   This is a web interface application accessed by customers.
+•   EasyPayNet process is to send the payroll information via the Internet to ADP Small Business Services. Once the
+information is received, ADP calculates the payroll, including deductions and withholdings for all relevant tax
+jurisdictions, and delivers the checks, pay vouchers and payroll reports directly to the concerned business.
+•   The payroll reports will also be available online, as are copies of the checks and pay vouchers. Checks can also be
+printed directly from the users business if they prefer.
+•   This is a Product of ADP for Payroll calculation, and currently this is only to cater the needs of the clients in USA.
+
+
+Tech Stack: Java EE, JDBC, Spring, JavaScript, HTML, Shell Script, JBoss
+
+Responsibilities:
+
+•	Analyzing requirements.
+•	Coding the core modules of this product.
+•	Involved in bug fixing and production support.
+•	Unit Testing.
+Client: Used by SBS clients
+
+3
+Zeta Interactive Project Summary
+Project Name: Zeta Smart	Duration: June 09 to Sep 2010
+Role: Senior Software Engineer
+
+Project Description:
+
+Developing custom product that interacts with core product Zetamail, This product is designed to make the email
+campaign specific requirement gathering from Clients for email campaigns easy. Client can upload campaign related all
+assets here, also it is capable of displaying comparative email campaign summary between different campaigns, which
+makes it easier for client to have a look at any particular campaign's performance and to analyse their future strategies.
+
+Tech Stack: Java, JDBC, Servlets, JSP, Struts and JavaScript
+
+Responsibilities:
+
+•	Analyzing requirements.
+•	Coding the core modules of this product.
+•	Involved in bug fixing and support.
+•	Unit Testing.
+Client: Used for all clients
+
+
+Project Name: Datran Email Campaign Publish	Duration: March 09 to June 09
+Automation
+Role: Software Engineer
+
+Project Description:
+
+Datran client is into publishing huge number of email campaigns on daily basis. Client places files having a specific naming
+convention on their sftp site. The program downloads and process these files to build list in eBizmailerTM(Core Product).
+After the list is successfully processed the list was associated to its respective campaign, and later it published
+automatically.
+
+Tech Stack: Java, JDBC, JavaScript, HTML and Shell scripting
+
+Responsibilities:
+
+•	Participated in collecting business requirements and analysis.
+•	Data Base Design.
+•	Coding the core modules of this product.
+•	Involved in bug fixing and support.
+•	Unit Testing.
+Client: Datran Media
+
+
+4
+Period: Time Inc. Inbound/Outbound Automation	Duration: June 08 to February 09
+Role: Developer
+
+Project Description:
+
+To automate email Campaign deployment. This project involves the picking up client placed files from ftp location and
+processing them based on standard format and layout. These processed files were used for publishing campaigns, after
+the campaign was successfully published then generating the outbound for the files and placing them back to client
+location so that the client can update the error details in their database.
+
+Tech Stack: Java and JDBC
+
+Responsibilities:
+
+•   Participated in collecting business requirements and analysis.
+•   Data Base Design.
+•   Coding the core modules of this product.
+•   Involved in bug fixing and support.
+•   Unit Testing.
+Client: Time Inc., Amex, HBG
+
+
+Project Name: CCR Tool	Duration: August 07 to June 08
+Role: Developer
+
+Project Description:
+
+This tool helps customers track every metrics of a deployed email campaign. Email campaigns metrics such as scheduled,
+delivered, domain wise opens, clicks abuse and unsubscribes tracking were included. It involved fetching campaign specific
+responses from various database and update them into a common location. These responses were displayed in the tool.
+
+Tech Stack: Java, JDBC, PHP, JavaScript, HTML, CSS, Shell scripting
+
+Responsibilities:
+
+•   Participated in collecting business requirements and analysis.
+•   Data Base Design.
+•   Coding the core modules of this product.
+•   Unit Testing.
+•   Involved in bug fixing.
+Client: Time Inc., Century 21, Sony Pictures, Datran Media, American Express</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Hyderabad, India - 500008	AWARDS</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Awarded "Associate of the Quarter" and "Best employee of the Month" multiple times in ADP</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Awarded "Employee of the Month" 2 times in Zeta Interactive</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Problem Solving	(Expert)	Oracle Corporation / Senior Member of Technical Staff</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+			<Association>
+				<Name>Role: Senior Member of Technical Staff</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Zameer Shaik	ABOUT ME
+Engineer with 11+ years of experience building software solutions to startups and
+Fortune 500 enterprises. I've built software from scratch and take pride in adding value
+by shipping well architected, high quality software in least amount of time. Have good
+domain knowledge of Payroll, Telecom and Digital Marketing domains.
+SKILLS
+EXPERIENCE
+Java/JEE	(Expert)
+
+Problem Solving	(Expert)	Oracle Corporation / Senior Member of Technical Staff
+May 2016 - PRESENT, Hyderabad, India
+Oracle DB	(Expert)
+Primary developer of Oracle UIM, Oracle's inventory product for Telecom domain.
+Shell Scripting	(Advanced)
+
+Angular/Bootstrap (Expert)
+ADP LLC / Technology Consultant
+Javascript	(Advanced)	December 2010 - April 2016, Hyderabad, India
+HTML5/CSS3	(Expert)	Principle developer and Lead of the ADP Datacloud, the Big Data platform that powers
+reporting for all ADP clients.
+Designed the ETL pipeline that transformed data from multiple products into data hub for
+analytics
+
+Senior developer of the team and have built ADP's payroll product for SMEs
+STRENGTHS
+Zeta Interactive / Senior Software Engineer
+o   Disciplined and Hard working	May 2007 - September 2010, Hyderabad, India
+o   Proven Leadership skills	Architected and built integration services around core product Zetamail.
+o   Technology savvy	Built internal reporting tool to log and report metrics around emails campaigns
+o   Strong Communication Skills
+o   Excellent decision-making skills   EDUCATION
+o   Excellent troubleshooting skills
+o   Result Oriented	Nagarjuna University / Masters of Computer Applications
+September 2004 - May 2007, India
+Academic topper in 3 out of 6 semesters
+
+ADDRESS	JNV University / Bachelor of Science
+August 2001 - May 2004, India
+F#: 303, Yaam Residency,
+Brindavan Colony, Tolichowki,
+Hyderabad, India - 500008	AWARDS
+EMAIL
+Awarded "Associate of the Quarter" and "Best employee of the Month" multiple times in ADP.
+techie.zameer@gmail.com
+Awarded "Employee of the Month" 2 times in Zeta Interactive.
+
+PHONE
++91 996-300-7601	CERTIFICATIONS
+
+Linkedin	Oracle Certified Java Programmer
+abdul-zameer-shaik	Oracle Certified Web Component Developer
+
+
+1
+Oracle Project Summary
+
+Project Name: Unified Inventory Management (UIM)	Duration: May 2016 to till Date
+Role: Senior Member of Technical Staff
+
+Project Description:
+Unified Inventory Management (UIM) is a telecom inventory management application which helps in managing and modelling of
+customers, resources, services. It provides life-cycle management of resources. This application is flexible that it can replace
+existing inventory management systems or can work cooperatively with them. It has patterns for functionalities like life-cycle
+management of resources, services, consumption pattern, etc. Highly scalable application.
+
+Tech Stack: Java, ADF, JPA, SOAP, REST, Oracle SQL, PL/SQL, WebLogic, Jenkins, SVN
+
+Contributions:
+
+•	Interact with the stake-holders to gather requirement and then design accordingly.
+•	Have implemented new functionalities and have exposed them in the form of webservices (SOAP and REST).
+•	Contributed to the product installation framework.
+•	Interact with customers in debugging issues and providing resolution to them.
+Client: Major telecom domain clients
+
+
+ADP Projects Summary
+Project Name: ADP DataCloud	Duration: Sep 2015 to Apr 2016
+
+Role: Technology Consultant
+
+Project Description:
+
+•   Big data platform providing analytical solutions to ADP customers.
+•   Analyzing new metrics what could be suitable for clients and then work on developing them.
+•   Working as development lead taking responsibilities of analyzing the product requirements and providing best
+solution possible.
+
+
+Tech Stack: Java EE, AngularJS, JQuery, Bootstrap, REST Web services, Oracle, WebSphere, Git
+
+Contributions/Responsibilities:
+
+•	Developed the UI framework and REST clients
+•	Distributing the tasks to team members and reviewing their work.
+•	Requirements discussion with scrum master and product owner.
+•	Unit Testing.
+Client: Tightly integrated with all major ADP HCM products.
+
+
+2
+Project Name: TS2RUN ETL Tool	Duration: May 2013 to Sep 2015
+Role: Technology Consultant
+
+Project Description:
+
+•   As company came up with an initiative of having only one product per business line so this product was developed for
+migrating all the clients from one product to another ADP product
+•   During the initial phase, we did extensive analysis for understanding the source and destination products.
+•   Once analyzing all the details, we then proceeded with the design phase.
+•   We decided to use all the latest technologies while building this product like AngularJS, JQuery, REST Web services,
+Spring and hibernate.
+•   Worked as Module lead for UI and REST layer.
+
+
+Tech Stack: Java EE, AngularJS, Bootstrap, JQuery, REST Web services, Spring, Hibernate, WebSphere
+
+Responsibilities:
+
+•	Analyzing requirements.
+•	Coding the core modules of this product.
+•	Involved in bug fixing and production support.
+•	Unit Testing.
+Client: Used internally for migrating clients from one payroll system to another payroll system
+
+
+Project Name: EasyPayNet	Duration: Dec 2010 to Apr 2013
+Role: Senior Software Engineer
+
+Project Description:
+
+•   EasyPayNet makes payroll EASY. This is meant for serving the clients whose employee count ranges from 1-50. Around
+120,000 clients are using EasyPayNet application in USA.
+•   This is a web interface application accessed by customers.
+•   EasyPayNet process is to send the payroll information via the Internet to ADP Small Business Services. Once the
+information is received, ADP calculates the payroll, including deductions and withholdings for all relevant tax
+jurisdictions, and delivers the checks, pay vouchers and payroll reports directly to the concerned business.
+•   The payroll reports will also be available online, as are copies of the checks and pay vouchers. Checks can also be
+printed directly from the users business if they prefer.
+•   This is a Product of ADP for Payroll calculation, and currently this is only to cater the needs of the clients in USA.
+
+
+Tech Stack: Java EE, JDBC, Spring, JavaScript, HTML, Shell Script, JBoss
+
+Responsibilities:
+
+•	Analyzing requirements.
+•	Coding the core modules of this product.
+•	Involved in bug fixing and production support.
+•	Unit Testing.
+Client: Used by SBS clients
+
+3
+Zeta Interactive Project Summary
+Project Name: Zeta Smart	Duration: June 09 to Sep 2010
+Role: Senior Software Engineer
+
+Project Description:
+
+Developing custom product that interacts with core product Zetamail, This product is designed to make the email
+campaign specific requirement gathering from Clients for email campaigns easy. Client can upload campaign related all
+assets here, also it is capable of displaying comparative email campaign summary between different campaigns, which
+makes it easier for client to have a look at any particular campaign's performance and to analyse their future strategies.
+
+Tech Stack: Java, JDBC, Servlets, JSP, Struts and JavaScript
+
+Responsibilities:
+
+•	Analyzing requirements.
+•	Coding the core modules of this product.
+•	Involved in bug fixing and support.
+•	Unit Testing.
+Client: Used for all clients
+
+
+Project Name: Datran Email Campaign Publish	Duration: March 09 to June 09
+Automation
+Role: Software Engineer
+
+Project Description:
+
+Datran client is into publishing huge number of email campaigns on daily basis. Client places files having a specific naming
+convention on their sftp site. The program downloads and process these files to build list in eBizmailerTM(Core Product).
+After the list is successfully processed the list was associated to its respective campaign, and later it published
+automatically.
+
+Tech Stack: Java, JDBC, JavaScript, HTML and Shell scripting
+
+Responsibilities:
+
+•	Participated in collecting business requirements and analysis.
+•	Data Base Design.
+•	Coding the core modules of this product.
+•	Involved in bug fixing and support.
+•	Unit Testing.
+Client: Datran Media
+
+
+4
+Period: Time Inc. Inbound/Outbound Automation	Duration: June 08 to February 09
+Role: Developer
+
+Project Description:
+
+To automate email Campaign deployment. This project involves the picking up client placed files from ftp location and
+processing them based on standard format and layout. These processed files were used for publishing campaigns, after
+the campaign was successfully published then generating the outbound for the files and placing them back to client
+location so that the client can update the error details in their database.
+
+Tech Stack: Java and JDBC
+
+Responsibilities:
+
+•   Participated in collecting business requirements and analysis.
+•   Data Base Design.
+•   Coding the core modules of this product.
+•   Involved in bug fixing and support.
+•   Unit Testing.
+Client: Time Inc., Amex, HBG
+
+
+Project Name: CCR Tool	Duration: August 07 to June 08
+Role: Developer
+
+Project Description:
+
+This tool helps customers track every metrics of a deployed email campaign. Email campaigns metrics such as scheduled,
+delivered, domain wise opens, clicks abuse and unsubscribes tracking were included. It involved fetching campaign specific
+responses from various database and update them into a common location. These responses were displayed in the tool.
+
+Tech Stack: Java, JDBC, PHP, JavaScript, HTML, CSS, Shell scripting
+
+Responsibilities:
+
+•   Participated in collecting business requirements and analysis.
+•   Data Base Design.
+•   Coding the core modules of this product.
+•   Unit Testing.
+•   Involved in bug fixing.
+Client: Time Inc., Century 21, Sony Pictures, Datran Media, American Express</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Zameer Shaik's experience appears to be strongly concentrated in Information Technology (mostly Database) and slightly concentrated in Administrative or Clerical (mostly Computer Related). Zameer Shaik has 9 years of work experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>108</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>54</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>50</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="72">
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="38" percentOfParentTaxonomy="53">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JDBC" id="020287" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" totalMonths="43" lastUsed="2019-11-18" whereFound="Found in CERTIFICATIONS; QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PL/SQL" id="004871" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="SQL" id="008481" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="8" percentOfParentTaxonomy="11">
+								<sov:Skill name="CODING" id="013739" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-2">
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="SCRIPTING" id="024873" existsInText="true" totalMonths="43" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="Subversion" id="1004756" existsInText="false">
+									<sov:ChildSkill name="SVN" id="100475601" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="8" percentOfParentTaxonomy="10">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in CERTIFICATIONS; QUALIFICATIONS_SUMMARY; WORK HISTORY">
+									<sov:ChildSkill name="HIBERNATE" id="3391127" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="JBOSS" id="020279" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="jQuery" id="339048" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="JSP" id="339001" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="SERVLETS" id="007817" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="STRUTS" id="026009" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Service Providers" id="348" percentOfOverall="4" percentOfParentTaxonomy="6">
+								<sov:Skill name="ADP" id="013477" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="4" percentOfParentTaxonomy="5">
+								<sov:Skill name="SHELL SCRIPTING" id="007925" existsInText="true" totalMonths="43" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="ANGULARJS" id="5520505" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY"></sov:Skill>
+								<sov:Skill name="HTML5" id="5520541" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="RESTFUL WEB SERVICES" id="5520591" existsInText="false">
+									<sov:ChildSkill name="REST WEB SERVICES" id="552059101" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SOAP" id="5520605" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="ETL" id="5530987" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="JBOSS" id="5530783" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Middleware and Integration" id="345" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="ETL" id="016965" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Privacy and Data Security" id="556" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="SECURE FILE TRANSFER PROTOCOL" id="5551225" existsInText="false">
+									<sov:ChildSkill name="SFTP" id="5551226" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="WEBLOGIC" id="025364" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="WEBSPHERE" id="026748" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="FTP" id="018004" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="SOAP" id="008187" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="USER INTERFACE" id="7310067" existsInText="false">
+									<sov:ChildSkill name="UI" id="7310068" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="REST" id="7180010" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="UNIT TESTING" id="010254" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="REQUIREMENT GATHERING" id="006830" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="7">
+							<sov:Subtaxonomy name="Computer Related" id="115" percentOfOverall="5" percentOfParentTaxonomy="64">
+								<sov:Skill name="ADP" id="013476" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="PUBLISHING" id="006027" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounting Related" id="117" percentOfOverall="3" percentOfParentTaxonomy="36">
+								<sov:Skill name="PAYROLL" id="022783" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="VOUCHERS" id="030985" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="7">
+							<sov:Subtaxonomy name="Payroll" id="185" percentOfOverall="7" percentOfParentTaxonomy="100">
+								<sov:Skill name="ADP" id="013475" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="PAYROLL" id="004366" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="4">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS SERVICES" id="012233" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="METRICS" id="021737" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="PROBLEM SOLVING" id="005482" existsInText="true" totalMonths="43" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="4">
+							<sov:Subtaxonomy name="Standards, Protocols, Technologies" id="317" percentOfOverall="4" percentOfParentTaxonomy="95">
+								<sov:Skill name="TELECOM" id="022903" existsInText="true" totalMonths="43" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Software" id="320" percentOfOverall="0" percentOfParentTaxonomy="5">
+								<sov:Skill name="WEBSPHERE" id="026749" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="4">
+							<sov:Subtaxonomy name="Inventory" id="459" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="INVENTORY" id="020086" existsInText="true" totalMonths="43" lastUsed="2019-11-18" whereFound="Found in QUALIFICATIONS_SUMMARY; WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Transmission &amp; Distribution" id="45" percentOfOverall="1">
+							<sov:Subtaxonomy name="Transmission" id="326" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="PIPELINE" id="004805" existsInText="true" totalMonths="65" lastUsed="2016-04-30" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Personal Attributes" id="90" percentOfOverall="1">
+							<sov:Subtaxonomy name="Aptitudes" id="532" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="LEADERSHIP SKILLS" id="020668" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+								<sov:Skill name="STRONG COMMUNICATION SKILLS" id="031015" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="0">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="0">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" whereFound="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="0">
+							<sov:Subtaxonomy name="Litigation" id="400" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="CLIENTS" id="200081" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="0">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS REQUIREMENTS" id="022626" existsInText="true" whereFound="Found in QUALIFICATIONS_SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="5" ends="5" sectionType="SKILLS">SKILLS</sov:Section>
+				<sov:Section starts="6" ends="23" sectionType="WORK HISTORY">EXPERIENCE</sov:Section>
+				<sov:Section starts="24" ends="31" sectionType="QUALIFICATIONS_SUMMARY">STRENGTHS</sov:Section>
+				<sov:Section starts="32" ends="36" sectionType="EDUCATION" />
+				<sov:Section starts="37" ends="239" sectionType="QUALIFICATIONS_SUMMARY" />
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>+91 996-300-7601</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Zameer Shaik</sov:Name>
+					<sov:Name>zameer-shaik</sov:Name>
+					<sov:Name>Zameer Shaik	ABOUT ME</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>techie.zameer@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:OtherData>
+					<sov:OtherDatum>Brindavan Colony, Tolichowki</sov:OtherDatum>
+					<sov:OtherDatum>303, Yaam Residency</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>9604</sov:ParsedTextLength>
+			<sov:ParseTime>609</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Fatal Problems Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:416;] We found no EDUCATION HISTORY section header for the candidate, but we calculated where we thought EDUCATION HISTORY was located in the resume. The education history section should have a header such as 'Education' before listing the content.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:303;4] The following section in the resume contains more content than the work history and education sections combined: Section with index 4 (of type: QUALIFICATIONS SUMMARY). This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:323;QUALIFICATIONS_SUMMARY] The following section type appeared multiple times in the resume: QUALIFICATIONS_SUMMARY (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+							<sov:Information>[Sovren:324;0] The following section does not have any text: 'SKILLS'. Every section should have text associated with it. This usually indicates an error with the section headers or format used in the resume.</sov:Information>
+							<sov:Information>[Sovren:325;3,4] The following section does not have a header: Section with index 3 (of type: EDUCATION), Section with index 4 (of type: QUALIFICATIONS SUMMARY). Every section should have a header directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:4266d290-af36-47e4-a6a1-f18711d6fb52</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>0PgCAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

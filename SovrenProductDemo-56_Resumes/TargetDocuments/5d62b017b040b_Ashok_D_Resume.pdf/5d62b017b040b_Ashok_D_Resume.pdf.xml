@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Ashok Dharmaraj</FormattedName>
+				<GivenName>Ashok</GivenName>
+				<FamilyName>Dharmaraj</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>Chennai</Region>
+					<Municipality>Chennai</Municipality>
+					<DeliveryAddress>
+						<AddressLine>Chennai [Velachery]</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>+91-9003510002</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+		</ContactInfo>
+		<Objective>To obtain challenging and growth oriented position with my knowledge and experience.</Objective>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Matrimony.com Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Project Manager</Title>
+					<OrgName>
+						<OrganizationName>Matrimony.com Limited</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<WebSite>Matrimony.com</WebSite>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2014-03</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TB">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Matrimony.com</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Project Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Matrimony.com</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Intelliswift India Private Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Project Leader</Title>
+					<OrgName>
+						<OrganizationName>Intelliswift India Private Limited</OrganizationName>
+					</OrgName>
+					<Description>Technical Leader</Description>
+					<StartDate>
+						<YearMonth>2010-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2014-03</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Intelliswift India</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Project Leader</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Intelliswift India Private Limited</OrganizationName>
+					</OrgName>
+					<Description>Intelliswift Cost Acquisition from the company:
+Tricom India Private Limited and Mastiff India Private Limited
+Duration - May 22, 2010 to May 31, 2012
+Position - Senior Software Engineer</Description>
+					<StartDate>
+						<AnyDate>2010-05-22</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-05-31</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Intelliswift India</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Software Engineer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Software Engineer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Intelliswift India</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Zoom Entertainment Network Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Zoom Entertainment Network Limited</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2008-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-02</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SF">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Zoom Entertainment Network</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Software Engineer</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Software Engineer</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Zoom Entertainment Network</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>People Interactive (I) Private Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Officer Level 2</Title>
+					<OrgName>
+						<OrganizationName>People Interactive (I) Private Limited</OrganizationName>
+					</OrgName>
+					<Description>Junior Software Engineer</Description>
+					<StartDate>
+						<YearMonth>2007-02</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2008-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>People Interactive I</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Officer Level 2</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Senior Officer Level</sov:Subtitle>
+								<sov:Subtitle>Officer Level 2</sov:Subtitle>
+								<sov:Subtitle>Officer Level</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>People Interactive I</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Academic Performance</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>Academic Performance</OrganizationName>
+					</OrgName>
+					<Description>2006</Description>
+					<StartDate>
+						<Year>1974</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2001</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Academic Performance</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>HSC Computer Science</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<Year>2000</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2001</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>HSC Computer Science</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>SSLC Science</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<Year>1999</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2000</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-8</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>SSLC Science</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Academic Performance</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>RHCE</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Skill Summary
+• Having 12+ years experience in PHP website development
+• Knowledge in LAMP, MVC, Mysql, Solr, CodeIgniter, SVN, Jira.
+• Experience in handling multiple technologies.
+• Flexible and versatile to adapt to any new environment and willing to work on new
+technologies.
+• Current ongoing projects with Laravel Framework for Mobile APP.</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>ta</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Language know: Tamil, Hindi, English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Language know: Tamil, Hindi, English</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Language know: Tamil, Hindi, English</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>"Zenstar" award for the project HRMS on April 2009 for Contract employees in ZoOm</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Entertainment Network Limited</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Ashok Dharmaraj
+Project Manager (LAMP Technology)
+
+
+Career Objective
+To obtain challenging and growth oriented position with my knowledge and experience.
+
+Skill Summary
+• Having 12+ years experience in PHP website development
+• Knowledge in LAMP, MVC, Mysql, Solr, CodeIgniter, SVN, Jira.
+• Experience in handling multiple technologies.
+• Flexible and versatile to adapt to any new environment and willing to work on new
+technologies.
+• Current ongoing projects with Laravel Framework for Mobile APP.
+
+Work Experience
+
+Company - Design	Duration	Tenure
+Matrimony.com Limited	5+ Yrs	March, 2014 to till date
+Project Manager
+Project Leader
+Intelliswift India Private Limited	4+ Yrs	May, 2010 to March, 2014
+Technical Leader
+Senior Software Engineer
+Zoom Entertainment Network Limited	2+ Yrs	June, 2008 to Feb, 2010
+Senior Officer Level 2
+People Interactive (I) Private Limited	1+ Yrs	Feb, 2007 to June, 2008
+Junior Software Engineer
+
+Intelliswift India Private Limited.
+Intelliswift Cost Acquisition from the company:
+Tricom India Private Limited and
+Mastiff India Private Limited
+Duration - May 22, 2010 to May 31, 2012
+Position - Senior Software Engineer
+
+Academic Performance
+
+Degree	Grade	Year
+M.Sc. Software Engineering	74	2001-2006
+HSC Computer Science	67	2000-2001
+SSLC Science	66	1999-2000
+
+Achievements
+"Zenstar" award for the project HRMS on April 2009 for Contract employees in ZoOm
+Entertainment Network Limited.
+
+Certifications
+Completed (RHCT, RHCE) Red Hat Linux in Red Hat Private Limited with 90%.
+RedHat Linux Inc, License 803005455215731 - July 2005
+Professional Experience - Matrimony.com Limited
+Project: Elitematrimony, Assisted Matrimony, Payment Assistance, Asterisk, Vicidial, LDAP,
+Development: CorePHP, CodeIgnitor, Laravel
+Reporting to: General Manager
+Designation: Project Manager
+Team handling: 12
+Responsibilities:
+• Gathering requirement from Business Team
+• LLD/HLD documents Preparation
+• Assign the task to the team
+• Review the Unit test cases and code review
+• Sign-off testing from QA team
+• Project Approval for Deployment
+• Post Deployment Monitoring and Verification through Kiosk system
+• Self implementation of Inbound and Outbound calls using Asterisk technology
+
+Professional Experience - Intelliswift India Private Limited
+Project: Mofirst.com
+Development: Zend
+Reporting to: CTO
+Designation: Technical Leader
+Team handling: 6/4
+Responsibilities:
+• Project objective is to create API for mobile application.
+• API, Developer and Admin panel to interact with mobile APP products and users.
+• Database schema and project plan creation for application.
+• Project time estimation provided for each module.
+• Zend Form Element for Developer and Admin panel.
+• Models have been used for API request and response
+• Modules have been created for Developer and Admin panel.
+• Zend Memcache has been integrated to list category and hardware access token
+creation /updation.
+• JSON response for mobile APP request via API
+• Ten set of API has been integrated for API: hardware access, token generation, refresh
+token, category list, item list, item details, Procure method of free and paid items,
+manual payment method for download free and paid item.
+• Two set of language and 3 set of APP has been created in initial stage.
+• Database and code structure has been integrated to enhance the language and app easily
+common method has been configured to enhance the futures.
+• Exception with JSON response for error handling has been used.
+• Memcache has been used to list the category and item list to avoid the load from Mysql.
+Project: Merucabs.com
+Development: CodeIgniter
+Project Support: 2 months (Jan 2013 to Feb 2013)
+Reporting to: CTO
+Designation: Technical Leader
+Team handling: 5/3
+Responsibilities
+• Booking system for merucabs using CodeIgniter.
+• Manthan API integration for booking and cab availability check using SOAP method.
+• Booking status with billing details, payment details system to generate Invoice from
+Admin.
+• System to identify unique most visited selection for sending events and promotional
+Mailers.
+• Created promotional or events management system for managing the events and promotion.
+• Page for generating Chart report for Net sales, Refund, Cancelation data.
+• Merucabs with three set of Data replication method for meru, meruplus and genie
+• Genie website creation with the replicate website meruplus.
+• Admin panel to review the user data and booking system have the rights to enable or
+• disable the data.
+• Cron to identify the duplicate data provided on the system.
+• Special booking type added for booking system for employees will not include on Invoice
+• and Chat report
+• Weekly report send to management for task schedule and bug list with timeline from the
+existing site.
+
+
+Project - Quikr.com
+Development: Zend Framework based
+Environment: PHP5, MVC, Memcache, Solr, Mysql and LAMP (Fedora)
+Project Duration: 2 Years 2 months (May 2010 to July 2012)
+Reporting to: Senior Project Manager, CTO
+Designation: Technical Leader
+Team handling: 15/8
+Responsibilities
+Evaluated the features added on various projects like:
+• Ads and Ad Pack Management
+• Premium package creation - AdCredits, Discounts on Ads.
+• BillDesk Payment Gateway Integration.
+• Dialer Integration for Callcenter on Inbound and Outbound calls
+• System to generate reports for ads created from Callcenter and Ad moderator.
+• Admin management system using Solr.
+• Created Microsite management system - Frontend web and Backend.
+• Direct X Mailer Integration system to generate third party mailer integration. Ads and
+
+Ad Pack Management
+•   Multi core and Search API implementation for Ads and Alerts using Solr.
+•   Method to implement the City or Category based pages to track ABC testing on site.
+•   Configurable system to enable or disable the Ads / Alerts in the moderating system.
+•   Using
+•   this particular city or city based categories we can add the data for moderation. Premium
+package creation - AdCredits, Discounts on Ads
+•   Both Admin and user create Ad credits with respect to Category based.
+•   System to upgrade free ads to premium ads using ad credits
+•   Auto updation of premium ads using ad credits
+•   Moderator Report generation using Solr and Mysql to show monthly review and daily
+review of the website moderators.
+•   Every Failure check case from BillDesk with gets reported to the financial team for
+•   tracking purpose.
+•   Integrate BillDesk from TPSL payment gateway
+•   Refund management system using BillDesk for Premium Ads and Ad Credits
+•   Ad management system to create campaign for Callcenter. To improve the ad content
+•   quality and help the user to create the ad with proper descriptions and details.
+•   Tracking system to track all the ads modified from Callcenter.
+•   Admin management system using Solr.
+•   All the ads related information indexed to Solr and moderate the ads using Solr and
+•   Memcache
+•   Main motivation on all projects is to take care of the impact analysis on the entire and
+•   Schedule the report and time line to the project manager.
+•   Handed the code review on the development as per the checklist details created for the
+•   projects.
+•   Communicated with managers to understand their requirement of the project.
+•   Provided support to internal teams by performing debugging and troubleshooting the
+issues.
+•   Proposed solutions to reduce downtime on the site.
+•   Create and View Microsite for user.
+•   Admin access to create, modify, Activate, deactivate the Microsite
+•   Category based Microsite pages created for users
+•   Third Party Mailer creation and Manage those mailers in Admin panel.
+•   Add or modify the mailers for partners
+
+Professional Experience - Zoom Entertainment Network Limited
+
+Project - ZoOmTV.in
+Environment: WAMP, PHP4, Mysqli, CMS, XML, CURL and Cron (, Team size: 5)
+Project Duration: 1 year 8 months (June 2008 to Feb 2010)
+Reporting to: Business Head
+Designation: Senior Officer Level 2
+Team handling: 5/3
+Responsibilities
+• Website Development for zoom Television.
+o Generate the website using core php for displaying news, gallery and videos.
+• Content management system for the website.
+o Create / Modify content, gallery, videos, YouTube videos for the site zoomtv
+o News &amp; Gossip, Videos, Biography, Gallery, RSS feed Import using core php and Mysqli
+o Bulk news upload
+• Entries found of excel sheet with title, content type either video or image content
+or none, keyword, description of the content
+• Only text content will get upload on the system with the status under yet to
+upload except the content type none.
+• Separate section to display the content type video and image to upload the
+relevant content and activate the pages.
+o Video Moderation
+• Change the title, description and thumbnail for videos
+• Activate or set page type to display the video on the relevant pages.
+• Ooyala API Integration for videos
+o Recent, Top rated, Mostly viewed videos
+• Restful API and Admin CMS to provide video content for the partners
+o Parse the video content via zoom RSS feeds and create content for
+partners
+o Using CURL to create XML to the partner site
+o Admin CMS to show Recent, Top and Most viewed videos on the
+partner site
+o Iframe pages for the partners to integrate zoom content and videos
+• HRMS
+o HRMS management system for contract employee to handle the
+task time duration and daily login calculation.
+o Motivation of the project to handle the employee work time
+calculation on the basis of task entries.
+o Will help to the management how many task has been completely
+and how much time has been taken to complete the task.
+o The Attendance calculation based on 24 hrs calculation due to
+shift basis
+o Export option to export attendance / task details in excels and PDF
+format by day / month wise.
+
+Professional Experience - People Interactive (I) Private Limited
+
+Project: Shaadi.com
+Environment: WAMP, PHP4, Mysql, XML, CSS and HTML
+Project Duration: 1 year 4 month (Feb 2007 to June 2008)
+Reporting to: Project Manager
+Designation: Junior Software Engineer
+Team handling: 10/0
+Responsibilities
+• Website development and change using php4 and Mysql
+• Registration, My-shaadi page changes on validation or addition field changes
+• Request page handling after login to Campaign page or Update the unfilled profile
+• details with respect to user level status.
+• Success story page changes
+• WAP page redirection function handling using user-Agent.
+• Parse XML handler for request and response xml for WAP registration, login and profile
+updation pages via wap technology.
+
+Personal Details
+Current Location: Chennai [Velachery]
+Notice Period: 2 months
+Mobile: +91-9003510002
+Total Experience: 12+ Years
+Language know: Tamil, Hindi, English</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:CurrentLocation>Chennai [Velachery]</sov:CurrentLocation>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Ashok Dharmaraj's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Engineering (mostly General Engineering). Ashok Dharmaraj has 41 years of work experience, with 10 years of management experience, including a low-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>488</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>97</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>100</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>115</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>low-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a low-level management role: Project Manager
+Starting on 3/1/2014, the candidate held the following low-level management position for 5 years and 9 months:
+	Title: Project Manager for Matrimony.com Limited
+Starting on 5/1/2010, the candidate held the following low-level management position for 3 years and 10 months:
+	Title: Project Leader for Intelliswift India Private Limited</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="88">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="32" percentOfParentTaxonomy="37">
+								<sov:Skill name="API" id="021194" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="B2B SOFTWARE" id="023446" existsInText="false" childrenTotalMonths="336" childrenLastUsed="2001-12-31">
+									<sov:ChildSkill name="SOFTWARE ENGINEERING" id="008221" existsInText="true" totalMonths="336" lastUsed="2001-12-31" whereFound="Found in WORK HISTORY; POS-6"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="CONTENT MANAGEMENT" id="022339" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="CURL" id="3391151" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="JSON" id="5520555" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="memcache" id="1004754" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS">
+									<sov:ChildSkill name="CODEIGNITER" id="3391115" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:ChildSkill>
+									<sov:ChildSkill name="LARAVEL" id="3391113" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="60" lastUsed="2012-05-31" whereFound="Found in CERTIFICATIONS; WORK HISTORY; POS-3; POS-4; POS-5"></sov:Skill>
+								<sov:Skill name="Solr" id="1004759" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+								<sov:Skill name="Subversion" id="1004756" existsInText="false">
+									<sov:ChildSkill name="SVN" id="100475601" existsInText="true" whereFound="Found in SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="23" percentOfParentTaxonomy="26">
+								<sov:Skill name="PROJECT MANAGER" id="022909" existsInText="true" totalMonths="69" lastUsed="2019-11-18" whereFound="Found in CERTIFICATIONS; WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="PROJECT PLAN" id="024323" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="PROJECT SUPPORT" id="005825" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="5" percentOfParentTaxonomy="6">
+								<sov:Skill name="APACHE SOLR" id="5530719" existsInText="false">
+									<sov:ChildSkill name="SOLR" id="553071901" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="CONTENT MANAGEMENT SYSTEM" id="5530931" existsInText="true" whereFound="Found in CERTIFICATIONS">
+									<sov:ChildSkill name="CMS" id="5530932" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="REPLICATION" id="5531054" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="6">
+								<sov:Skill name="ADS" id="013650" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS">
+									<sov:ChildSkill name="MYSQLI" id="3391130" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="REPLICATION" id="025246" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="4" percentOfParentTaxonomy="4">
+								<sov:Skill name="MODEL VIEW CONTROLLER" id="5520572" existsInText="false">
+									<sov:ChildSkill name="MVC" id="552057201" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="SOAP" id="5520605" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="CSS" id="014705" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="LAMP Stack" id="196002" existsInText="false">
+									<sov:ChildSkill name="LAMP" id="19600201" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="ERP and CRM" id="195" percentOfOverall="3" percentOfParentTaxonomy="3">
+								<sov:Skill name="HRMS" id="027119" existsInText="true" whereFound="Found in CERTIFICATIONS; PERSONAL INTERESTS AND ACCOMPLISHMENTS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="PDF" id="004489" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="SOAP" id="008187" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="WAP" id="010780" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="MODEL-VIEW-CONTROLLER" id="7310042" existsInText="false">
+									<sov:ChildSkill name="MVC" id="7310043" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="DATA REPLICATION" id="5551109" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="RED HAT" id="5551183" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="UNIT TEST" id="010253" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="RED HAT" id="006652" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="MVC" id="003233" existsInText="true" whereFound="Found in CERTIFICATIONS; SKILLS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Config Deploy Upgrade Migrate" id="251" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="DEPLOYMENT" id="023631" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="LDAP" id="020651" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="CMS" id="013609" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="2">
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="67">
+								<sov:Skill name="ESTIMATION" id="080470" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="RSS" id="007278" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Techniques" id="264" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="ESTIMATION" id="080635" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="2">
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="2" percentOfParentTaxonomy="67"></sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Telemarketing" id="248" percentOfOverall="1" percentOfParentTaxonomy="33">
+								<sov:Skill name="OUTBOUND CALLS" id="026164" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="2">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="2">
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="INBOUND AND OUTBOUND" id="1400000" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="2">
+							<sov:Subtaxonomy name="Billing and Collections" id="110" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="BILLING" id="022474" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+								<sov:Skill name="INVOICE" id="020120" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Common End-user Software" id="0" percentOfOverall="2">
+							<sov:Subtaxonomy name="Core Office" id="108" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="ACROBAT" id="012099" existsInText="false">
+									<sov:ChildSkill name="PDF" id="004488" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="1">
+							<sov:Subtaxonomy name="Techniques" id="446" percentOfOverall="1" percentOfParentTaxonomy="83">
+								<sov:Skill name="TEST CASES" id="009422" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Other" id="941" percentOfOverall="0" percentOfParentTaxonomy="17">
+								<sov:Skill name="QA" id="006125" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="4" ends="6" sectionType="OBJECTIVE">Career Objective</sov:Section>
+				<sov:Section starts="7" ends="14" sectionType="SKILLS">Skill Summary</sov:Section>
+				<sov:Section starts="15" ends="42" sectionType="WORK HISTORY">Work Experience</sov:Section>
+				<sov:Section starts="43" ends="46" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">Achievements</sov:Section>
+				<sov:Section starts="47" ends="233" sectionType="CERTIFICATIONS">Certifications</sov:Section>
+				<sov:Section starts="234" ends="239" sectionType="CONTACT INFO">Personal Details</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Mobile: +91-9003510002</sov:Phone>
+					<sov:Phone>+91-9003510002</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Ashok Dharmaraj</sov:Name>
+				</sov:Names>
+				<sov:Urls>
+					<sov:Url>Matrimony.com</sov:Url>
+					<sov:Url>Merucabs.com</sov:Url>
+					<sov:Url>Mofirst.com</sov:Url>
+					<sov:Url>Shaadi.com</sov:Url>
+					<sov:Url>Quikr.com</sov:Url>
+					<sov:Url>ZoOmTV.in</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Current Location: Chennai [Velachery]</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>10718</sov:ParsedTextLength>
+			<sov:ParseTime>656</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Fatal Problems Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:414;] We found no EDUCATION HISTORY for the candidate. A resume should always include an education history section.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.</sov:Information>
+							<sov:Information>[Sovren:221;POS-6,POS-7,POS-8] We could not find a job title for: POS-6, POS-7, POS-8. Every position in a resume should have a job title.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Skill Summary'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:fa972a56-f0b4-43d6-b39c-4af261145d2d</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>bCYAAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

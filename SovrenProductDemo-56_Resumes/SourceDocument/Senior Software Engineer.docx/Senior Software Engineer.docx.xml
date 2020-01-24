@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SovrenData xml:lang="en">
+  <DocumentLanguage>en</DocumentLanguage>
+  <CurrentJobIsMgmt>true</CurrentJobIsMgmt>
+  <HighestManagementScore>25</HighestManagementScore>
+  <ManagementLevel>low</ManagementLevel>
+  <ExecutiveType>NONE</ExecutiveType>
+  <JobTitles>
+    <MainJobTitle>Senior Software Engineer / Technical Lead</MainJobTitle>
+    <JobTitle>Technical Lead</JobTitle>
+    <JobTitle>Software Engineer / Technical Lead</JobTitle>
+  </JobTitles>
+  <EmployerNames>
+    <MainEmployerName>Lightspeed India Venture Partners, Endiya Partners, and 3One4Capital</MainEmployerName>
+    <EmployerName>Lightspeed India Venture Partners</EmployerName>
+    <EmployerName>Lightspeed India Venture Partners, Endiya Partners, and 3One4Capital</EmployerName>
+    <EmployerName>Lightspeed India Venture Partners, Endiya Partners</EmployerName>
+    <EmployerName>Endiya Partners</EmployerName>
+    <EmployerName>Distributed Systems, and Cloud Technologies</EmployerName>
+    <EmployerName>Cloud Technologies</EmployerName>
+  </EmployerNames>
+  <MinimumYears>4</MinimumYears>
+  <MaximumYears>8</MaximumYears>
+  <SourceText>Senior Software Engineer / Technical Lead
+Jubillee Hills, Hyderabad, Telangana, India
+APPLY FOR THIS JOBSHARE
+   • Department
+Engineering
+   • Job posted on
+Jul 6, 2019
+   • Employment type
+Full Time
+   • Experience range
+4 years - 8 years
+Technical Lead
+
+Darwinbox is an HR Tech and analytics company (founder group includes IIM/IIT/XLRI alums). Our product Darwinbox HR is a significantly superior, integrated &amp; modern HR platform (caters to the entire employee lifecycle from hire to retire) that has received extremely strong feedback from the market. We are India's fastest growing HR technology platform and already have 200,000+ employees across clients like Dr. Reddy’s, Paytm, Nivea, Swiggy, Delhivery, Rivigo, Myntra, Act Fiber, Arvind, Big Basket, etc who love &amp; use the product every day.
+Darwinbox has been backed by investments from Sequoia, Lightspeed India Venture Partners, Endiya Partners, and 3One4Capital (Mr. Mohandas Pai's investment vehicle).
+We are based out of Hyderabad.
+
+What’s in for you?
+You will be a part of a passionate and high calibre Engineering team playing a pivotal role in building the coolest next-generation enterprise product.
+You will have solid and fast-paced learning solving complex challenges for employees of India’s most reputed companies. We promise you best-in-industry compensation. More importantly, we will provide you challenging yet fun-filled working environment, exposure to complete product development lifecycle, real-time business challenges and how you are going to address them through digital products.
+Best in industry benefits - Company provided medical insurance for you and your family (not included in CTC), Free snacks, sponsored games like beach volleyball and badminton and lot of partying :)
+You will also have a chance to work with and be mentored by the founders directly
+
+What are your responsibilities?
+   • Closely work with the product management team to transform the product roadmap to the engineering plan.
+   • Convert high-level engineering plan into an agile sprint plan with accurate effort estimation ensuring smooth and
+   • timely delivery – Take complete ownership and lead from the front with high levels of hands-on expertise.
+   • Create relevant engineering practices and policies, to improve productivity, efficiency and build predictability in a very dynamic environment.
+   • Recruit and build high-performance teams.
+What do we look for in you?
+   • 4+ Years of Hands-on-experience with scalable Architecture, Distributed Systems, and Cloud Technologies
+   • Well versed with SOA principles, cloud-based web services architecture, design patterns and frameworks Development experience in any of the languages PHP, Node.js or Java.
+   • Experience on any of the front-end JavaScript frameworks such as ReactJS, Angular.
+   • Good knowledge of HTML/CSS/JavaScript/Ajax/Web-services.
+   • Demonstrated technical expertise in Relational and Non- Relational Database.
+   • Exposure to API concepts would be an added advantage.
+   • Ability to create/review base level architecture, create and maintain product roadmaps.
+As fitment with the organization culture is very important you will immensely like the job if you:
+   • Enjoy working in a fast-paced company environment.
+   • Should be stack agnostic and should not have any tech prejudice.
+   • Willing to work in PHP + MongoDB driven environment.
+   • Prefer non-hierarchical, independent and non-pushy environment.
+   • Are self-motivated to take up a high degree of ownership.
+   • Passionate about programming and can't sleep without coding.</SourceText>
+  <RevisionDate>2019-11-18</RevisionDate>
+  <ParserConfigurationString>Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = False; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</ParserConfigurationString>
+  <DigitalSignature>npf6//////8=</DigitalSignature>
+  <SkillsTaxonomyOutput>
+    <TaxonomyRoot name="Sovren">
+      <Taxonomy name="Information Technology" id="10" percentOfOverall="58">
+        <Subtaxonomy name="Programming" id="204" percentOfOverall="18" percentOfParentTaxonomy="31">
+          <Skill name="PHP" id="004736" existsInText="true" required="true" />
+          <Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" required="false" />
+          <Skill name="CODING" id="013739" existsInText="true" required="true" />
+          <Skill name="DESIGN PATTERNS" id="015257" existsInText="true" required="true" />
+          <Skill name="HTML" id="019115" existsInText="true" required="true" />
+          <Skill name="API" id="021194" existsInText="true" required="true" />
+          <Skill name="JAVASCRIPT" id="025394" existsInText="true" required="true">
+            <ChildSkill name="NODE.JS" id="339002002" existsInText="true" required="true" />
+            <ChildSkill name="REACTJS" id="3391100" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Internet" id="196" percentOfOverall="12" percentOfParentTaxonomy="21">
+          <Skill name="WEB SERVICES" id="011022" existsInText="true" required="true" />
+          <Skill name="CSS" id="014705" existsInText="true" required="true" />
+          <Skill name="SOA" id="031030" existsInText="true" required="true">
+            <ChildSkill name="WEB SERVICES ARCHITECTURE" id="031036" existsInText="true" required="true" />
+          </Skill>
+          <Skill name="AJAX" id="196001" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Database" id="193" percentOfOverall="6" percentOfParentTaxonomy="10">
+          <Skill name="RELATIONAL DATABASE" id="006720" existsInText="true" required="true" />
+          <Skill name="DATABASE MODELING" id="026777" existsInText="false" required="false">
+            <ChildSkill name="DATABASE" id="022486" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Big Data" id="553" percentOfOverall="4" percentOfParentTaxonomy="7">
+          <Skill name="MONGODB" id="5530805" existsInText="true" required="false" />
+          <Skill name="DISTRIBUTED SYSTEMS" id="5530974" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="User Interface" id="731" percentOfOverall="2" percentOfParentTaxonomy="3">
+          <Skill name="DESIGN PATTERNS" id="7310026" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="2" percentOfParentTaxonomy="3">
+          <Skill name="DISTRIBUTED SYSTEMS" id="7180106" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="2" percentOfParentTaxonomy="3">
+          <Skill name="DISTRIBUTED SYSTEMS" id="5551330" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="2" percentOfParentTaxonomy="3">
+          <Skill name="MONGODB" id="5500361" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Security" id="338" percentOfOverall="2" percentOfParentTaxonomy="3">
+          <Skill name="DISTRIBUTED SYSTEMS" id="3380011" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Protocols and Standards" id="253" percentOfOverall="2" percentOfParentTaxonomy="3">
+          <Skill name="REAL-TIME" id="081190" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Embedded and Realtime" id="340" percentOfOverall="2" percentOfParentTaxonomy="3">
+          <Skill name="REAL-TIME" id="081186" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Java" id="339" percentOfOverall="2" percentOfParentTaxonomy="3">
+          <Skill name="JAVA" id="023328" existsInText="true" required="true" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Project Management" id="199" percentOfOverall="2" percentOfParentTaxonomy="3">
+          <Skill name="PRODUCT MANAGEMENT" id="005633" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="User Experience" id="93" percentOfOverall="16">
+        <Subtaxonomy name="Integration Design" id="568" percentOfOverall="6" percentOfParentTaxonomy="38">
+          <Skill name="FRONT END DESIGN" id="5570111" existsInText="false" required="false">
+            <ChildSkill name="FRONT-END" id="5570112" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Information Architect" id="567" percentOfOverall="4" percentOfParentTaxonomy="25">
+          <Skill name="FRONT END" id="5570300" existsInText="false" required="false">
+            <ChildSkill name="FRONT-END" id="5570301" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Human Computer Interaction" id="561" percentOfOverall="4" percentOfParentTaxonomy="25">
+          <Skill name="FRONT END" id="5570217" existsInText="false" required="false">
+            <ChildSkill name="FRONT-END" id="5570218" existsInText="true" required="true" />
+          </Skill>
+        </Subtaxonomy>
+        <Subtaxonomy name="Industrial Design" id="566" percentOfOverall="2" percentOfParentTaxonomy="12">
+          <Skill name="ARCHITECTURE" id="5570085" existsInText="true" required="true" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Marketing" id="14" percentOfOverall="10">
+        <Subtaxonomy name="Product" id="585" percentOfOverall="6" percentOfParentTaxonomy="60">
+          <Skill name="PRODUCT ROADMAP" id="1400018" existsInText="true" required="false" />
+          <Skill name="PRODUCT MANAGEMENT" id="1400021" existsInText="true" required="false" />
+          <Skill name="PRODUCT DEVELOPMENT" id="1400022" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Brand Management" id="227" percentOfOverall="4" percentOfParentTaxonomy="40">
+          <Skill name="PRODUCT DEVELOPMENT" id="005612" existsInText="true" required="false" />
+          <Skill name="PRODUCT MANAGEMENT" id="081161" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Engineering" id="5" percentOfOverall="10">
+        <Subtaxonomy name="General Engineering" id="307" percentOfOverall="4" percentOfParentTaxonomy="40">
+          <Skill name="ESTIMATION" id="080470" existsInText="true" required="false" />
+          <Skill name="REAL-TIME" id="080509" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Computer Hardware" id="144" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="REAL-TIME" id="080770" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Techniques" id="264" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="ESTIMATION" id="080635" existsInText="true" required="false" />
+        </Subtaxonomy>
+        <Subtaxonomy name="Telecom" id="146" percentOfOverall="2" percentOfParentTaxonomy="20">
+          <Skill name="PRODUCT MANAGEMENT" id="022258" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="Insurance" id="19" percentOfOverall="4">
+        <Subtaxonomy name="Admin and Clerical" id="412" percentOfOverall="4" percentOfParentTaxonomy="100">
+          <Skill name="CODING" id="013740" existsInText="true" required="true" />
+          <Skill name="MEDICAL INSURANCE" id="022397" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+      <Taxonomy name="General Management" id="80" percentOfOverall="2">
+        <Subtaxonomy name="Budget Related" id="516" percentOfOverall="2" percentOfParentTaxonomy="100">
+          <Skill name="ESTIMATION" id="016952" existsInText="true" required="false" />
+        </Subtaxonomy>
+      </Taxonomy>
+    </TaxonomyRoot>
+  </SkillsTaxonomyOutput>
+</SovrenData>

@@ -1,0 +1,2432 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "JANARDHANA RAO NALAM",
+          "GivenName": "JANARDHANA",
+          "MiddleName": "RAO",
+          "FamilyName": "NALAM"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "500072",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Hyderabad",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Flat #301, C-Block, Vertex Pride Apartments, Jai Bharat Nagar, Nizampet Road"
+                ]
+              }
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "Mobile": {
+              "FormattedNumber": "+91 9848179397"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "njrcareer@gmail.com"
+          },
+          {
+            "Use": "linkedIn",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetWebAddress": "https://www.linkedin.com/in/janardhana-nalam-68bb5924"
+          }
+        ]
+      },
+      "ExecutiveSummary": "Passion for technology and attitude to help business growth with the technical solutions and especially interested in the financial domain.\r\n15+ Years of Strong expertise in Java/Java EE technologies\r\n\r\nAbility to drive and deliver the end to end large scale enterprise solutions independently\r\nExpertise of working in cloud based micro services architectures\r\nStrong skills in effectively analysing and debugging complex issues and providing the resolutions.\r\nExpertise of working in various technologies and frameworks\r\nProven ability of leading development teams efficiently\r\nFamiliar with Agile development methodologies\r\nProfessional approach in handling clients and development teams assertively\r\nSelf-motivated and look for the opportunities in challenges\r\nAWS Certified Solution Architect Associate",
+      "Objective": "To work in a challenging environment where my knowledge, potential and experience can be better shared, enriched and harnessed for achieving the set organizational goals.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "JP Morgan & Chase",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Associate",
+                "OrgName": {
+                  "OrganizationName": "JP Morgan & Chase"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2018-03"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "JP Morgan AND Chase",
+                    "sov:NormalizedTitle": "Associate"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "JP Morgan AND Chase"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "via TEK Systems",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "Title": "Java Consultant",
+                "OrgName": {
+                  "OrganizationName": "via TEK Systems"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "NZ",
+                      "Municipality": "Wellington"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2015-07"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "via TEK Systems",
+                    "sov:NormalizedTitle": "Java Consultant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "via TEK Systems"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "client Argonaut Limited",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "client Argonaut Limited"
+                },
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2016-07"
+                },
+                "EndDate": {
+                  "YearMonth": "2018-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "client Argonaut"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "client Argonaut"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Hewlett Packard Enterprise",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Hewlett Packard Enterprise"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "NZ",
+                      "Municipality": "Wellington"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2015-06"
+                },
+                "EndDate": {
+                  "YearMonth": "2016-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Hewlett Packard Enterprise"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Hewlett Packard Enterprise"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "FINEOS Corporation",
+            "PositionHistory": [
+              {
+                "@positionType": "contract",
+                "Title": "Technical Consultant",
+                "OrgName": {
+                  "OrganizationName": "FINEOS Corporation"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "NZ",
+                      "Municipality": "Wellington"
+                    }
+                  }
+                ],
+                "Description": "(working for the client Accident Compensation Corporation(ACC))",
+                "StartDate": {
+                  "YearMonth": "2013-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2015-06"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "General Management → Budget Related",
+                    "Comments": "General Management describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Consultant",
+                    "sov:NormalizedOrganizationName": "FINEOS",
+                    "sov:NormalizedTitle": "Technical Consultant"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "FINEOS"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Wipro Technologies",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Technical Lead/Architect",
+                "OrgName": {
+                  "OrganizationName": "Wipro Technologies"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2007-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2013-03"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Wipro Technologies",
+                    "sov:NormalizedTitle": "Technical Lead/Architect",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Architect"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Wipro Technologies"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Oracle India Private Limited",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Senior Applications Engineer",
+                "OrgName": {
+                  "OrganizationName": "Oracle India Private Limited"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2005-05"
+                },
+                "EndDate": {
+                  "YearMonth": "2007-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-7",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Oracle",
+                    "sov:NormalizedTitle": "Senior Applications Engineer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Applications Engineer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Oracle"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Infotech Enterprises Limited",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Software Engineer",
+                "OrgName": {
+                  "OrganizationName": "Infotech Enterprises Limited"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2003-10"
+                },
+                "EndDate": {
+                  "YearMonth": "2005-04"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-8",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "TS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Infotech Enterprises",
+                    "sov:NormalizedTitle": "Software Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Infotech Enterprises"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Alfa Junior College"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Visakhapatnam"
+            },
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "B.Tech.",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Science Engg"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "75"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "Comments": "* B.Tech. Computer Science Engg. From Andhra University College of Engg., India with 75%\r\n* Intermediate from Alfa Junior College, Visakhapatnam with 93%",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedGPA": "0.750",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Alfa Junior College"
+              }
+            }
+          },
+          {
+            "@schoolType": "community",
+            "School": [
+              {
+                "SchoolName": "Govt. Jr. College"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeName": "SSC",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Databases"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "93"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "Comments": "* SSC from Govt. Jr. College, Ponduru with 93%\r\n\r\nTECHNOLOGIES\r\nLanguages: C, C++, Java\r\nWeb Technologies: Servlets, JSP, JSF, HTML, XML, CSS, AJAX,\r\nJavaScript, Angular JS, Bootstrap, GWT\r\nFrameworks: Spring, Hibernate, Struts, Axis, Eclipse Link, MyBatis,\r\nOA Framework, Fineos, Quipoz, Spring Boot\r\nApplication Servers: Tomcat, Websphere, Jetty, Weblogic, OC4J, SAP\r\nNetWeaver\r\nDatabases: Oracle, Sql Server, My Sql\r\nBuild Tools: Ant, Maven\r\nConfiguration Tools: CVS, VSS, SVN, ClearCase\r\nUnit Testing: Junit, Mockito\r\nCI Tools: Cruise Control, Jenkins, Hudson, Team City\r\nIDE: JDeveloper, Eclipse, IBM RAD\r\nDesign: Rational Rose, RSA, Enterprise Architect\r\nO. S: Windows, Unix, Linux, OS X\r\nMisc.: Web Services, Design Patterns, JDBC, RMI, JNDI, JMS, Network Programming, Java Beans, Java Internationalization, Oracle Workflow, BPEL, JUnit, Oracle Reports, People Tools, Jasper Reports, Acegi, JBoss Portal, LDAP, SOA, Restful, BIRT, JIRA, Crucible, Restlet, Sonar, EJB, Swing, CXF, GWT, Spring Boot, Microservices, AWS, Cloud Foundry",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedGPA": "0.930",
+                    "sov:NormalizedDegreeName": "secondary",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Govt Jr College"
+              }
+            }
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Sun Certified Web Component Developer",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "Sun Certified",
+            "Id": "2",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "Certified Web Component Developer",
+            "Id": "3",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "Sun Certified Java Programmer",
+            "Id": "4",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "Sun Certified Java",
+            "Id": "5",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "Certified Java Programmer",
+            "Id": "6",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "Certified Java",
+            "Id": "7",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "SCJP",
+            "Id": "8",
+            "Description": "certification; found in CERTIFICATIONS; matched to list"
+          },
+          {
+            "Name": "AWS Certified Solution Architect Associate",
+            "Id": "9",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "State 3rd Rank in SSC",
+            "Id": "10",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "State 115th Rank in EAMCET",
+            "Id": "11",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "de",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Details of Metro Group, A German giant in retailing business."
+          },
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "[RESUME_LANGUAGE]"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-29"
+    },
+    "NonXMLResume": {
+      "TextResume": "JANARDHANA RAO NALAM\r\nCONTACT DETAILS\r\n• Mobile: +91 9848179397\r\n\r\n• Email: njrcareer@gmail.com\r\n\r\n• Skype: live:njrao\r\n\r\n• LinkedIn: https://www.linkedin.com/in/janardhana-nalam-68bb5924\r\n\r\n• Address: Flat #301, C-Block, Vertex Pride Apartments, Jai Bharat Nagar, Nizampet Road, Hyderabad - 500072\r\n\r\nCAREER SUMMARY\r\n\r\nPassion for technology and attitude to help business growth with the technical solutions and especially interested in the financial domain.\r\n15+ Years of Strong expertise in Java/Java EE technologies\r\n\r\nAbility to drive and deliver the end to end large scale enterprise solutions independently\r\nExpertise of working in cloud based micro services architectures\r\nStrong skills in effectively analysing and debugging complex issues and providing the resolutions.\r\nExpertise of working in various technologies and frameworks\r\nProven ability of leading development teams efficiently\r\nFamiliar with Agile development methodologies\r\nProfessional approach in handling clients and development teams assertively\r\nSelf-motivated and look for the opportunities in challenges\r\nAWS Certified Solution Architect Associate\r\n\r\nOBJECTIVE\r\nTo work in a challenging environment where my knowledge, potential and experience can be better shared, enriched and harnessed for achieving the set organizational goals.\r\n\r\nPROFESSIONAL EXPERIENCE\r\n15+ Years of experience in working in enterprise java technologies\r\n\r\n* Mar 2018 - Till Date JP Morgan & Chase, Hyderabad\r\nAs Associate\r\n\r\n* Jul 2015 - Jan 2018 as Java Consultant (Contractor) via TEK Systems, Wellington\r\nWorking for the client Argonaut Limited, Wellington from Jul 2016 - Jan 2018\r\n\r\nWorked for the client Hewlett Packard Enterprise, Wellington, New Zealand from Jun 2015 - Jul 2016\r\n\r\n* August 2013 - June 2015 FINEOS Corporation, Wellington, New Zealand\r\nAs Technical Consultant (working for the client Accident Compensation Corporation(ACC))\r\n\r\n* August 2007 - Mar 2013 Wipro Technologies, Hyderabad, India\r\nAs Technical Lead/Architect\r\n\r\n* May 2005 - July 2007 Oracle India Private Limited, Hyderabad, India\r\nAs Senior Applications Engineer\r\n\r\n* October 2003 - April 2005 Infotech Enterprises Limited, Hyderabad, India\r\nAs Software Engineer\r\n\r\nEDUCATION\r\n* B.Tech. Computer Science Engg. From Andhra University College of Engg., India with 75%\r\n* Intermediate from Alfa Junior College, Visakhapatnam with 93%\r\n* SSC from Govt. Jr. College, Ponduru with 93%\r\n\r\nTECHNOLOGIES\r\nLanguages: C, C++, Java\r\nWeb Technologies: Servlets, JSP, JSF, HTML, XML, CSS, AJAX,\r\nJavaScript, Angular JS, Bootstrap, GWT\r\nFrameworks: Spring, Hibernate, Struts, Axis, Eclipse Link, MyBatis,\r\nOA Framework, Fineos, Quipoz, Spring Boot\r\nApplication Servers: Tomcat, Websphere, Jetty, Weblogic, OC4J, SAP\r\nNetWeaver\r\nDatabases: Oracle, Sql Server, My Sql\r\nBuild Tools: Ant, Maven\r\nConfiguration Tools: CVS, VSS, SVN, ClearCase\r\nUnit Testing: Junit, Mockito\r\nCI Tools: Cruise Control, Jenkins, Hudson, Team City\r\nIDE: JDeveloper, Eclipse, IBM RAD\r\nDesign: Rational Rose, RSA, Enterprise Architect\r\nO. S: Windows, Unix, Linux, OS X\r\nMisc.: Web Services, Design Patterns, JDBC, RMI, JNDI, JMS, Network Programming, Java Beans, Java Internationalization, Oracle Workflow, BPEL, JUnit, Oracle Reports, People Tools, Jasper Reports, Acegi, JBoss Portal, LDAP, SOA, Restful, BIRT, JIRA, Crucible, Restlet, Sonar, EJB, Swing, CXF, GWT, Spring Boot, Microservices, AWS, Cloud Foundry\r\n\r\nACCREDITATIONS\r\n• AWS Certified Solution Architect Associate\r\n\r\n• Sun Certified Web Component Developer(SCWCD)\r\n\r\n• Sun Certified Java Programmer(SCJP)\r\n\r\n• State 3rd Rank in SSC\r\n\r\n• State 115th Rank in EAMCET\r\n\r\nPROJECT DETAILS\r\n* Title: ECOLLATERAL\r\nDuration: Mar 2018 to Current\r\nCompany: JP Morgan & Chase, Hyderabad\r\nTools and Technologies: Spring Boot, Spring Data JPA, Gradle, Cassandra, Maria DB, Pivotal Cloud Foundry, Splunk, Dynatrace, Jenkins\r\nDescription:\r\nECollateral is the application used by bankers to walk through the customers about financial products and Solutions offered by Chase for its customers. It's a responsive web application developed using micro services architecture, deployed to pivotal cloud foundry.\r\nRoles and Responsibilities:\r\nAs the Technical Lead,\r\nI work on the architecture, design, development and release activities primarily.\r\n* Title: WIMWA (Weigh In Motion)\r\nDuration: October 2016 to Current\r\nCompany: Argonaut Limited, Wellington\r\nClient: New Zealand Transport Authority (NZTA), Wellington, New Zealand\r\nTools and Technologies: GWT, Spring Boot, Spring Data JPA, Maven, Tomcat, Apache CXF, Sql Server\r\nDescription:\r\nWIMWA application is used for identifying the overweight trucks. When a overweight truck is identified by a weighing plate on a road, it will send the vehicle record. WIMWA application will match the record against the permit database to identify the weighing limits and if it exceeds the limit, it will alert the police. A Tracking camera will identify such vehicle and automatically signal it to stop\r\nRoles and Responsibilities:\r\nAs the Senior Technical Consultant,\r\nI work on the analysis, debugging, design, development, unit testing activities primarily.\r\n* Title: PACE\r\nDuration: April 2017 to Till Date\r\nCompany: Argonaut Limited, Wellington\r\nClient: New Zealand Transport Authority (NZTA), Wellington, New Zealand\r\nTools and Technologies: Java, GWT, Spring, Hibernate, Sql Server, Tomcat\r\nDescription:\r\nPACE is the intranet web application used by the NZTA project managers to assess the various suppliers and contracts.\r\nThe application UI is developed using GWT framework and the services are developed using Spring and the persistence layer is developed using Hibernate and the application is deployed to Tomcat Server.\r\nRoles and Responsibilities:\r\nAs the Technical Consultant,\r\nI work on the analysis, debugging, design, development, unit testing activities primarily.\r\n* Title: SMART Motorway\r\nDuration: Aug 2016 to Oct 2016\r\nCompany: Argonaut Limited, Wellington\r\nClient: New Zealand Transport Authority (NZTA), Wellington, New Zealand\r\nTools and Technologies: GWT, Spring, Hibernate, Tomcat, Ant\r\nDescription:\r\nSmart Motorway project is to provide variable speeding signs on the road based on various traffic parameters like volume, occupancy and speed.\r\nRoles and Responsibilities:\r\nAs the Senior Technical Consultant,\r\nI work on the analysis, debugging, design, development, unit testing activities primarily.\r\n* Title: SWIFTT\r\nDuration: Jun2015 to Jul 2016\r\nCompany: Hewlett Packard Enterprise, Wellington\r\nClient: Ministry of Social Development(MSD), Wellington, New Zealand\r\nTools and Technologies: Core Java, J2EE, Weblogic, Oracle, Soap UI, Web services\r\nDescription:\r\nSWIFTT is the system used by Work and Income to manage information about recipients of financial assistance and the assistance they receive\r\nRoles and Responsibilities:\r\nAs the Senior Technical Consultant,\r\nI work on the analysis, debugging, design, development, unit testing activities primarily.\r\nI worked on the development of IRIS project, which provides integration to IRD system via SOAP based Web services.\r\nI worked on the design and development of daily reports and fixing the production faults.\r\n* Title: EOS\r\nDuration: August 2013 to Jun 2015\r\nCompany: Fineos, Wellington\r\nClient: Accident Compensation Commission (ACC), Wellington, New Zealand\r\nTools and Technologies: Core Java, J2EE, FINEOS, QAS Web, Web services, Websphere, Oracle, Tomcat\r\nDescription:\r\nACC offers free personal accidental cover for all the people who live in New Zealand. EOS is the application used by ACC for lodgement and administering the claims.\r\nRoles and Responsibilities:\r\nAs the Technical Consultant,\r\nI work on the analysis, debugging, design, development, unit testing activities primarily.\r\nI worked on the design and development of Client Service Optimisation project, which will add predictive modelling capability to the application using FINEOS framework and provide analytics features for claims.\r\nI worked on the design and development of Address Accuracy Project, which will provide the integration to NZ Post address services.\r\nI worked on the design and development of VCI project, which provides the integration with Oracle Web Centre for content management.\r\nIn addition to above, I worked on some minor projects, BAU projects, production defects etc.\r\n* Title: NG PORTAL\r\nDuration: March 2013 to August 2013\r\nCompany: Dell International Services\r\nTools and Technologies: Core Java, J2EE, Spring, Restful Web services, Maven, Hudson, Microservices\r\nDescription:\r\nTo develop next generation web portal for tracking all the security incidents occurred at different customer of Dell SecureWorks\r\nRoles and Responsibilities:\r\nAs the Senior Developer,\r\nI worked on the design and development of Spring MVC based web portal. Developed the Spring MVC Layer. Developed the RESTFul Webservices. Developed on integrating the BIRT based reporting solution to Webportal.\r\n* Title: COMPASS\r\nDuration: Sep 2010 to Mar 2013\r\nCompany: Wipro Technologies\r\nClient: Westpac, Australia\r\nTools and Technologies: Core Java, J2EE, IBM Websphere 6.1, JSP, FINEOS framework, Spring, Apache Axis, Webservices, Ant, Cruise Control, IBM Rational Clearcase, ControlM, Sql Server\r\nDescription:\r\nCompass is the customized claim processing solutions product from FINEOS (fineos.com). Compass provides the workflow capability to support claims management to allow the business users to lodge claims, create and track various tasks on the claims. It's a feature rich application with lots of extension points for customization and has a rich set of configurable features with various integration points to different other Westpac applications.\r\nRoles and Responsibilities:\r\nAs the technical architect/lead,\r\nI've worked extensively on customizing the product by utilising various extension points of the base product.\r\nMy role involves working with business to understand the business requirement and to provide the solution with technical architecture and provide the dev estimates. And then to drive the team with the technical design and development. And then coordinating with various technical teams (at client site) to move the code to various test (SIT and UAT) environments and Production environments. I also worked on 3rd level support where we investigate the unresolved production issues by 2nd level support teams and also provide support for various BAU activities and Performance Tuning.\r\nMy engagement started in this project as a Staff Aug resourcing model at client location in Sydney, and I converted that project to a managed service model, to execute from Wipro offshore location.\r\n* Title: GASMRA\r\nDuration: Jan 2010 to Aug 2010\r\nCompany: Wipro Technologies\r\nClient: NPower, UK\r\nTools and Technologies: Java, J2EE, JMS, SAP Netweaver application server, SAP Netweaver Studio, Spring, Webservices, JSF, Eclipselink, Oracle, Ant, Enterprise Architect\r\nDescription:\r\nGASMRA is part of a Meter Reading Application stack. Npower's GasMRA is an application development which acts as an agent for meter reading in the legacy Gas and Electricity systems. It comprises the flow implementation of the process running across the legacy systems. The application is an add-on to the major functional system of npower called ATLAS. It had a restriction that the application should be an independent JAVA/J2EE application which should be compatible for the SAP CE 7.1 framework.\r\nRoles and Responsibilities:\r\nAs a technical lead, I worked on providing the technical design for the application. And drove the development of the application. Took up the business and design and code reviews. Developed various tools for automating the generation of workflow classes.\r\nFor this project, I worked along with the Wipro team at the client site in Leeds, UK.\r\n* Title: B&L Portal\r\nDuration: Oct 2009 to Dec 2009\r\nCompany: Wipro Technologies\r\nClient: Bausch & Lomb, UK\r\nTools and Technologies: Java, J2EE, JBoss Portal, JSF, LDAP, Oracle, Eclipse\r\nDescription: Bausch&Lomb Portal is to integrate several functional units in the Company to come under one roof. Built on JBossPortal Server, it provides customizable, user centric interface development\r\nRoles and Responsibilities:\r\nAs a technical lead, I had a short stint in this project where I worked on initial phase of the project to provide the POC of the application based on the client chosen technologies. After demonstrating the technical capability and getting the project, I provided the reference implementation and delegated the development and design work to the actual project team.\r\n* Title: MedNet Portal\r\nDuration: Oct 2008 to Oct 2009\r\nCompany: Wipro Technologies\r\nClient: Hospira\r\nTools and Technologies: Core Java, Hibernate, Eclipse, JSF, JBoss, Rich Faces, JUnit, Sql Server, Jasper Reports, Spring, RMI, EJB\r\nDescription:\r\nThis project is to track the usage details of the infuser pumps sold by the Hospira for its customers. It provides options to track the usage of the pumps through several reports. It will allow the creation and maintenance of drug libraries and installations for it. The users of the application are of the different roles, i.e. Admin, Benchmark, MedNet Meds users. The Benchmark and MedNet Meds users will have the access to data of the assigned Health Systems and Facilities.\r\nRoles and Responsibilities:\r\nAs a technical lead,\r\nI created the use cases as part of requirements gathering. Did the complete technical design for the project by myself. Did the prototype as POC. Coded the complex functionalities of the application. Took part of Code Reviews and Performance Tuning. Took care of the complete build and deployment responsibility\r\n* Title: ACS HealthCare System ES\r\nDuration: Aug 2007 to Oct 2008\r\nCompany: Wipro Technologies\r\nClient: ACS\r\nTools and Technologies: Core Java, Hibernate, RAD, JSF, Web Sphere, Oracle, JUnit\r\nDescription:\r\nACS Enterprise System consists of the specific functionalities of Medicaid Management Information System (MMIS), Pharmacy Benefit Management System (PBMS - also referred to as POS) and Enrolment Broker which is developed into a single \"Enterprise System\". It is built on industry-standards aligning with MITA (Medicaid Technology Information Architecture) guidelines, and adapting Service Oriented Architecture principles, to enable ACS client implementations to leverage the benefits of extensibility, manageability using services. The primary business function of the Enterprise System is to receive, adjudicate and pay claims to medical services providers in support of multiple health improvement initiatives operated by the States. The objective of the Enterprise initiative is to create a \"Core Application\" that can be readily customized for individual ACS customers, with minimal effort and maximal manageability\r\nRoles and Responsibilities:\r\nI worked on Technical Design for the Program Module. And I worked on development of the complex functionalities of the Program module. Majorly worked on IBM WebSphere Portal with JSF. I did the code reviews. Involved in build and deployment of the application.\r\n* Title: Oracle Academic Enterprise Initiative\r\nDuration: December 2006 to July 2007\r\nCompany: Oracle India Pvt. Limited\r\nTools and Technologies: Web Services, Apache Axis, JMS, Spring, Hibernate, My SQL, XML, People Tools, Eclipse,\r\nDescription:\r\nThe AEI proposes to use open architectures and standards-based specifications to allow institutions to deploy a highly-integrated environment in which all of an institution's academic systems talk to each other, but with the flexibility to allow institutions to choose which applications they want to deploy as part of the system and how those applications interact.\r\nCentral to this intended offering is Oracle's implementation of Sakai for Oracle as the AEI course management system. As an open source software project developed by and for higher education, Sakai provides solid, core course management functionality on an open and extensible framework and a collaborative community of developers and users that will continue to drive transformative change in collaboration and learning environment applications.\r\nRoles and Responsibilities:\r\nInvolved in architecting the solution for the Phase 1 of the AEI. Developed the web services in Peoplesoft Campus Solutions using Integration Broker Technology and People Code. Developed Web services in Sakai using Apache Axis. Developed both the inbound and outbound solutions and integrated them by calling each other. Developed JSF Tools using Sakai Framework and developed application services using Spring Framework and Hibernate.\r\n* Title: Oracle Personal Portfolio\r\nDuration: Jan 2006 to November 2006\r\nCompany: Oracle India Pvt. Limited\r\nTools and Technologies: OA Framework, Struts, JSP, Servlets, SQL, PL/SQL, OC4J, JDeveloper, Oracle, XML\r\nDescription:\r\nOracle Personal Portfolio allows the Students to publish their work in a convenient way to the others particularly to the potential employers. Student can create a portfolio of his work by using html pages and artifacts. User can publish the created portfolio to the other users and career center services. The viewers can view the portfolio and can give the comments, which can be seen by the user later. The administrator can publish templates and provide artifacts so that the user can use them while creating portfolios of their work.\r\nRoles and Responsibilities:\r\nInvolved in coding and bug fixing and peer reviewing of the R12 release of the IGP.A functionality. Involved in Technical Designs and Prototyping of the IGP.B functionality.\r\n* Title: OSS - Enrollment\r\n\r\nDuration: July 2005 to Dec 2005\r\nCompany: Oracle India Pvt. Limited\r\nTools and Technologies: OA Framework, Struts, JSP, Servlets, SQL, PL/SQL, OC4J, JDeveloper, Oracle\r\nDescription:\r\nEnrollment is part of the Oracle E-Business Suite Application, Oracle Student System. This basically deals with what are the course offerings in the university and the details include season, Term, Faculty etc. information. Through this, student can view and enroll himself into the selected course offerings and administrator can enroll a student into a particular course and the administrator can approve or decline the particular enrollments of students etc.\r\nRoles and Responsibilities:\r\nInvolved in coding and bug fixing of the IGS.M release of the Enrollment module. Developed the Scheduling functionality of the Enrollment module. Developed PL/Sql routines for the other functionalities.\r\n* Title: LOGOS\r\n\r\nDuration: Nov 2004 to Apr 2005\r\nCompany: Infotech Enterprise Limited\r\nTools and Technologies: Swing, EJB, JClass, Top Link, OC4J, Oracle 9i Application Server, Oracle 9i Database, Oracle Report Server, JDeveloper, JUnit, ANT, CVS, VSS, QTP, Rational Rose, RMI\r\nDescription:\r\nLOGOS is to handle the Logistic Details of Metro Group, A German giant in retailing business. Our project constitutes of 5 modules namely Billing, Master Data, Admin, Simulation and Self Disposition.\r\nI worked in Billing Module and developed 11 use cases, which deal with the maintenance of entities used in the Billing process and the use case which deals with the Manual Billing, through which the actual Billing will happen for the transactions held.\r\nRoles and Responsibilities:\r\nInvolved in developing the Swing UI for prototyping. Involved in writing the controllers and middleware functionality by writing in EJBs. Coded the Billing module functionality. Did the testing for MasterData module Did the R&D on enhancing the framework functionality and bug fixing."
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "JANARDHANA RAO NALAM's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Sales (mostly Entry Level). JANARDHANA RAO NALAM has 16 years of work experience, with 6 years of management experience, including a low-level position.",
+          "sov:MonthsOfWorkExperience": "188",
+          "sov:AverageMonthsPerEmployer": "23",
+          "sov:FulltimeDirectHirePredictiveIndex": "30",
+          "sov:MonthsOfManagementExperience": "67",
+          "sov:HighestManagementScore": "25",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": "Starting on 8/1/2007, the candidate held the following low-level management position for 5 years and 7 months:\r\n\tTitle: Technical Lead/Architect for Wipro Technologies",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "98",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "96",
+                        "@percentOfParentTaxonomy": "98",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECLIPSE",
+                            "@id": "015844",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "EJB",
+                            "@id": "339002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "J2EE",
+                            "@id": "020255",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "30",
+                            "@lastUsed": "2018-01-01",
+                            "@whereFound": "Found in CERTIFICATIONS; EDUCATION; PROJECT_HEADERS; SUMMARY; WORK HISTORY; DEG-2; POS-2",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "HIBERNATE",
+                                "@id": "3391127",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                              },
+                              {
+                                "@name": "JAVA TECHNOLOGIES",
+                                "@id": "020272",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in WORK HISTORY"
+                              },
+                              {
+                                "@name": "SPRING",
+                                "@id": "3391126",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JBOSS",
+                            "@id": "020279",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "JMS",
+                            "@id": "020323",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "JNDI",
+                            "@id": "339047",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "JSF",
+                            "@id": "339034",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "JSP",
+                            "@id": "339001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "RMI",
+                            "@id": "339024",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "SERVLETS",
+                            "@id": "007817",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "STRUTS",
+                            "@id": "026009",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "SUN",
+                            "@id": "008895",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "UNIX",
+                            "@id": "01026309",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "APPLICATION DEVELOPMENT",
+                            "@id": "021556",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "APPLICATION SERVER",
+                            "@id": "024219",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "CONTENT MANAGEMENT",
+                            "@id": "022339",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "DESIGN PATTERNS",
+                            "@id": "015257",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "GRADLE",
+                            "@id": "3391152",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BOOTSTRAP",
+                                "@id": "3391101",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; DEG-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "MIDDLEWARE",
+                            "@id": "025406",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "19",
+                            "@lastUsed": "2005-04-30",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "Subversion",
+                            "@id": "1004756",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SVN",
+                                "@id": "100475601",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; DEG-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "XML",
+                            "@id": "011476",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "AJAX",
+                            "@id": "196001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "E-BUSINESS",
+                            "@id": "015836",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "INTRANET",
+                            "@id": "024782",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SOA",
+                            "@id": "031030",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "TOMCAT",
+                            "@id": "009664",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "WEB PORTAL",
+                            "@id": "011010",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "WEB SERVICES",
+                            "@id": "011022",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "WEB SPHERE",
+                            "@id": "011024",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "WEBLOGIC",
+                            "@id": "025364",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "WEBSPHERE",
+                            "@id": "026748",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JDBC",
+                            "@id": "020287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ORACLE",
+                            "@id": "031048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "PL/SQL",
+                            "@id": "004871",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ENTERPRISE ARCHITECT",
+                            "@id": "016666",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "INFORMATION ARCHITECTURE",
+                            "@id": "019774",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "RATIONAL",
+                            "@id": "025096",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "RATIONAL ROSE",
+                            "@id": "025407",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "TECHNICAL ARCHITECTURE",
+                            "@id": "009232",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "TECHNICAL DESIGN",
+                            "@id": "025754",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "USE CASE",
+                            "@id": "024596",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "USE CASES",
+                            "@id": "010312",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "HP UNIFIED FUNCTIONAL TESTING",
+                            "@id": "2000002",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "QTP",
+                                "@id": "200000204",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JIRA",
+                            "@id": "2000006",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "JUNIT",
+                            "@id": "020369",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "UAT",
+                            "@id": "010065",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "UNIT TESTING",
+                            "@id": "010254",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANT",
+                            "@id": "2510002",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "CLEARCASE",
+                            "@id": "024051",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "DEPLOYMENT",
+                            "@id": "023631",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "MAVEN",
+                            "@id": "2510001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "CASSANDRA",
+                            "@id": "5530915",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "JBOSS",
+                            "@id": "5530783",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "JMS",
+                            "@id": "5530786",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "SPLUNK",
+                            "@id": "5530851",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "CVS",
+                            "@id": "014772",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "VSS",
+                            "@id": "010741",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "BOOTSTRAP",
+                            "@id": "5520522",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "RESTFUL WEB SERVICES",
+                            "@id": "5520591",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SOAP",
+                            "@id": "5520605",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "HDS CRUISE CONTROL",
+                            "@id": "5551142",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CRUISE CONTROL",
+                                "@id": "555114201",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "UNIX",
+                            "@id": "5551207",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "PEOPLE CODE",
+                            "@id": "004531",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "PEOPLESOFT",
+                            "@id": "004536",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SAP",
+                            "@id": "007436",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "DESIGN PATTERNS",
+                            "@id": "7310026",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "INFORMATION ARCHITECTURE",
+                            "@id": "7310035",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "USER INTERFACE",
+                            "@id": "7310067",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "UI",
+                                "@id": "7310068",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "LDAP",
+                            "@id": "020651",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Prebuilt Software",
+                        "@id": "252",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "BILLING",
+                            "@id": "022475",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "FRAMEWORKS",
+                            "@id": "017954",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPEN SOURCE",
+                            "@id": "003842",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SOAP",
+                            "@id": "008187",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASTERADATA",
+                            "@id": "5500311",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CASSANDRA",
+                                "@id": "550031101",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Gaming",
+                        "@id": "551",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM CITY",
+                            "@id": "5510147",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Privacy and Data Security",
+                        "@id": "556",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "SPLUNK",
+                            "@id": "5551270",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "RSA",
+                            "@id": "007273",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Entry Level",
+                        "@id": "500",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "98",
+                        "sov:Skill": [
+                          {
+                            "@name": "ASSOCIATE",
+                            "@id": "004917",
+                            "@existsInText": "true",
+                            "@totalMonths": "21",
+                            "@lastUsed": "2019-11-29",
+                            "@whereFound": "Found in CERTIFICATIONS; SUMMARY; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Direct Sales",
+                        "@id": "102",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "E-BUSINESS",
+                            "@id": "025686",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "29",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "PROTOTYPE",
+                            "@id": "5570148",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "PROTOTYPING",
+                                "@id": "5570149",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INFORMATION ARCHITECTURE",
+                                "@id": "5570244",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Integration Design",
+                        "@id": "568",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROTOTYPE",
+                            "@id": "5570107",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "PROTOTYPING",
+                                "@id": "5570108",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Human Computer Interaction",
+                        "@id": "561",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "INFORMATION ARCHITECTURE",
+                            "@id": "5570029",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "PROTOTYPE",
+                            "@id": "5570036",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Research",
+                        "@id": "558",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROTOTYPES",
+                            "@id": "5570209",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "PROTOTYPE",
+                                "@id": "5570210",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Information Architect",
+                        "@id": "567",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROTOTYPE",
+                            "@id": "5570097",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Management",
+                    "@id": "80",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Budget Related",
+                        "@id": "516",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMPENSATION",
+                            "@id": "014003",
+                            "@existsInText": "true",
+                            "@totalMonths": "22",
+                            "@lastUsed": "2015-06-01",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "46",
+                        "sov:Skill": [
+                          {
+                            "@name": "JSF",
+                            "@id": "020356",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "PROTOTYPING",
+                            "@id": "080751",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Design",
+                        "@id": "134",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROTOTYPING",
+                            "@id": "080932",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "TECHNICAL DESIGN",
+                            "@id": "025755",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROTOTYPING",
+                            "@id": "080476",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Military",
+                        "@id": "267",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "SONAR",
+                            "@id": "026260",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "025565",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Light Technical/Trades/Skilled Labor",
+                    "@id": "27",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Other",
+                        "@id": "293",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "AWS CERTIFIED",
+                            "@id": "025597",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS; SUMMARY"
+                          },
+                          {
+                            "@name": "AXIS",
+                            "@id": "024192",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          },
+                          {
+                            "@name": "PUMPS",
+                            "@id": "025923",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Channel Management",
+                        "@id": "226",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "41",
+                        "sov:Skill": [
+                          {
+                            "@name": "POINT OF SALE",
+                            "@id": "1400219",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "POS",
+                                "@id": "1400220",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "39",
+                        "sov:Skill": [
+                          {
+                            "@name": "INBOUND AND OUTBOUND",
+                            "@id": "1400000",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Digital",
+                        "@id": "599",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "INFORMATION ARCHITECTURE",
+                            "@id": "1400246",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS REQUIREMENTS",
+                            "@id": "022626",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "REQUIREMENTS GATHERING",
+                                "@id": "006835",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "WORKFLOW",
+                            "@id": "024213",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Software",
+                        "@id": "320",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "76",
+                        "sov:Skill": [
+                          {
+                            "@name": "WEBSPHERE",
+                            "@id": "026749",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; PROJECT_HEADERS; WORK HISTORY; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Standards, Protocols, Technologies",
+                        "@id": "317",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "24",
+                        "sov:Skill": [
+                          {
+                            "@name": "IGP",
+                            "@id": "019515",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Payroll",
+                        "@id": "961",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLAIMS",
+                            "@id": "022239",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounts Receivable",
+                        "@id": "940",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "MEDICAID",
+                            "@id": "021521",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounts Payable",
+                        "@id": "933",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLAIMS",
+                            "@id": "013345",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Nursing",
+                    "@id": "99",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Billing and Coding",
+                        "@id": "421",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BILLING",
+                            "@id": "080120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "CODING",
+                            "@id": "023717",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Logistics",
+                        "@id": "460",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCHEDULING",
+                            "@id": "022740",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Supply Chain",
+                        "@id": "461",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTRACTS",
+                            "@id": "014311",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Planning",
+                        "@id": "208",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCHEDULING",
+                            "@id": "022739",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Clinical",
+                    "@id": "28",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Claims and Billing",
+                        "@id": "269",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLAIMS",
+                            "@id": "022238",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Coding",
+                        "@id": "270",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CODING",
+                            "@id": "013742",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Insurance",
+                    "@id": "19",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Claims and Adjusting",
+                        "@id": "408",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLAIMS",
+                            "@id": "022237",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Admin and Clerical",
+                        "@id": "412",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CODING",
+                            "@id": "013740",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Healthcare Non-physician Non-nurse",
+                    "@id": "95",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Allied Health",
+                        "@id": "158",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "HEALTHCARE",
+                            "@id": "018806",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "165",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PHARMACY",
+                            "@id": "004648",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Legal",
+                    "@id": "12",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Intellectual Property",
+                        "@id": "395",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPEN SOURCE",
+                            "@id": "3950001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Contracts",
+                        "@id": "396",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTRACTS",
+                            "@id": "014309",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "PERFORMANCE TUNING",
+                            "@id": "004550",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Petrochemical",
+                    "@id": "44",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Drilling",
+                        "@id": "441",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "OFFSHORE",
+                            "@id": "003754",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "1",
+              "@ends": "11",
+              "@sectionType": "CONTACT INFO",
+              "#text": "CONTACT DETAILS"
+            },
+            {
+              "@starts": "12",
+              "@ends": "26",
+              "@sectionType": "SUMMARY",
+              "#text": "CAREER SUMMARY"
+            },
+            {
+              "@starts": "27",
+              "@ends": "29",
+              "@sectionType": "OBJECTIVE",
+              "#text": "OBJECTIVE"
+            },
+            {
+              "@starts": "30",
+              "@ends": "52",
+              "@sectionType": "WORK HISTORY",
+              "#text": "PROFESSIONAL EXPERIENCE"
+            },
+            {
+              "@starts": "53",
+              "@ends": "75",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATION"
+            },
+            {
+              "@starts": "76",
+              "@ends": "86",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "ACCREDITATIONS"
+            },
+            {
+              "@starts": "87",
+              "@ends": "247",
+              "@sectionType": "PROJECT_HEADERS",
+              "#text": "PROJECT DETAILS"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Mobile: +91 9848179397",
+              "+91 9848179397"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "janardhana-nalam",
+              "JANARDHANA RAO NALAM"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "njrcareer@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://www.linkedin.com/in/janardhana-nalam-68bb5924",
+              "fineos.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Flat #301, C-Block, Vertex Pride Apartments, Jai Bharat Nagar, Nizampet Road"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "19328",
+        "sov:ParseTime": "859",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:303;6] The following section in the resume contains more content than the work history and education sections combined: 'PROJECT DETAILS'. This may indicate a problem with section headers, formatting, or content."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:221;POS-3,POS-4] We could not find a job title for: POS-3, POS-4. Every position in a resume should have a job title."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:161;DEG-2] High school (or lower) education should not be included on resumes that contain higher-level education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:aee8c4fe-bf59-4612-ac05-a08fd4b3d334",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.9.0",
+        "sov:DigitalSignature": "l8X///////8="
+      }
+    }
+  }
+}

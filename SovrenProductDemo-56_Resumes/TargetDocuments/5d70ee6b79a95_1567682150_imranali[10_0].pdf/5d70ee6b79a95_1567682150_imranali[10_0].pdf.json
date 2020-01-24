@@ -1,0 +1,1713 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "IMRAN ALI",
+          "GivenName": "IMRAN",
+          "FamilyName": "ALI"
+        },
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "PostalCode": "560029",
+              "Region": [
+                "KARNATAKA"
+              ],
+              "Municipality": "Bangalore",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "MK House"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "+91-8618480425"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "er.imran4u@gmail.com"
+          }
+        ]
+      },
+      "Objective": "Targeting position of Engineering Manager, Intend to build a career with leading corporate of hi-tech\r\nenvironment with committed & dedicated people, which will help me to explore myself fully and realise my\r\npotential, willing to work as a key player in challenging & creative environment.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "SaltSide Technology",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Lead Engineer",
+                "OrgName": {
+                  "OrganizationName": "SaltSide Technology"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "KARNATAKA"
+                      ],
+                      "Municipality": "Bangalore"
+                    }
+                  }
+                ],
+                "Description": "",
+                "StartDate": {
+                  "YearMonth": "2016-02"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "SaltSide Technology",
+                    "sov:NormalizedTitle": "Lead Engineer"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "SaltSide Technology"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "CDAC"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "ANDHRA PRADESH"
+              ],
+              "Municipality": "Hyderabad"
+            },
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "MBA",
+                "DegreeDate": {
+                  "YearMonth": "2008-08"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Jamia Millia Islamia, New Delhi"
+                    ]
+                  }
+                ],
+                "DegreeMinor": [
+                  {
+                    "Name": [
+                      "Design"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "YearMonth": "2008-08"
+                    }
+                  }
+                ],
+                "Comments": "MBA from Jamia Millia Islamia, New Delhi   7.3\r\n- Diploma in Embedded System Design from ACTS, CDAC Hyderabad in   August 2008.\r\n- Engineering in   ELECTRONICS & COMMUNICATION   from   MU   with first class and distinctions",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "MBA",
+                    "sov:NormalizedDegreeType": "MBA"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "CDAC"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "B.I.E.C"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "BIHAR"
+              ],
+              "Municipality": "Patna"
+            },
+            "Degree": [
+              {
+                "DegreeDate": {
+                  "Year": "2007"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "PREVIOUS ORGANISATION"
+                    ]
+                  }
+                ],
+                "DegreeMeasure": {
+                  "EducationalMeasure": {
+                    "MeasureSystem": "GPA",
+                    "MeasureValue": {
+                      "StringValue": "77.75"
+                    },
+                    "LowestPossibleValue": {
+                      "StringValue": "0"
+                    },
+                    "HighestPossibleValue": {
+                      "StringValue": "100"
+                    }
+                  }
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2007"
+                    }
+                  }
+                ],
+                "Comments": "77.75%   in   2007\r\n- I. Sc (12th) from   B.I.E.C, Patna   with 1st class and distinctions   79.67%  .\r\n- Matriculation (10th) from   B.S.E.B, Patna   with 1st class   73.57%  .\r\n\r\nPREVIOUS ORGANISATION",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedGPA": "0.778"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "B I E C"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "SKILL PROFILE\r\nProgramming Language: Android, Js, Objective C, Blackberry, Java, C, C++, GoLang, Ruby.\r\nOperating System: Linux, MAC & Microsoft Windows family.\r\nMobile Plateform: Android, Blackberry, Windows Mobile 6, OpenMoko & Symbian S60.\r\nWeb-Development: React, Redux, React-Router, JavaScript, JSX.\r\nDevelopment Environment: Android Studio, Intellij Idea, AptanaStudio, Eclipse, X-code & Visual Studio.\r\nOther Tools & Sdks: CircleCI, Jenkins, SVN, Git, Meld, Beyond compare, Smart-git, BugSnag, Layer,\r\nFacebook, Google, Mixpanel, Adjust, Trello, WebEngage etc."
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Urdu, Arabic"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Urdu, Arabic"
+          },
+          {
+            "LanguageCode": "ur",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Urdu, Arabic"
+          },
+          {
+            "LanguageCode": "ar",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Urdu, Arabic"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Engineering in   ELECTRONICS & COMMUNICATION   from   MU   with first class and distinctions"
+          },
+          {
+            "Description": "I. Sc (12th) from   B.I.E.C, Patna   with 1st class and distinctions   79.67"
+          },
+          {
+            "Description": "School topper in class 10th"
+          },
+          {
+            "Description": "Won several prizes in Sports like Race, cricket, carom board & quiz contest held in my school"
+          },
+          {
+            "Description": "Organising career counselling program under the organisation of Naujawan Ekta committee Rasoolpur, at"
+          },
+          {
+            "Description": "Village level"
+          },
+          {
+            "Description": "Attended Intel MeeGo seminar on 10th-Nov-2010 at Surya-Crown Plaza Delhi"
+          },
+          {
+            "Description": "http://imranandroidflash.blogspot.com/, http://imran-android-receivesms.blogspot.com"
+          },
+          {
+            "Description": "http://imranvalidateemail.blogspot.in/, http://imrandynamictablerow.blogspot.in"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "IMRAN ALI\r\nCOMMUNICATION ADDRESS\r\nMK House\r\n4th Main, BTM Layout\t���� er.imran4u@gmail.com\r\nBangalore- 560029\t☎ +91-8618480425\r\n\r\nOBJECTIVE\r\nTargeting position of Engineering Manager, Intend to build a career with leading corporate of hi-tech\r\nenvironment with committed & dedicated people, which will help me to explore myself fully and realise my\r\npotential, willing to work as a key player in challenging & creative environment.\r\n\r\nEXPERIENCE SUMMARY\r\n-A Result Oriented & Self learned Software professional with 10+ years of experience.\r\n-Having experience to Lead 20+ member team.\r\n-6+years experience in product base company.\r\n-Good knowledge of Android & Core java, expertise in Mobile Application Development.\r\n- Knowledge of web-development using React, JSX, Redux.\r\n-  Experience on backend technology using GoLang, MangoDB, Kafka, Redis etc.\r\n-  Knowledge of Docker, Docker container.\r\n-  Experience of CI Circle-CI, BuildKite & Jenkins.\r\n-  Hands-on experience on E-commerce & classified application like Bikroy, Ikman, Tonaton, Efritn,\r\nPolicyBazaar, Paisabazar, PolicyCircle etc.\r\n- 1.5 + years of experience to customise Android operating system (work on Android framework development\r\nlike DVD player & CAN integration etc).\r\n- 1.5+ years of experience in Android based advance In-Vehicle Infotainment (IVI).\r\n- Experience on several mobile technologies like Android, iPhone, BlackBerry, Symbian, Windows mobile &\r\nOpenMoko.\r\n- Experience as a Technology trainer.\r\n- Executive Leadership and communication skills.\r\n\r\n- Agile Software Development\r\n\r\n- exposer of multiple country work environment & culture.\r\n\r\nCURRENT ORGANISATION:\r\nSaltSide Technology, Bangalore, India\r\nDesignation: Lead Engineer.\r\nDuration: 18th   Feb 2016 to till date\r\n\r\nSKILL PROFILE\r\nProgramming Language: Android, Js, Objective C, Blackberry, Java, C, C++, GoLang, Ruby.\r\nOperating System: Linux, MAC & Microsoft Windows family.\r\nMobile Plateform: Android, Blackberry, Windows Mobile 6, OpenMoko & Symbian S60.\r\nWeb-Development: React, Redux, React-Router, JavaScript, JSX.\r\nDevelopment Environment: Android Studio, Intellij Idea, AptanaStudio, Eclipse, X-code & Visual Studio.\r\nOther Tools & Sdks: CircleCI, Jenkins, SVN, Git, Meld, Beyond compare, Smart-git, BugSnag, Layer,\r\nFacebook, Google, Mixpanel, Adjust, Trello, WebEngage etc.\r\nEDUCATIONAL QUALIFICATIONS\r\n- MBA from Jamia Millia Islamia, New Delhi   7.3\r\n- Diploma in Embedded System Design from ACTS, CDAC Hyderabad in   August 2008.\r\n- Engineering in   ELECTRONICS & COMMUNICATION   from   MU   with first class and distinctions\r\n77.75%   in   2007\r\n- I. Sc (12th) from   B.I.E.C, Patna   with 1st class and distinctions   79.67%  .\r\n- Matriculation (10th) from   B.S.E.B, Patna   with 1st class   73.57%  .\r\n\r\nPREVIOUS ORGANISATION\r\n- Technical Lead at PolicyBazaar, Gurgaon, India (8th Dec, 2014 to 17th Feb 2016)\r\n- Technical Lead at ChargePoint , Gurgaon, India (28th Feb. 2014 to 5th Dec. 2014)\r\n- Sr. Software Engineer at Chleon Automotive, Noida (20th June 2012 to 31st Jan 2014)\r\n- Sr. Software Engineer at Intelligrape Software, Noida (28th March 2011 to 31st May 2012)\r\n- Sr. Software Engineer at Rapid Soft Systems, Noida (17th August 2010 to 25th March 2011)\r\n- Software Engineer at Sevya Multimedia, Hyderabad (29th September 2008 to 27th March 2010)\r\n\r\nACHIEVEMENTS AND EXTRA CURRICULAR ACTIVITIES\r\n- School topper in class 10th.\r\n- Won several prizes in Sports like Race, cricket, carom board & quiz contest held in my school.\r\n- Organising career counselling program under the organisation of Naujawan Ekta committee Rasoolpur, at\r\nVillage level.\r\n- Attended Intel MeeGo seminar on 10th-Nov-2010 at Surya-Crown Plaza Delhi.\r\nBlogs:\r\n-\thttp://imranandroidflash.blogspot.com/, http://imran-android-receivesms.blogspot.com/\r\n−\thttp://imranvalidateemail.blogspot.in/, http://imrandynamictablerow.blogspot.in/\r\n\r\nPERSONAL PROFILE\r\n\r\n\r\nName: IMRAN ALI\r\nFather's Name: SHAUKAT ALI\r\nDate Of Birth: 1st March 1983.\r\nPassport No: Z2773647\r\nPAN card No: AJPPA7095R\r\nMarital Status: Married\r\nNationality: Indian\r\nLanguages: English, Hindi, Urdu, Arabic\r\n\r\n\r\nPROJECT DETAILS\r\n\r\nBikroy (Android)\r\nEmployer\tSaltside Technology, Bangalore\r\nResponsibility\tLead Engineer (Application improvement & enhancement)\r\nDuration\tFeb-2016 to till date\r\nTeam size\t4-10\r\nPlatform\tMAC\r\nTool/Software\tAndroid-studio\r\nAbout the Project\tBikroy is an e-commerce leading application in Bangladesh, The application is\r\nknown to buy and sell everything from used cars to mobile phones and computers,\r\nor search for property, jobs and more in Bangladesh!\r\nApplication having lot's of feature for seller and buyer like post-ad, shop, intuitive\r\nsearch of ads, chat, buy now etc.\r\nMarket:- https://play.google.com/store/apps/details?id=com.bikroy\r\n\r\n\r\nIkman (Android)\r\nEmployer\tSaltside Technology, Bangalore\r\nResponsibility\tLead Engineer (Application improvement & enhancement)\r\nDuration\tFeb-2016 to till date\r\nTeam size\t4-10\r\nPlatform\tMAC\r\nTool/Software\tAndroid-studio\r\nAbout the Project\tIkman is an e-commerce leading application in SriLanka, Ikman is largest market\r\nplace for buy and sell everything from used cars to mobile phones and computers,\r\nor search for property, jobs and more in Sri Lanka!\r\n\r\nApplication having lot's of feature for seller and buyer like post-ad, shop, intuitive\r\nsearch of ads, chat, buy now etc.\r\nMarket:- https://play.google.com/store/apps/details?id=lk.ikman\r\n\r\n\r\nTonaton (Android)\r\nEmployer\tSaltside Technology, Bangalore\r\nResponsibility\tLead Engineer (Application improvement & enhancement)\r\nDuration\tFeb-2016 to till date\r\nTeam size\t4-10\r\nPlatform\tMAC\r\nTool/Software\tAndroid-studio\r\nAbout the Project\tTonaton is an e-commerce leading application in Ghana, Through this application\r\nyou can buy and sell everything from used cars to mobile phones and computers, or\r\nsearch for property, jobs and more in Ghana!\r\nApplication having lot's of feature for seller and buyer like post-ad, shop, intuitive\r\nsearch of ads, chat, buy now etc.\r\nMarket:- https://play.google.com/store/apps/details?id=com.tonaton\r\n\r\n\r\nEfritin: Buy & Sell (Android)\r\nEmployer\tSaltside Technology, Bangalore\r\nResponsibility\tLead Engineer (Application improvement & enhancement)\r\nDuration\tFeb-2016 to 2017\r\nTeam size\t8\r\nPlatform\tMAC\r\nTool/Software\tAndroid-studio\r\nAbout the Project\tEfiritn (Buy & Sell) is an e-commerce leading application in Nigeria, in 2017 Our\r\ncompany has shutdown operation in Nigeria.\r\nMarket:- https://play.google.com/store/apps/details?id=com.efritin\r\n\r\n\r\nPolicybazaar (Android)\r\nEmployer\tPolicyBazaar, Gurgaon\r\nResponsibility\tTechnical Lead (Application improvement & enhancement)\r\nDuration\tJuly-2014 to Feb 2016\r\nTeam size\t20\r\nPlatform\tMAC\r\nTool/Software\tAndroid-studio\r\nAbout the Project\tApplication is useful for insurance comparison with product like Two wheeler,\r\nMotor insurance, Term insurance, health insurance, investment plan tax saving etc\r\nas well as you can buy insurance.\r\nIn short it is One-stop destination for all online insurance and financial needs.\r\nMarket:- https://play.google.com/store/apps/details?id=com.policybazaar&hl=en\r\n\r\n\r\nPaisabazaar (IOS 6+)\r\nEmployer\tPolicyBazaar, Gurgaon\r\nResponsibility\tTechnical Lead (Application development)\r\nDuration\tJuly-2014 to Feb 2016\r\nTeam size\t7\r\nPlatform\tMAC\r\nTool/Software\tX-Code\r\nAbout the Project\tApplication provide information regarding loan and credit card etc. It has Credit\r\nCards, Personal loan, Education Loan, Property Loan, Loan Balance Transfer with\r\ncomprehensive Calculators etc.\r\n\r\niTunes: - https://itunes.apple.com/in/app/paisabazaar/id1029403201?mt=8\r\n\r\nPolicyCircle (Android 4.0+)\r\nEmployer\tPolicyBazaar, Gurgaon\r\nResponsibility\tTechnical Lead (Application development & design.)\r\nDuration\tDec-2014 to July 2015\r\nTeam size\t10\r\nPlatform\tLinux-Ubuntu\r\nTool/Software\tAndroid Studio\r\nAbout the Project\tPolicyCircle application assist Agents to meet nearby unknown customer, talk and\r\nsell their policies.\r\nIt has inbuilt premium calculator, financial news related to policies & good\r\ncustomer management system.\r\nhttps://play.google.com/store/apps/details?id=com.kuber\r\n\r\nNote: due to some business issue this app has removed from market in Aug. 2014.\r\n\r\nChargePoint (Android 2.3+)\r\nEmployer\tChargePoint Inc\r\nResponsibility\tTechnical Lead (Application development & design.)\r\nDuration\tFeg-2014 to Dec 2014\r\nTeam size\t6\r\nPlatform\tLinux-Ubuntu\r\nTool/Software\tAndroid Studio\r\nAbout the Project\tAndroid market:\r\nhttps://play.google.com/store/apps/details?id=com.coulombtech\r\n\r\nIn nutshell It is all about , to find near by charging station of chargePoint as well as\r\nother vendor with following features,\r\n* start charging of car on station via mobile\r\n* add/flag/ tips on charging station.\r\n*Charging station filter programmes\r\n* Manage Account, cards & Payment\r\n* Manage Vehicle & Signup\r\netc.\r\n\r\n\r\nEagel Head Unit (base on Android 4.2)\r\nEmployer\tChleon Automotive , Noida\r\nResponsibility\tApplication development, Android Framework customization & Lead junior\r\nresources.\r\nDuration\tAug-2013 to till date\r\nTeam size\t25\r\nPlatform\tLinux-Ubuntu\r\nTool/Software\tIDE: Eclipse 3.4;\tAndroid 4.2\r\nAbout the Project\tCH-10 is a Head unit of cars, We developed smart head unit with enhanced\r\nfeature of general head unit for that we have customize Android Frame work,\r\nApplication and compatiable hardware. This Head Unit has very enhance GUI as\r\nwell as feature in comparsion to CH-10 phase-1.\r\nI personaly involved in application as well as frame work customization.\r\nI involved in these activities.\r\n*CAN(Control Area Network) integration with Head-Unit and cloud.\r\n*Animation explore and implementations\r\n*Home (HMI) application customization\r\n* Introduction of API at framework level.\r\n* DVD framework development\r\n* Many application customization (likeDVD application, Accuweather, Yelp etc).\r\n\r\nCH-10 Head Unit (base on Android)\r\nEmployer\tChleon Automotive , Noida\r\nResponsibility\tApplication development, Android Framework customization & Lead junior\r\nresources.\r\nDuration\tMarch-2013 to till date\r\nTeam size\t25\r\nPlatform\tLinux-Ubuntu\r\nTool/Software\tIDE: Eclipse 3.4;\tAndroid 2.3\r\nAbout the Project\tCH-10 phase-1 is feature wise very similar, but having different GUI with android\r\n2.3 operating system.\r\nI personaly involved in application as well as frame work customization.\r\nI involved in these activities.\r\n*Home (HMI) application customization\r\n* Implementation of Custom status bar\r\n* Introduction of API at framework level.\r\n* DVD framework development\r\n* Many system application customization (like Phone, messageing, Contacts,\r\nAccuweather & Yelp etc).\r\n\r\nAlpine Head Unit (base on Android)\r\nEmployer\tChleon Automotive , Noida\r\nResponsibility\tApplication development, Android Frame work customization & Lead junior\r\nresources.\r\nDuration\tJune-2012 to March-2013\r\nTeam size\t17\r\nPlatform\tLinux-Ubuntu\r\nTool/Software\tIDE: Eclipse 3.4;\tAndroid 2.2\r\nAbout the Project\tAlpine Head unit is of car, having several feature.\r\nI personaly involved in application as well as frame work customization.\r\nI involved in these activities.\r\n*Animation explore and implementations\r\n*Home (HMI) application customization\r\n* Settings application customization\r\n* Facebook application development\r\n* Yelp application development\r\n* Message application customization\r\n* Phone application customization\r\n* Contacts application customzation\r\n* New Font Robot implementatio in Android Frame work.\r\n* Implementation of Custom status bar (partly participation)\r\n* Introduction of API at framework level. (like to show and hide our customze\r\nstatus bar, Global buttons)\r\n\r\n\r\nSave My Call (Android)\r\nEmployer\tIntelligrape , Noida\r\nResponsibility\tapplication development & testing.\r\nDuration\tMarch-2012- till date\r\nTeam size\t1\r\nPlatform\tLinux-Ubuntu\r\nTool/Software\tIDE: Eclipse 3.4;\tAndroid 2.1\r\nAbout the Project\tAndroid market: https://play.google.com/store/apps/details?\r\nid=com.intelligrape.callrecorder\r\n\r\nThis project is an intuitive call recorder. It has following functionality\r\n*Ability to record incoming and outgoing calls.\r\n*Ability to save recorded file on sd-card.\r\n*Ability to play recorded file in application media player as well as other player.\r\netc\r\n\r\n\r\nGoogle Task Manager (Android)\r\nEmployer\tIntelligrape , Noida\r\nResponsibility\tapplication development & testing.\r\nDuration\tDecember-2011- till date\r\nTeam size\t1\r\nPlatform\tLinux-Ubuntu\r\nTool/Software\tIDE: Eclipse 3.4;\tAndroid 2.1\r\nAbout the Project\tAndroid market: https://market.android.com/details?id=com.intelligrape.igtask\r\nThis project is an intuitive to do list. It has following functionality.\r\n*Ability to sync with Google tasks.\r\n*Ability to add, delete, modify tasks\r\n*Ability to show widget of Task with multiple colors support. etc\r\n\r\n\r\nIntelligrape (Android)\r\nEmployer\tIntelligrape , Noida\r\nResponsibility\tapplication development & testing.\r\nDuration\tNovember 2011- November 2011\r\nTeam size\t2\r\nPlatform\tLinux-Ubuntu\r\nTool/Software\tIDE: Eclipse 3.4;\tAndroid 2.1\r\nAbout the Project\tAndroid market: https://market.android.com/details?\r\nid=com.intelligrape.apps.igdroid\r\n\r\n\r\nThis project is about the Intelligrape software, that show some of gist information\r\nabout company works and services.\r\n\r\n\r\nKokaihop (Android)\r\nEmployer\tIntelligrape , Noida\r\nClient\tKokaihop-se swiden, www.kokaihop.se\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tLinux-Ubuntu\r\nTool/Software\tIDE: Eclipse 3.4;\tAndroid 2.1\r\nAbout the Project\tAndriod Market: https://market.android.com/details?\r\nid=com.altaworks.kokaihop.ui\r\nKokaihope is very famous restaurant in Sweden, it has application on Android that\r\nhas been providing user to make their profile and add their recipe. Presently\r\nkokaihop has been managing more than 17000 recipe on web as well as on phone\r\nAndroid/iPhone. Here user has facility to see his own recipe as well as other, and\r\nthey can add comment on the recipe.\r\nUser can send recipe ingredient in mail/sms to other, apart from this there is face-\r\nbook integration of application.\r\nUser has facility that they can access application on-line with picture of recipes\r\napart from this they can enjoy off-line with having sqlite database for recipe.\r\n\r\nQuick-7 (Android)\r\nEmployer\tRapidSoftsystems INC. New-Delhi\r\nClient\tInnovative game USA, www.innovativegame.com / www.quickseven.com\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tFlash Photoshop with android flash development plugin.\r\nAbout the Project\tQuick-7 is Flashed based Android card game, we have some rule to play card to\r\nwine, here user has to obtained seven point to wine, so its name is quick-7. The\r\ninteresting part of this project was for me that, I have learn flash quickly and\r\ndevelop whole application for android as similar on web. I have written some\r\nuseful blog also on android flash.\r\nMoney Watch (Android)\r\nEmployer\tRapidSoftsystems INC. New-Delhi\r\nClient\tVistualk / http://visutalk.com/\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.5;\r\nAbout the Project\tMoneyWatch is 2nd phase of Visutalk application, It has little bit different function\r\nbut Client has specification to integrated it with Visutalk. Money Watch is\r\nespecially responsible to transfer money after biometric verification through\r\nBiometric server. We have implemented two way verification, in 1st case we have\r\nbeen doing recording of voice on phone and in 2nd case we have been recording\r\nvoice on Asetrisk server then after recorded voice is going to biometric server for\r\nvoice verification.\r\n\r\n\r\nMyIreview (Android)\r\nEmployer\tRapidSoftsystems INC. New-Delhi\r\nClient\tMyIreview,Us http://myireview.com/\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.5;\r\nAbout the Project\tIn MyIreview, a user has to login to use application then they can search online\r\nbusiness place like hotel, restaurant etc with some information like mail id and\r\nphone number, after that they can write a review as bad/good services through\r\nemail as well as they can make a call\r\n\r\n\r\nCloud player (Blackberry)\r\nEmployer\tRapidSoftsystems INC. New-Delhi\r\nClient\tCloud Player,Us / http://cloudplayer.me\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.5;\r\nAbout the Project\tBBMarket:http://appworld.blackberry.com/webstore/content/50242?lang=en\r\n\r\nCloud Player is blackberry application in which user has functionality to do\r\nregistration and make login, after that they will get some list of sound file/songs\r\nform server according to user type and choice, that user can enjoy sound files by\r\nstreaming from streaming server. web user can upload their choice sound files/\r\nmusic.\r\n\r\n\r\nVisutalk (Android)\r\nEmployer\tRapidSoftsystems INC. New-Delhi\r\nClient\tVisuTalk,Us / http://visutalk.com/\r\nResponsibility\tapplication development & testing.\r\nTeam size\t2\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.5;\r\nAbout the Project\tVisuTalk is Android based application that will provide user to make call audio/\r\nvideo through Linux based asterisk server, simultaneously they can take a\r\nappointment or make a specific chat like to conform appointment, quotation,\r\nlocation etc through PHP based server. To implement audio/video call I have\r\nintegrated the Imsdroid open-source that has been using SIP account and added\r\nTransaction part through our PHP server. Here basically two type of registration is\r\npresent one for consumer and another for provider. Application made to keep in\r\nmind professional and general needy people. It has transaction as well as audio/\r\nvideo call with Mobile to Mobile as well as mobile to Pc and vis-versa.\r\n\r\nMopix (Android & Blackberry)\r\nEmployer\tRapidSoftsystems INC. New-Delhi\r\nClient\tMopix US.\r\nResponsibility\tapplication development & testing.\r\nTeam size\t4\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0, Android 2.1\r\nAbout the Project\tMopix is application that will provide user to send greeting of hard copy using\r\nmobile phone as well as desktop application. In this application user has to make\r\ntheir account and using that account they can send desired photo either taking by\r\ncamera or form gallery to desired person address with some personal information.\r\nHere address and photo will save on the server, where nearest server will operate\r\nfor soft-copy to hard-copy to make service fast.\r\nBudphone (Android & Blackberry)\r\nEmployer\tRapidSoftsystems INC. New-Delhi\r\nClient\tBudphone a division of Budwiser, Canada , http://www.budphone.ca\r\nResponsibility\tapplication development & testing.\r\nTeam size\t2\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0, Android 2.1\r\nAbout the Project\tBudphone, is mobile based application that will make call cheaper. Here user has\r\nto install application on their mobile then they can call throughout Canada on\r\ncheaper call rate, all calls will go through Budphone Location wise DTMF server.\r\nBudphone is in English as well as French.\r\n\r\nC&W call (Blackberry)\r\nEmployer\tSevya Multimedia Pvt. Hyderabad.\r\nClient\tC&Wcall Worldwide, US A. www.cw.com\r\nResponsibility\tGUI development of Application.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0,\r\nAbout the Project\tC&W Call, is Blackberry 4.5.0 onwards application, in which user can call\r\nthroughout world on low cost. Through this application user can talk with more\r\nthan one people at a time. In this application user can import more than one\r\nnumber directly from address book or they can type number in number field after\r\nthat they can make call to all number simultaneously.\r\n\r\n\r\nHunnicuttBrowser (Blackberry)\r\nEmployer\tSevya Multimedia Pvt. Hyderabad.\r\nClient\tHunnicutt Software Inc, Singapore. www.Invomax.com\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0, Android 2.1\r\nAbout the Project\tHunnicuttBrowser is a OTA(Over the Air) based application,.in which user can\r\ninstall Blackberry HunnicuttBrowser application on their Blackberry mobile\r\nthrough Internet, and after Installing application they can open particular URL,\r\nwhatever Hunnicutt Software Inc. will provide them.\r\nTPM-Tracer (Android & Blackberry)\r\nEmployer\tSevya Multimedia Pvt. Hyderabad.\r\nClient\tTracerprocorp, United State of America.\r\nResponsibility\tapplication development & testing.\r\nTeam size\t2\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0, Android 2.1\r\nAbout the Project\tTPM-Tracer: Tracer Pro for Property Management make life easy and faster to\r\nmaintain problems record of property. It allows managers to enter deed restriction\r\nviolations, maintenance, Inspection and work order information right on their\r\nsmart phones.\r\nIt also helps your manager to document the violation, view violation history and\r\nsend the details with a picture to the office via Internet for letter printing, mailing\r\nand keeping record on server.\r\n\r\n\r\nMobile Tracker (Blackberry)\r\nEmployer\tSevya Multimedia Pvt. Hyderabad.\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0\r\nAbout the Project\tMobile Tracker: if some one has stolen your mobile, and after changing your\r\nSIM if they will use, you can Track your mobile automatically and easily with\r\ntheir location. The application will run automatically run if device will reboot in\r\nbackground, and it will check for new SIM-Card first, it SIM Card having new\r\nNumber then, with number, Latitude & Longitude it will send SMS to your\r\npredefine another Numbers.\r\n\r\n\r\nGoogle Health Care (Blackberry)\r\n\r\nEmployer\tSevya Multimedia Pvt. Hyderabad.\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0\r\nAbout the Project\tGoogle Health care: - this application is based on 3 tier architecture.\r\nIt will give the health information according to data on Google health.\r\nApplication will allow Dr./user to edit/view Google Health data form Blackberry\r\nwith easy and attractive GUI after authentication.\r\n\r\n\r\nCall Blocker (Blackberry)\r\n\r\nEmployer\tSevya Multimedia Pvt. Hyderabad.\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0\r\nAbout the Project\tCall Blocker: - in this application user can block the call from desired number,\r\nand later they can allow also. User has a facility they can block N-number of\r\nmobile.\r\n\r\n\r\nRing Schedular (Blackberry)\r\n\r\nEmployer\tSevya Multimedia Pvt. Hyderabad.\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0\r\nAbout the Project\tRing Scheduler: - This application will read data from calendar event and\r\naccording to that it will make silence, vibrate and ring automatically. It is make\r\nlife easy to remember change profile while in meeting.\r\n\r\n\r\nMy Tye (Blackberry)\r\n\r\nEmployer\tSevya Multimedia Pvt. Hyderabad.\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tIDE: Eclipse 3.4; SDK: Blackberry 4.5.0 / 5.0\r\nAbout the Project\tMyTye: A complete tutorial of several type of tie knotting with picture in\r\nattractive manner having good GUI.\r\nGPS based Vehicle Tracking System (Embedded C)\r\n\r\nEmployer\tSevya Multimedia Pvt. Hyderabad.\r\nResponsibility\tapplication development & testing.\r\nTeam size\t1\r\nPlatform\tMicrosoft Window Xp.\r\nTool/Software\tKeil Vision -3.0, Embedded C.\r\nAbout the Project\tIn this project we have designed for real time vehicle tracking system.\r\nIn vehicle module contains GPS receiver, micro controller unit & GPRS module.\r\nMicro-controller takes position of vehicle from GPS receiver and transmits this\r\ninformation through SMS to GPRS module to the control room. Then controller\r\ncan observe the vehicle position in real time from SMS.\r\n\r\n\r\nDeclaration:\r\n\r\nI would be glad to provide any other information required by you. Thanks for going through my resume.\r\n\r\nPLACE: Regards,\r\nDATE: IMRAN ALI"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1983-03-01"
+          },
+          "sov:Nationality": {
+            "@inferred": "false",
+            "#text": "Indian"
+          },
+          "sov:NationalIdentities": {
+            "sov:NationalIdentity": [
+              {
+                "sov:NationalIdentityNumber": "AJPPA7095R",
+                "sov:NationalIdentityPhrase": "PAN card No"
+              }
+            ]
+          },
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Married"
+          },
+          "sov:FathersName": "SHAUKAT ALI",
+          "sov:PassportNumber": "Z2773647"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "IMRAN ALI's experience appears to be somewhat concentrated in Engineering (mostly General Engineering) and somewhat concentrated in Information Technology (mostly Programming). IMRAN ALI's experience appears to be lower-to-mid level, with about 4 years of experience, with several years tenure in management, including a low-level position.",
+          "sov:MonthsOfWorkExperience": "46",
+          "sov:AverageMonthsPerEmployer": "46",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "46",
+          "sov:CurrentManagementLevel": "low-level",
+          "sov:HighestManagementScore": "25",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": "Current position is a low-level management role: Lead Engineer\r\nStarting on 2/1/2016, the candidate held the following low-level management position for 3 years and 10 months:\r\n\tTitle: Lead Engineer for SaltSide Technology",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "37",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "15",
+                        "@percentOfParentTaxonomy": "40",
+                        "sov:Skill": [
+                          {
+                            "@name": "GPS",
+                            "@id": "018529",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "LEAD ENGINEER",
+                            "@id": "080394",
+                            "@existsInText": "true",
+                            "@totalMonths": "46",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Other",
+                        "@id": "263",
+                        "@percentOfOverall": "14",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "LEAD ENGINEER",
+                            "@id": "080641",
+                            "@existsInText": "true",
+                            "@totalMonths": "46",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "FLASH",
+                            "@id": "026422",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "GPS",
+                            "@id": "018530",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "022816",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "ROUTER",
+                            "@id": "007248",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software and Tools",
+                        "@id": "310",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "SYMBIAN",
+                            "@id": "5000222",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Industrial",
+                        "@id": "137",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROBOT",
+                            "@id": "080867",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Plant",
+                        "@id": "142",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTROL ROOM",
+                            "@id": "080821",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Transportation",
+                        "@id": "297",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROBOT",
+                            "@id": "080559",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTROL ROOM",
+                            "@id": "080333",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Circuits",
+                        "@id": "266",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICRO CONTROLLER",
+                            "@id": "021753",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Techniques",
+                        "@id": "264",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "HMI",
+                            "@id": "019023",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Surveying",
+                        "@id": "298",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "GPS",
+                            "@id": "018531",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "37",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": ".NET",
+                            "@id": "023039",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "VISUAL STUDIO",
+                                "@id": "010645",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "ANDROID STUDIO",
+                            "@id": "3391145",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "API",
+                            "@id": "021194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "APPLICATION DEVELOPMENT",
+                            "@id": "021556",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "C++",
+                            "@id": "012287",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "DOCKER",
+                            "@id": "3391147",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "EMBEDDED C",
+                            "@id": "016161",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "Git",
+                            "@id": "1004755",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "GUI",
+                            "@id": "018626",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "REDUX",
+                                "@id": "3391108",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "OBJECTIVE C",
+                            "@id": "003628",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PHP",
+                            "@id": "004736",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081198",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "Ruby",
+                            "@id": "1004736",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION; TRAINING"
+                          },
+                          {
+                            "@name": "STRUCTURED SOFTWARE",
+                            "@id": "022594",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOFTWARE DEVELOPMENT",
+                                "@id": "008213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "Subversion",
+                            "@id": "1004756",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SVN",
+                                "@id": "100475601",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "5520503",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "IOS",
+                            "@id": "5520545",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "IPHONE",
+                            "@id": "5520548",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SYMBIAN",
+                            "@id": "5520608",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "WINDOWS MOBILE",
+                            "@id": "5520622",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "10",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "7310008",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "GRAPHICAL USER INTERFACE",
+                            "@id": "7310031",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "GUI",
+                                "@id": "7310032",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECLIPSE",
+                            "@id": "015844",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTELLIJ IDEA",
+                                "@id": "3391129",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mail",
+                        "@id": "343",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "BLACKBERRY",
+                            "@id": "011685",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "GPRS",
+                            "@id": "023027",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081189",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SIP",
+                            "@id": "008018",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SQLITE",
+                            "@id": "3391131",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "KAFKA",
+                            "@id": "5531005",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "REDIS",
+                            "@id": "5530835",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Embedded and Realtime",
+                        "@id": "340",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "REAL TIME",
+                            "@id": "081185",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "SMS",
+                            "@id": "081178",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "FLASH",
+                            "@id": "017649",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "AUTHENTICATION",
+                            "@id": "005912",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROUTER",
+                            "@id": "007247",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "7",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "25",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Research",
+                        "@id": "558",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "22",
+                        "sov:Skill": [
+                          {
+                            "@name": "HUMAN MACHINE INTERFACE",
+                            "@id": "5570212",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "HMI",
+                                "@id": "5570213",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Interactive Design",
+                        "@id": "572",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANIMATION",
+                            "@id": "5570156",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Game Design",
+                        "@id": "570",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANIMATION",
+                            "@id": "5570125",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Graphic Design",
+                        "@id": "569",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANIMATION",
+                            "@id": "5570118",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Motion Design",
+                        "@id": "564",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANIMATION",
+                            "@id": "5570058",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Standards, Protocols, Technologies",
+                        "@id": "317",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "SMS",
+                            "@id": "081157",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Wireless",
+                        "@id": "313",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "GPRS",
+                            "@id": "023028",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software",
+                        "@id": "320",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "28",
+                        "sov:Skill": [
+                          {
+                            "@name": "SYMBIAN",
+                            "@id": "009055",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Hardware",
+                        "@id": "319",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROUTER",
+                            "@id": "007249",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Retail",
+                        "@id": "280",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "29",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT CARD",
+                            "@id": "023235",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Securities",
+                        "@id": "236",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "29",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT CARD",
+                            "@id": "023234",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Credit and Underwriting",
+                        "@id": "240",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "29",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "014614",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "MBA",
+                            "@id": "7000321",
+                            "@existsInText": "true",
+                            "@lastUsed": "2008-08-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Mac",
+                        "@id": "300",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "54",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAC",
+                            "@id": "020979",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "30",
+                        "sov:Skill": [
+                          {
+                            "@name": "PHOTOSHOP",
+                            "@id": "004729",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operating Systems",
+                        "@id": "299",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "17",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT WINDOWS",
+                            "@id": "024345",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Technical Product Marketing",
+                        "@id": "586",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "TECHNICAL PRODUCT MARKETING",
+                            "@id": "1400315",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "TPM",
+                                "@id": "1400316",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Hardware Engineering",
+                    "@id": "29",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Firmware Engineering",
+                        "@id": "730",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "GPS",
+                            "@id": "5000130",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "SYMBIAN",
+                            "@id": "5000115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100"
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Graphic Design",
+                    "@id": "33",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Software",
+                        "@id": "432",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PHOTOSHOP",
+                            "@id": "025873",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Techniques and Activities",
+                        "@id": "433",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANIMATION",
+                            "@id": "022091",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "CREDIT",
+                            "@id": "022227",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "PROPERTY MANAGEMENT",
+                            "@id": "005867",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Non-Nuclear Power Misc",
+                        "@id": "924",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021195",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Power Related",
+                        "@id": "925",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTROL ROOM",
+                            "@id": "014332",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Messages and Contact",
+                        "@id": "112",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "GREETING",
+                            "@id": "018563",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Admin",
+                        "@id": "113",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRINTING",
+                            "@id": "005446",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Purchasing",
+                        "@id": "458",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUYER",
+                            "@id": "025714",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Equipment",
+                        "@id": "364",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022116",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PROJECT_HEADERS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:TrainingHistory": {
+          "sov:Text": "- Technical Lead at ChargePoint , Gurgaon, India (28th Feb. 2014 to 5th Dec. 2014)\r\n\r\n\r\n- Software Engineer at Sevya Multimedia, Hyderabad (29th September 2008 to 27th March 2010)\r\n\r\n\r\n- Sr. Software Engineer at Chleon Automotive, Noida (20th June 2012 to 31st Jan 2014)\r\n",
+          "sov:Training": [
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Technical Lead at ChargePoint , Gurgaon, India (28th Feb. 2014 to 5th Dec. 2014)",
+              "sov:StartDate": {
+                "AnyDate": "2014-02-28"
+              },
+              "sov:EndDate": {
+                "AnyDate": "2014-12-05"
+              }
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": null,
+              "sov:Description": "Software Engineer at Sevya Multimedia, Hyderabad (29th September 2008 to 27th March 2010)",
+              "sov:StartDate": {
+                "AnyDate": "2008-09-29"
+              },
+              "sov:EndDate": {
+                "AnyDate": "2010-03-27"
+              }
+            },
+            {
+              "sov:Type": "Unknown",
+              "sov:TrainingName": null,
+              "sov:Entity": "Chleon Automotive",
+              "sov:Description": "Sr. Software Engineer at Chleon Automotive, Noida (20th June 2012 to 31st Jan 2014)",
+              "sov:StartDate": {
+                "AnyDate": "2012-06-20"
+              },
+              "sov:EndDate": {
+                "AnyDate": "2014-01-31"
+              }
+            }
+          ]
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "6",
+              "@ends": "10",
+              "@sectionType": "OBJECTIVE",
+              "#text": "OBJECTIVE"
+            },
+            {
+              "@starts": "11",
+              "@ends": "38",
+              "@sectionType": "WORK HISTORY",
+              "#text": "EXPERIENCE SUMMARY"
+            },
+            {
+              "@starts": "39",
+              "@ends": "46",
+              "@sectionType": "SKILLS",
+              "#text": "SKILL PROFILE"
+            },
+            {
+              "@starts": "47",
+              "@ends": "62",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATIONAL QUALIFICATIONS"
+            },
+            {
+              "@starts": "63",
+              "@ends": "72",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "ACHIEVEMENTS AND EXTRA CURRICULAR ACTIVITIES"
+            },
+            {
+              "@starts": "73",
+              "@ends": "82",
+              "@sectionType": "CONTACT INFO",
+              "#text": "PERSONAL PROFILE"
+            },
+            {
+              "@starts": "83",
+              "@ends": "85",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages"
+            },
+            {
+              "@starts": "86",
+              "@ends": "557",
+              "@sectionType": "PROJECT_HEADERS",
+              "#text": "PROJECT DETAILS"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "+91-8618480425"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "IMRAN ALI",
+              "DATE: IMRAN ALI",
+              "Name: IMRAN ALI"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "er.imran4u@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://play.google.com/store/apps/details?id=com.policybazaar&hl=en",
+              "https://play.google.com/store/apps/details?id=com.coulombtech",
+              "https://market.android.com/details?id=com.intelligrape.igtask",
+              "https://itunes.apple.com/in/app/paisabazaar/id1029403201?mt=8",
+              "https://play.google.com/store/apps/details?id=com.tonaton",
+              "https://play.google.com/store/apps/details?id=com.efritin",
+              "https://play.google.com/store/apps/details?id=com.bikroy",
+              "https://play.google.com/store/apps/details?id=com.kuber",
+              "https://play.google.com/store/apps/details?id=lk.ikman",
+              "http://imran-android-receivesms.blogspot.com",
+              "http://imrandynamictablerow.blogspot.in",
+              "http://imranandroidflash.blogspot.com",
+              "http://imranvalidateemail.blogspot.in",
+              "www.innovativegame.com",
+              "http://www.budphone.ca",
+              "http://cloudplayer.me",
+              "http://myireview.com",
+              "http://visutalk.com",
+              "www.quickseven.com",
+              "www.kokaihop.se",
+              "www.Invomax.com",
+              "www.cw.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Date Of Birth: 1st March 1983.",
+              "Father's Name: SHAUKAT ALI",
+              "PAN card No: AJPPA7095R",
+              "Marital Status: Married",
+              "Passport No: Z2773647",
+              "Nationality: Indian",
+              "MK House"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "23845",
+        "sov:ParseTime": "999",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:303;7] The following section in the resume contains more content than the work history and education sections combined: 'PROJECT DETAILS'. This may indicate a problem with section headers, formatting, or content.",
+                    "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'SKILL PROFILE'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;6] The following section does not have the header on a separate line: 'Languages'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:0c8ae3f0-a56f-4e3a-af3d-02fc90d18750",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "yC3+//////8="
+      }
+    }
+  }
+}

@@ -1,0 +1,522 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "SANMIT PANKAJ VARTAK",
+          "GivenName": "SANMIT",
+          "MiddleName": "PANKAJ",
+          "FamilyName": "VARTAK"
+        },
+        "ContactMethod": [
+          {
+            "Telephone": {
+              "FormattedNumber": "9834702809"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "sanmitvartak.sv@gmail.com"
+          }
+        ]
+      },
+      "Objective": "• To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.\r\n• Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "greenbappa.ml for selling eco-friendly ganpati idols",
+            "PositionHistory": [
+              {
+                "@positionType": "internship",
+                "Title": "INTERNSHIP PROJECTS",
+                "OrgName": {
+                  "OrganizationName": "greenbappa.ml for selling eco-friendly ganpati idols"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "greenbappa.ml"
+                  }
+                ],
+                "Description": "Greenbappa -> Commercial website greenbappa.ml for selling eco-friendly ganpati idols.\r\nOlcademy  -> Developing online learning website olcademy.in with features like SSO and wallet.\r\n\r\nBE PROJECT: Prediction of cyber bulling incident in a media based social network\t.",
+                "StartDate": {
+                  "AnyDate": "notKnown"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Machine Learning",
+                    "Comments": "Information Technology describes 67% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Entry Level"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "BP",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "greenbappa.ml for selling eco friendly ganpati idols",
+                    "sov:NormalizedTitle": "INTERNSHIP PROJECTS"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "greenbappa.ml for selling eco friendly ganpati idols"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "UNSPECIFIED",
+            "School": [
+              {
+                "SchoolName": "Government Polytechnic"
+              }
+            ],
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "MAHARASHTRA"
+              ],
+              "Municipality": "Mumbai"
+            },
+            "Degree": [
+              {
+                "DegreeName": "Diploma in Computer Engineering",
+                "DegreeDate": {
+                  "Year": "2017"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Computer Engineering"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2017"
+                    }
+                  }
+                ],
+                "Comments": "Diploma in Computer Engineering   Government Polytechnic, Mumbai\tAutonomous Institute   2017   83.26",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "unspecified"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Government Polytechnic"
+              }
+            }
+          },
+          {
+            "@schoolType": "secondary",
+            "School": [
+              {
+                "SchoolName": "New English School"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "secondary",
+                "DegreeName": "SSC",
+                "DegreeDate": {
+                  "Year": "2014"
+                },
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2014"
+                    }
+                  }
+                ],
+                "Comments": "DEGREE\tINSTITUTION/SCHOOL\tBOARD\tYEAR   PERCENTAGE\r\n10th\tNew English School, Vasai\tSSC\t2014   87.4",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "secondary",
+                    "sov:NormalizedDegreeType": "secondary"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "New English School"
+              }
+            }
+          },
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Rajiv Gandhi Institute Of Technology"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "Bachelor of Engineering in Computer Science",
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Engineering"
+                    ]
+                  }
+                ],
+                "Comments": "Bachelor of Engineering in Computer Science   Rajiv Gandhi Institute Of Technology   Mumbai University\t2020   65.01",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-3",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Rajiv Gandhi Institute Of Technology"
+              }
+            }
+          }
+        ]
+      },
+      "Qualifications": {
+        "QualificationSummary": "SKILL SETS:\r\nCoding in C, Java, Python, SQL, HTML, CSS, JavaScript, JQuery, Ajax, JSON."
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "10th\tNew English School, Vasai\tSSC\t2014"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Positions of Responsibility"
+          },
+          {
+            "Description": "Leading a team with motivation"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "FULL NAME: SANMIT PANKAJ VARTAK\r\nEmail id: sanmitvartak.sv@gmail.com\r\nCONTACT NUMBER: 9834702809\r\nSPECIALIZATION: Software Development\r\nHackerRank: sanmitvartak_sv1\r\n\r\nCAREER OBJECTIVE:\r\n• To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills.\r\n• Secure a responsible career opportunity to fully utilize my training and skills, while making a significant contribution to the success of the company.\r\n\r\nACADEMIC PROFILE:\r\nDEGREE\tINSTITUTION/SCHOOL\tBOARD\tYEAR   PERCENTAGE\r\n10th\tNew English School, Vasai\tSSC\t2014   87.4\r\nDiploma in Computer Engineering   Government Polytechnic, Mumbai\tAutonomous Institute   2017   83.26\r\nBachelor of Engineering in Computer Science   Rajiv Gandhi Institute Of Technology   Mumbai University\t2020   65.01\r\n\r\n\r\nPROJECTS:\r\nINTERNSHIP PROJECTS:\r\nGreenbappa -> Commercial website greenbappa.ml for selling eco-friendly ganpati idols.\r\nOlcademy  -> Developing online learning website olcademy.in with features like SSO and wallet.\r\n\r\nBE PROJECT: Prediction of cyber bulling incident in a media based social network\t.\r\n\r\n\r\nACTIVITIES:\r\n• Positions of Responsibility\r\n➢  Leading a team with motivation.\r\n• Extra-Curricular Activities\r\n➢ Participated in sports of college such as Kabaddi, Kho-Kho, etc.\r\n\r\n\r\nSKILL SETS:\r\nCoding in C, Java, Python, SQL, HTML, CSS, JavaScript, JQuery, Ajax, JSON.\r\n\r\nHOBBIES:\r\nCoding, Gym and fitness, Football, Gaming, etc."
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "US",
+          "sov:CultureInfo": "en-US"
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "SANMIT PANKAJ VARTAK's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Sales (mostly General). SANMIT PANKAJ VARTAK's experience appears to be entry level, with 0 months of experience.",
+          "sov:MonthsOfWorkExperience": "0",
+          "sov:FulltimeDirectHirePredictiveIndex": "0",
+          "sov:MonthsOfManagementExperience": "0",
+          "sov:HighestManagementScore": "0",
+          "sov:ExecutiveType": "none",
+          "sov:ManagementStory": null,
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "94",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "38",
+                        "@percentOfParentTaxonomy": "40",
+                        "sov:Skill": [
+                          {
+                            "@name": "CODING",
+                            "@id": "013739",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in HOBBIES; SKILLS"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "JSON",
+                            "@id": "5520555",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "13",
+                        "@percentOfParentTaxonomy": "14",
+                        "sov:Skill": [
+                          {
+                            "@name": "AJAX",
+                            "@id": "196001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          },
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machine Learning",
+                        "@id": "720",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "ONLINE LEARNING",
+                            "@id": "7200045",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "12",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "SSO",
+                            "@id": "008513",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "100"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Hobbies": {
+          "sov:Text": "Coding, Gym and fitness, Football, Gaming, etc."
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "6",
+              "@ends": "9",
+              "@sectionType": "OBJECTIVE",
+              "#text": "CAREER OBJECTIVE"
+            },
+            {
+              "@starts": "10",
+              "@ends": "16",
+              "@sectionType": "EDUCATION",
+              "#text": "ACADEMIC PROFILE"
+            },
+            {
+              "@starts": "17",
+              "@ends": "24",
+              "@sectionType": "WORK HISTORY",
+              "#text": "PROJECTS"
+            },
+            {
+              "@starts": "25",
+              "@ends": "27",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "ACTIVITIES"
+            },
+            {
+              "@starts": "28",
+              "@ends": "31",
+              "@sectionType": "PROFESSIONAL AFFILIATIONS",
+              "#text": "Extra-Curricular Activities"
+            },
+            {
+              "@starts": "32",
+              "@ends": "34",
+              "@sectionType": "SKILLS",
+              "#text": "SKILL SETS"
+            },
+            {
+              "@starts": "35",
+              "@ends": "36",
+              "@sectionType": "HOBBIES",
+              "#text": "HOBBIES"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "CONTACT NUMBER: 9834702809",
+              "9834702809"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "SANMIT PANKAJ VARTAK",
+              "FULL NAME: SANMIT PANKAJ VARTAK"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "sanmitvartak.sv@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "greenbappa.ml",
+              "olcademy.in"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "1398",
+        "sov:ParseTime": "265",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:224;POS-1] The following work history position does not have a start date: POS-1. Every position in a resume should have a start date.",
+                    "[Sovren:225;POS-1] The following work history position does not have an end date: POS-1. Every position in a resume should have an end date, unless it is a currently held position.",
+                    "[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'SKILL SETS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;4] The following section does not have the header on a separate line: 'Extra-Curricular Activities'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                    "[Sovren:161;DEG-1] High school (or lower) education should not be included on resumes that contain higher-level education."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:892ff68d-a478-4653-b7a2-42802036a48f",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "SlEAAAAAAAA="
+      }
+    }
+  }
+}

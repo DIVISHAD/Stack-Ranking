@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Chandresh Pant</FormattedName>
+				<GivenName>Chandresh</GivenName>
+				<FamilyName>Pant</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Telephone>
+					<FormattedNumber>+91-9899876541</FormattedNumber>
+				</Telephone>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>cp@cpant.in</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Travel Tripper India Private Limited</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Senior Project Manager, Delivery Lead and individual contributor</Title>
+					<OrgName>
+						<OrganizationName>Travel Tripper India Private Limited</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>JavaScript   Angular   Ruby on Rails
+
+
+• Helped in building the initial Travel Tripper Hyderabad engineering team.
+• Architect &amp; drive engineering design and develop software applications. Hands-on coding and code reviews.
+Ensure technical debt is resolved in every iteration and prevent it using best practices including Code
+Reviews, focus on quality, Continuous Integration and Test Driven Development.
+• Manage releases and deployments to AWS. Use appropriate AWS offering - S3, Cloud-front, EC2, Elastic
+Beanstalk, Lambda etc. based on the application requirement.
+• Work with cross-functional team of product managers, product designers, developers and QA to deliver a
+quality product.
+• Discover the true requirements underlying feature requests and translate them into technical solutions. Lead
+engineering efforts to ensure timely and quality delivery.
+•   Collaborate with the support team. Triage technical issues and ensure their timely resolution.
+•   Collaborate with talent acquisition team for screening, interviewing and recruitment of the right talent for the team.
+•   Mentor, motivate and coach the engineering team members and help them develop and grow along their career paths
+•   Roadmap planning, Project and Resource management.
+•   Successfully delivered custom Booking Engine for Marina Bay Sands and Call center application for Caesars
+Entertainment. Two of the most high profile customers for Travel Tripper. Worked with customer teams and product
+managers to analyse requirements. Setup the engineering teams, initial architecture and process and lead the teams
+to successfully deliver the products. I continuously work with the customer and represent the engineering team.
+• Maintain legacy Ruby on Rails application and work with the team to add new features.</Description>
+					<StartDate>
+						<YearMonth>2016-06</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 42% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Travel Tripper India</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Project Manager Delivery Lead and individual contributor</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Senior Project Manager, Delivery Lead</sov:Subtitle>
+								<sov:Subtitle>Senior Project Manager</sov:Subtitle>
+								<sov:Subtitle>Delivery Lead and individual contributor</sov:Subtitle>
+								<sov:Subtitle>Project Manager, Delivery Lead and individual contributor</sov:Subtitle>
+								<sov:Subtitle>Project Manager, Delivery Lead</sov:Subtitle>
+								<sov:Subtitle>Project Manager</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Travel Tripper India</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>NCR</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Cofounder, Engineering Manager, Lead Developer &amp; Trainer</Title>
+					<OrgName>
+						<OrganizationName>NCR</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>DELHI</Region>
+							<Municipality>Delhi</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>CMISOFT (Founded in April 2010 - incorporated as Private Limited firm on 04 August 2011)
+JavaScript   Angular   Ruby on Rails   HTML/CSS   Elixir
+
+
+• Setup project teams and worked on developing various web applications. Ruby on Rails Development with Ruby on Rails. Managed releases &amp; deployments to dedicated linux servers as well as on Heroku &amp; AWS.
+•   Worked as a team mentor/SME at Deloitte Bangalore, for a Ruby on Rails based Financial project.
+•   Maintain legacy Ruby on Rails application. Keep it updated and develop new functionality.
+•   Mentored team at Hughes Systique Corporation (HSC) Gurgaon, for a Ruby based Telecom project.
+•   Worked with team at Nokia to guide, architect and develop a telecom application using Ruby on Rails.
+•   Provided Corporate Training at many companies including: eDataWorld LLC, Hughes Systique Corporation,
+Deloitte, Wipro, IBM, Verizon.</Description>
+					<StartDate>
+						<YearMonth>2010-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 55% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BX">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>NCR</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Cofounder Engineering Manager Lead Developer AND Trainer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Fullstack Developer</Title>
+					<OrgName>
+						<OrganizationName>Lendstreet Financial</OrganizationName>
+					</OrgName>
+					<Description>JS   AngularJS   Ruby on Rails/ROR   Elixir   Salesforce/Apex
+
+
+•   Developed Borrower/Investor Web platform using Ruby on Rails, AngularJS.
+•   Implemented custom amortization and other financial formulas.
+•   Implemented credit score/dashboard for underwriters.
+•   API Development using Elixir / Phoenix framework.
+•   Worked with integration with Salesforce. Implemented part of the solution within Salesforce Platform using
+Apex.</Description>
+					<StartDate>
+						<YearMonth>2015-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-06</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 57% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BN">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Lendstreet Financial</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Fullstack Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>NCR</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>SynapseIndia</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Business Analyst</Title>
+					<OrgName>
+						<OrganizationName>SynapseIndia</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>UTTAR PRADESH</Region>
+							<Municipality>Noida</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Break down complex problems into understandable user stories. Prioritizing/scheduling the work to meet
+deadlines. Define project scope, Create SRS, Work Breakdown Structure and User Stories.
+• Work with engineering teams to estimate the amount work.
+• Understand the problem statement / enhancements, gather the requirements, change requests &amp; feedbacks
+and explore potential solutions/recommendations.
+• Work with project teams &amp; project managers as a consultant to ensure successful delivery of project.</Description>
+					<StartDate>
+						<YearMonth>2005-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2010-03</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>User Experience → User Research</CategoryCode>
+						<Comments>User Experience describes 33% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>SynapseIndia</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Business Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>SynapseIndia</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>UG Software Technologies Pvt. Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Lead Developer and Manager</Title>
+					<OrgName>
+						<OrganizationName>UG Software Technologies Pvt. Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>DELHI</Region>
+							<Municipality>Delhi</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>HTML   ASP   PHP   Ruby   VB
+
+
+• Developed multiple applications in different technologies: ASP, PHP, VB, VB.NET &amp; Ruby.
+• Project Management: Managed various projects which include web design and web development projects in various domains: Real-Estate, E-commerce, CMS, MLM, Job site, Dating site, Auction, Immigration, Mortgage,
+Book store, Event Management, etc. Monitoring project delivery to ensure that business requirements are met.
+• Team Management: Managed a team of 45 software developers, product designers and QA. Trained team
+members on PHP, HTML and JavaScript.</Description>
+					<StartDate>
+						<YearMonth>2003-08</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2005-07</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 63% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="TF">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>45</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>UG Software Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Lead Developer and Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>UG Software Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>CrunexWeb</EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>Freelance Developer</Title>
+					<OrgName>
+						<OrganizationName>CrunexWeb</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>DELHI</Region>
+							<Municipality>Delhi</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Web Developer	Web Developer	Partner &amp; Web Developer
+(ASP   PHP   Java)	(ASP   Java   HTML)	(ASP   HTML)</Description>
+					<StartDate>
+						<YearMonth>2001-01</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2003-07</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Programming</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Freelance</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>CrunexWeb</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Freelance Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>CrunexWeb</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>Goethe-Institut, Max Mueller Bhavan</SchoolName>
+				</School>
+				<Degree>
+					<DegreeDate>
+						<Year>2010</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>German</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2010</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2010</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Goethe-Institut, Max Mueller Bhavan
+
+StartDeutsch2 (A2), German, 2010 - 2010</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Goethe Institut Max Mueller Bhavan</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>Goethe-Institut, Max Mueller Bhavan</SchoolName>
+				</School>
+				<Degree>
+					<DegreeName>Diploma</DegreeName>
+					<DegreeDate>
+						<Year>2000</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Network Centered Computing</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>1998</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2000</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Goethe-Institut, Max Mueller Bhavan
+
+Diploma, Network Centered Computing, 1998 - 2000</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>unspecified</sov:NormalizedDegreeName>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Goethe Institut Max Mueller Bhavan</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<School>
+					<SchoolName>NIIT</SchoolName>
+				</School>
+				<Degree>
+					<Comments>NIIT</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>NIIT</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Advanced Certification in AI/ML</Name>
+				<Id>1</Id>
+				<Description>(Pursuing) Advanced Certification in AI/ML
+The International Institute of Information Technology Hyderabad (IIIT)
+
+StartDeutsch1 (A1), German, 2010 - 2010</Description>
+				<EffectiveDate>
+					<FirstIssuedDate>
+						<StringDate>current</StringDate>
+					</FirstIssuedDate>
+				</EffectiveDate>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Hindi, Basic German</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Hindi, Basic German</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>de</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English, Hindi, Basic German</Comments>
+			</Language>
+		</Languages>
+		<RevisionDate>2019-11-29</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>cp@cpant.in
+Chandresh Pant
+Hyderabad/India
+Engineering Manager, Architect and Fullstack	Open to move
+Developer (Ruby on Rails   JavaScript   Angular   Python)	+91-9899876541
+and Machine Learning Enthusiast
+
+
+Engineering Manager with 19 years+ of experience with building cloud scale
+applications using modern software development technologies. Polyglot with
+experience of using Ruby, Elixir, Python, Java and JavaScript among others.
+Skilled at working with corporate leaders and staff to translate complex business
+requirements into robust cost-effective technology solutions. Demonstrated
+experience of setting up, growing and mentoring software engineering teams.
+Travel / Hospitality	Cloud Computing	Agile / Scrum
+Fintech	AWS	Python
+E-commerce	Deployments	Ruby / Rails
+Telecom	Devops	JavaScript/Angular
+Startups	TDD
+MongoDB
+
+Machine Learning	Jenkins / CI	Elasticsearch
+
+
+Experiences
+06/2016 - Present   Hyderabad
+Senior Project Manager, Delivery Lead and individual contributor
+Travel Tripper India Private Limited
+JavaScript   Angular   Ruby on Rails
+
+
+• Helped in building the initial Travel Tripper Hyderabad engineering team.
+• Architect &amp; drive engineering design and develop software applications. Hands-on coding and code reviews.
+Ensure technical debt is resolved in every iteration and prevent it using best practices including Code
+Reviews, focus on quality, Continuous Integration and Test Driven Development.
+• Manage releases and deployments to AWS. Use appropriate AWS offering - S3, Cloud-front, EC2, Elastic
+Beanstalk, Lambda etc. based on the application requirement.
+• Work with cross-functional team of product managers, product designers, developers and QA to deliver a
+quality product.
+• Discover the true requirements underlying feature requests and translate them into technical solutions. Lead
+engineering efforts to ensure timely and quality delivery.
+•   Collaborate with the support team. Triage technical issues and ensure their timely resolution.
+•   Collaborate with talent acquisition team for screening, interviewing and recruitment of the right talent for the team.
+•   Mentor, motivate and coach the engineering team members and help them develop and grow along their career paths
+•   Roadmap planning, Project and Resource management.
+•   Successfully delivered custom Booking Engine for Marina Bay Sands and Call center application for Caesars
+Entertainment. Two of the most high profile customers for Travel Tripper. Worked with customer teams and product
+managers to analyse requirements. Setup the engineering teams, initial architecture and process and lead the teams
+to successfully deliver the products. I continuously work with the customer and represent the engineering team.
+• Maintain legacy Ruby on Rails application and work with the team to add new features.
+04/2010 - 06/2016   Delhi/NCR
+Cofounder, Engineering Manager, Lead Developer &amp; Trainer
+CMISOFT (Founded in April 2010 - incorporated as Private Limited firm on 04 August 2011)
+JavaScript   Angular   Ruby on Rails   HTML/CSS   Elixir
+
+
+• Setup project teams and worked on developing various web applications. Ruby on Rails Development with
+Ruby on Rails. Managed releases &amp; deployments to dedicated linux servers as well as on Heroku &amp; AWS.
+•   Worked as a team mentor/SME at Deloitte Bangalore, for a Ruby on Rails based Financial project.
+•   Maintain legacy Ruby on Rails application. Keep it updated and develop new functionality.
+•   Mentored team at Hughes Systique Corporation (HSC) Gurgaon, for a Ruby based Telecom project.
+•   Worked with team at Nokia to guide, architect and develop a telecom application using Ruby on Rails.
+•   Provided Corporate Training at many companies including: eDataWorld LLC, Hughes Systique Corporation,
+Deloitte, Wipro, IBM, Verizon.
+
+
+01/2015 - 06/2016   Remote
+Fullstack Developer
+Lendstreet Financial
+JS   AngularJS   Ruby on Rails/ROR   Elixir   Salesforce/Apex
+
+
+•   Developed Borrower/Investor Web platform using Ruby on Rails, AngularJS.
+•   Implemented custom amortization and other financial formulas.
+•   Implemented credit score/dashboard for underwriters.
+•   API Development using Elixir / Phoenix framework.
+•   Worked with integration with Salesforce. Implemented part of the solution within Salesforce Platform using
+Apex.
+
+
+08/2005 - 03/2010   Noida
+Business Analyst
+SynapseIndia
+
+
+• Break down complex problems into understandable user stories. Prioritizing/scheduling the work to meet
+deadlines. Define project scope, Create SRS, Work Breakdown Structure and User Stories.
+• Work with engineering teams to estimate the amount work.
+• Understand the problem statement / enhancements, gather the requirements, change requests &amp; feedbacks
+and explore potential solutions/recommendations.
+• Work with project teams &amp; project managers as a consultant to ensure successful delivery of project.
+
+
+08/2003 - 07/2005   Delhi
+Lead Developer and Manager
+UG Software Technologies Pvt. Ltd.
+HTML   ASP   PHP   Ruby   VB
+
+
+• Developed multiple applications in different technologies: ASP, PHP, VB, VB.NET &amp; Ruby.
+• Project Management: Managed various projects which include web design and web development projects in
+various domains: Real-Estate, E-commerce, CMS, MLM, Job site, Dating site, Auction, Immigration, Mortgage,
+Book store, Event Management, etc. Monitoring project delivery to ensure that business requirements are met.
+• Team Management: Managed a team of 45 software developers, product designers and QA. Trained team
+members on PHP, HTML and JavaScript.
+01/2001 - 07/2003   Delhi	02/2000 - 12/2001   Delhi   09/1999 - 01/2000   Delhi
+Freelance Developer	MCS	CrunexWeb
+Web Developer	Web Developer	Partner &amp; Web Developer
+(ASP   PHP   Java)	(ASP   Java   HTML)	(ASP   HTML)
+
+
+Languages
+English, Hindi, Basic German
+
+Education
+(Pursuing) Advanced Certification in AI/ML
+The International Institute of Information Technology Hyderabad (IIIT)
+
+StartDeutsch1 (A1), German, 2010 - 2010
+Goethe-Institut, Max Mueller Bhavan
+
+StartDeutsch2 (A2), German, 2010 - 2010
+Goethe-Institut, Max Mueller Bhavan
+
+Diploma, Network Centered Computing, 1998 - 2000
+NIIT</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Chandresh Pant's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in General Management (mostly People Oriented). Chandresh Pant has 19 years of work experience, with 12 years of management experience, including a low-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>226</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>45</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>54</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>140</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>low-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a low-level management role: Senior Project Manager, Delivery Lead and individual contributor
+Starting on 6/1/2016, the candidate held the following low-level management position for 3 years and 6 months:
+	Title: Senior Project Manager, Delivery Lead and individual contributor for Travel Tripper India Private Limited
+Starting on 4/1/2010, the candidate held the following low-level management position for 6 years and 3 months:
+	Title: Cofounder, Engineering Manager, Lead Developer &amp; Trainer for NCR
+Starting on 8/1/2003, the candidate held the following low-level management position for 2 years:
+	Title: Lead Developer and Manager for UG Software Technologies Pvt. Ltd</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="81">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="75" percentOfParentTaxonomy="92">
+								<sov:Skill name="API" id="021194" existsInText="true" totalMonths="17" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+								<sov:Skill name="CODING" id="013739" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="129" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-2; POS-5; POS-6"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" totalMonths="140" lastUsed="2019-11-29" whereFound="Found in HOBBIES; WORK HISTORY; POS-1; POS-2; POS-5"></sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" whereFound="Found in HOBBIES"></sov:Skill>
+								<sov:Skill name="PHP" id="004736" existsInText="true" totalMonths="55" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5; POS-6"></sov:Skill>
+								<sov:Skill name="PYTHON" id="006120" existsInText="true" whereFound="Found in HOBBIES"></sov:Skill>
+								<sov:Skill name="Ruby" id="1004736" existsInText="true" totalMonths="140" lastUsed="2019-11-29" whereFound="Found in HOBBIES; WORK HISTORY; POS-1; POS-2; POS-3; POS-5" childrenTotalMonths="116" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="Rails" id="100473602" existsInText="true" totalMonths="116" lastUsed="2019-11-29" whereFound="Found in HOBBIES; WORK HISTORY; POS-1; POS-2; POS-3"></sov:ChildSkill>
+									<sov:ChildSkill name="Ruby on Rails" id="100473601" existsInText="true" totalMonths="116" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1; POS-2; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="VB.NET" id="010435" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="PROJECT MANAGER" id="022909" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TEAM MANAGEMENT" id="025953" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="Amazon Elastic Compute Cloud" id="5500001" existsInText="false" childrenTotalMonths="42" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="EC2" id="550000102" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" whereFound="Found in HOBBIES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="ASP" id="004324" existsInText="true" totalMonths="55" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5; POS-6"></sov:Skill>
+								<sov:Skill name="CSS" id="014705" existsInText="true" totalMonths="74" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+								<sov:Skill name="WEB DESIGN" id="010994" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="1" percentOfParentTaxonomy="1">
+								<sov:Skill name="LINUX" id="023926" existsInText="true" totalMonths="74" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="CONTENT MANAGEMENT SYSTEM" id="5530931" existsInText="false" childrenTotalMonths="24" childrenLastUsed="2005-07-31">
+									<sov:ChildSkill name="CMS" id="5530932" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ELASTICSEARCH" id="5530744" existsInText="true" whereFound="Found in HOBBIES"></sov:Skill>
+								<sov:Skill name="MACHINE LEARNING" id="5531016" existsInText="true" whereFound="Found in HOBBIES"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" whereFound="Found in HOBBIES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="ANGULARJS" id="5520505" existsInText="true" totalMonths="17" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Telephony" id="347" percentOfOverall="0" percentOfParentTaxonomy="1">
+								<sov:Skill name="APEX" id="026854" existsInText="true" totalMonths="17" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="DEV OPS" id="0146073" existsInText="false">
+									<sov:ChildSkill name="DEVOPS" id="0146074" existsInText="true" whereFound="Found in HOBBIES"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Machine Learning" id="720" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MACHINE LEARNING" id="7200149" existsInText="true" whereFound="Found in HOBBIES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Security" id="338" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="MACHINE LEARNING" id="3380002" existsInText="true" whereFound="Found in HOBBIES"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mainframe" id="197" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="NCR" id="003312" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="31" lastUsed="2003-07-31" whereFound="Found in WORK HISTORY; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Workflow and Imaging" id="342" percentOfOverall="0" percentOfParentTaxonomy="0">
+								<sov:Skill name="CMS" id="013609" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="General Management" id="80" percentOfOverall="4">
+							<sov:Subtaxonomy name="People Oriented" id="517" percentOfOverall="4" percentOfParentTaxonomy="100">
+								<sov:Skill name="MENTOR" id="021625" existsInText="true" totalMonths="116" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1; POS-2"></sov:Skill>
+								<sov:Skill name="TEAM MANAGEMENT" id="025955" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="3">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="2" percentOfParentTaxonomy="66">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false" childrenTotalMonths="59" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" totalMonths="59" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1; POS-3"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Industrial Design" id="566" percentOfOverall="1" percentOfParentTaxonomy="28">
+								<sov:Skill name="ARCHITECTURE" id="5570085" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Research" id="558" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="USER STORIES" id="5570004" existsInText="true" totalMonths="55" lastUsed="2010-03-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Graphic Design" id="569" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="WEB DESIGN" id="5570113" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Integration Design" id="568" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="WEB DESIGN" id="5570110" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="3">
+							<sov:Subtaxonomy name="Recruitment &amp; Staffing" id="190" percentOfOverall="3" percentOfParentTaxonomy="98">
+								<sov:Skill name="INTERVIEWING" id="026321" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="RECRUITMENT" id="006646" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="TALENT ACQUISITION" id="9000229" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Global Mobility" id="575" percentOfOverall="0" percentOfParentTaxonomy="2">
+								<sov:Skill name="IMMIGRATION" id="9000086" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Telecommunications" id="16" percentOfOverall="3">
+							<sov:Subtaxonomy name="Standards, Protocols, Technologies" id="317" percentOfOverall="1" percentOfParentTaxonomy="47">
+								<sov:Skill name="TELECOM" id="022903" existsInText="true" totalMonths="74" lastUsed="2016-06-01" whereFound="Found in HOBBIES; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="318" percentOfOverall="1" percentOfParentTaxonomy="26">
+								<sov:Skill name="VERIZON" id="010491" existsInText="true" totalMonths="74" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Hardware" id="319" percentOfOverall="1" percentOfParentTaxonomy="26">
+								<sov:Skill name="NOKIA" id="003480" existsInText="true" totalMonths="74" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="2">
+							<sov:Subtaxonomy name="RF" id="268" percentOfOverall="1" percentOfParentTaxonomy="56">
+								<sov:Skill name="TELECOM" id="022904" existsInText="true" totalMonths="74" lastUsed="2016-06-01" whereFound="Found in HOBBIES; WORK HISTORY; POS-2"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="1" percentOfParentTaxonomy="44">
+								<sov:Skill name="BODY ENGINEERING" id="022713" existsInText="false" childrenTotalMonths="42" childrenLastUsed="2019-11-29">
+									<sov:ChildSkill name="ENGINEERING DESIGN" id="016627" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Business Operations and General Business" id="34" percentOfOverall="1">
+							<sov:Subtaxonomy name="General Skills and Activities" id="437" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="BEST PRACTICES" id="011365" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+								<sov:Skill name="CREDIT" id="022227" existsInText="true" totalMonths="17" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="1">
+							<sov:Subtaxonomy name="Technical Product Marketing" id="586" percentOfOverall="1" percentOfParentTaxonomy="93">
+								<sov:Skill name="SUBJECT MATTER EXPERT" id="1400032" existsInText="false" childrenTotalMonths="74" childrenLastUsed="2016-06-01">
+									<sov:ChildSkill name="SME" id="1400033" existsInText="true" totalMonths="74" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-2"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Digital" id="599" percentOfOverall="0" percentOfParentTaxonomy="7">
+								<sov:Skill name="WEB DESIGN" id="1400242" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Translations and Language Work" id="91" percentOfOverall="1">
+							<sov:Subtaxonomy name="Translation" id="901" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="TRANSLATE" id="200002" existsInText="true" totalMonths="42" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="1">
+							<sov:Subtaxonomy name="Credit and Underwriting" id="240" percentOfOverall="0" percentOfParentTaxonomy="76">
+								<sov:Skill name="CREDIT" id="014614" existsInText="true" totalMonths="17" lastUsed="2016-06-01" whereFound="Found in WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mortgage" id="233" percentOfOverall="0" percentOfParentTaxonomy="24">
+								<sov:Skill name="LOANS" id="080236" existsInText="false" childrenTotalMonths="24" childrenLastUsed="2005-07-31">
+									<sov:ChildSkill name="MORTGAGE" id="002722" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="QA and QC" id="69" percentOfOverall="0">
+							<sov:Subtaxonomy name="Other" id="941" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="QA" id="006125" existsInText="true" totalMonths="66" lastUsed="2019-11-29" whereFound="Found in WORK HISTORY; POS-1; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="0">
+							<sov:Subtaxonomy name="Logistics" id="460" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="SCHEDULING" id="022740" existsInText="true" totalMonths="55" lastUsed="2010-03-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Manufacturing" id="13" percentOfOverall="0">
+							<sov:Subtaxonomy name="Planning" id="208" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="SCHEDULING" id="022739" existsInText="true" totalMonths="55" lastUsed="2010-03-01" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Strategy and Planning" id="71" percentOfOverall="0">
+							<sov:Subtaxonomy name="Workflow and Processes" id="876" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="BUSINESS REQUIREMENTS" id="022626" existsInText="true" totalMonths="24" lastUsed="2005-07-31" whereFound="Found in WORK HISTORY; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="CAD/CAM" id="4" percentOfOverall="0">
+							<sov:Subtaxonomy name="Engineering" id="357" percentOfOverall="0" percentOfParentTaxonomy="100">
+								<sov:Skill name="UG" id="010087" existsInText="true" whereFound="Found in WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Hobbies>
+				<sov:Text>/ Hospitality	Cloud Computing	Agile / Scrum
+Fintech	AWS	Python
+E-commerce	Deployments	Ruby / Rails
+Telecom	Devops	JavaScript/Angular
+Startups	TDD
+MongoDB
+
+Machine Learning	Jenkins / CI	Elasticsearch</sov:Text>
+			</sov:Hobbies>
+			<sov:Sections>
+				<sov:Section starts="14" ends="23" sectionType="HOBBIES">Travel</sov:Section>
+				<sov:Section starts="24" ends="110" sectionType="WORK HISTORY">Experiences</sov:Section>
+				<sov:Section starts="111" ends="113" sectionType="LANGUAGES">Languages</sov:Section>
+				<sov:Section starts="114" ends="125" sectionType="EDUCATION">Education</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>+91-9899876541</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Chandresh Pant</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>cp@cpant.in</sov:EmailAddress>
+				</sov:EmailAddresses>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>6119</sov:ParsedTextLength>
+			<sov:ParseTime>550</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:231;DEG-1,DEG-3] The following educational degrees do not have a degree name: DEG-1, DEG-3. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Travel'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:e8e41e0c-1684-48ae-b4b4-2390416735f6</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.9.0</sov:ParserVersion>
+			<sov:DigitalSignature>U/gBAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

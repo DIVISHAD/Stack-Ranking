@@ -1,0 +1,1216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Ranjoy Ghosh</FormattedName>
+				<GivenName>Ranjoy</GivenName>
+				<FamilyName>Ghosh</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>9748158413</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>ranjoy.ghosh88@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>businessDirect</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>production.developer.apiture.com</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<Objective>To be an accomplished professional who strives for excellence at every step of life with a focus on innovation and value addition. Being a techie and also handling a team efficiently. My moto to work as a lead like help others to unblock their problem with an optimized and easy way. And also keep on working with code to as an individual contributor.
+Higher Secondary	Uluberia high School	WBCHSE	2006   68.30
+Madhyamik Pariksha	Uluberia high School	WBBSE	2004   80.01</Objective>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Valuelabs LLP</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Enterprise Architect</Title>
+					<OrgName>
+						<OrganizationName>Valuelabs LLP</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<AnyDate>2018-09-21</AnyDate>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="ST">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="BQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Valuelabs</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Enterprise Architect</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Valuelabs</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Sears Holdings Corporation</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Technical Lead</Title>
+					<OrgName>
+						<OrganizationName>Sears Holdings Corporation</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bangalore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<AnyDate>2016-09-08</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2018-09-19</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SK">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Sears</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Technical Lead</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Sears</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>React Js</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>React Js</OrganizationName>
+					</OrgName>
+					<Description>6	Yes</Description>
+					<StartDate>
+						<Year>2016</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2016</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-12</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BT">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>React Js</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>React Js</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>DynamoDB, Lambda</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<OrgName>
+						<OrganizationName>DynamoDB, Lambda</OrganizationName>
+					</OrgName>
+					<Description>1. Apiture DevPortal Team Size 14
+Details: Apiture Devportal is an open banking API project. Where developers can create their own SDK to set up any application to use OPEN banking APIs. It is complete banking domain solution. We are providing complete end to end solution for the OPEN API Solution for developers.
+User can request for multiple level API key and access token for multiple environment. It is completely secured and highly scalable. Complete agile process maintained in 3 weeks sprint
+
+Technologies used:- NodeJs 11.0.0, REST full web services, AngularJS 7, Jekyll template engine. Complete AWS services, cognito,DynamoDB, SSM, SNS, Route 53, Lambda.
+
+My Role:- I am working as Enterprise Architect to work on the end to end solution DFD. And also the process I am handling from the scratch. I initially started this from scratch. Leading a team of 14 in-terms of technical guidance and also engaging myself to take care the delivery.
+
+It is a higher version of stripe.com what we are building now. We have version specific API documentation.
+
+URL:- production.developer.apiture.com
+
+1. Individual Store View (ISV) , Team Size 10
+Details: Individual Store View (ISV) provides an ability to view any Sears / Kmart store details related to their demographics, physical location, real estate information, competitors, financial performance, BU performance and member performance.
+Technologies used:- node 6.5.4,REST  full web services angular 1.5.4, Google cloud big query, mongo db, solr DB agile process
+
+1. Amazon Alexa ECHO integration With IBM Watson chatBOT, team size 2.
+Details: Amazon echo device used with node to create a voice automated application for banking front desk as well as some specific department where customer care is integrated as BOT. We integrated IBM Watson chatBOT. Admin can train them as per requirement also.
+Technologies Used: NodeJS, IBM Watson Service, Amazon Echo device, Angular2
+
+1. IMV analytics web app for 153M active customers individual record and also we are working on the behaviour of individual customer and predict the future purchases of any individual customer. Team size 10 working as Technical Lead also IC.
+Details: as its a analytics platform we are working with we need to handle huge amount of data like 1tb of data we need to process. So we are using Google cloud big query as a big data platform.
+Technologies used:- node 6.5.4, angular 1.5.4, Google cloud big query, mongo db, solr DB
+
+1. MDE is a analytics platform where we segregate 153M active customers by some predefined filters provided by business unit heads. Team size 10 working as Technical Lead also IC.
+Details: as its a analytics platform we are working with we need to handle huge amount of data like 1tb of data we need to process. So we are using Google cloud big query as a big data platform.
+Technologies used:- node 6.5.4, angular 1.5.4, Google cloud big query, mongo db, solr DB
+
+1. CSquire Team Size 6. Mean Stack Developer
+Details: CSQUIRE is a business-to-business networking site focused on creating a knowledge sharing community of business software users (ERP, Accounting, Marketing Automation etc.) and software professionals  consultants, consulting organizations and power users.
+The CSQUIRE community is based on profiles of individuals who associate themselves with companies and products.
+Technologies Used: NodeJS,Jade Template, JavaScript, Stripe Payment Gateway, MongoDB, BootStrap, Agile Development,Redis,Strompath
+
+1. Ubee Chat Team Size 17 Team Lead
+Node.Js, AngularJs,RethinkDB,Agile Development,MongoDB
+Details:It's a chat application with some advanced options for users than whatsapp and hike. Multiple new options are there. We are using nodeJS with rethinkDB database in backend for the faster response from server to make the chat application faster. We made this as a chat module. We can call this chat functionality like plug and play. Also have the options to modify the theme and also the restrictions in the chat application
+
+1. Cisco Collaborative Knowledge team size 6 Mean Stack Developer
+Node.JS , elasticsearch,express, mongoDB,Agile Development, Kafka
+Details:This is a tutorial application. Any user can enroll for a course can take a course can ask for a specialist instructor in this application. Have question answer section can clear any doubt in group or direct to sepecialist.We are using elasticsearch a primary DB and mongoDB as a backup DB. Used kafka and storm just not to lose any data if server is down.
+
+Using loadbalancer to handle heavy request load.
+
+
+AngularJS Projects:
+Project name   Technology Used and Details
+1. Codethon
+Details: Its a quiz contest project with a proper admin panel for a Investment banking Wells Fargo. Its a angular JS mobile app where user can answer mcq kind of questions which is generated randomly to the user after submitting answeres all goes to admin panel and amin can choose a winner and after selection user will get a sms and mail notification.
+
+Technologies Used: Angular JS,NodeJS Agile Development, twilio, mandrill,
+
+1. Ubee Chat
+Node.Js, AngularJs,RethinkDB,Agile Development,MongoDB
+Details:It's a chat application with some advanced options for users than whatsapp and hike. Multiple new options are there. We are using nodeJS with rethinkDB database in backend for the faster response from server to make the chat application faster. We made this as a chat module. We can call this chat functionality like plug and play. Also have the options to modify the theme and also the restrictions in the chat application
+
+
+Phonegap Projects Details:
+
+Project Name	Technology used   Platform	Link / Details
+1. Live Cricket   Phonegap, HTML 5. Data received through API.   Current Cricket Score Update.   Android 2.2 to latest   It's a simple cricket score update mobile application for android
+1. Coca-Cola India (Coke-cci)
+Phonegap, HTML 5,
+• Data access DB file in device memory. Accessing that DB file directly through my application.
+• Bluetooth plugin to connect a printable Bluetooth device and print invoices.
+• SQLite Plugin to access a DB file which is within the application.
+
+Android 2.2 to latest
+
+This application like maintaining the inventory through a application instead of a notebook in hand. App can directly connect with a Bluetooth printer and able to produce invoice after delivery.
+
+1. Coke MD
+Phonegap, HTML 5,
+• Data access -&gt; From xml response.
+• Bluetooth plugin to connect a printable Bluetooth device and print invoices.
+SQLite Plugin to access a DB file which is within the application.
+
+Android 2.2 to latest
+
+This application like maintaining the inventory through a application instead of a notebook in hand. App can directly connect with a Bluetooth printer and able to produce invoice after delivery. This application has offline mode also
+
+1. StockMD
+Phonegap, HTML 5,
+• Data access -&gt; From http response.
+• Square Card Reader
+
+Android 2.2 to latest and iPad version
+
+This is like online clinic and dispensary application
+
+1. Ubee Chat Mobile app
+Phonegap 2.9.0
+• HTML5
+• Jquery Mobile
+• Node.Js + RethinkDB
+• Jquery
+• Bluetooth plugin
+• Transition plugin
+• txt file creation and upload in server
+
+Android 2.3 to latest + IOS
+
+
+Database management:
+
+• Mysql database management
+• MongoDB
+• Sqlite database creation
+• Rethink DB
+• ElasticSearch
+• DynamoDB
+
+AWS Services
+• Cognito
+• SSM
+• DynamoDB
+• Lambda
+• Route 53
+• SNS</Description>
+					<StartDate>
+						<Year>2016</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2016</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 58% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-13</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="X">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:NumberOfEmployeesSupervised>14</sov:NumberOfEmployeesSupervised>
+							<sov:NormalizedOrganizationName>DynamoDB Lambda</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>DynamoDB Lambda</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Synechron Technologies pvt ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Senior associate</Title>
+					<OrgName>
+						<OrganizationName>Synechron Technologies pvt ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bangalore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<AnyDate>2015-10-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2016-08-19</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SK">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Synechron Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior associate</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Synechron Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>AngularJS</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>AngularJS</OrganizationName>
+					</OrgName>
+					<Description>8	No
+RethinkDB nosql db	2013	8	No</Description>
+					<StartDate>
+						<Year>2015</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2015</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-8</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BT">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>AngularJS</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>AngularJS</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>ElasticSearch</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>ElasticSearch</OrganizationName>
+					</OrgName>
+					<Description>8	No
+MongoDB nosql db	2015	8	No
+Javascript	2011	9	No
+jQuery	2011	9	No
+Agile Development	2015	8	No</Description>
+					<StartDate>
+						<Year>2015</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2015</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-9</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BT">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>ElasticSearch</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>ElasticSearch</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>AWS</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>AWS</OrganizationName>
+					</OrgName>
+					<Description>4	Yes
+Mean stack(mongo , express, angular , node)   2013	8	No</Description>
+					<StartDate>
+						<Year>2015</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2015</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-11</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BT">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>AWS</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>AWS</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>GI Group India P. Ltd</EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>Consultant P3</Title>
+					<OrgName>
+						<OrganizationName>GI Group India P. Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bangalore</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<AnyDate>2015-04-27</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-09-30</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SM">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+							<sov:NormalizedOrganizationName>GI Group India P</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Consultant P3</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>GI Group India P</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Business On Top</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software Developer(Team Lead)</Title>
+					<OrgName>
+						<OrganizationName>Business On Top</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>WEST BENGAL</Region>
+							<Municipality>Kolkata</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<AnyDate>2014-07-08</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2015-04-22</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Business On Top</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Developer Team Lead</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Software Developer</sov:Subtitle>
+								<sov:Subtitle>Team Lead</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Business On Top</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>CG Colors Pvt Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software Developer</Title>
+					<OrgName>
+						<OrganizationName>CG Colors Pvt Ltd</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>DELHI</Region>
+							<Municipality>Delhi</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Expertise Domains: NodeJS, AngularJS, RethinkDB, ElasticSearch, MongoDB, Javascript, jQuery, Agile Development, Phonegap, AWS, Mean stack(mongo , express, angular , node), AWS Services.</Description>
+					<StartDate>
+						<AnyDate>2011-04-26</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2014-07-04</AnyDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Big Data</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>CG Colors</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Developer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="internship">
+					<Title>Beginner</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<Description>9	No</Description>
+					<StartDate>
+						<Year>2012</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2012</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SF">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>CG Colors</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Beginner</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>CG Colors</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Phonegap</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>Phonegap</OrganizationName>
+					</OrgName>
+					<Description>7	No</Description>
+					<StartDate>
+						<Year>2012</Year>
+					</StartDate>
+					<EndDate>
+						<Year>2012</Year>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-10</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BT">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Phonegap</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Phonegap</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Calcutta institute of technology</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech</DegreeName>
+					<DegreeDate>
+						<Year>2010</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science &amp; Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<Year>2010</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>B.Tech (Computer Science &amp; Engineering)   Calcutta institute of technology   WBUT	2010   7.67</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Calcutta institute of technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Calcutta Institute of Technology</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>B.Tech in Computer Science &amp; Engineering</DegreeName>
+					<DegreeMajor>
+						<Name>Computer Science &amp; Engineering</Name>
+					</DegreeMajor>
+					<Comments>Last Educational Status: Completed B.Tech in Computer Science &amp; Engineering from Calcutta Institute of Technology.
+Examination/Degree	Institute	University/Board   Year   CGPA/Percentage</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:Graduated>true</sov:Graduated>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Calcutta Institute of Technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Participated in the college cricket tournament in the year 2007, 2008, 2009 and we were the runners up team repeatedly two years in the college</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Participated in the college football tournament in the year 2007, 2008</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Good Team Member. Trying to do better all the time</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Enterprise Architect Handling FullStack Developement
+            
+
+Ranjoy Ghosh
+Hyderabad	IT Ex.: 8 years
+Ph: - 9748158413(M);	NodeJS Ex.: 6.5 years
+Full Stack Development Experience: 6 Years	AngularJS Ex.: 4 Years
+Email: - ranjoy.ghosh88@gmail.com	Notice period 90 days
+Skype:- ranjoy.ghosh88
+
+Objective: To be an accomplished professional who strives for excellence at every step of life with a focus on innovation and value addition. Being a techie and also handling a team efficiently. My moto to work as a lead like help others to unblock their problem with an optimized and easy way. And also keep on working with code to as an individual contributor.
+
+Last Educational Status: Completed B.Tech in Computer Science &amp; Engineering from Calcutta Institute of Technology.
+Examination/Degree	Institute	University/Board   Year   CGPA/Percentage
+B.Tech (Computer Science &amp; Engineering)   Calcutta institute of technology   WBUT	2010   7.67
+Higher Secondary	Uluberia high School	WBCHSE	2006   68.30
+Madhyamik Pariksha	Uluberia high School	WBBSE	2004   80.01
+
+
+Professional Experiences:
+Valuelabs LLP	Enterprise Architect	Hyderabad   21st September 2018 to till date
+Sears Holdings Corporation	Technical Lead   SHI00002761	Bangalore   8th September 2016 to 19th September 2018
+Synechron Technologies pvt ltd   Senior associate   12070	Bangalore   1st Oct 2015 to 19th Aug 2016
+GI Group India P. Ltd   Contractual with   Capgemini India   Consultant P3 (076474)	Bangalore   27th April 2015 to 30th Sep 2015
+Business On Top	Software Developer(Team Lead) 0010   Kolkata	8th July 2014 to 22nd April 2015
+CG Colors Pvt Ltd	Software Developer	Delhi	26th April 2011 to 4th July 2014
+
+
+Expertise Domains: NodeJS, AngularJS, RethinkDB, ElasticSearch, MongoDB, Javascript, jQuery, Agile Development, Phonegap, AWS, Mean stack(mongo , express, angular , node), AWS Services.
+Skill	Used Since   Level (Out of 10)   Beginner
+NodeJS REST full web services   2012	9	No
+AngularJS	2015	8	No
+RethinkDB nosql db	2013	8	No
+ElasticSearch	2015	8	No
+MongoDB nosql db	2015	8	No
+Javascript	2011	9	No
+jQuery	2011	9	No
+Agile Development	2015	8	No
+Phonegap	2012	7	No
+AWS	2015	4	Yes
+Mean stack(mongo , express, angular , node)   2013	8	No
+React Js	2016	6	Yes
+Angular 2 type script	2016	7	Yes
+AWS Cognito, DynamoDB, Lambda   2018	8	No
+
+
+Node Projects:
+
+Project name And Team Size   Technology Used and Details
+1. Apiture DevPortal Team Size 14
+Details: Apiture Devportal is an open banking API project. Where developers can create their own SDK to set up any application to use OPEN banking APIs. It is complete banking domain solution. We are providing complete end to end solution for the OPEN API Solution for developers.
+User can request for multiple level API key and access token for multiple environment. It is completely secured and highly scalable. Complete agile process maintained in 3 weeks sprint
+
+Technologies used:- NodeJs 11.0.0, REST full web services, AngularJS 7, Jekyll template engine. Complete AWS services, cognito,DynamoDB, SSM, SNS, Route 53, Lambda.
+
+My Role:- I am working as Enterprise Architect to work on the end to end solution DFD. And also the process I am handling from the scratch. I initially started this from scratch. Leading a team of 14 in-terms of technical guidance and also engaging myself to take care the delivery.
+
+It is a higher version of stripe.com what we are building now. We have version specific API documentation.
+
+URL:- production.developer.apiture.com
+
+1. Individual Store View (ISV) , Team Size 10
+Details: Individual Store View (ISV) provides an ability to view any Sears / Kmart store details related to their demographics, physical location, real estate information, competitors, financial performance, BU performance and member performance.
+Technologies used:- node 6.5.4,REST  full web services angular 1.5.4, Google cloud big query, mongo db, solr DB agile process
+
+1. Amazon Alexa ECHO integration With IBM Watson chatBOT, team size 2.
+Details: Amazon echo device used with node to create a voice automated application for banking front desk as well as some specific department where customer care is integrated as BOT. We integrated IBM Watson chatBOT. Admin can train them as per requirement also.
+Technologies Used: NodeJS, IBM Watson Service, Amazon Echo device, Angular2
+
+1. IMV analytics web app for 153M active customers individual record and also we are working on the behaviour of individual customer and predict the future purchases of any individual customer. Team size 10 working as Technical Lead also IC.
+Details: as its a analytics platform we are working with we need to handle huge amount of data like 1tb of data we need to process. So we are using Google cloud big query as a big data platform.
+Technologies used:- node 6.5.4, angular 1.5.4, Google cloud big query, mongo db, solr DB
+
+1. MDE is a analytics platform where we segregate 153M active customers by some predefined filters provided by business unit heads. Team size 10 working as Technical Lead also IC.
+Details: as its a analytics platform we are working with we need to handle huge amount of data like 1tb of data we need to process. So we are using Google cloud big query as a big data platform.
+Technologies used:- node 6.5.4, angular 1.5.4, Google cloud big query, mongo db, solr DB
+
+1. CSquire Team Size 6. Mean Stack Developer
+Details: CSQUIRE is a business-to-business networking site focused on creating a knowledge sharing community of business software users (ERP, Accounting, Marketing Automation etc.) and software professionals  consultants, consulting organizations and power users.
+The CSQUIRE community is based on profiles of individuals who associate themselves with companies and products.
+Technologies Used: NodeJS,Jade Template, JavaScript, Stripe Payment Gateway, MongoDB, BootStrap, Agile Development,Redis,Strompath
+
+1. Ubee Chat Team Size 17 Team Lead
+Node.Js, AngularJs,RethinkDB,Agile Development,MongoDB
+Details:It's a chat application with some advanced options for users than whatsapp and hike. Multiple new options are there. We are using nodeJS with rethinkDB database in backend for the faster response from server to make the chat application faster. We made this as a chat module. We can call this chat functionality like plug and play. Also have the options to modify the theme and also the restrictions in the chat application
+
+1. Cisco Collaborative Knowledge team size 6 Mean Stack Developer
+Node.JS , elasticsearch,express, mongoDB,Agile Development, Kafka
+Details:This is a tutorial application. Any user can enroll for a course can take a course can ask for a specialist instructor in this application. Have question answer section can clear any doubt in group or direct to sepecialist.We are using elasticsearch a primary DB and mongoDB as a backup DB. Used kafka and storm just not to lose any data if server is down.
+
+Using loadbalancer to handle heavy request load.
+
+
+AngularJS Projects:
+
+Project name   Technology Used and Details
+1. Codethon
+Details: Its a quiz contest project with a proper admin panel for a Investment banking Wells Fargo. Its a angular JS mobile app where user can answer mcq kind of questions which is generated randomly to the user after submitting answeres all goes to admin panel and amin can choose a winner and after selection user will get a sms and mail notification.
+
+Technologies Used: Angular JS,NodeJS Agile Development, twilio, mandrill,
+
+1. Ubee Chat
+Node.Js, AngularJs,RethinkDB,Agile Development,MongoDB
+Details:It's a chat application with some advanced options for users than whatsapp and hike. Multiple new options are there. We are using nodeJS with rethinkDB database in backend for the faster response from server to make the chat application faster. We made this as a chat module. We can call this chat functionality like plug and play. Also have the options to modify the theme and also the restrictions in the chat application
+
+
+Phonegap Projects Details:
+
+
+Project Name	Technology used   Platform	Link / Details
+1. Live Cricket   Phonegap, HTML 5. Data received through API.   Current Cricket Score Update.   Android 2.2 to latest   It's a simple cricket score update mobile application for android
+1. Coca-Cola India (Coke-cci)
+Phonegap, HTML 5,
+• Data access DB file in device memory. Accessing that DB file directly through my application.
+• Bluetooth plugin to connect a printable Bluetooth device and print invoices.
+• SQLite Plugin to access a DB file which is within the application.
+
+Android 2.2 to latest
+
+This application like maintaining the inventory through a application instead of a notebook in hand. App can directly connect with a Bluetooth printer and able to produce invoice after delivery.
+
+1. Coke MD
+Phonegap, HTML 5,
+• Data access -&gt; From xml response.
+• Bluetooth plugin to connect a printable Bluetooth device and print invoices.
+SQLite Plugin to access a DB file which is within the application.
+
+Android 2.2 to latest
+
+This application like maintaining the inventory through a application instead of a notebook in hand. App can directly connect with a Bluetooth printer and able to produce invoice after delivery. This application has offline mode also
+
+1. StockMD
+Phonegap, HTML 5,
+• Data access -&gt; From http response.
+• Square Card Reader
+
+Android 2.2 to latest and iPad version
+
+This is like online clinic and dispensary application
+
+1. Ubee Chat Mobile app
+Phonegap 2.9.0
+• HTML5
+• Jquery Mobile
+• Node.Js + RethinkDB
+• Jquery
+• Bluetooth plugin
+• Transition plugin
+• txt file creation and upload in server
+
+Android 2.3 to latest + IOS
+
+
+Database management:
+
+• Mysql database management
+• MongoDB
+• Sqlite database creation
+• Rethink DB
+• ElasticSearch
+• DynamoDB
+
+AWS Services
+• Cognito
+• SSM
+• DynamoDB
+• Lambda
+• Route 53
+• SNS
+
+Activities:
+• Participated in the college cricket tournament in the year 2007, 2008, 2009 and we were the runners up team repeatedly two years in the college.
+• Participated in the college football tournament in the year 2007, 2008.
+
+Personal Details:
+Date of birth: 16th February, 1988
+Father's Name: Debasish Ghosh
+Sex: Male
+Marital Status: Married
+
+My Positive Attitudes:
+
+• Ability to handle a team. Hard working
+• Highly flexible to handle the situation. Stability.
+• Good Team Member. Trying to do better all the time.
+• Quick Learner under a proper guidance. Never give up. Ambitious.
+
+
+Bangalore	Name: Ranjoy Ghosh	Date:</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>US</sov:Country>
+				<sov:CultureInfo>en-US</sov:CultureInfo>
+			</sov:Culture>
+			<sov:PersonalInformation>
+				<sov:DateOfBirth inferred="false">1988-02-16</sov:DateOfBirth>
+				<sov:Gender inferred="false">Male</sov:Gender>
+				<sov:MaritalStatus inferred="false">Married</sov:MaritalStatus>
+				<sov:FathersName>Debasish Ghosh</sov:FathersName>
+			</sov:PersonalInformation>
+			<sov:ExperienceSummary>
+				<sov:Description>Ranjoy Ghosh's experience appears to be strongly concentrated in Information Technology (mostly Big Data) and slightly concentrated in Finance (mostly Internal Audit). Ranjoy Ghosh has 9 years of work experience, with several years tenure in management, including a low-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>109</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>9</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>33</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>34</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>25</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 9/8/2016, the candidate held the following low-level management position for 2 years:
+	Title: Technical Lead for Sears Holdings Corporation
+Starting on 7/8/2014, the candidate held the following low-level management position for 9 months:
+	Title: Software Developer(Team Lead) for Business On Top</sov:ManagementStory>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="67">
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="17" percentOfParentTaxonomy="25">
+								<sov:Skill name="AMAZON DYNAMODB" id="5530875" existsInText="false" childrenTotalMonths="12" childrenLastUsed="2016-12-31">
+									<sov:ChildSkill name="DYNAMODB" id="553087501" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ANALYTICS PLATFORM" id="5530901" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="APACHE SOLR" id="5530719" existsInText="false" childrenTotalMonths="12" childrenLastUsed="2016-12-31">
+									<sov:ChildSkill name="SOLR" id="553071901" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ELASTICSEARCH" id="5530744" existsInText="true" totalMonths="50" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-6"></sov:Skill>
+								<sov:Skill name="ENTERPRISE RESOURCE PLANNING" id="5530983" existsInText="false" childrenTotalMonths="12" childrenLastUsed="2016-12-31">
+									<sov:ChildSkill name="ERP" id="5530984" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="KAFKA" id="5531005" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="MONGODB" id="5530805" existsInText="true" totalMonths="62" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-6; POS-9"></sov:Skill>
+								<sov:Skill name="NOSQL" id="5530812" existsInText="true" totalMonths="12" lastUsed="2015-12-31" whereFound="Found in WORK HISTORY; POS-8; POS-9"></sov:Skill>
+								<sov:Skill name="REDIS" id="5530835" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="10" percentOfParentTaxonomy="16">
+								<sov:Skill name="API" id="021194" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="HTML" id="019115" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" totalMonths="62" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-6; POS-9" childrenTotalMonths="12" childrenLastUsed="2016-12-31">
+									<sov:ChildSkill name="BOOTSTRAP" id="3391101" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:ChildSkill>
+									<sov:ChildSkill name="NODE.JS" id="339002002" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="XML" id="011476" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Mobile Applications" id="552" percentOfOverall="10" percentOfParentTaxonomy="15">
+								<sov:Skill name="ANDROID" id="5520503" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="ANGULARJS" id="5520505" existsInText="true" totalMonths="50" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-6"></sov:Skill>
+								<sov:Skill name="BOOTSTRAP" id="5520522" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="HTML5" id="5520541" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="IOS" id="5520545" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="IPAD" id="5520547" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="PHONEGAP" id="5520586" existsInText="true" totalMonths="50" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="MONGODB" id="5500361" existsInText="true" totalMonths="62" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-6; POS-9"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="5" percentOfParentTaxonomy="7">
+								<sov:Skill name="jQuery" id="339048" existsInText="true" totalMonths="62" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-6; POS-9"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="4" percentOfParentTaxonomy="6">
+								<sov:Skill name="ENTERPRISE ARCHITECT" id="016666" existsInText="true" totalMonths="26" lastUsed="2019-11-18" whereFound="Found in WORK HISTORY; POS-1; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="4" percentOfParentTaxonomy="5">
+								<sov:Skill name="DATABASE MODELING" id="026777" existsInText="false" childrenTotalMonths="12" childrenLastUsed="2016-12-31">
+									<sov:ChildSkill name="DATABASE" id="022486" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="SQLITE" id="3391131" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="3" percentOfParentTaxonomy="5">
+								<sov:Skill name="CISCO" id="3490003" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="NETWORKING" id="3490044" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="SMS" id="081178" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Distributed Systems" id="718" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="REST" id="7180010" existsInText="true" totalMonths="24" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="WEB SERVICES" id="011022" existsInText="true" totalMonths="24" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Project Management" id="199" percentOfOverall="2" percentOfParentTaxonomy="3">
+								<sov:Skill name="TEAM LEAD" id="009222" existsInText="true" totalMonths="22" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-5"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="User Interface" id="731" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="ANDROID" id="7310008" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Network" id="198" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="CISCO" id="1980018" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="ERP and CRM" id="195" percentOfOverall="1" percentOfParentTaxonomy="2">
+								<sov:Skill name="ERP" id="016891" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Finance" id="7" percentOfOverall="7">
+							<sov:Subtaxonomy name="Internal Audit" id="706" percentOfOverall="1" percentOfParentTaxonomy="17">
+								<sov:Skill name="ACCOUNTING" id="7000058" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Accounting" id="705" percentOfOverall="1" percentOfParentTaxonomy="17">
+								<sov:Skill name="ACCOUNTING" id="7000036" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Investor Relations" id="704" percentOfOverall="1" percentOfParentTaxonomy="17">
+								<sov:Skill name="INVESTMENT BANKING" id="7000029" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Corporate Development" id="703" percentOfOverall="1" percentOfParentTaxonomy="17">
+								<sov:Skill name="INVESTMENT BANKING" id="7000021" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Lending" id="234" percentOfOverall="1" percentOfParentTaxonomy="17">
+								<sov:Skill name="INVESTMENT BANKING" id="080208" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Securities" id="236" percentOfOverall="1" percentOfParentTaxonomy="17">
+								<sov:Skill name="INVESTMENT BANKING" id="080195" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Administrative or Clerical" id="1" percentOfOverall="5">
+							<sov:Subtaxonomy name="Billing and Collections" id="110" percentOfOverall="2" percentOfParentTaxonomy="50">
+								<sov:Skill name="INVOICE" id="020120" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="INVOICES" id="020124" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Admin" id="113" percentOfOverall="1" percentOfParentTaxonomy="25">
+								<sov:Skill name="FRONT DESK" id="022328" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Computer Related" id="115" percentOfOverall="1" percentOfParentTaxonomy="25">
+								<sov:Skill name="DATABASE MANAGEMENT" id="015035" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="4">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="2" percentOfParentTaxonomy="47">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" totalMonths="15" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="105" percentOfOverall="1" percentOfParentTaxonomy="26">
+								<sov:Skill name="BUSINESS-TO-BUSINESS" id="081149" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Direct Sales" id="102" percentOfOverall="1" percentOfParentTaxonomy="26">
+								<sov:Skill name="BUSINESS-TO-BUSINESS" id="081153" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="3">
+							<sov:Subtaxonomy name="Software and Tools" id="310" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="BLUETOOTH" id="5000238" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="P3" id="004198" existsInText="true" totalMonths="5" lastUsed="2015-09-30" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="1" percentOfParentTaxonomy="42">
+								<sov:Skill name="ITS" id="020239" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Power Engineering" id="308" percentOfOverall="0" percentOfParentTaxonomy="8">
+								<sov:Skill name="P3" id="004199" existsInText="true" totalMonths="5" lastUsed="2015-09-30" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="2">
+							<sov:Subtaxonomy name="Audience" id="591" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="MARKETING AUTOMATION" id="1400122" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General" id="249" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="MARKETING" id="021241" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Bookkeeping, Office Management" id="89" percentOfOverall="2">
+							<sov:Subtaxonomy name="Bookeeping Tasks" id="533" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="ACCOUNTING" id="005856" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="INVOICES" id="020123" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Purchasing, Procurement, Inventory Control, Supply Chain" id="97" percentOfOverall="2">
+							<sov:Subtaxonomy name="Inventory" id="459" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="INVENTORY" id="020086" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Logistics" id="460" percentOfOverall="1" percentOfParentTaxonomy="50">
+								<sov:Skill name="ERP" id="016892" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Human Resources" id="9" percentOfOverall="2">
+							<sov:Subtaxonomy name="Diversity &amp; Inclusion" id="574" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="EMPLOYEE RESOURCE GROUP" id="9000074" existsInText="false" childrenTotalMonths="12" childrenLastUsed="2016-12-31">
+									<sov:ChildSkill name="ERP" id="9000075" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Power Engineering" id="26" percentOfOverall="1">
+							<sov:Subtaxonomy name="Non-Nuclear Power Misc" id="924" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="API" id="021195" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+								<sov:Skill name="P3" id="004200" existsInText="true" totalMonths="5" lastUsed="2015-09-30" whereFound="Found in WORK HISTORY; POS-4"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="User Experience" id="93" percentOfOverall="1">
+							<sov:Subtaxonomy name="Web Design" id="571" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="INTEGRATOR" id="5570146" existsInText="false" childrenTotalMonths="12" childrenLastUsed="2016-12-31">
+									<sov:ChildSkill name="INTEGRATION" id="5570147" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Legal" id="12" percentOfOverall="1">
+							<sov:Subtaxonomy name="Real Estate" id="399" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="REAL ESTATE" id="3990000" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Technical Writing" id="31" percentOfOverall="1">
+							<sov:Subtaxonomy name="Specs and Documentation" id="429" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="DOCUMENTATION" id="022620" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Training" id="64" percentOfOverall="1">
+							<sov:Subtaxonomy name="Other" id="361" percentOfOverall="1" percentOfParentTaxonomy="100">
+								<sov:Skill name="INSTRUCTOR" id="019876" existsInText="true" totalMonths="12" lastUsed="2016-12-31" whereFound="Found in WORK HISTORY; POS-13"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="10" ends="11" sectionType="OBJECTIVE">Objective:</sov:Section>
+				<sov:Section starts="12" ends="14" sectionType="EDUCATION" />
+				<sov:Section starts="15" ends="18" sectionType="OBJECTIVE" />
+				<sov:Section starts="19" ends="169" sectionType="WORK HISTORY">Professional Experiences</sov:Section>
+				<sov:Section starts="170" ends="173" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">Activities</sov:Section>
+				<sov:Section starts="174" ends="188" sectionType="CONTACT INFO">Personal Details</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Ph: - 9748158413(M)</sov:Phone>
+					<sov:Phone>9748158413</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>Ranjoy Ghosh</sov:Name>
+					<sov:Name>Bangalore	Name: Ranjoy Ghosh	Date:</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>ranjoy.ghosh88@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>production.developer.apiture.com</sov:Url>
+					<sov:Url>stripe.com</sov:Url>
+				</sov:Urls>
+				<sov:OtherData>
+					<sov:OtherDatum>Date of birth: 16th February, 1988</sov:OtherDatum>
+					<sov:OtherDatum>Father's Name: Debasish Ghosh</sov:OtherDatum>
+					<sov:OtherDatum>Marital Status: Married</sov:OtherDatum>
+					<sov:OtherDatum>Sex: Male</sov:OtherDatum>
+				</sov:OtherData>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>10398</sov:ParsedTextLength>
+			<sov:ParseTime>2999</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Fatal Problems Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:416;] We found no EDUCATION HISTORY section header for the candidate, but we calculated where we thought EDUCATION HISTORY was located in the resume. The education history section should have a header such as 'Education' before listing the content.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+							<sov:Information>[Sovren:323;OBJECTIVE] The following section type appeared multiple times in the resume: OBJECTIVE (2 occurrences). Each section type should only appear once in a resume.</sov:Information>
+							<sov:Information>[Sovren:325;1,2] The following sections do not have a header: Section with index 1 (of type: EDUCATION), Section with index 2 (of type: OBJECTIVE). Every section should have a header directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:221;POS-12,POS-13,POS-8,POS-9,POS-11,POS-10] We could not find a job title for: POS-12, POS-13, POS-8, POS-9, POS-11, POS-10. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:222;POS-7] No employer name was found for:  POS-7. Every position in a resume should have an employer name.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:151;0] The following section does not have the header on a separate line: 'Objective:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:cc74de8e-f403-4a9f-9adb-82b36430eb1e</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>4+UBAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

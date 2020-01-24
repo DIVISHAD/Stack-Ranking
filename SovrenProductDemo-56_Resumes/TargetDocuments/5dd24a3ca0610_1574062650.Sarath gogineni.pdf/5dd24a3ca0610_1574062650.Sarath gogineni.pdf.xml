@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Sarath Gogineni</FormattedName>
+				<GivenName>Sarath</GivenName>
+				<FamilyName>Gogineni</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>8499992421</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>gogineni.sarathh@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>linkedIn</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>https://www.linkedin.com/in/sarath-gogineni-31256356?jobid=1234&amp;lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3Bj2UNWAlkTDqFIE2Ntu3AWg%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile</InternetWebAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>linkedIn</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>https://www.linkedin.com/in/sarath-gogineni-31256356</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Well rounded Technical Manager, having experience in Applications
+Development area along with strong knowledge on Analytics domain and responsible for delivering end-to-end applications.</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>Merilytics Inc</EmployerOrgName>
+				<PositionHistory currentEmployer="true">
+					<OrgName>
+						<OrganizationName>Merilytics Inc</OrganizationName>
+					</OrgName>
+					<Description></Description>
+					<StartDate>
+						<YearMonth>2014-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SB">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Merilytics</sov:NormalizedOrganizationName>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Technical Manager</Title>
+					<OrgName>
+						<OrganizationName>Merilytics Inc</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Telangana, India
+Technical manager responsible for end-to-end products delivery</Description>
+					<StartDate>
+						<YearMonth>2019-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Manager</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="ST">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Merilytics</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Technical Manager</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Lead Analyst</Title>
+					<OrgName>
+						<OrganizationName>Merilytics Inc</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Telangana, India
+Technical Lead for product development</Description>
+					<StartDate>
+						<YearMonth>2016-10</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2019-03</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Marketing → Product</CategoryCode>
+						<Comments>Marketing describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SX">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Merilytics</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Lead Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Analyst</Title>
+					<OrgName>
+						<OrganizationName>Merilytics Inc</OrganizationName>
+					</OrgName>
+					<Description>Hyderabad Area, India
+Technical Lead for product development</Description>
+					<StartDate>
+						<YearMonth>2016-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-09</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Marketing → Product</CategoryCode>
+						<Comments>Marketing describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Merilytics</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Analyst</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Analyst</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Analyst</Title>
+					<OrgName>
+						<OrganizationName>Merilytics Inc</OrganizationName>
+					</OrgName>
+					<Description>Hyderabad Area, India
+Technical team member in product development</Description>
+					<StartDate>
+						<YearMonth>2015-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2016-03</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Marketing → Product</CategoryCode>
+						<Comments>Marketing describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Merilytics</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Senior Technical Associate</Title>
+					<OrgName>
+						<OrganizationName>Merilytics Inc</OrganizationName>
+					</OrgName>
+					<Description>Hyderabad Area, India
+Technical team member in product development</Description>
+					<StartDate>
+						<YearMonth>2014-05</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2015-03</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Marketing → Product</CategoryCode>
+						<Comments>Marketing describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="Q">Probable</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SP">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Merilytics</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Senior Technical Associate</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Technical Associate</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Merilytics</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>INNOVISTA Technologies Pvt Ltd</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Jr Technical Associate</Title>
+					<OrgName>
+						<OrganizationName>INNOVISTA Technologies Pvt Ltd</OrganizationName>
+					</OrgName>
+					<Description>Java Developer</Description>
+					<StartDate>
+						<YearMonth>2012-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2014-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Skills taxonomy</TaxonomyName>
+						<CategoryCode>Information Technology → Java</CategoryCode>
+						<Comments>Information Technology describes 100% of this job</Comments>
+					</JobCategory>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="SS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>INNOVISTA Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Junior Technical Associate</sov:NormalizedTitle>
+							<sov:Subtitles>
+								<sov:Subtitle>Technical Associate</sov:Subtitle>
+							</sov:Subtitles>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>INNOVISTA Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="associates">
+					<DegreeName>ASN Degree</DegreeName>
+					<DegreeDate>
+						<Year>2012</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2009</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2012</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>ASN Degree &amp; PG College
+Master of Computer Applications (MCA), Computer Science • (2009 - 2012)
+
+
+ASN Degree &amp; PG College</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>ASc</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>associates</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Z.P.High school</SchoolName>
+				</School>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor's degree</DegreeName>
+					<DegreeDate>
+						<Year>2009</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computer Science</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2006</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2009</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Bachelor's degree, Computer Science • (2006 - 2009)
+
+
+Z.P.High school</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Z P.High school</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="UNSPECIFIED">
+				<Degree degreeType="secondary">
+					<DegreeName>SSC</DegreeName>
+					<DegreeDate>
+						<Year>2004</Year>
+					</DegreeDate>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>1994</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2004</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>SSC, Major • (1994 - 2004)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+							<sov:NormalizedDegreeName>secondary</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>secondary</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<Qualifications>
+			<QualificationSummary>Top Skills
+Product Development
+Agile Project Management
+Java Enterprise Edition</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>te</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Telugu (Full Professional)</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi (Limited Working)</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English (Professional Working)</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Spotlight: Distinctive Project</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Performance as an Individual</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Team Awesome: Distinctive Project</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Performance as a Team</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>https://www.linkedin.com/in/sarath-gogineni-31256356?jobid=1234&amp;lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3Bj2UNWAlkTDqFIE2Ntu3AWg%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile
+
+www.linkedin.com/in/sarath-gogineni-31256356
+Sarath Gogineni
+Technical Manager at Merilytics Inc.
+Guntur, Andhra Pradesh, India
+Summary
+Well rounded Technical Manager, having experience in Applications
+Development area along with strong knowledge on Analytics domain and responsible for delivering end-to-end applications.
+Experience
+Merilytics Inc.
+5 years 7 months
+Technical Manager
+April 2019 - Present
+Hyderabad, Telangana, India
+Technical manager responsible for end-to-end products delivery
+Lead Analyst
+October 2016 - March 2019 (2 years 6 months)
+Hyderabad, Telangana, India
+Technical Lead for product development
+Senior Analyst
+April 2016 - September 2016 (6 months)
+Hyderabad Area, India
+Technical Lead for product development
+Analyst
+April 2015 - March 2016 (1 year)
+Hyderabad Area, India
+Technical team member in product development
+Senior Technical Associate
+May 2014 - March 2015 (11 months)
+Hyderabad Area, India
+Technical team member in product development
+INNOVISTA Technologies Pvt Ltd
+Jr Technical Associate
+April 2012 - April 2014 (2 years 1 month)
+Java Developer
+
+
+Education
+ASN Degree &amp; PG College
+Master of Computer Applications (MCA), Computer Science • (2009 - 2012)
+
+
+ASN Degree &amp; PG College
+Bachelor's degree, Computer Science • (2006 - 2009)
+
+
+Z.P.High school
+SSC, Major • (1994 - 2004)
+Contact
+8499992421 (Mobile)
+gogineni.sarathh@gmail.com
+
+Top Skills
+Product Development
+Agile Project Management
+Java Enterprise Edition
+Languages
+Telugu (Full Professional)
+Hindi (Limited Working)
+English (Professional Working)
+Honors-Awards
+Spotlight: Distinctive Project
+Performance as an Individual
+Team Awesome: Distinctive Project
+Performance as a Team</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>US</sov:Country>
+				<sov:CultureInfo>en-US</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Sarath Gogineni's experience appears to be strongly concentrated in Marketing (mostly Product) and slightly concentrated in Sales (mostly Entry Level). Sarath Gogineni has 8 years of work experience, with several years tenure in management, including a mid-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>93</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>46</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>85</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>38</sov:MonthsOfManagementExperience>
+				<sov:CurrentManagementLevel>mid-level</sov:CurrentManagementLevel>
+				<sov:HighestManagementScore>55</sov:HighestManagementScore>
+				<sov:ExecutiveType>general</sov:ExecutiveType>
+				<sov:ManagementStory>Current position is a mid-level management role: Technical Manager
+Starting on 4/1/2019, the candidate held the following mid-level management position for 7 months:
+	Title: Technical Manager for Merilytics Inc
+Starting on 10/1/2016, the candidate held the following low-level management position for 2 years and 6 months:
+	Title: Lead Analyst for Merilytics Inc</sov:ManagementStory>
+				<sov:AttentionNeeded>ATTENTION: The candidate appears to have been in management in a past role (Technical Manager for Merilytics Inc) , but was not in management in the most recent role as  for Merilytics Inc.</sov:AttentionNeeded>
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Marketing" id="14" percentOfOverall="95">
+							<sov:Subtaxonomy name="Product" id="585" percentOfOverall="48" percentOfParentTaxonomy="50">
+								<sov:Skill name="PRODUCT DEVELOPMENT" id="1400022" existsInText="true" totalMonths="59" lastUsed="2019-03-31" whereFound="Found in SKILLS; WORK HISTORY; POS-3; POS-4; POS-5; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Brand Management" id="227" percentOfOverall="48" percentOfParentTaxonomy="50">
+								<sov:Skill name="PRODUCT DEVELOPMENT" id="005612" existsInText="true" totalMonths="59" lastUsed="2019-03-31" whereFound="Found in SKILLS; WORK HISTORY; POS-3; POS-4; POS-5; POS-6"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="3">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="3" percentOfParentTaxonomy="100">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" totalMonths="36" lastUsed="2015-03-31" whereFound="Found in WORK HISTORY; POS-6; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="2">
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="JAVA" id="023328" existsInText="true" totalMonths="25" lastUsed="2014-04-30" whereFound="Found in SKILLS; WORK HISTORY; POS-7"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="6" ends="8" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="9" ends="37" sectionType="WORK HISTORY">Experience</sov:Section>
+				<sov:Section starts="38" ends="48" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="49" ends="52" sectionType="CONTACT INFO">Contact</sov:Section>
+				<sov:Section starts="53" ends="56" sectionType="SKILLS">Top Skills</sov:Section>
+				<sov:Section starts="57" ends="60" sectionType="LANGUAGES">Languages</sov:Section>
+				<sov:Section starts="61" ends="65" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">Honors-Awards</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>8499992421 (Mobile)</sov:Phone>
+					<sov:Phone>8499992421</sov:Phone>
+				</sov:Phones>
+				<sov:Names>
+					<sov:Name>sarath-gogineni</sov:Name>
+					<sov:Name>Sarath Gogineni</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>gogineni.sarathh@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>https://www.linkedin.com/in/sarath-gogineni-31256356?jobid=1234&amp;lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3Bj2UNWAlkTDqFIE2Ntu3AWg%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile</sov:Url>
+					<sov:Url>https://www.linkedin.com/in/sarath-gogineni-31256356</sov:Url>
+				</sov:Urls>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>1889</sov:ParsedTextLength>
+			<sov:ParseTime>265</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+							<sov:Information>[Sovren:221;POS-1] We could not find a job title for: POS-1. Every position in a resume should have a job title.</sov:Information>
+							<sov:Information>[Sovren:223;POS-1,POS-2] The following positions are currently active and at the same company: POS-1, POS-2. It is very rare to be currently employed at the same company under two different jobs. One of these positions is likely missing an end date or formatted poorly.</sov:Information>
+							<sov:Information>[Sovren:232;DEG-1,DEG-3] The following educational degrees are not associated with a school: DEG-1, DEG-3. Every degree in a resume should be associated with a school.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Top Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+							<sov:Information>[Sovren:161;DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:99ada153-6143-4503-a15b-d26e31e3dd25</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; InputFormat.KnownFormat = LinkedIn; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>RSwAAAAAAAA=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

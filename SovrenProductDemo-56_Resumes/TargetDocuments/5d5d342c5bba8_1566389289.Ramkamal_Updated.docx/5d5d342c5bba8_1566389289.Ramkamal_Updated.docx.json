@@ -1,0 +1,2471 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "ContactMethod": [
+          {
+            "WhenAvailable": "anytime",
+            "PostalAddress": {
+              "CountryCode": "IN",
+              "Region": [
+                "Hyderabad"
+              ],
+              "Municipality": "Hyderabad",
+              "DeliveryAddress": {
+                "AddressLine": [
+                  "Vanasthalipuram"
+                ]
+              }
+            }
+          },
+          {
+            "Telephone": {
+              "FormattedNumber": "+91-9677037747"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "Ramkamal.Agastyaraju@gmail.com"
+          }
+        ]
+      },
+      "Objective": "Outgoing and detail-oriented, proficient at building and maintaining professional relationships. I believe in ensuring transparency, accountability, performance efforts by being an effective interface that aids business and technology for decision making.\r\n\r\n\r\nCurrently working as a Sr. Engineering Manager, where I am responsible for 50 members' team driving effort towards end to end Product Development, Road Map Delivery from Planning till Post production.\r\n\r\nBeing a Senior Leadership Team (SLT), my main focus areas are Strategic Planning, Team Management, Relationship Management, Product Development, Risk and Control with Production support.\r\n\r\nHaving hands-on experience in Agile with Scrum and Kanban, Waterfall, and Iterative in SDLC model.\r\nI am also responsible for the DevOps, and Agile delivery with all required automated Tools and Technologies.",
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "ADP India PVT LTD",
+            "PositionHistory": [
+              {
+                "@currentEmployer": "true",
+                "OrgName": {
+                  "OrganizationName": "ADP India PVT LTD"
+                },
+                "Description": "14 Years",
+                "StartDate": {
+                  "Year": "2005"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "ADP India"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Delivery Head",
+                "OrgName": {
+                  "OrganizationName": "ADP India Pvt Ltd"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "TAMIL NADU"
+                      ],
+                      "Municipality": "Chennai"
+                    }
+                  }
+                ],
+                "Description": "* Involved in Global Product Technology Budgeting and in Key Decisions for India and SEA region\r\n* Define and manage the roadmap, setting and continuously managing the right expectations with all relevant stakeholders including the senior leadership team\r\n* Achieved effective deliveries by forming DevOps, Strong customer focus, results driven and team oriented\r\n* Identifies process improvements and communicates them to the PMO Head and Architects programs\r\n* Ensured project outputs are consistent, high-quality on time and within budget to all business objectives",
+                "StartDate": {
+                  "Year": "2015"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Operations, Monitoring and Software Management",
+                    "Comments": "Information Technology describes 27% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "ADP India",
+                    "sov:NormalizedTitle": "Delivery Head"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "ADP India"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Sr. Manager",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "* Perform analysis that leads to continuous improvement and transformational projects for the business\r\n* Partnered with appropriate functional leaders to manage resources for projects\r\n* Supported assignments outside of new product development as required and worked with Cross Functional Teams\r\n* Responsible for the oversight of the Project Management Office, Change management, Production Support/Maintenance, Database Administration and Release Management\r\n* Oversee team's activities to provide impact assessment and subject knowledge, Drive partnerships, joint GTM models with key partners to drive scale in the marketplace",
+                "StartDate": {
+                  "Year": "2014"
+                },
+                "EndDate": {
+                  "Year": "2015"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Marketing → General",
+                    "Comments": "Marketing describes 24% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-6",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Senior Manager",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Manager"
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Manager",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "* Responsible for Product, and IT portfolios which includes Applications, Databases, Release and Infrastructure Management\r\n* Responsible for the overall performance, availability and optimization of virtualized environments, servers, networks etc.\r\n* Proactively evaluate servers and identifying for reduction, consolidation and virtualization.\r\n* Manage Incidents and Problems with regards to Application and DC.\r\n* Ensure compliance with patch management policy.",
+                "StartDate": {
+                  "Year": "2012"
+                },
+                "EndDate": {
+                  "Year": "2014"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Distributed Systems",
+                    "Comments": "Information Technology describes 75% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-7",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Manager"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Application Support / Team Leader",
+                "OrgName": {
+                  "OrganizationName": null
+                },
+                "Description": "* Work with business analysts and product owners to understand the requirements, use cases as part of the development team.\r\n* Design and Develop the core logic with required validations using HTML, JQuery, and C#.Net.\r\n* Develop the Data access layer with ADO.Net with SQL 2008R2 with a database as backend.",
+                "StartDate": {
+                  "Year": "2005"
+                },
+                "EndDate": {
+                  "Year": "2012"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 100% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-8",
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SM",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedTitle": "Application Support Team Leader",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Team Leader"
+                      ]
+                    }
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "EmployerOrgName": "Vitage Infoservices Pvt Ltd",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Vitage Infoservices Pvt Ltd"
+                },
+                "Description": "2 Years",
+                "StartDate": {
+                  "Year": "2003"
+                },
+                "EndDate": {
+                  "Year": "2005"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Vitage Infoservices"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Sr. Support Engineer",
+                "OrgName": {
+                  "OrganizationName": "Vitage Infoservices Pvt Ltd"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "* Incident Management and Problem Management\r\n* Develop basic software tools like system configuration management, test enabling modules\r\n* SQL SERVER",
+                "StartDate": {
+                  "Year": "2003"
+                },
+                "EndDate": {
+                  "Year": "2005"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Database",
+                    "Comments": "Information Technology describes 92% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-9",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Vitage Infoservices",
+                    "sov:NormalizedTitle": "Senior Support Engineer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Support Engineer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Vitage Infoservices"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Quantum International pvt ltd",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "Quantum International pvt ltd"
+                },
+                "Description": "1 Year",
+                "StartDate": {
+                  "Year": "2002"
+                },
+                "EndDate": {
+                  "Year": "2003"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BX",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Quantum International"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Sr. Engineer Support",
+                "OrgName": {
+                  "OrganizationName": "Quantum International pvt ltd"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "* Installing, configuring, troubleshooting, and maintaining server equipment, switches, routers, backup devices, RAID devices, and software Maintaining Call desk\r\n* Responsible for Installing and managing HP, IBM servers, Laptops, desktops and high end printers for large organization with more than 3000+ employees",
+                "StartDate": {
+                  "Year": "2002"
+                },
+                "EndDate": {
+                  "Year": "2003"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Enterprise Storage",
+                    "Comments": "Information Technology describes 50% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-10",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SQ",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "Quantum International",
+                    "sov:NormalizedTitle": "Senior Engineer Support",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Engineer Support"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Quantum International"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "JVR Infotech Private Limited",
+            "PositionHistory": [
+              {
+                "OrgName": {
+                  "OrganizationName": "JVR Infotech Private Limited"
+                },
+                "Description": "3 Years",
+                "StartDate": {
+                  "Year": "1999"
+                },
+                "EndDate": {
+                  "Year": "2002"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SB",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "JVR Infotech"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Sr. Customer Support Engineer",
+                "OrgName": {
+                  "OrganizationName": "JVR Infotech Private Limited"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "IN",
+                      "Region": [
+                        "ANDHRA PRADESH"
+                      ],
+                      "Municipality": "Hyderabad"
+                    }
+                  }
+                ],
+                "Description": "* IT Support, Network printers, Antivirus cleaning. Maintained zero network downtime.\r\n* Assisted end users with problem relating to network, network printing, desktop, software installation, configuration, LAN and WAN.",
+                "StartDate": {
+                  "Year": "1999"
+                },
+                "EndDate": {
+                  "Year": "2002"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Administrative or Clerical → Admin",
+                    "Comments": "Administrative or Clerical describes 80% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-11",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SP",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "TF",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "JVR Infotech",
+                    "sov:NormalizedTitle": "Senior Customer Support Engineer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Customer Support Engineer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "JVR Infotech"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "college",
+            "School": [
+              {
+                "SchoolName": "DB Jain College"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "Diploma",
+                "DegreeDate": {
+                  "Year": "1996"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Electronics and Communication Engineering"
+                    ]
+                  }
+                ],
+                "DegreeMinor": [
+                  {
+                    "Name": [
+                      "management"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "1996"
+                    }
+                  }
+                ],
+                "Comments": "Examination\tYear   Institute\r\nDiploma\t1996   DB Jain College - Electronics and Communication Engineering\r\n\r\nPROJECTS and PRODUCTS Deliverables\r\nProduct Development and Expansion\r\n* Upgraded the HCM, Payroll product to Cloud based version without impacting 1500+ clients.\r\n* Release and Deploy Multi country solution catering India, Singapore, Philippines and other south-east countries like Maldives, Indonesia, SriLanka and Bangladesh with agreed Release Calendar.\r\n* Involved in releasing native mobile apps for both Android and iOS and also for PWS-Progressive Web App which serving almost 400,000 records with end to end Pay, Leave and Tax.\r\n\r\nKey Deliverables\r\n* HCM India & SEA\r\n* AWS Transitions and Product version upgrades & migrations.\r\n* Standalone application to Cloud based application upgrade.\r\n* Payroll, Leave, T&A, Performance management with Comprehensive reimbursement claims.\r\n* Compliance management, statutory rules and end to end Employee Exit management system.\r\n\r\nDomain Knowledge\r\n* India & SEA Payroll, HCM\r\n* Indian Stats and Regulatory rules with compliance Management.\r\n* Country specific deductions, law of land.",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "unspecified",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "DB Jain College"
+              }
+            }
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English - Full professional proficiency"
+          },
+          {
+            "LanguageCode": "te",
+            "Read": "true",
+            "Write": "true",
+            "Speak": "true",
+            "Comments": "Telugu- Native or bilingual proficiency"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Hindi - Professional working proficiency"
+          },
+          {
+            "LanguageCode": "ta",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "Tamil - Professional working proficiency"
+          }
+        ]
+      },
+      "Achievements": {
+        "Achievement": [
+          {
+            "Description": "Product Expansion across South East Asia region (Worth: $ 25 M)"
+          },
+          {
+            "Description": "Product platform migration for South East Asia region around 1500+ clients with record size of 0.5 M"
+          },
+          {
+            "Description": "AWS Transition around 20 Applications with 5000 Live databases with record size of 0.5 M"
+          },
+          {
+            "Description": "Deployed Centralized MIS using analytics for business reporting"
+          },
+          {
+            "Description": "Data Center consolidation 12 locations to a single location"
+          },
+          {
+            "Description": "20% growth in efficiency through Automation Projects"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "RAMKAMAL AV\tRamkamal.Agastyaraju@gmail.com\t+91-9677037747\r\n            \r\n\r\nOBJECTIVE\r\nOutgoing and detail-oriented, proficient at building and maintaining professional relationships. I believe in ensuring transparency, accountability, performance efforts by being an effective interface that aids business and technology for decision making.\r\n\r\n\r\nCurrently working as a Sr. Engineering Manager, where I am responsible for 50 members' team driving effort towards end to end Product Development, Road Map Delivery from Planning till Post production.\r\n\r\nBeing a Senior Leadership Team (SLT), my main focus areas are Strategic Planning, Team Management, Relationship Management, Product Development, Risk and Control with Production support.\r\n\r\nHaving hands-on experience in Agile with Scrum and Kanban, Waterfall, and Iterative in SDLC model.\r\nI am also responsible for the DevOps, and Agile delivery with all required automated Tools and Technologies.\r\n\r\nNotable Accomplishments:\r\n• Product Expansion across South East Asia region (Worth: $ 25 M)\r\n• Product platform migration for South East Asia region around 1500+ clients with record size of 0.5 M\r\n• AWS Transition around 20 Applications with 5000 Live databases with record size of 0.5 M\r\n• Deployed Centralized MIS using analytics for business reporting\r\n• Data Center consolidation 12 locations to a single location\r\n• 20% growth in efficiency through Automation Projects\r\n\r\n\r\nEmployment History:\r\n\r\n• ADP India PVT LTD [2005 to Present] - 14 Years\r\n• Vitage Infoservices Pvt Ltd [2003 to 2005] - 2 Years\r\n• Quantum International pvt ltd [2002 to 2003] - 1 Year\r\n• JVR Infotech Private Limited [1999 to 2002]  - 3 Years\r\n\r\nINDUSTRY EXPERIENCE\r\nEXPERIENCE - 04\tADP India Pvt Ltd (14 Years)\tChennai\r\n2015- Jan' 2019\r\nDelivery Head\r\n* Involved in Global Product Technology Budgeting and in Key Decisions for India and SEA region\r\n* Define and manage the roadmap, setting and continuously managing the right expectations with all relevant stakeholders including the senior leadership team\r\n* Achieved effective deliveries by forming DevOps, Strong customer focus, results driven and team oriented\r\n* Identifies process improvements and communicates them to the PMO Head and Architects programs\r\n* Ensured project outputs are consistent, high-quality on time and within budget to all business objectives\r\n\r\n2014-2015\r\nSr. Manager\r\n* Perform analysis that leads to continuous improvement and transformational projects for the business\r\n* Partnered with appropriate functional leaders to manage resources for projects\r\n* Supported assignments outside of new product development as required and worked with Cross Functional Teams\r\n* Responsible for the oversight of the Project Management Office, Change management, Production Support/Maintenance, Database Administration and Release Management\r\n* Oversee team's activities to provide impact assessment and subject knowledge, Drive partnerships, joint GTM models with key partners to drive scale in the marketplace\r\n\r\n2012-2014\r\nManager\r\n* Responsible for Product, and IT portfolios which includes Applications, Databases, Release and Infrastructure Management\r\n* Responsible for the overall performance, availability and optimization of virtualized environments, servers, networks etc.\r\n* Proactively evaluate servers and identifying for reduction, consolidation and virtualization.\r\n* Manage Incidents and Problems with regards to Application and DC.\r\n* Ensure compliance with patch management policy.\r\n\r\n2005-2012\r\nApplication Support / Team Leader\r\n* Work with business analysts and product owners to understand the requirements, use cases as part of the development team.\r\n* Design and Develop the core logic with required validations using HTML, JQuery, and C#.Net.\r\n* Develop the Data access layer with ADO.Net with SQL 2008R2 with a database as backend.\r\n\r\nEXPERIENCE - 03\tVitage Infoservices Pvt Ltd\tHyderabad\r\n2003-2005\r\nSr. Support Engineer\r\n* Incident Management and Problem Management\r\n* Develop basic software tools like system configuration management, test enabling modules\r\n* SQL SERVER\r\n\r\nEXPERIENCE - 02\tQuantum International pvt ltd   Hyderabad\r\n2002-2003\r\nSr. Engineer Support\r\n* Installing, configuring, troubleshooting, and maintaining server equipment, switches, routers, backup devices, RAID devices, and software Maintaining Call desk\r\n* Responsible for Installing and managing HP, IBM servers, Laptops, desktops and high end printers for large organization with more than 3000+ employees\r\n\r\nEXPERIENCE - 01\tJVR Infotech Private Limited\tHyderabad\r\n1999-2002\r\nSr. Customer Support Engineer\r\n* IT Support, Network printers, Antivirus cleaning. Maintained zero network downtime.\r\n* Assisted end users with problem relating to network, network printing, desktop, software installation, configuration, LAN and WAN.\r\n\r\nSkillset\tDescriptions and Details\r\nAnalyzing and Documenting Skills\r\n* SLA Document has been updated with new client and country base aligned with team size to maximize NPS scores and ensured client retentions.\r\n* DR strategy documentations and updates made for easy disaster recovery plans for Business Continuity.\r\n* Process Asset Library updates made with required Change Management process of important documents for Testing, CRs and ACL forms.\r\n* Documents Repository has been maintained for historical project related documents to ensure smooth deliverables for any kind of projects with lessons learnt, checklist items prepared.\r\n\r\nApplication Development Skills\r\n* C#.Net, ASP.Net with SQL Server 2008R2 and 2014/16.\r\n* ADO.Net, Three Tier Architecture, and MVC\r\n* WCF, Open API and PWA, Progressive Web App Development.\r\n* HTML, CSS, JavaScript, AJAX, Angular.JS, PHP, REDIS and Mongo DB\r\n* Windows and Linux Operating Systems\r\n\r\nDevOps Management Skills\r\n* TFS Build Agent, TFS Administration and Release Management.\r\n* BitBucket, Jenkins, TFS Build, TFS Source Code Repository.\r\n* CI and CD with TFS, Release Management Tool, Microsoft TFS 2015.\r\n* Defining Build pipelines for Internal Lower environments\r\n* Testing the Staging and Production environments with controls.\r\n\r\nProblem Solving and Technical Support Skills\r\n* Lead Support Team with Different time zones of India and SEA with shift modeling.\r\n* Root Cause Analysis, Fish-bone, 5 Why Approach.\r\n* Incident Management and Problem Management.\r\n* Troubleshooting System and Application issues.\r\n\r\nChange Management Skills\r\n* Change Management Support, Scope Vs Delivery Gap Metrics, JIRA, Rally, and TFS Burn down charts.\r\n* Plan, Schedule with Release Calendar and Resource allocation, WBS.\r\n* Iterative and Incremental release plans.\r\n\r\nTools Used\r\n* Visual Studio, TFS, BitBucket, JIRA\r\n* SSRS and SharePoint Administration\r\n* MS Project, Jenkins and Nagios, JFrog Artifactory, Rally and Ansible Basics\r\n* SQL Server 2008 R2, 2012 and 2014\r\n* IIS 7/7.5/8.0, Apache an Tomcat\r\n\r\nEDUCATIONAL QUALIFICATION\r\nExamination\tYear   Institute\r\nDiploma\t1996   DB Jain College - Electronics and Communication Engineering\r\n\r\nPROJECTS and PRODUCTS Deliverables\r\n\r\nProduct Development and Expansion\r\n* Upgraded the HCM, Payroll product to Cloud based version without impacting 1500+ clients.\r\n* Release and Deploy Multi country solution catering India, Singapore, Philippines and other south-east countries like Maldives, Indonesia, SriLanka and Bangladesh with agreed Release Calendar.\r\n* Involved in releasing native mobile apps for both Android and iOS and also for PWS-Progressive Web App which serving almost 400,000 records with end to end Pay, Leave and Tax.\r\n\r\nKey Deliverables\r\n* HCM India & SEA\r\n* AWS Transitions and Product version upgrades & migrations.\r\n* Standalone application to Cloud based application upgrade.\r\n* Payroll, Leave, T&A, Performance management with Comprehensive reimbursement claims.\r\n* Compliance management, statutory rules and end to end Employee Exit management system.\r\n\r\nDomain Knowledge\r\n* India & SEA Payroll, HCM\r\n* Indian Stats and Regulatory rules with compliance Management.\r\n* Country specific deductions, law of land.\r\n\r\nPERSONAL DETAILS\r\nDate Of Birth\t24th Dec, 1975\r\nNationality\tIndian\r\nLanguages Known\r\nEnglish - Full professional proficiency\r\nTelugu- Native or bilingual proficiency\r\nHindi - Professional working proficiency\r\nTamil - Professional working proficiency\r\n\r\nPermanent Address   Vanasthalipuram, Hyderabad\r\nCurrent Address\tWest Mambalam, Chennai"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1975-12-24"
+          },
+          "sov:Nationality": {
+            "@inferred": "false",
+            "#text": "Indian"
+          }
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "The candidate's experience appears to be mostly concentrated in Information Technology (mostly Database) and slightly concentrated in Marketing (mostly General). The candidate has 21 years of work experience, with 11 years of management experience, including a mid-level position.",
+          "sov:MonthsOfWorkExperience": "257",
+          "sov:AverageMonthsPerEmployer": "36",
+          "sov:FulltimeDirectHirePredictiveIndex": "85",
+          "sov:MonthsOfManagementExperience": "132",
+          "sov:HighestManagementScore": "55",
+          "sov:ExecutiveType": "general",
+          "sov:ManagementStory": "The following management-related items were found:\r\nApplication Support / Team Leader\r\n\r\nStarting on 1/1/2014, the candidate held the following mid-level management position for 2 years:\r\n\tTitle: Sr. Manager\r\nStarting on 1/1/2012, the candidate held the following mid-level management position for 3 years:\r\n\tTitle: Manager\r\nStarting on 1/1/2005, the candidate held the following low-level management position for 8 years and 1 months:\r\n\tTitle: Application Support / Team Leader",
+          "sov:AttentionNeeded": "ATTENTION: The candidate appears to have been in management in a past role (Sr. Manager) , but was not in management in the most recent role as  for ADP India PVT LTD.",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "51",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "17",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADO",
+                            "@id": "013357",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2012-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "DATABASE ADMINISTRATION",
+                            "@id": "015028",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "120",
+                            "@childrenLastUsed": "2015-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "120",
+                                "@lastUsed": "2015-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-6; POS-8"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS ADO",
+                            "@id": "025411",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "96",
+                            "@childrenLastUsed": "2012-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ADO.NET",
+                                "@id": "013369",
+                                "@existsInText": "true",
+                                "@totalMonths": "96",
+                                "@lastUsed": "2012-12-31",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-8"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS SQL SERVER",
+                            "@id": "023733",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "36",
+                            "@childrenLastUsed": "2005-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SQL SERVER",
+                                "@id": "008483",
+                                "@existsInText": "true",
+                                "@totalMonths": "36",
+                                "@lastUsed": "2005-12-31",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-9"
+                              },
+                              {
+                                "@name": "SQL SERVER 2008",
+                                "@id": "027176",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              },
+                              {
+                                "@name": "SQL SERVER 2008 R2",
+                                "@id": "027177",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SQL",
+                            "@id": "008481",
+                            "@existsInText": "true",
+                            "@totalMonths": "120",
+                            "@lastUsed": "2012-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-8; POS-9"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "8",
+                        "@percentOfParentTaxonomy": "15",
+                        "sov:Skill": [
+                          {
+                            "@name": ".NET",
+                            "@id": "023039",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2012-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-8",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "VISUAL STUDIO",
+                                "@id": "010645",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "API",
+                            "@id": "021194",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "APPLICATION DEVELOPMENT",
+                            "@id": "021556",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "C#",
+                            "@id": "012275",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2012-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2012-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ANGULAR.JS",
+                                "@id": "339002001",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "MS .NET",
+                            "@id": "026107",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "WCF",
+                                "@id": "3391136",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS PROJECT",
+                            "@id": "022952",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "PHP",
+                            "@id": "004736",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "6",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA CENTER",
+                            "@id": "024134",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          },
+                          {
+                            "@name": "DEV OPS",
+                            "@id": "0146073",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "48",
+                            "@childrenLastUsed": "2019-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DEVOPS",
+                                "@id": "0146074",
+                                "@existsInText": "true",
+                                "@totalMonths": "48",
+                                "@lastUsed": "2019-01-01",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY; POS-5"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "IIS",
+                            "@id": "3490027",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "NAGIOS",
+                            "@id": "003261",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "VIRTUALIZATION",
+                            "@id": "3490016",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2014-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "7",
+                        "sov:Skill": [
+                          {
+                            "@name": "AJAX",
+                            "@id": "196001",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "ASP",
+                            "@id": "004324",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "INTERNET INFORMATION SERVICES",
+                            "@id": "022134",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "IIS",
+                                "@id": "002902",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              },
+                              {
+                                "@name": "IIS 7",
+                                "@id": "027168",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MS ASP",
+                            "@id": "025409",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "ASP.NET",
+                                "@id": "004334",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SHAREPOINT",
+                            "@id": "022195",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "TOMCAT",
+                            "@id": "009664",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "022159",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6",
+                            "@childrenTotalMonths": "36",
+                            "@childrenLastUsed": "2005-12-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CONFIGURATION MANAGEMENT",
+                                "@id": "014175",
+                                "@existsInText": "true",
+                                "@totalMonths": "36",
+                                "@lastUsed": "2005-12-31",
+                                "@whereFound": "Found in WORK HISTORY; POS-9"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MIGRATIONS",
+                            "@id": "002468",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          },
+                          {
+                            "@name": "SYSTEM CONFIGURATION",
+                            "@id": "009079",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2005-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-9"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "PMO",
+                            "@id": "005052",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Business Intelligence",
+                        "@id": "554",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT PROJECT",
+                            "@id": "5540950",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS PROJECT",
+                                "@id": "554095002",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT SHAREPOINT",
+                            "@id": "5540951",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SHAREPOINT",
+                                "@id": "554095101",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MICROSOFT SSRS",
+                            "@id": "5540954",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SSRS",
+                                "@id": "554095401",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "MVC",
+                            "@id": "003233",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "USE CASES",
+                            "@id": "010312",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2012-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAIN",
+                            "@id": "339013",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2012-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Mobile Applications",
+                        "@id": "552",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "5520503",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          },
+                          {
+                            "@name": "IOS",
+                            "@id": "5520545",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          },
+                          {
+                            "@name": "MODEL VIEW CONTROLLER",
+                            "@id": "5520572",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "552057201",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Network",
+                        "@id": "198",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "INFRASTRUCTURE MANAGEMENT",
+                            "@id": "019800",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2014-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Distributed Systems",
+                        "@id": "718",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "VIRTUALIZATION",
+                            "@id": "7180009",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2014-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Interface",
+                        "@id": "731",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ANDROID",
+                            "@id": "7310008",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          },
+                          {
+                            "@name": "MODEL-VIEW-CONTROLLER",
+                            "@id": "7310042",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MVC",
+                                "@id": "7310043",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "JIRA",
+                            "@id": "2000006",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "RALLY",
+                            "@id": "2000007",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Privacy and Data Security",
+                        "@id": "556",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUSINESS CONTINUITY",
+                            "@id": "5551264",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "DISASTER RECOVERY",
+                            "@id": "5551236",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "021093",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA CENTER",
+                            "@id": "5530942",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                          },
+                          {
+                            "@name": "REDIS",
+                            "@id": "5530835",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Help Desk",
+                        "@id": "194",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER SUPPORT",
+                            "@id": "023487",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2002-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-11"
+                          },
+                          {
+                            "@name": "TECHNICAL SUPPORT",
+                            "@id": "009271",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "DISASTER RECOVERY",
+                            "@id": "015370",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Service Providers",
+                        "@id": "348",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADP",
+                            "@id": "013477",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "ERP and CRM",
+                        "@id": "195",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "SAP",
+                            "@id": "007436",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "R2",
+                                "@id": "006325",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "RAID",
+                            "@id": "027096",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2003-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-10"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "RAID",
+                            "@id": "5551181",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2003-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-10"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "36",
+                        "sov:Skill": [
+                          {
+                            "@name": "NEW PRODUCT DEVELOPMENT",
+                            "@id": "003440",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Brand Management",
+                        "@id": "227",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "32",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DEVELOPMENT",
+                            "@id": "005612",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Product",
+                        "@id": "585",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "32",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DEVELOPMENT",
+                            "@id": "1400022",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "5",
+                        "@percentOfParentTaxonomy": "88",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGETING",
+                            "@id": "024511",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "012977",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "CONTINUOUS IMPROVEMENT",
+                            "@id": "024199",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "METRICS",
+                            "@id": "021737",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          },
+                          {
+                            "@name": "PROBLEM SOLVING",
+                            "@id": "005482",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CONTINUOUS IMPROVEMENT",
+                            "@id": "024200",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023295",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2014-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-7"
+                          },
+                          {
+                            "@name": "ROOT CAUSE ANALYSIS",
+                            "@id": "080477",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "21",
+                        "sov:Skill": [
+                          {
+                            "@name": "RAID",
+                            "@id": "027097",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2003-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-10"
+                          },
+                          {
+                            "@name": "SUPPORT/MAINTENANCE",
+                            "@id": "024886",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Power Engineering",
+                        "@id": "308",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROOT CAUSE ANALYSIS",
+                            "@id": "080338",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Air and Aerospace",
+                        "@id": "311",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE",
+                            "@id": "025565",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Software and Tools",
+                        "@id": "310",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "WBS",
+                            "@id": "010963",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Telecom",
+                        "@id": "146",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "3",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMMUNICATION ENGINEERING",
+                            "@id": "013973",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "HR Management",
+                        "@id": "579",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "42",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "9000169",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "PERFORMANCE MANAGEMENT",
+                            "@id": "9000152",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Organization Development",
+                        "@id": "581",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "39",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "9000213",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-6"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Payroll",
+                        "@id": "185",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "11",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADP",
+                            "@id": "013475",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "PAYROLL",
+                            "@id": "004366",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Talent Management",
+                        "@id": "584",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "PERFORMANCE MANAGEMENT",
+                            "@id": "9000269",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Compliance",
+                        "@id": "258",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLAIMS",
+                            "@id": "022240",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Degreed Accounting",
+                    "@id": "32",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Reporting",
+                        "@id": "962",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGET",
+                            "@id": "022891",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "BUDGETING",
+                            "@id": "012135",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Payroll",
+                        "@id": "961",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLAIMS",
+                            "@id": "022239",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounts Payable",
+                        "@id": "933",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "CLAIMS",
+                            "@id": "013345",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Bookkeeping, Office Management",
+                    "@id": "89",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Bookeeping Tasks",
+                        "@id": "533",
+                        "@percentOfOverall": "4",
+                        "@percentOfParentTaxonomy": "96",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGET",
+                            "@id": "012120",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "BUDGETING",
+                            "@id": "012132",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Payroll Tasks",
+                        "@id": "535",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "PAYROLL",
+                            "@id": "004365",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Strategy and Planning",
+                    "@id": "71",
+                    "@percentOfOverall": "4",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Workflow and Processes",
+                        "@id": "876",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "PROCESS IMPROVEMENTS",
+                            "@id": "022652",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Planning and Estimating",
+                        "@id": "502",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGETING",
+                            "@id": "012137",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "3",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Accounting",
+                        "@id": "705",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "75",
+                        "sov:Skill": [
+                          {
+                            "@name": "BUDGETING",
+                            "@id": "7000315",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Payroll",
+                        "@id": "728",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADP",
+                            "@id": "7000231",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "13",
+                        "sov:Skill": [
+                          {
+                            "@name": "WBS",
+                            "@id": "010964",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Installation, Maintenance, Repair",
+                    "@id": "72",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Repair",
+                        "@id": "452",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "MAINTENANCE",
+                            "@id": "022117",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          },
+                          {
+                            "@name": "SUPPORT/MAINTENANCE",
+                            "@id": "024887",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2015-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-6"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Call Center or Help Desk or Customer Service",
+                    "@id": "46",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Help Desk",
+                        "@id": "129",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "92",
+                        "sov:Skill": [
+                          {
+                            "@name": "APPLICATION SUPPORT",
+                            "@id": "021721",
+                            "@existsInText": "true",
+                            "@totalMonths": "96",
+                            "@lastUsed": "2012-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-8"
+                          },
+                          {
+                            "@name": "IT SUPPORT",
+                            "@id": "026673",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2002-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-11"
+                          },
+                          {
+                            "@name": "TECHNICAL SUPPORT",
+                            "@id": "009270",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Customer Facing",
+                        "@id": "130",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER SUPPORT",
+                            "@id": "023488",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2002-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-11"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "2",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Admin",
+                        "@id": "113",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "37",
+                        "sov:Skill": [
+                          {
+                            "@name": "CUSTOMER SUPPORT",
+                            "@id": "023486",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2002-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-11"
+                          },
+                          {
+                            "@name": "PRINTERS",
+                            "@id": "005445",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2003-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-10; POS-11"
+                          },
+                          {
+                            "@name": "PRINTING",
+                            "@id": "005446",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2002-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-11"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Related",
+                        "@id": "115",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "ADP",
+                            "@id": "013476",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in WORK HISTORY"
+                          },
+                          {
+                            "@name": "IT SUPPORT",
+                            "@id": "026672",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2002-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-11"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Machines",
+                        "@id": "945",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRINTERS",
+                            "@id": "0054452",
+                            "@existsInText": "true",
+                            "@totalMonths": "60",
+                            "@lastUsed": "2003-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-10; POS-11"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Accounting Related",
+                        "@id": "117",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "PAYROLL",
+                            "@id": "022783",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Power Engineering",
+                    "@id": "26",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General Power Related",
+                        "@id": "925",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "67",
+                        "sov:Skill": [
+                          {
+                            "@name": "ROOT CAUSE ANALYSIS",
+                            "@id": "007238",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Non-Nuclear Power Misc",
+                        "@id": "924",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "33",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021195",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100"
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Common End-user Software",
+                    "@id": "0",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Planning and Analysis",
+                        "@id": "230",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "80",
+                        "sov:Skill": [
+                          {
+                            "@name": "MICROSOFT PROJECT",
+                            "@id": "024342",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "MS PROJECT",
+                                "@id": "022951",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in SKILLS; WORK HISTORY"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Core Office",
+                        "@id": "108",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "20",
+                        "sov:Skill": [
+                          {
+                            "@name": "LAN",
+                            "@id": "020490",
+                            "@existsInText": "true",
+                            "@totalMonths": "48",
+                            "@lastUsed": "2002-12-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-11"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Security",
+                    "@id": "98",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Disaster",
+                        "@id": "464",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "58",
+                        "sov:Skill": [
+                          {
+                            "@name": "DISASTER RECOVERY",
+                            "@id": "023065",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Financial, Accounting and Processes",
+                        "@id": "466",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "42",
+                        "sov:Skill": [
+                          {
+                            "@name": "INCIDENT MANAGEMENT",
+                            "@id": "019592",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2005-12-31",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY; POS-9"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Personal Attributes",
+                    "@id": "90",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Languages",
+                        "@id": "529",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "BI-LINGUAL",
+                            "@id": "025179",
+                            "@existsInText": "false",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "BILINGUAL",
+                                "@id": "0251792",
+                                "@existsInText": "true",
+                                "@whereFound": "Found in LANGUAGES"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOCUMENTING",
+                            "@id": "023928",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in SKILLS; WORK HISTORY"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Environmental",
+                    "@id": "6",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Testing, Assessments, and Monitoring",
+                        "@id": "328",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "COMPLIANCE MANAGEMENT",
+                            "@id": "014023",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in EDUCATION"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "3",
+              "@ends": "13",
+              "@sectionType": "OBJECTIVE",
+              "#text": "OBJECTIVE"
+            },
+            {
+              "@starts": "14",
+              "@ends": "22",
+              "@sectionType": "PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+              "#text": "Notable Accomplishments"
+            },
+            {
+              "@starts": "23",
+              "@ends": "29",
+              "@sectionType": "WORK HISTORY",
+              "#text": "Employment History"
+            },
+            {
+              "@starts": "30",
+              "@ends": "80",
+              "@sectionType": "WORK HISTORY",
+              "#text": "INDUSTRY EXPERIENCE"
+            },
+            {
+              "@starts": "81",
+              "@ends": "119",
+              "@sectionType": "SKILLS",
+              "#text": "Skillset"
+            },
+            {
+              "@starts": "120",
+              "@ends": "142",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATIONAL QUALIFICATION"
+            },
+            {
+              "@starts": "143",
+              "@ends": "145",
+              "@sectionType": "CONTACT INFO",
+              "#text": "PERSONAL DETAILS"
+            },
+            {
+              "@starts": "146",
+              "@ends": "153",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages Known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "+91-9677037747"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "Ramkamal.Agastyaraju@gmail.com"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Date Of Birth\t24th Dec, 1975",
+              "Nationality\tIndian"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "8249",
+        "sov:ParseTime": "918",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:302;] A first and last name was not found in the contact information. A resume should always include the candidate's first and last name.",
+                    "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.",
+                    "[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:221;POS-1,POS-2,POS-3,POS-4] We could not find a job title for: POS-1, POS-2, POS-3, POS-4. Every position in a resume should have a job title.",
+                    "[Sovren:222;POS-6,POS-7,POS-8] No employer name was found for:  POS-6, POS-7, POS-8. Every position in a resume should have an employer name."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:112;] The following section was identified as a skills section type: 'Skillset'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                    "[Sovren:151;4] The following section does not have the header on a separate line: 'Skillset'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:f57d8805-3a36-48a7-afb0-f7157368c537",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "szv7//////8="
+      }
+    }
+  }
+}

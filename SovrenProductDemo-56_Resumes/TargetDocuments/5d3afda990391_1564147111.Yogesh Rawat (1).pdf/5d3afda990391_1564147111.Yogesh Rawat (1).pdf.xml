@@ -1,0 +1,549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Yogesh Rawat</FormattedName>
+				<GivenName>Yogesh</GivenName>
+				<FamilyName>Rawat</FamilyName>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>ANDHRA PRADESH</Region>
+					<Municipality>Hyderabad</Municipality>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>yosh.rawat@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>linkedIn</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>https://www.linkedin.com/in/yogesh-rawat-23820866?jobid=1234&amp;lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BnlStGXLrQSqfO0zQ03IM3A%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile</InternetWebAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>linkedIn</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetWebAddress>https://www.linkedin.com/in/yogesh-rawat-23820866</InternetWebAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<ExecutiveSummary>Experienced Resource
+Completed B.tech in Computers from Roorkee Institute Of
+Technologies, Roorkee and the then joined CDAC-ACTS (Advanced
+Computing Training School, the premier R&amp;D organization of the
+Department of Electronics and Information Technology (DeitY)) to
+meet the ever-increasing skilled manpower requirements of the Information Communication Technologies (ICT) industry.
+During engineering days I learnt basic skill-set required to survive in IT industry, but I got to know my passion, place and the real
+application of knowledge in IT industry after joining CDAC. There I
+learnt efficient programming skills after knowing how and why they
+are required and what purpose they serve in real life.
+An AWS Certified Developer, I'm a proficient Software Engineer with
+extensive experience in Software Design &amp; Development of Enterprise and Cloud-based web Applications using CORE
+JAVA &amp; J2EE technology.Extensively worked in development of microservices with Spring &amp; Spring Boot Framework and Spring
+Cloud.
+Knowledge In:
+• AWS Stack: EC2, AWS Lambda, S3, DynamoDB, CloudWatch,
+AWS CLI, CloudFormation, SES, SNS, SQS, Kinesis, IAM, Cloud9
+• Programming &amp; Scripting languages: Java, Unix, Shell Scripting
+• Framework: Spring Framework. Spring cloud, Spring Security.
+• Development Notebooks and IDE: STS, Eclipse and Jupyter
+Notebook
+• Relational &amp; NOSQL Databases: Mariadb, Oracle,
+MySQL, Cassandra
+• Versioning Control &amp; DevOps Toolset: JIRA, GIT, Confluence,
+Wiki, Jenkins, Gitlab CI
+• Container Orchestration: Docker &amp; kubernetes
+• Knowledge of Apache Drill, Kafka and Apache Ignite</ExecutiveSummary>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>DBS Bank</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Analyst</Title>
+					<OrgName>
+						<OrganizationName>DBS Bank</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Area, India</Description>
+					<StartDate>
+						<YearMonth>2017-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<StringDate>current</StringDate>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SN">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>DBS Bank</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Analyst</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>DBS Bank</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Oracle</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Application Engineer</Title>
+					<OrgName>
+						<OrganizationName>Oracle</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>ANDHRA PRADESH</Region>
+							<Municipality>Hyderabad</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Area, India</Description>
+					<StartDate>
+						<YearMonth>2015-04</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2017-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Senior (more than 5 years experience)</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BS">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SS">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Oracle</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Application Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Oracle</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Happiest Minds Technologies</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Software Engineer</Title>
+					<OrgName>
+						<OrganizationName>Happiest Minds Technologies</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>IN</CountryCode>
+							<Region>KARNATAKA</Region>
+							<Municipality>Bengaluru</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Area, India</Description>
+					<StartDate>
+						<YearMonth>2013-03</YearMonth>
+					</StartDate>
+					<EndDate>
+						<YearMonth>2015-04</YearMonth>
+					</EndDate>
+					<JobCategory>
+						<TaxonomyName>Job Level</TaxonomyName>
+						<CategoryCode>Entry Level</CategoryCode>
+					</JobCategory>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbabilityInterpretation internalUseOnly="BP">Confident</sov:CompanyNameProbabilityInterpretation>
+							<sov:PositionTitleProbabilityInterpretation internalUseOnly="SQ">Confident</sov:PositionTitleProbabilityInterpretation>
+							<sov:NormalizedOrganizationName>Happiest Minds Technologies</sov:NormalizedOrganizationName>
+							<sov:NormalizedTitle>Software Engineer</sov:NormalizedTitle>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<UserArea>
+					<sov:EmployerOrgUserArea>
+						<sov:NormalizedEmployerOrgName>Happiest Minds Technologies</sov:NormalizedEmployerOrgName>
+					</sov:EmployerOrgUserArea>
+				</UserArea>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>InfoTech</SchoolName>
+				</School>
+				<Degree degreeType="some post-graduate">
+					<DegreeName>PG Diploma</DegreeName>
+					<DegreeDate>
+						<Year>2013</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Computing</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2012</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2013</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Sunbeam InfoTech
+PG Diploma, Diploma in Advance Computing • (2012 - 2013)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+							<sov:NormalizedDegreeName>somepostgraduate</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>some post-graduate</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>InfoTech</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>Roorkee Institue of Technology</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>IN</CountryCode>
+					<Region>UTTARAKHAND</Region>
+					<Municipality>Roorkee</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Technology</DegreeName>
+					<DegreeDate>
+						<Year>2011</Year>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>(BTech), Computer Science and Engineering</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<Year>2007</Year>
+						</StartDate>
+						<EndDate>
+							<Year>2011</Year>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>Roorkee Institue of Technology
+Bachelor of Technology (BTech), Computer Science and Engineering • (2007 - 2011)</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+							<sov:NormalizedDegreeName>bachelors</sov:NormalizedDegreeName>
+							<sov:NormalizedDegreeType>bachelors</sov:NormalizedDegreeType>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+				<UserArea>
+					<sov:SchoolOrInstitutionTypeUserArea>
+						<sov:NormalizedSchoolName>Roorkee Institue of Technology</sov:NormalizedSchoolName>
+					</sov:SchoolOrInstitutionTypeUserArea>
+				</UserArea>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>AWS Certified Developer - Associate</Name>
+				<Id>1</Id>
+				<Description>certification; found in CERTIFICATIONS</Description>
+			</LicenseOrCertification>
+			<LicenseOrCertification>
+				<Name>Certified Developer</Name>
+				<Id>2</Id>
+				<Description>certification; found in CERTIFICATIONS; matched to list</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>Top Skills
+Java
+J2EE Application Development
+JavaScript</QualificationSummary>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>English (Professional Working)</Comments>
+			</Language>
+			<Language>
+				<LanguageCode>hi</LanguageCode>
+				<Read>true</Read>
+				<Write>false</Write>
+				<Speak>false</Speak>
+				<Comments>Hindi (Professional Working)</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Spot Award</Description>
+			</Achievement>
+		</Achievements>
+		<RevisionDate>2019-11-18</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>https://www.linkedin.com/in/yogesh-rawat-23820866?jobid=1234&amp;lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BnlStGXLrQSqfO0zQ03IM3A%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile
+
+www.linkedin.com/in/yogesh-rawat-23820866
+Yogesh Rawat
+Analyst at DBS Bank
+Hyderabad, Telangana, India
+Summary
+Experienced Resource
+Completed B.tech in Computers from Roorkee Institute Of
+Technologies, Roorkee and the then joined CDAC-ACTS (Advanced
+Computing Training School, the premier R&amp;D organization of the
+Department of Electronics and Information Technology (DeitY)) to
+meet the ever-increasing skilled manpower requirements of the Information Communication Technologies (ICT) industry.
+During engineering days I learnt basic skill-set required to survive in IT industry, but I got to know my passion, place and the real
+application of knowledge in IT industry after joining CDAC. There I
+learnt efficient programming skills after knowing how and why they
+are required and what purpose they serve in real life.
+An AWS Certified Developer, I'm a proficient Software Engineer with
+extensive experience in Software Design &amp; Development of Enterprise and Cloud-based web Applications using CORE
+JAVA &amp; J2EE technology.Extensively worked in development of microservices with Spring &amp; Spring Boot Framework and Spring
+Cloud.
+Knowledge In:
+• AWS Stack: EC2, AWS Lambda, S3, DynamoDB, CloudWatch,
+AWS CLI, CloudFormation, SES, SNS, SQS, Kinesis, IAM, Cloud9
+• Programming &amp; Scripting languages: Java, Unix, Shell Scripting
+• Framework: Spring Framework. Spring cloud, Spring Security.
+• Development Notebooks and IDE: STS, Eclipse and Jupyter
+Notebook
+• Relational &amp; NOSQL Databases: Mariadb, Oracle,
+MySQL, Cassandra
+• Versioning Control &amp; DevOps Toolset: JIRA, GIT, Confluence,
+Wiki, Jenkins, Gitlab CI
+• Container Orchestration: Docker &amp; kubernetes
+• Knowledge of Apache Drill, Kafka and Apache Ignite
+Experience
+DBS Bank
+Analyst
+April 2017 - Present
+Hyderabad Area, India
+
+
+Oracle
+Application Engineer
+April 2015 - April 2017 (2 years 1 month)
+Hyderabad Area, India
+
+
+Happiest Minds Technologies
+Software Engineer
+March 2013 - April 2015 (2 years 2 months)
+Bengaluru Area, India
+
+
+Education
+Sunbeam InfoTech
+PG Diploma, Diploma in Advance Computing • (2012 - 2013)
+
+
+Roorkee Institue of Technology
+Bachelor of Technology (BTech), Computer Science and Engineering • (2007 - 2011)
+Contact
+yosh.rawat@gmail.com
+
+Top Skills
+Java
+J2EE Application Development
+JavaScript
+Languages
+English (Professional Working)
+Hindi (Professional Working)
+Certifications
+AWS Certified Developer - Associate
+Honors-Awards
+Spot Award</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>IN</sov:Country>
+				<sov:CultureInfo>en-IN</sov:CultureInfo>
+			</sov:Culture>
+			<sov:ExperienceSummary>
+				<sov:Description>Yogesh Rawat's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Light Technical/Trades/Skilled Labor (mostly Other). Yogesh Rawat has 7 years of work experience.</sov:Description>
+				<sov:MonthsOfWorkExperience>81</sov:MonthsOfWorkExperience>
+				<sov:AverageMonthsPerEmployer>27</sov:AverageMonthsPerEmployer>
+				<sov:FulltimeDirectHirePredictiveIndex>85</sov:FulltimeDirectHirePredictiveIndex>
+				<sov:MonthsOfManagementExperience>0</sov:MonthsOfManagementExperience>
+				<sov:HighestManagementScore>0</sov:HighestManagementScore>
+				<sov:ExecutiveType>none</sov:ExecutiveType>
+				<sov:ManagementStory />
+				<sov:SkillsTaxonomyOutput>
+					<sov:TaxonomyRoot name="Sovren">
+						<sov:Taxonomy name="Information Technology" id="10" percentOfOverall="88">
+							<sov:Subtaxonomy name="Programming" id="204" percentOfOverall="38" percentOfParentTaxonomy="43">
+								<sov:Skill name="APPLICATION DEVELOPMENT" id="021556" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="DOCKER" id="3391147" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="Git" id="1004755" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="JAVASCRIPT" id="025394" existsInText="true" whereFound="Found in SKILLS"></sov:Skill>
+								<sov:Skill name="JENKINS" id="3391150" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SCRIPTING" id="024873" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SOFTWARE ENGINEER" id="008220" existsInText="true" totalMonths="25" lastUsed="2015-04-01" whereFound="Found in CERTIFICATIONS; SUMMARY; WORK HISTORY; POS-3"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Cloud Computing" id="550" percentOfOverall="13" percentOfParentTaxonomy="15">
+								<sov:Skill name="Amazon Elastic Compute Cloud" id="5500001" existsInText="false">
+									<sov:ChildSkill name="EC2" id="550000102" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="AMAZON KINESIS" id="5500306" existsInText="false">
+									<sov:ChildSkill name="KINESIS" id="550030601" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="ASTERADATA" id="5500311" existsInText="false">
+									<sov:ChildSkill name="CASSANDRA" id="550031101" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Big Data" id="553" percentOfOverall="10" percentOfParentTaxonomy="11">
+								<sov:Skill name="AMAZON DYNAMODB" id="5530875" existsInText="false">
+									<sov:ChildSkill name="DYNAMODB" id="553087501" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+								<sov:Skill name="APACHE DRILL" id="5530706" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="CASSANDRA" id="5530915" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="KAFKA" id="5531005" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="NOSQL" id="5530812" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Java" id="339" percentOfOverall="9" percentOfParentTaxonomy="10">
+								<sov:Skill name="ECLIPSE" id="015844" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="J2EE" id="020255" existsInText="true" whereFound="Found in SKILLS; SUMMARY"></sov:Skill>
+								<sov:Skill name="JAVA" id="023328" existsInText="true" whereFound="Found in SKILLS; SUMMARY">
+									<sov:ChildSkill name="SPRING" id="3391126" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="UNIX and LINUX" id="203" percentOfOverall="5" percentOfParentTaxonomy="5">
+								<sov:Skill name="APACHE" id="021093" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="SHELL SCRIPTING" id="007925" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="UNIX" id="01026309" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Database" id="193" percentOfOverall="5" percentOfParentTaxonomy="5">
+								<sov:Skill name="MYSQL" id="003243" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+								<sov:Skill name="ORACLE" id="031048" existsInText="true" whereFound="Found in SUMMARY; WORK HISTORY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Operations, Monitoring and Software Management" id="349" percentOfOverall="3" percentOfParentTaxonomy="4">
+								<sov:Skill name="DEV OPS" id="0146073" existsInText="false">
+									<sov:ChildSkill name="DEVOPS" id="0146074" existsInText="true" whereFound="Found in SUMMARY"></sov:ChildSkill>
+								</sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Enterprise Storage" id="555" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="UNIX" id="5551207" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="QA and QC" id="200" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="JIRA" id="2000006" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Architecture" id="201" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="SOFTWARE DESIGN" id="025845" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Internet" id="196" percentOfOverall="2" percentOfParentTaxonomy="2">
+								<sov:Skill name="SECURITY" id="022110" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Light Technical/Trades/Skilled Labor" id="27" percentOfOverall="5">
+							<sov:Subtaxonomy name="Other" id="293" percentOfOverall="5" percentOfParentTaxonomy="100">
+								<sov:Skill name="AWS CERTIFIED" id="025597" existsInText="true" whereFound="Found in CERTIFICATIONS; SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Engineering" id="5" percentOfOverall="5">
+							<sov:Subtaxonomy name="Design" id="134" percentOfOverall="2" percentOfParentTaxonomy="33">
+								<sov:Skill name="SOFTWARE DESIGN" id="080910" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="General Engineering" id="307" percentOfOverall="2" percentOfParentTaxonomy="33">
+								<sov:Skill name="SOFTWARE DESIGN" id="080405" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+							<sov:Subtaxonomy name="Air and Aerospace" id="311" percentOfOverall="2" percentOfParentTaxonomy="33">
+								<sov:Skill name="APACHE" id="025565" existsInText="true" whereFound="Found in SUMMARY"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+						<sov:Taxonomy name="Sales" id="20" percentOfOverall="2">
+							<sov:Subtaxonomy name="Entry Level" id="500" percentOfOverall="2" percentOfParentTaxonomy="100">
+								<sov:Skill name="ASSOCIATE" id="004917" existsInText="true" whereFound="Found in CERTIFICATIONS"></sov:Skill>
+							</sov:Subtaxonomy>
+						</sov:Taxonomy>
+					</sov:TaxonomyRoot>
+				</sov:SkillsTaxonomyOutput>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="6" ends="33" sectionType="SUMMARY">Summary</sov:Section>
+				<sov:Section starts="34" ends="52" sectionType="WORK HISTORY">Experience</sov:Section>
+				<sov:Section starts="53" ends="59" sectionType="EDUCATION">Education</sov:Section>
+				<sov:Section starts="60" ends="62" sectionType="CONTACT INFO">Contact</sov:Section>
+				<sov:Section starts="63" ends="66" sectionType="SKILLS">Top Skills</sov:Section>
+				<sov:Section starts="67" ends="69" sectionType="LANGUAGES">Languages</sov:Section>
+				<sov:Section starts="70" ends="71" sectionType="CERTIFICATIONS">Certifications</sov:Section>
+				<sov:Section starts="72" ends="73" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">Honors-Awards</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Names>
+					<sov:Name>yogesh-rawat</sov:Name>
+					<sov:Name>Yogesh Rawat</sov:Name>
+				</sov:Names>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>yosh.rawat@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+				<sov:Urls>
+					<sov:Url>https://www.linkedin.com/in/yogesh-rawat-23820866?jobid=1234&amp;lipi=urn%3Ali%3Apage%3Ad_jobs_easyapply_pdfgenresume%3BnlStGXLrQSqfO0zQ03IM3A%3D%3D&amp;licu=urn%3Ali%3Acontrol%3Ad_jobs_easyapply_pdfgenresume-v02_profile</sov:Url>
+					<sov:Url>https://www.linkedin.com/in/yogesh-rawat-23820866</sov:Url>
+				</sov:Urls>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>2628</sov:ParsedTextLength>
+			<sov:ParseTime>359</sov:ParseTime>
+			<sov:ResumeQuality>
+				<sov:Assessments>
+					<sov:Assessment>
+						<sov:Level>Major Issues Found</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:303;0] The following section in the resume contains more content than the work history and education sections combined: 'Summary'. This may indicate a problem with section headers, formatting, or content.</sov:Information>
+							<sov:Information>[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Data Missing</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:212;] A phone number was not found in the contact information. A resume should always include a phone number.</sov:Information>
+							<sov:Information>[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+					<sov:Assessment>
+						<sov:Level>Suggested Improvements</sov:Level>
+						<sov:Findings>
+							<sov:Information>[Sovren:112;] The following section was identified as a skills section type: 'Top Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.</sov:Information>
+						</sov:Findings>
+					</sov:Assessment>
+				</sov:Assessments>
+			</sov:ResumeQuality>
+			<sov:LicenseSerialNumber>13430659:67f903d5-d5fb-418c-8d0e-b41dcf4e6661</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; InputFormat.KnownFormat = LinkedIn; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25</sov:ParserConfigurationString>
+			<sov:ParserVersion>9.3.7.0</sov:ParserVersion>
+			<sov:DigitalSignature>sBT///////8=</sov:DigitalSignature>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>

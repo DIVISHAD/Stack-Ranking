@@ -1,0 +1,2139 @@
+{
+  "Resume": {
+    "@xml:lang": "en",
+    "@xmlns": "http://ns.hr-xml.org/2006-02-28",
+    "@xmlns:sov": "http://sovren.com/hr-xml/2006-02-28",
+    "ResumeId": {
+      "IdValue": null
+    },
+    "StructuredXMLResume": {
+      "ContactInfo": {
+        "PersonName": {
+          "FormattedName": "Amit Agarwal",
+          "GivenName": "Amit",
+          "FamilyName": "Agarwal"
+        },
+        "ContactMethod": [
+          {
+            "Telephone": {
+              "FormattedNumber": "+919528627879"
+            }
+          },
+          {
+            "Use": "personal",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetEmailAddress": "amitinagarwal@gmail.com"
+          },
+          {
+            "Use": "businessDirect",
+            "Location": "onPerson",
+            "WhenAvailable": "anytime",
+            "InternetWebAddress": "https://github.com/amitdotagarwal"
+          }
+        ]
+      },
+      "EmploymentHistory": {
+        "EmployerOrg": [
+          {
+            "EmployerOrgName": "Barterfly.io",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "@currentEmployer": "true",
+                "Title": "Co-Founder",
+                "OrgName": {
+                  "OrganizationName": "Barterfly.io"
+                },
+                "OrgInfo": [
+                  {
+                    "WebSite": "Barterfly.io"
+                  }
+                ],
+                "Description": "(Travel domain)\r\n● Product Design, Wireframe creation\r\n● Code writing, deployment, architecture\r\n● A/B testing, product optimization",
+                "StartDate": {
+                  "YearMonth": "2019-01"
+                },
+                "EndDate": {
+                  "StringDate": "current"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "User Experience → Industrial Design",
+                    "Comments": "User Experience describes 64% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior Executive (President, C-level)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-1",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "BN",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:IsSelfEmployed": "true",
+                    "sov:SelfEmploymentPhrase": "Co-Founder",
+                    "sov:NormalizedOrganizationName": "Barterfly.io",
+                    "sov:NormalizedTitle": "Co Founder"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Barterfly.io"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "Western Union(Fintech)",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Engineering Manager",
+                "OrgName": {
+                  "OrganizationName": "Western Union(Fintech)"
+                },
+                "Description": "Company name: Western Union(Fintech)\r\nTechnology: Python, Javascript, Salesforce, Exacttarget, Experian, Ruby on Rails(ROR), Cloud, , Java, Heroku,\r\nAmazon  and Reactjs.\r\n\r\n●\tEngineering Head (leading a team of 20+ engineers, designers for the  mobile and webs applications, in both Agile and SDLC way)\r\n●\tInteraction with product owners to create epics, user stories, sprint planning, team meeting.\r\n●\tTask estimation, team velocity, and to follow project deadline.\r\n●\tDefine technology architecture, design and roadmap.\r\n●\tDefine Architecture, set up Amazon servers, CI/CD, cloud for both UAT and for the production\r\nenvironment.\r\n●\tAssess risk as well as security, performance, and scalability\r\n●\tProvide insights into software, new technology, and trends\r\n●\tWork with the executive team to define goals and manage progress\r\n●\tLead software integration with partners\r\n●\tTeam members empowerment, set rules to go live and defining Definition of Done(DOD).\r\n●\tCoordinate and communicate with the offshore team.\r\n●\tInteraction with senior manager and to provide Daily/Weekly/Monthly status, to create APAC\r\nworksheet.",
+                "StartDate": {
+                  "YearMonth": "2017-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2019-01"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 63% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Manager"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-2",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SF",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NumberOfEmployeesSupervised": "20",
+                    "sov:NormalizedOrganizationName": "Western Union Fintech",
+                    "sov:NormalizedTitle": "Engineering Manager"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "Western Union Fintech"
+              }
+            }
+          },
+          {
+            "EmployerOrgName": "TATA CONSULTANCY SERVICES",
+            "PositionHistory": [
+              {
+                "@positionType": "directHire",
+                "Title": "Engineering Head",
+                "OrgName": {
+                  "OrganizationName": "TATA CONSULTANCY SERVICES"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "SG",
+                      "Municipality": "Singapore"
+                    }
+                  }
+                ],
+                "Description": "Client: Aligntech(Consumer, professional and Doctor store websites, e-commerce)\r\nTechnology: Python, Javascript, Salesforce, Exacttarget, Experian, Ruby on Rails(ROR), Cloud, , Java, Heroku,\r\nAmazon  and Reactjs.\r\n\r\n●\tEngineering Head (leading a team of 20+ engineers, mobile and webs applications) and Scrum Master\r\n(Scrum of Scrum team) leading a cross functional team.\r\n●\tResponsible for writing code, test cases (95% test coverage), peer programming and code\r\nreview(Github) and to overall follow process.\r\n●\tTeam members empowerment, set rules to go live and defining Definition of Done(DOD).\r\n●\tCoordinate and communicate with the offshore team.\r\n●\tTeam empowerment and to define DOD.\r\n●\tWork with Devops team for the automation by using automation tools for the deployment, testing\r\nand for the repetitive process.\r\n●\tBillions of records databases management through tools like Solr, Hadoop.\r\n●\tInteraction with senior manager and to provide Daily/Weekly/Monthly status, to create APAC\r\nworksheet.\r\n●\tGood knowledge of Digital technologies like A/B Testing configuration and SEO, SCM, Cost per click & conversation ratio.\r\n●\tPlatform scalability and concurrency performance.\r\n●\tFacilitate sprint planning, daily scrums, retrospectives, stakeholder meetings, software\r\ndemonstrations, requirements definition, design and implementation of integrations and enterprise\r\nservices.\r\n●\tWorking with business owners to propose high-quality user experience solutions for web and mobile applications and to map requirements into technical and functional documents.\r\n●\tResponsible for working with the configuration management and administration teams to provide\r\naccurate build and deployment instructions.\r\n●\tSEO & SCM - Search volume & keyword selection.\r\n●\tCost per click & conversation ratio.\r\n●\tNurturing user data and increase user opts-in.\r\n●\tCreating KPI dashboard and Tag Management(UTM_SOURCE), Social media (Like Facebook, Twitter)\r\nbranding.\r\n●\tManaging all Digital marketing tools and provide training to the Associates.",
+                "StartDate": {
+                  "YearMonth": "2015-08"
+                },
+                "EndDate": {
+                  "YearMonth": "2017-08"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 63% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Senior (more than 5 years experience)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-3",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NumberOfEmployeesSupervised": "20",
+                    "sov:NormalizedOrganizationName": "TATA CONSULTANCY SERVICES",
+                    "sov:NormalizedTitle": "Engineering Head"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Engineering Manager",
+                "OrgName": {
+                  "OrganizationName": "TATA CONSULTANCY SERVICES"
+                },
+                "OrgInfo": [
+                  {
+                    "PositionLocation": {
+                      "CountryCode": "NO",
+                      "Municipality": "ROR"
+                    }
+                  }
+                ],
+                "Description": "Java, Sinatra, BDD, Heroku, Html, JavaScript, Database\r\nClient - Posten Norge(Online postal ecommerce service)\r\n● Drive project and program delivery.\r\n● Responsible for ensuring project delivery on time on schedule and with quality.\r\n● Effectively communicate with team members and stakeholders in a timely and clear fashion.\r\n● Identify and resolve issues and conflicts within the program, projects and project management community\r\nand with other stakeholders if necessary.\r\n● Resolve issues at the project or line level and escalate issues which cannot be resolved in a timely and accurate manner.\r\n● Manage key stakeholders and business and technology leads.\r\n● Manage and communicate effectively with domain leads at senior level and working level teams.\r\n● Responsible for ensuring project steering committee meetings, cross function meetings and other key\r\nproject meetings are effective and achieve objectives on a consistent manner.\r\n● Change management.\r\n● Responsible  for to drive the adoption of agile methodology across teams.\r\n● Responsible  for to work with users to drive changes within the organization for projects implementation.\r\n● Develop best practices and tools for project execution and management.\r\n● Ensure utilization of standards and practices across all projects.",
+                "StartDate": {
+                  "YearMonth": "2010-06"
+                },
+                "EndDate": {
+                  "YearMonth": "2015-07"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Programming",
+                    "Comments": "Information Technology describes 41% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Executive (VP, Dept Head)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-4",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "ST",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "TATA CONSULTANCY SERVICES",
+                    "sov:NormalizedTitle": "Engineering Manager"
+                  }
+                }
+              },
+              {
+                "@positionType": "directHire",
+                "Title": "Senior Software Engineer",
+                "OrgName": {
+                  "OrganizationName": "TATA CONSULTANCY SERVICES"
+                },
+                "Description": "Client - ClearTrip\r\n● As  a  scrum  master  facilitated  daily  scrum  meetings, sprint  planning, sprint  review, and  sprint\r\nretrospective.\r\n● Worked with the business analyst to understand the business requirement, use case analysis.\r\n● Experience working with  diverse cross-functional teams.\r\n● Work with development team, conflict resolution, team management, risk management.\r\n● Interaction with the Product Owners to understand the project requirement and to create user story for\r\nthe development(BDD, TDD), by using Agile tools like Jira.\r\n● Enforce Agile principle such as Automation testing, Continuous integration.\r\n● Conduct Daily stand-up call, ATDD, Sprint Planning, Retrospective.\r\n● Manage Kanban dashboard, Burn-down chart and to find team velocity.\r\n● Project documentation through tools like Confluence/ Wiki.\r\n● Enabled improvement in team delivery commitments and capacity planning for sprints by identifying & tracking hidden tasks that increased customer satisfaction.\r\n● Team empowerment and to define DOD.\r\n● Work with Devops team for the automation by using automation tools for the deployment, testing and for the repetitive process.",
+                "StartDate": {
+                  "YearMonth": "2007-06"
+                },
+                "EndDate": {
+                  "YearMonth": "2010-06"
+                },
+                "JobCategory": [
+                  {
+                    "TaxonomyName": "Skills taxonomy",
+                    "CategoryCode": "Information Technology → Architecture",
+                    "Comments": "Information Technology describes 33% of this job"
+                  },
+                  {
+                    "TaxonomyName": "Job Level",
+                    "CategoryCode": "Experienced (non-manager)"
+                  }
+                ],
+                "UserArea": {
+                  "sov:PositionHistoryUserArea": {
+                    "sov:Id": "POS-5",
+                    "sov:CompanyNameProbabilityInterpretation": {
+                      "@internalUseOnly": "SS",
+                      "#text": "Confident"
+                    },
+                    "sov:PositionTitleProbabilityInterpretation": {
+                      "@internalUseOnly": "SN",
+                      "#text": "Confident"
+                    },
+                    "sov:NormalizedOrganizationName": "TATA CONSULTANCY SERVICES",
+                    "sov:NormalizedTitle": "Senior Software Engineer",
+                    "sov:Subtitles": {
+                      "sov:Subtitle": [
+                        "Software Engineer"
+                      ]
+                    }
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:EmployerOrgUserArea": {
+                "sov:NormalizedEmployerOrgName": "TATA CONSULTANCY SERVICES"
+              }
+            }
+          }
+        ]
+      },
+      "EducationHistory": {
+        "SchoolOrInstitution": [
+          {
+            "@schoolType": "university",
+            "School": [
+              {
+                "SchoolName": "Symbiosis Centre for Distance Learning"
+              }
+            ],
+            "Degree": [
+              {
+                "@degreeType": "masters",
+                "DegreeName": "MBA",
+                "DegreeDate": {
+                  "Year": "2010"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "Operations and data analytics"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2010"
+                    }
+                  }
+                ],
+                "Comments": "2010\r\nMBA  - Operations and data analytics (DL),\r\nSymbiosis Centre for Distance Learning, INDIA",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-1",
+                    "sov:NormalizedDegreeName": "MBA",
+                    "sov:NormalizedDegreeType": "MBA"
+                  }
+                }
+              }
+            ],
+            "UserArea": {
+              "sov:SchoolOrInstitutionTypeUserArea": {
+                "sov:NormalizedSchoolName": "Symbiosis Center for Distance Learning"
+              }
+            }
+          },
+          {
+            "@schoolType": "UNSPECIFIED",
+            "Degree": [
+              {
+                "@degreeType": "bachelors",
+                "DegreeName": "Bachelor of Engineering in Computer Science",
+                "DegreeDate": {
+                  "Year": "2007"
+                },
+                "DegreeMajor": [
+                  {
+                    "Name": [
+                      "UPTU, INDIA"
+                    ]
+                  }
+                ],
+                "DatesOfAttendance": [
+                  {
+                    "StartDate": {
+                      "AnyDate": "notKnown"
+                    },
+                    "EndDate": {
+                      "Year": "2007"
+                    }
+                  }
+                ],
+                "Comments": "2007\r\nBachelor of Engineering in Computer Science,\r\nUPTU, INDIA\r\nGiving back to communities:\r\nGithub Account: https://github.com/amitdotagarwal/\r\nAs an open Source Mentor: -\r\nI  played  open  source  Mentor, and  mentor  people  from  brazil, US, and  developed  Octopus\r\nGem.https://github.com/thiagopradi/octopus\r\n(Scroll down the page to check for authenticity, you can see thanks note.)\r\n\r\nTECHNOLOGY:\r\nAgile\tUser Story, Kanban, BDD, Continuous Integration, Jira, Rally, Trello, Confluence,\r\nAgile game, ATDD, Burndown Chart, Velocity.\r\nData Structure\tArray, Pointer, Structure, Linked List, Stack, Queue, Graph\r\nScalability\tKubernetes, Docker, AWS, Balance loader\r\nLanguages\tRuby, Python, Selenium, Node JS, PHP, Scala(Basic), Ruby on Rails(ROR)\r\nWeb Technologies\tXHTML, CSS, JavaScript(Angular, Reactjs), AJAX, Restful API\r\n\r\nOperating System\tWindows, Linux/Unix, OSX\r\nDatabase\tMySQL, Postgres, MongoDB, NoSQL(Redis)\r\nJavascript\tjQuery, ReactJS, happyjs, ES6\r\n\r\nTest Framework\tR-spec, R-Unit, Selenium, Cucumber\r\nTools\tPuppet, Jira, Jenkins(CI), New Relic, Heroku, Amazon, Chef, RabbitMQ, ,\r\nPoltergeist, Capybara, PhantomJS, Cucumber, Rspec., Nignix, Github\r\n\r\nAnalytics(KPI)\tGoogle Analytics, Google Tag Manager, Sizmek, Yahoo, Facebook, Naver",
+                "UserArea": {
+                  "sov:DegreeUserArea": {
+                    "sov:Id": "DEG-2",
+                    "sov:NormalizedDegreeName": "bachelors",
+                    "sov:NormalizedDegreeType": "bachelors"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      "LicensesAndCertifications": {
+        "LicenseOrCertification": [
+          {
+            "Name": "Certificate in Scrum Master in TCS",
+            "Id": "1",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Certificate in Digital marketing in TCS",
+            "Id": "2",
+            "Description": "certification; found in CERTIFICATIONS"
+          },
+          {
+            "Name": "Certificate in Data profiling & Analysis in TCS",
+            "Id": "3",
+            "Description": "certification; found in CERTIFICATIONS"
+          }
+        ]
+      },
+      "Languages": {
+        "Language": [
+          {
+            "LanguageCode": "en",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Norwegian (basic)"
+          },
+          {
+            "LanguageCode": "hi",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Norwegian (basic)"
+          },
+          {
+            "LanguageCode": "no",
+            "Read": "true",
+            "Write": "false",
+            "Speak": "false",
+            "Comments": "English, Hindi, Norwegian (basic)"
+          }
+        ]
+      },
+      "RevisionDate": "2019-11-18"
+    },
+    "NonXMLResume": {
+      "TextResume": "Amit Agarwal\r\nEngineering Manager(12+ experience)\r\nEmail: amitinagarwal@gmail.com\r\nLocation: India\r\nContact No: +919528627879\r\n\r\nEDUCATION: 2010\r\nMBA  - Operations and data analytics (DL),\r\nSymbiosis Centre for Distance Learning, INDIA\r\n\r\n2007\r\nBachelor of Engineering in Computer Science,\r\nUPTU, INDIA\r\nGiving back to communities:\r\nGithub Account: https://github.com/amitdotagarwal/\r\nAs an open Source Mentor: -\r\nI  played  open  source  Mentor, and  mentor  people  from  brazil, US, and  developed  Octopus\r\nGem.https://github.com/thiagopradi/octopus\r\n(Scroll down the page to check for authenticity, you can see thanks note.)\r\n\r\nTECHNOLOGY:\r\nAgile\tUser Story, Kanban, BDD, Continuous Integration, Jira, Rally, Trello, Confluence,\r\nAgile game, ATDD, Burndown Chart, Velocity.\r\nData Structure\tArray, Pointer, Structure, Linked List, Stack, Queue, Graph\r\nScalability\tKubernetes, Docker, AWS, Balance loader\r\nLanguages\tRuby, Python, Selenium, Node JS, PHP, Scala(Basic), Ruby on Rails(ROR)\r\nWeb Technologies\tXHTML, CSS, JavaScript(Angular, Reactjs), AJAX, Restful API\r\n\r\nOperating System\tWindows, Linux/Unix, OSX\r\n\r\nDatabase\tMySQL, Postgres, MongoDB, NoSQL(Redis)\r\nJavascript\tjQuery, ReactJS, happyjs, ES6\r\n\r\nTest Framework\tR-spec, R-Unit, Selenium, Cucumber\r\nTools\tPuppet, Jira, Jenkins(CI), New Relic, Heroku, Amazon, Chef, RabbitMQ, ,\r\nPoltergeist, Capybara, PhantomJS, Cucumber, Rspec., Nignix, Github\r\n\r\nAnalytics(KPI)\tGoogle Analytics, Google Tag Manager, Sizmek, Yahoo, Facebook, Naver\r\n\r\n\r\nCERTIFICATES: ● Certificate in Scrum Master in TCS\r\n● Certificate in Digital marketing in TCS\r\n● Certificate in Data profiling & Analysis in TCS\r\n\r\nEMPLOYMENT HISTORY:\r\n\r\nJan 2019- Till Present\r\nCompany name: Barterfly.io, India\r\nCo-Founder (Travel domain)\r\n● Product Design, Wireframe creation\r\n● Code writing, deployment, architecture\r\n● A/B testing, product optimization\r\n\r\nAugust 2017 - Jan 2019\tEngineering Manager\r\nCompany name: Western Union(Fintech)\r\nTechnology: Python, Javascript, Salesforce, Exacttarget, Experian, Ruby on Rails(ROR), Cloud, , Java, Heroku,\r\nAmazon  and Reactjs.\r\n\r\n●\tEngineering Head (leading a team of 20+ engineers, designers for the  mobile and webs applications,\r\nin both Agile and SDLC way)\r\n●\tInteraction with product owners to create epics, user stories, sprint planning, team meeting.\r\n●\tTask estimation, team velocity, and to follow project deadline.\r\n●\tDefine technology architecture, design and roadmap.\r\n●\tDefine Architecture, set up Amazon servers, CI/CD, cloud for both UAT and for the production\r\nenvironment.\r\n●\tAssess risk as well as security, performance, and scalability\r\n●\tProvide insights into software, new technology, and trends\r\n●\tWork with the executive team to define goals and manage progress\r\n●\tLead software integration with partners\r\n●\tTeam members empowerment, set rules to go live and defining Definition of Done(DOD).\r\n●\tCoordinate and communicate with the offshore team.\r\n●\tInteraction with senior manager and to provide Daily/Weekly/Monthly status, to create APAC\r\nworksheet.\r\n\r\nAugust 2015 - Aug 2017\tTATA CONSULTANCY SERVICES, Singapore\r\nEngineering Head\r\nClient: Aligntech(Consumer, professional and Doctor store websites, e-commerce)\r\nTechnology: Python, Javascript, Salesforce, Exacttarget, Experian, Ruby on Rails(ROR), Cloud, , Java, Heroku,\r\nAmazon  and Reactjs.\r\n\r\n●\tEngineering Head (leading a team of 20+ engineers, mobile and webs applications) and Scrum Master\r\n(Scrum of Scrum team) leading a cross functional team.\r\n●\tResponsible for writing code, test cases (95% test coverage), peer programming and code\r\nreview(Github) and to overall follow process.\r\n●\tTeam members empowerment, set rules to go live and defining Definition of Done(DOD).\r\n●\tCoordinate and communicate with the offshore team.\r\n●\tTeam empowerment and to define DOD.\r\n●\tWork with Devops team for the automation by using automation tools for the deployment, testing\r\nand for the repetitive process.\r\n●\tBillions of records databases management through tools like Solr, Hadoop.\r\n●\tInteraction with senior manager and to provide Daily/Weekly/Monthly status, to create APAC\r\nworksheet.\r\n●\tGood knowledge of Digital technologies like A/B Testing configuration and SEO, SCM, Cost per click &\r\nconversation ratio.\r\n●\tPlatform scalability and concurrency performance.\r\n●\tFacilitate sprint planning, daily scrums, retrospectives, stakeholder meetings, software\r\ndemonstrations, requirements definition, design and implementation of integrations and enterprise\r\nservices.\r\n●\tWorking with business owners to propose high-quality user experience solutions for web and\r\nmobile applications and to map requirements into technical and functional documents.\r\n●\tResponsible for working with the configuration management and administration teams to provide\r\naccurate build and deployment instructions.\r\n●\tSEO & SCM - Search volume & keyword selection.\r\n●\tCost per click & conversation ratio.\r\n●\tNurturing user data and increase user opts-in.\r\n●\tCreating KPI dashboard and Tag Management(UTM_SOURCE), Social media (Like Facebook, Twitter)\r\nbranding.\r\n●\tManaging all Digital marketing tools and provide training to the Associates.\r\n\r\nJun 2010 - July 2015\tTATA CONSULTANCY SERVICES, Norway (2 Years in Norway)\r\nEngineering Manager\r\nTechnology: Smartfocus, Ruby on Rails(ROR), Java, Sinatra, BDD, Heroku, Html, JavaScript, Database\r\nClient - Posten Norge(Online postal ecommerce service)\r\n● Drive project and program delivery.\r\n● Responsible for ensuring project delivery on time on schedule and with quality.\r\n● Effectively communicate with team members and stakeholders in a timely and clear fashion.\r\n● Identify and resolve issues and conflicts within the program, projects and project management community\r\nand with other stakeholders if necessary.\r\n● Resolve issues at the project or line level and escalate issues which cannot be resolved in a timely and\r\naccurate manner.\r\n● Manage key stakeholders and business and technology leads.\r\n● Manage and communicate effectively with domain leads at senior level and working level teams.\r\n● Responsible for ensuring project steering committee meetings, cross function meetings and other key\r\nproject meetings are effective and achieve objectives on a consistent manner.\r\n● Change management.\r\n● Responsible  for to drive the adoption of agile methodology across teams.\r\n● Responsible  for to work with users to drive changes within the organization for projects implementation.\r\n● Develop best practices and tools for project execution and management.\r\n● Ensure utilization of standards and practices across all projects.\r\n\r\n\r\nJUN 2007 - Jun 2010\tTATA CONSULTANCY SERVICES, India/Azri Solution /Mastiff/Xceed\r\nSenior Software Engineer\r\nClient - ClearTrip\r\n● As  a  scrum  master  facilitated  daily  scrum  meetings, sprint  planning, sprint  review, and  sprint\r\nretrospective.\r\n● Worked with the business analyst to understand the business requirement, use case analysis.\r\n● Experience working with  diverse cross-functional teams.\r\n● Work with development team, conflict resolution, team management, risk management.\r\n● Interaction with the Product Owners to understand the project requirement and to create user story for\r\nthe development(BDD, TDD), by using Agile tools like Jira.\r\n● Enforce Agile principle such as Automation testing, Continuous integration.\r\n● Conduct Daily stand-up call, ATDD, Sprint Planning, Retrospective.\r\n● Manage Kanban dashboard, Burn-down chart and to find team velocity.\r\n● Project documentation through tools like Confluence/ Wiki.\r\n● Enabled improvement in team delivery commitments and capacity planning for sprints by identifying &\r\ntracking hidden tasks that increased customer satisfaction.\r\n● Team empowerment and to define DOD.\r\n● Work with Devops team for the automation by using automation tools for the deployment, testing and\r\nfor the repetitive process.\r\n\r\nPERSONAL INFORMATION:\r\nName: Amit Agarwal\r\nSex: Male\r\nMarital Status: Married\r\nLanguages known: English, Hindi, Norwegian (basic)\r\nNationality: Indian\r\nDate of Birth: June 11, 1985"
+    },
+    "UserArea": {
+      "sov:ResumeUserArea": {
+        "sov:Culture": {
+          "sov:Language": "en",
+          "sov:Country": "IN",
+          "sov:CultureInfo": "en-IN"
+        },
+        "sov:PersonalInformation": {
+          "sov:DateOfBirth": {
+            "@inferred": "false",
+            "#text": "1985-06-11"
+          },
+          "sov:Nationality": {
+            "@inferred": "false",
+            "#text": "Indian"
+          },
+          "sov:Gender": {
+            "@inferred": "false",
+            "#text": "Male"
+          },
+          "sov:MaritalStatus": {
+            "@inferred": "false",
+            "#text": "Married"
+          }
+        },
+        "sov:ExperienceSummary": {
+          "sov:Description": "Amit Agarwal's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in User Experience (mostly Web Design). Amit Agarwal has 13 years of work experience, with 8 years of management experience, including a high-level position.",
+          "sov:MonthsOfWorkExperience": "150",
+          "sov:AverageMonthsPerEmployer": "50",
+          "sov:FulltimeDirectHirePredictiveIndex": "62",
+          "sov:MonthsOfManagementExperience": "90",
+          "sov:CurrentManagementLevel": "executive-level",
+          "sov:HighestManagementScore": "100",
+          "sov:ExecutiveType": "general",
+          "sov:ManagementStory": "Current position is a executive-level management role: Co-Founder\r\nStarting on 1/1/2019, the candidate held the following executive-level management position for 10 months:\r\n\tTitle: Co-Founder for Barterfly.io\r\nStarting on 8/1/2017, the candidate held the following mid-level management position for 17 months:\r\n\tTitle: Engineering Manager for Western Union(Fintech)\r\nStarting on 6/1/2010, the candidate held the following mid-level management position for 5 years and 2 months:\r\n\tTitle: Engineering Manager for TATA CONSULTANCY SERVICES",
+          "sov:SkillsTaxonomyOutput": {
+            "sov:TaxonomyRoot": [
+              {
+                "@name": "Sovren",
+                "sov:Taxonomy": [
+                  {
+                    "@name": "Information Technology",
+                    "@id": "10",
+                    "@percentOfOverall": "75",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Programming",
+                        "@id": "204",
+                        "@percentOfOverall": "63",
+                        "@percentOfParentTaxonomy": "83",
+                        "sov:Skill": [
+                          {
+                            "@name": "API",
+                            "@id": "021194",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "Cucumber",
+                            "@id": "1004739",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "DOCKER",
+                            "@id": "3391147",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "Hadoop",
+                            "@id": "1004744",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "HTML",
+                            "@id": "019115",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "JAVASCRIPT",
+                            "@id": "025394",
+                            "@existsInText": "true",
+                            "@totalMonths": "103",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3; POS-4",
+                            "@childrenTotalMonths": "41",
+                            "@childrenLastUsed": "2019-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "REACTJS",
+                                "@id": "3391100",
+                                "@existsInText": "true",
+                                "@totalMonths": "41",
+                                "@lastUsed": "2019-01-01",
+                                "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "JENKINS",
+                            "@id": "3391150",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "PHP",
+                            "@id": "004736",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "PYTHON",
+                            "@id": "006120",
+                            "@existsInText": "true",
+                            "@totalMonths": "41",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "RSpec",
+                            "@id": "1004740",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "Ruby",
+                            "@id": "1004736",
+                            "@existsInText": "true",
+                            "@totalMonths": "103",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3; POS-4",
+                            "@childrenTotalMonths": "103",
+                            "@childrenLastUsed": "2019-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "Rails",
+                                "@id": "100473602",
+                                "@existsInText": "true",
+                                "@totalMonths": "103",
+                                "@lastUsed": "2019-01-01",
+                                "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3; POS-4"
+                              },
+                              {
+                                "@name": "Ruby on Rails",
+                                "@id": "100473601",
+                                "@existsInText": "true",
+                                "@totalMonths": "103",
+                                "@lastUsed": "2019-01-01",
+                                "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-3; POS-4"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "SOFTWARE ENGINEER",
+                            "@id": "008220",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "SOFTWARE INTEGRATION",
+                            "@id": "023540",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "Solr",
+                            "@id": "1004759",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Java",
+                        "@id": "339",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "JAVA",
+                            "@id": "023328",
+                            "@existsInText": "true",
+                            "@totalMonths": "103",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3; POS-4"
+                          },
+                          {
+                            "@name": "jQuery",
+                            "@id": "339048",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Config Deploy Upgrade Migrate",
+                        "@id": "251",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "4",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "022159",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2017-08-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CONFIGURATION MANAGEMENT",
+                                "@id": "014175",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2017-08-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "DEPLOYMENT",
+                            "@id": "023631",
+                            "@existsInText": "true",
+                            "@totalMonths": "71",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-3; POS-5"
+                          },
+                          {
+                            "@name": "SCM",
+                            "@id": "007546",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Database",
+                        "@id": "193",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "2",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATABASE MODELING",
+                            "@id": "026777",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "62",
+                            "@childrenLastUsed": "2015-07-31",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DATABASE",
+                                "@id": "022486",
+                                "@existsInText": "true",
+                                "@totalMonths": "62",
+                                "@lastUsed": "2015-07-31",
+                                "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-4"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "MYSQL",
+                            "@id": "003243",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "POSTGRES",
+                            "@id": "005136",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Multimedia",
+                        "@id": "351",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "GO LIVE",
+                            "@id": "018480",
+                            "@existsInText": "true",
+                            "@totalMonths": "41",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          },
+                          {
+                            "@name": "SCALA",
+                            "@id": "007474",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Architecture",
+                        "@id": "201",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "REQUIREMENTS DEFINITION",
+                            "@id": "006833",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SDLC",
+                            "@id": "025956",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "USE CASE",
+                            "@id": "024596",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5",
+                            "@childrenTotalMonths": "36",
+                            "@childrenLastUsed": "2010-06-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CASE ANALYSIS",
+                                "@id": "012592",
+                                "@existsInText": "true",
+                                "@totalMonths": "36",
+                                "@lastUsed": "2010-06-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              },
+                              {
+                                "@name": "USE CASE ANALYSIS",
+                                "@id": "010308",
+                                "@existsInText": "true",
+                                "@totalMonths": "36",
+                                "@lastUsed": "2010-06-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Big Data",
+                        "@id": "553",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "APACHE SOLR",
+                            "@id": "5530719",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2017-08-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SOLR",
+                                "@id": "553071901",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2017-08-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "5530940",
+                            "@existsInText": "true",
+                            "@lastUsed": "2010-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "DATA PROFILING",
+                            "@id": "5530957",
+                            "@existsInText": "true",
+                            "@whereFound": "Found in CERTIFICATIONS"
+                          },
+                          {
+                            "@name": "DATA STRUCTURE",
+                            "@id": "5530961",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "5530761",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5530805",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "NOSQL",
+                            "@id": "5530812",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "REDIS",
+                            "@id": "5530835",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations, Monitoring and Software Management",
+                        "@id": "349",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHEF",
+                            "@id": "0146072",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "DEV OPS",
+                            "@id": "0146073",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "60",
+                            "@childrenLastUsed": "2017-08-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DEVOPS",
+                                "@id": "0146074",
+                                "@existsInText": "true",
+                                "@totalMonths": "60",
+                                "@lastUsed": "2017-08-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3; POS-5"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "PUPPET",
+                            "@id": "0146071",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "QA and QC",
+                        "@id": "200",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "JIRA",
+                            "@id": "2000006",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-5"
+                          },
+                          {
+                            "@name": "RALLY",
+                            "@id": "2000007",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "SELENIUM",
+                            "@id": "2000001",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "UAT",
+                            "@id": "010065",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Internet",
+                        "@id": "196",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "1",
+                        "sov:Skill": [
+                          {
+                            "@name": "AJAX",
+                            "@id": "196001",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "CSS",
+                            "@id": "014705",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "ECOMMERCE",
+                            "@id": "026768",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UNIX and LINUX",
+                        "@id": "203",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "LINUX",
+                            "@id": "023926",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2",
+                            "@childrenLastUsed": "2007-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "LINUX/UNIX",
+                                "@id": "02392601",
+                                "@existsInText": "true",
+                                "@lastUsed": "2007-01-01",
+                                "@whereFound": "Found in EDUCATION; DEG-2"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "UNIX",
+                            "@id": "01026309",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Enterprise Storage",
+                        "@id": "555",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "UNIX",
+                            "@id": "5551207",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Security",
+                        "@id": "338",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEST FRAMEWORK",
+                            "@id": "3380018",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Cloud Computing",
+                        "@id": "550",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "MONGODB",
+                            "@id": "5500361",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Gaming",
+                        "@id": "551",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "SCALA",
+                            "@id": "5510135",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Project Management",
+                        "@id": "199",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "TEAM MANAGEMENT",
+                            "@id": "025953",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Protocols and Standards",
+                        "@id": "253",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "0",
+                        "sov:Skill": [
+                          {
+                            "@name": "OPEN SOURCE",
+                            "@id": "003842",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "User Experience",
+                    "@id": "93",
+                    "@percentOfOverall": "9",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Web Design",
+                        "@id": "571",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "38",
+                        "sov:Skill": [
+                          {
+                            "@name": "INTEGRATOR",
+                            "@id": "5570146",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "53",
+                            "@childrenLastUsed": "2019-01-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "INTEGRATION",
+                                "@id": "5570147",
+                                "@existsInText": "true",
+                                "@totalMonths": "53",
+                                "@lastUsed": "2019-01-01",
+                                "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-2; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Industrial Design",
+                        "@id": "566",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "16",
+                        "sov:Skill": [
+                          {
+                            "@name": "ARCHITECTURE",
+                            "@id": "5570085",
+                            "@existsInText": "true",
+                            "@totalMonths": "28",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1; POS-2"
+                          },
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "5570092",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Information Architect",
+                        "@id": "567",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "WIREFRAME",
+                            "@id": "5570249",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Product Design",
+                        "@id": "573",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "5570168",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Visual Design",
+                        "@id": "565",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "5570082",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Motion Design",
+                        "@id": "564",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "5570068",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Interaction Design",
+                        "@id": "562",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "5570051",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "UX Design",
+                        "@id": "560",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "5570024",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Ergonomics",
+                        "@id": "559",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "5570014",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "User Research",
+                        "@id": "558",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "6",
+                        "sov:Skill": [
+                          {
+                            "@name": "USER STORIES",
+                            "@id": "5570004",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Engineering",
+                    "@id": "5",
+                    "@percentOfOverall": "6",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Military",
+                        "@id": "267",
+                        "@percentOfOverall": "3",
+                        "@percentOfParentTaxonomy": "44",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOD",
+                            "@id": "015587",
+                            "@existsInText": "true",
+                            "@totalMonths": "77",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Engineering",
+                        "@id": "307",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "31",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "080470",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          },
+                          {
+                            "@name": "OPTIMIZATION",
+                            "@id": "023295",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "080510",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          },
+                          {
+                            "@name": "STEERING",
+                            "@id": "022232",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Design",
+                        "@id": "134",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "080946",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Computer Hardware",
+                        "@id": "144",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "PRODUCT DESIGN",
+                            "@id": "080771",
+                            "@existsInText": "true",
+                            "@totalMonths": "11",
+                            "@lastUsed": "2019-11-18",
+                            "@whereFound": "Found in WORK HISTORY; POS-1"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Techniques",
+                        "@id": "264",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "8",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "080635",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Marketing",
+                    "@id": "14",
+                    "@percentOfOverall": "5",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Digital",
+                        "@id": "599",
+                        "@percentOfOverall": "2",
+                        "@percentOfParentTaxonomy": "37",
+                        "sov:Skill": [
+                          {
+                            "@name": "DIGITAL MARKETING",
+                            "@id": "1400390",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-3"
+                          },
+                          {
+                            "@name": "SEARCH ENGINE OPTIMIZATION",
+                            "@id": "1400234",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2017-08-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "SEO",
+                                "@id": "1400235",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2017-08-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-3"
+                              }
+                            ]
+                          },
+                          {
+                            "@name": "USER EXPERIENCE",
+                            "@id": "1400241",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Advertising",
+                        "@id": "595",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "27",
+                        "sov:Skill": [
+                          {
+                            "@name": "DIGITAL CAMPAIGN",
+                            "@id": "1400380",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "24",
+                            "@childrenLastUsed": "2017-08-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "DIGITAL MARKETING",
+                                "@id": "1400381",
+                                "@existsInText": "true",
+                                "@totalMonths": "24",
+                                "@lastUsed": "2017-08-01",
+                                "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-3"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General",
+                        "@id": "249",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "26",
+                        "sov:Skill": [
+                          {
+                            "@name": "MARKETING",
+                            "@id": "021241",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in CERTIFICATIONS; WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Data & Analytics",
+                        "@id": "588",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "DATA ANALYTICS",
+                            "@id": "1400067",
+                            "@existsInText": "true",
+                            "@lastUsed": "2010-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "HADOOP",
+                            "@id": "1400328",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Brand Management",
+                        "@id": "227",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "5",
+                        "sov:Skill": [
+                          {
+                            "@name": "BRANDING",
+                            "@id": "011888",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Sales",
+                    "@id": "20",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "General",
+                        "@id": "105",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "68",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECOMMERCE",
+                            "@id": "081146",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "SATISFACTION",
+                            "@id": "030000",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Direct Sales",
+                        "@id": "102",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "32",
+                        "sov:Skill": [
+                          {
+                            "@name": "ECOMMERCE",
+                            "@id": "081152",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Petrochemical",
+                    "@id": "44",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Drilling",
+                        "@id": "441",
+                        "@percentOfOverall": "1",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "OFFSHORE",
+                            "@id": "003754",
+                            "@existsInText": "true",
+                            "@totalMonths": "41",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Business Operations and General Business",
+                    "@id": "34",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Management Activities or Functions",
+                        "@id": "436",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "57",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "012977",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          },
+                          {
+                            "@name": "OPERATIONS",
+                            "@id": "003875",
+                            "@existsInText": "true",
+                            "@lastUsed": "2010-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          },
+                          {
+                            "@name": "TRADING",
+                            "@id": "022750",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "36",
+                            "@childrenLastUsed": "2010-06-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007099",
+                                "@existsInText": "true",
+                                "@totalMonths": "36",
+                                "@lastUsed": "2010-06-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "General Skills and Activities",
+                        "@id": "437",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "43",
+                        "sov:Skill": [
+                          {
+                            "@name": "BEST PRACTICES",
+                            "@id": "011365",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Human Resources",
+                    "@id": "9",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Organization Development",
+                        "@id": "581",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "9000213",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "HR Management",
+                        "@id": "579",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "50",
+                        "sov:Skill": [
+                          {
+                            "@name": "CHANGE MANAGEMENT",
+                            "@id": "9000169",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Management",
+                    "@id": "80",
+                    "@percentOfOverall": "1",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Budget Related",
+                        "@id": "516",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "88",
+                        "sov:Skill": [
+                          {
+                            "@name": "ESTIMATION",
+                            "@id": "016952",
+                            "@existsInText": "true",
+                            "@totalMonths": "17",
+                            "@lastUsed": "2019-01-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-2"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "People Oriented",
+                        "@id": "517",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "12",
+                        "sov:Skill": [
+                          {
+                            "@name": "MENTOR",
+                            "@id": "021625",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          },
+                          {
+                            "@name": "TEAM MANAGEMENT",
+                            "@id": "025955",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Administrative or Clerical",
+                    "@id": "1",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Messages and Contact",
+                        "@id": "112",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "POSTAL",
+                            "@id": "005133",
+                            "@existsInText": "true",
+                            "@totalMonths": "62",
+                            "@lastUsed": "2015-07-31",
+                            "@whereFound": "Found in WORK HISTORY; POS-4"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "QA and QC",
+                    "@id": "69",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Techniques",
+                        "@id": "446",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "RISK MANAGEMENT",
+                            "@id": "007098",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "TEST CASES",
+                            "@id": "009422",
+                            "@existsInText": "true",
+                            "@totalMonths": "24",
+                            "@lastUsed": "2017-08-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-3"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Finance",
+                    "@id": "7",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Financial Planning & Analysis",
+                        "@id": "235",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "54",
+                        "sov:Skill": [
+                          {
+                            "@name": "TRADING",
+                            "@id": "080204",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "36",
+                            "@childrenLastUsed": "2010-06-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "RISK MANAGEMENT",
+                                "@id": "007100",
+                                "@existsInText": "true",
+                                "@totalMonths": "36",
+                                "@lastUsed": "2010-06-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Operations",
+                        "@id": "237",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "23",
+                        "sov:Skill": [
+                          {
+                            "@name": "CAPACITY PLANNING",
+                            "@id": "7000224",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      },
+                      {
+                        "@name": "Corporate Development",
+                        "@id": "703",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "23",
+                        "sov:Skill": [
+                          {
+                            "@name": "MBA",
+                            "@id": "7000321",
+                            "@existsInText": "true",
+                            "@lastUsed": "2010-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-1"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Purchasing, Procurement, Inventory Control, Supply Chain",
+                    "@id": "97",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Inventory",
+                        "@id": "459",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "KANBAN",
+                            "@id": "027010",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Manufacturing",
+                    "@id": "13",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Logistics",
+                        "@id": "209",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "KANBAN",
+                            "@id": "027009",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in EDUCATION; WORK HISTORY; DEG-2; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Telecommunications",
+                    "@id": "16",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Skilled",
+                        "@id": "323",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "SWITCH CAPACITY",
+                            "@id": "023775",
+                            "@existsInText": "false",
+                            "@childrenTotalMonths": "36",
+                            "@childrenLastUsed": "2010-06-01",
+                            "sov:ChildSkill": [
+                              {
+                                "@name": "CAPACITY PLANNING",
+                                "@id": "012557",
+                                "@existsInText": "true",
+                                "@totalMonths": "36",
+                                "@lastUsed": "2010-06-01",
+                                "@whereFound": "Found in WORK HISTORY; POS-5"
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Technical Writing",
+                    "@id": "31",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Specs and Documentation",
+                        "@id": "429",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "DOCUMENTATION",
+                            "@id": "022620",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          },
+                          {
+                            "@name": "PROJECT DOCUMENTATION",
+                            "@id": "005804",
+                            "@existsInText": "true",
+                            "@totalMonths": "36",
+                            "@lastUsed": "2010-06-01",
+                            "@whereFound": "Found in WORK HISTORY; POS-5"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "General Non-Skilled Labor",
+                    "@id": "11",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Drivers",
+                        "@id": "301",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "LOADER",
+                            "@id": "020850",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "@name": "Environmental",
+                    "@id": "6",
+                    "@percentOfOverall": "0",
+                    "sov:Subtaxonomy": [
+                      {
+                        "@name": "Testing, Assessments, and Monitoring",
+                        "@id": "328",
+                        "@percentOfOverall": "0",
+                        "@percentOfParentTaxonomy": "100",
+                        "sov:Skill": [
+                          {
+                            "@name": "GEM",
+                            "@id": "018233",
+                            "@existsInText": "true",
+                            "@lastUsed": "2007-01-01",
+                            "@whereFound": "Found in EDUCATION; DEG-2"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        "sov:Sections": {
+          "sov:Section": [
+            {
+              "@starts": "6",
+              "@ends": "39",
+              "@sectionType": "EDUCATION",
+              "#text": "EDUCATION"
+            },
+            {
+              "@starts": "40",
+              "@ends": "43",
+              "@sectionType": "CERTIFICATIONS",
+              "#text": "CERTIFICATES"
+            },
+            {
+              "@starts": "44",
+              "@ends": "150",
+              "@sectionType": "WORK HISTORY",
+              "#text": "EMPLOYMENT HISTORY"
+            },
+            {
+              "@starts": "151",
+              "@ends": "154",
+              "@sectionType": "CONTACT INFO",
+              "#text": "PERSONAL INFORMATION"
+            },
+            {
+              "@starts": "155",
+              "@ends": "157",
+              "@sectionType": "LANGUAGES",
+              "#text": "Languages known"
+            }
+          ]
+        },
+        "sov:ReservedData": {
+          "sov:Phones": {
+            "sov:Phone": [
+              "Contact No: +919528627879",
+              "+919528627879"
+            ]
+          },
+          "sov:Names": {
+            "sov:Name": [
+              "Amit Agarwal",
+              "Name: Amit Agarwal"
+            ]
+          },
+          "sov:EmailAddresses": {
+            "sov:EmailAddress": [
+              "amitinagarwal@gmail.com"
+            ]
+          },
+          "sov:Urls": {
+            "sov:Url": [
+              "https://github.com/amitdotagarwal",
+              "Barterfly.io"
+            ]
+          },
+          "sov:OtherData": {
+            "sov:OtherDatum": [
+              "Date of Birth: June 11, 1985",
+              "Marital Status: Married",
+              "Nationality: Indian",
+              "Sex: Male"
+            ]
+          }
+        },
+        "sov:ParsedTextLength": "7899",
+        "sov:ParseTime": "828",
+        "sov:ResumeQuality": {
+          "sov:Assessments": {
+            "sov:Assessment": [
+              {
+                "sov:Level": "Major Issues Found",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Data Missing",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                    "[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school."
+                  ]
+                }
+              },
+              {
+                "sov:Level": "Suggested Improvements",
+                "sov:Findings": {
+                  "sov:Information": [
+                    "[Sovren:151;0,1,4] The following sections do not have the header on a separate line: 'EDUCATION', 'CERTIFICATES', 'Languages known'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                  ]
+                }
+              }
+            ]
+          }
+        },
+        "sov:LicenseSerialNumber": "13430659:333fb1f4-f2eb-47be-bc55-24b2bff55c62",
+        "sov:ParserConfigurationString": "Coverage.MilitaryHistoryAndSecurityCredentials = True; Coverage.PatentsPublicationsAndSpeakingEvents = True; Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+        "sov:ParserVersion": "9.3.7.0",
+        "sov:DigitalSignature": "f+v+//////8="
+      }
+    }
+  }
+}
