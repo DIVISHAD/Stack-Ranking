@@ -1,6 +1,6 @@
 import json
 import os
-import objectpath
+#import objectpath
 
 jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/SourceDocument/"
 r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/"
@@ -86,7 +86,8 @@ def evaluate(candidate,json):
                                 score += (val / (len(subTaxonomy_value)-1)) / (len(skill_value)+1)
                             elif len(candidate_childSkill_list) != 0 :
                                 len_nonMatch = len(candidate_childSkill_list)-childSkill_match
-                                score += (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
+                                if childSkill_match != len(skill_value):
+                                    score += (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
                     if len(subTaxonomy_value) == 1 :
                         score +=val
                     elif len(candidate_skills) == 0 :
@@ -94,7 +95,8 @@ def evaluate(candidate,json):
                     elif len(candidate_skills) != 0 :
                         nonMatch_skills=len(candidate_skills)-skill_match
                         #print(skill_match ,nonMatch_skills,val,(len(subTaxonomy_value)-1))
-                        score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ 4*nonMatch_skills)            
+                        if skill_match != (len(subTaxonomy_value)-1):
+                            score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ 8*nonMatch_skills)            
     return  score  
 
 skill_score()
