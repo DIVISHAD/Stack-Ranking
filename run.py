@@ -2,12 +2,13 @@ import json
 import os
 #import objectpath
 
-jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/SourceDocument/"
-r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/"
+jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resumes/SourceDocument/"
+r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resumes/TargetDocuments/"
 
 candidate_skills=[]
 jd_taxonamies={}
 constant=0
+
 for i in os.listdir(r_path):
     candidate_taxonamies={}
     candidate_taxonamies["name"]=i
@@ -54,6 +55,7 @@ for i in os.listdir(jd_path):
 #for i in jd_taxonamies:print(i)    
 #print(jd_taxonamies)    
 print(constant)
+
 def skill_score():
     score={}
     for i in candidate_skills:
@@ -64,6 +66,7 @@ def skill_score():
     for k in list1:
         sorted_list[k[0]]=k[1]
     for k,v in sorted_list.items():
+        #st=k.split(".")[-2].split("[")[0].split("_")[-1]
         print(k,v)
 
 def evaluate(candidate,json):
