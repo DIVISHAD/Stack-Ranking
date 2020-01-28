@@ -60,7 +60,7 @@ def skill_score():
     score={}
     for i in candidate_skills:
         score[i["name"]]=round(evaluate(i,jd_taxonamies),3)
-    list1=sorted(score.items(), key = lambda kv:(kv[1], kv[0]))  
+    list1=sorted( score.items(),key = lambda kv:kv[1] )  
     list1.reverse()
     sorted_list={} 
     for k in list1:
