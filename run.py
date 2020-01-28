@@ -7,6 +7,7 @@ r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resum
 
 candidate_skills=[]
 jd_taxonamies={}
+constant=0
 for i in os.listdir(r_path):
     candidate_taxonamies={}
     candidate_taxonamies["name"]=i
@@ -44,12 +45,15 @@ for i in os.listdir(jd_path):
                             for sub in k.get("ChildSkill"):
                                 child_skills.append(sub["@name"])        
                         jd_taxonamies[i["@name"]][j["@name"]][k["@name"]]=child_skills 
-                jd_taxonamies[i["@name"]][j["@name"]]["percent"]=j["@percentOfOverall"]   
+                jd_taxonamies[i["@name"]][j["@name"]]["percent"]=j["@percentOfOverall"]
+                if len(jd_taxonamies[i["@name"]][j["@name"]]) >= constant:
+                    #print(jd_taxonamies[i["@name"]][j["@name"]])
+                    constant = len(jd_taxonamies[i["@name"]][j["@name"]])   
                 
 #for i in candidate_skills:print(i,"\n\n")
 #for i in jd_taxonamies:print(i)    
 #print(jd_taxonamies)    
-
+print(constant)
 def skill_score():
     score={}
     for i in candidate_skills:
@@ -96,7 +100,7 @@ def evaluate(candidate,json):
                         nonMatch_skills=len(candidate_skills)-skill_match
                         #print(skill_match ,nonMatch_skills,val,(len(subTaxonomy_value)-1))
                         if skill_match != (len(subTaxonomy_value)-1):
-                            score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ 8*nonMatch_skills)            
+                            score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
     return  score  
 
 skill_score()
