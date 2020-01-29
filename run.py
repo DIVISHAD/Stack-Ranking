@@ -2,8 +2,8 @@ import json
 import os
 #import objectpath
 
-jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/SourceDocument/"
-r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/"
+jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resumes/SourceDocument/"
+r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resumes/TargetDocuments/"
 
 candidates_skills=[]
 candidates_qualifications=[]
