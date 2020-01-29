@@ -6,14 +6,15 @@ jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resu
 r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resumes/TargetDocuments/"
 
 candidate_skills=[]
+candidate_qualifications=[]
 jd_taxonamies={}
 constant=0
 
-for i in os.listdir(r_path):
+for nm in os.listdir(r_path):
     candidate_taxonamies={}
-    candidate_taxonamies["name"]=i
-    with open(r_path+i+"/"+i+".json",'r',encoding='cp850') as file:
-        #print(i)
+    candidate_taxonamies["name"]=nm
+    with open(r_path+nm+"/"+nm+".json",'r',encoding='cp850') as file:
+        #print(nm)
         data=json.load(file)
         a=data.get("Resume").get("UserArea").get("sov:ResumeUserArea").get("sov:ExperienceSummary").get("sov:SkillsTaxonomyOutput").get("sov:TaxonomyRoot")[0].get("sov:Taxonomy")
         #json_tree = objectpath.Tree(data)
@@ -31,8 +32,8 @@ for i in os.listdir(r_path):
                         candidate_taxonamies[i["@name"]][j["@name"]][k["@name"]]=child_skills  
         candidate_skills.append(candidate_taxonamies)
 
-for i in os.listdir(jd_path):
-    with open(jd_path+i+"/"+i+".json",'r',encoding='cp850') as file:
+for nm in os.listdir(jd_path):
+    with open(jd_path+nm+"/"+nm+".json",'r',encoding='cp850') as file:
         data=json.load(file)
         a=data.get("SovrenData").get("SkillsTaxonomyOutput")[0].get("Taxonomy")
         for i in a:
@@ -107,3 +108,51 @@ def evaluate(candidate,json):
     return  score  
 
 skill_score()
+
+
+
+
+
+education_degree_type = [['specialeducation'],['some high school or equivalent','ged','secondary'],
+                        ['high school or equivalent','certification','vocational','some college'],
+                        ['HND/HNC or equivalent','associates','international'],['bachelors'],
+                        ['some post-graduate','masters'],['intermediategraduate'],['professional'],
+                        ['postprofessional'],['doctorate'],['postdoctorate']]
+index=0                        
+score_degree_type=index*(index+1)/110                        
+
+
+for i in os.listdir(r_path):
+    candidate_education={}
+    candidate_education["name"]=i
+    candidate_education["candidate_degrees"]=[]
+    with open(r_path+i+"/"+i+".json",'r',encoding='cp850') as file:
+        print(i)
+        data=json.load(file)
+        if data.get("Resume").get("StructuredXMLResume").get("EducationHistory") != None:
+            a=data.get("Resume").get("StructuredXMLResume").get("EducationHistory").get("SchoolOrInstitution")
+            for deg in a:
+                degree={}
+                if "Degree" in deg:
+                    if "@degreeType" in deg.get("Degree")[0]:
+                        degree["DegreeType"]=deg.get("Degree")[0].get("@degreeType")
+                    else:degree["DegreeType"]=""    
+                    if "DegreeName" in deg.get("Degree")[0]:
+                        degree["DegreeName"]=deg.get("Degree")[0].get("DegreeName")
+                    else:degree["DegreeName"]=""    
+                    if "DegreeMajor" in deg.get("Degree")[0]:
+                        degree["DegreeMajor"]=deg.get("Degree")[0].get("DegreeMajor")[0].get("Name")[0]
+                    else:degree["DegreeMajor"]=""    
+                    if "sov:NormalizedGPA" in deg.get("Degree")[0].get("UserArea").get("sov:DegreeUserArea"):
+                        degree["DegreeScore"]=float(deg.get("Degree")[0].get("UserArea").get("sov:DegreeUserArea").get("sov:NormalizedGPA"))*10
+                    else:degree["DegreeScore"]=-1
+                candidate_education["candidate_degrees"].append(degree)    
+        candidate_qualifications.append(candidate_education) 
+pp={}
+for i in candidate_qualifications:
+    print(i,"\n")
+    if(i["name"]=="5d5fb8aac9c0a_1566554280_NitinAgrawal[12_0].docx"):
+        pp=i     
+print(len(candidate_qualifications)) 
+
+print(pp)
