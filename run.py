@@ -2,11 +2,11 @@ import json
 import os
 #import objectpath
 
-jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resumes/SourceDocument/"
-r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resumes/TargetDocuments/"
+jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/SourceDocument/"
+r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/"
 
-candidate_skills=[]
-candidate_qualifications=[]
+candidates_skills=[]
+candidates_qualifications=[]
 jd_taxonamies={}
 constant=0
 
@@ -30,7 +30,7 @@ for nm in os.listdir(r_path):
                             for sub in k.get("sov:ChildSkill"):
                                 child_skills.append(sub["@name"])
                         candidate_taxonamies[i["@name"]][j["@name"]][k["@name"]]=child_skills  
-        candidate_skills.append(candidate_taxonamies)
+        candidates_skills.append(candidate_taxonamies)
 
 for nm in os.listdir(jd_path):
     with open(jd_path+nm+"/"+nm+".json",'r',encoding='cp850') as file:
@@ -52,15 +52,16 @@ for nm in os.listdir(jd_path):
                     #print(jd_taxonamies[i["@name"]][j["@name"]])
                     constant = len(jd_taxonamies[i["@name"]][j["@name"]])   
                 
-#for i in candidate_skills:print(i,"\n\n")
+#for i in candidates_skills:print(i,"\n\n")
+#print(type(jd_taxonamies))
 #for i in jd_taxonamies:print(i)    
 #print(jd_taxonamies)    
-print(constant)
+#print(constant)
 
 def skill_score():
     score={}
-    for i in candidate_skills:
-        score[i["name"]]=round(evaluate(i,jd_taxonamies),3)
+    for i in candidates_skills:
+        score[i["name"]]=round(evaluate_skills(i,jd_taxonamies),3)
     list1=sorted( score.items(),key = lambda kv:kv[1] )  
     list1.reverse()
     sorted_list={} 
@@ -70,7 +71,7 @@ def skill_score():
         #st=k.split(".")[-2].split("[")[0].split("_")[-1]
         print(k,v)
 
-def evaluate(candidate,json):
+def evaluate_skills(candidate,json):
     score = 0
     for taxonomy_name,taxonomy_value in json.items():
         if taxonomy_name in candidate != False:
@@ -106,17 +107,14 @@ def evaluate(candidate,json):
                         if skill_match != (len(subTaxonomy_value)-1):
                             score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
     return  score  
-
+print("\n---------------------------------------Skill Score------------------------------\n")
 skill_score()
-
-
-
 
 
 education_degree_type = [['specialeducation'],['some high school or equivalent','ged','secondary'],
                         ['high school or equivalent','certification','vocational','some college'],
                         ['HND/HNC or equivalent','associates','international'],['bachelors'],
-                        ['some post-graduate','masters'],['intermediategraduate'],['professional'],
+                        ['some post-graduate','masters','intermediategraduate'],['professional'],
                         ['postprofessional'],['doctorate'],['postdoctorate']]
 index=0                        
 score_degree_type=index*(index+1)/110                        
@@ -127,7 +125,7 @@ for i in os.listdir(r_path):
     candidate_education["name"]=i
     candidate_education["candidate_degrees"]=[]
     with open(r_path+i+"/"+i+".json",'r',encoding='cp850') as file:
-        print(i)
+        #print(i)
         data=json.load(file)
         if data.get("Resume").get("StructuredXMLResume").get("EducationHistory") != None:
             a=data.get("Resume").get("StructuredXMLResume").get("EducationHistory").get("SchoolOrInstitution")
@@ -144,15 +142,58 @@ for i in os.listdir(r_path):
                         degree["DegreeMajor"]=deg.get("Degree")[0].get("DegreeMajor")[0].get("Name")[0]
                     else:degree["DegreeMajor"]=""    
                     if "sov:NormalizedGPA" in deg.get("Degree")[0].get("UserArea").get("sov:DegreeUserArea"):
-                        degree["DegreeScore"]=float(deg.get("Degree")[0].get("UserArea").get("sov:DegreeUserArea").get("sov:NormalizedGPA"))*10
+                        degree["DegreeScore"]=float(deg.get("Degree")[0].get("UserArea").get("sov:DegreeUserArea").get("sov:NormalizedGPA"))*100
                     else:degree["DegreeScore"]=-1
                 candidate_education["candidate_degrees"].append(degree)    
-        candidate_qualifications.append(candidate_education) 
+        candidates_qualifications.append(candidate_education) 
 pp={}
-for i in candidate_qualifications:
-    print(i,"\n")
-    if(i["name"]=="5d5fb8aac9c0a_1566554280_NitinAgrawal[12_0].docx"):
-        pp=i     
-print(len(candidate_qualifications)) 
+# for i in candidates_qualifications:
+#     #print(i,"\n")
+#     if(i["name"]=="5d5fb8aac9c0a_1566554280_NitinAgrawal[12_0].docx"):
+#         pp=i     
+# print(len(candidates_qualifications)) 
 
-print(pp)
+# print(pp)
+
+def education_score(highest_degree):
+    education_score={}
+    for i in candidates_qualifications:
+        education_score[i["name"]]=round(evaluate_education(i,highest_degree),3)
+    list1=sorted( education_score.items(),key = lambda kv:kv[1] )  
+    list1.reverse()
+    sorted_list={} 
+    for k in list1:
+        sorted_list[k[0]]=k[1]
+    for k,v in sorted_list.items():
+        #st=k.split(".")[-2].split("[")[0].split("_")[-1]
+        print(k,v)
+
+
+def evaluate_education(j,min_d):
+    indx=0
+    for i in education_degree_type:
+        if min_d in i:
+            indx=education_degree_type.index(i)
+            break
+    lst=education_degree_type[0:indx+2]        
+    l=[0 for i in range(indx+2)]
+    d=j.get("candidate_degrees")
+    least_score=100
+    for i in d:
+        if i["DegreeScore"] != -1 and i["DegreeScore"]<least_score:least_score=i["DegreeScore"]
+    if least_score==100:least_score=60    
+    for i in d:
+        for dg in lst:
+            if i["DegreeType"] in dg:
+                tst=lambda val: least_score if(val==-1) else val
+                l[lst.index(dg)] = lst.index(dg)/sum([i for i in range(1,len(lst))])*100*(tst(i["DegreeScore"])/100)
+                break
+    flag = 0
+    for i in range(len(lst)-1,0,-1):
+        if l[i] != 0 and flag == 0:flag=1
+        if(l[i] == 0 and flag == 1):
+            l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100)       
+    return sum(l)
+print("\n---------------------------------------Education Score------------------------------\n")
+
+education_score("masters")
