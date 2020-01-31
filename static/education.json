@@ -1,14 +1,14 @@
 [
     {
-     "id":"1",
-     "name":"High School",
-     "parent_id":"0"
-    }, 
+        "id":"1",
+        "name":"Secondary",
+        "parent_id":"0"
+       },
     {
      "id":"2",
-     "name":"Secondary",
+     "name":"High School or equivalent",
      "parent_id":"0"
-    }, 
+    },  
     {
      "id":"3",
      "name":"Bachelors",

@@ -1,54 +1,107 @@
 <!DOCTYPE html>
 <html>
- <head>
-  <title>Job Description</title>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
-  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
-  <style>
-      .form-control{
-          width: 150px;
-      }
-  </style>
- </head>
- <body>
-     <h2 align="center">FILL THE FIELDS TO GENERATE A JOB DESCRIPTION</h2>
-     Job Title:
-     <input type="text" id="title">
-  <table align="center" id="degree_tbl">
-      <tr>
-          <td>Select Degree Type:</td>
-          <td>Select Degree Name:</td>
-          <td>Select Degree Field:</td>
-      </tr>
-      <tr>
-          <td>
-            <select name="DegreeType" id="DegreeType0" class="form-control input-lg">
-                <option value="">Any</option>
-            </select>
-          </td>
-          <td>
-            <select name="DegreeName" id="DegreeName0" class="form-control input-lg">
-                <option value="">Any</option>
-            </select>              
-          </td>
-          <td>
-            <select name="Major" id="Major0" class="form-control input-lg">
-                <option value="">Any</option>
-            </select>
-          </td>
-      </tr>
-  </table>
-  <table align="center">
-    <tr>
-        <input type="button" id="add_degree" value="Add Degree" onclick="add_select_degree()">
-    </tr>
-  </table>
- </body>
+    <head>
+        <title>Job Description</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+        <style>
+            .form-control{
+                width: 150px;
+            }
+            body{
+                padding: 50px;
+            }
+            .a{
+                text-decoration-line: underline;
+            }
+        </style>
+    </head>
+    <body>
+        <h2 align="center" class="a">FILL THE FIELDS TO CREATE A JOB DESCRIPTION</h2>
+        Job Title:
+        <input type="text" id="title">
+        <h3 class="a">Required Educational Qualifications:</h3>
+        <table id="degree_tbl">
+            <tr>
+                <td>Select Degree Type:</td>
+                <td>Select Degree Name:</td>
+                <td>Select Degree Field:</td>
+                <td>Required Percentage:</td>
+                <td>Required College Tier:</td>
+            </tr>
+            <tr>
+                <td>
+                    <select name="DegreeType" id="DegreeType0" class="form-control">
+                        <option value="">Any</option>
+                    </select>
+                </td>
+                <td>
+                    <select name="DegreeName" id="DegreeName0" class="form-control">
+                        <option value="">Any</option>
+                    </select>              
+                </td>
+                <td>
+                    <select name="Major" id="Major0" class="form-control">
+                        <option value="">Any</option>
+                    </select>
+                </td>
+                <td><input type=text id=score0 class=form-control></td>
+                <td>
+                    <select name="clg_tier" id="clg_tier0" class="form-control input-lg">
+                        <option value="">Any</option>
+                        <option value="1">Tier 1</option>
+                        <option value="2">Tier 2</option>
+                        <option value="3">Tier 3</option>
+                    </select>
+                </td>
+                <td>
+                    <input type="button" id="add_degree" value="Add Degree" onclick="add_select_degree()">
+                </td>
+            </tr>
+        </table>
+        <h3 class="a">Required Work Experience:</h3>
+        <table id="work_tbl">
+            <tr>
+                <td>Role:</td>
+                <td>Req Yrs of Experience:</td>
+                <td>Company Tier:</td>
+            </tr>
+            <tr>
+                <td>
+                    <select name="workRole" id="workRole0" class="form-control">
+                        <option value="">Any</option>
+                        <option value="Entry Level">Entry Level</option>
+                        <option value="Experienced (non-manager)">Experienced (non-manager)</option>
+                        <option value="Senior (more than 5 years experience)">Senior (more than 5 years experience)</option>
+                        <option value="Manager">Manager</option>
+                        <option value="Senior Manager (more than 5 years management experience)">Senior Manager (more than 5 years management experience)</option>
+                        <option value="Executive (VP, Dept. Head)">Executive (VP, Dept. Head)</option>
+                        <option value="Senior Executive (President, C-level)">Senior Executive (President, C-level)</option>
+                    </select>              
+                </td>
+                <td><input type=text id=yrs0 class=form-control></td>
+                <td>
+                    <select name="company_tier" id="company_tier0" class="form-control">
+                        <option value="">Any</option>
+                        <option value="1">Tier 1</option>
+                        <option value="2">Tier 2</option>
+                        <option value="3">Tier 3</option>
+                    </select>
+                </td>
+                <td>
+                    <input type="button" id="add_work" value="Add Req Experience" onclick="add_select_work()">
+                </td>
+            </tr>
+        </table>
+        <br>
+        <input type="button" id="create" value="Generate Job Description" onclick="forward()">
+    </body>
 </html>
 
 <script>
     degree_count=0
+    work_count=1
     education=[]
     work=[]
     function load_json_data(id, parent_id,count)
@@ -141,30 +194,122 @@
     }
     function get_edu_html(){
         txt="<tr>"+
-          "<td>"+
-            '<select name="DegreeType" id="DegreeType'+degree_count+'" class="form-control input-lg" onchange=dTypeChange(this.id)>'+
-                '<option value="">Any</option>'+
-            '</select>'+
-          '</td>'+
-          '<td>'+
-            '<select name="DegreeName" id="DegreeName'+degree_count+'" class="form-control input-lg" onchange="dNameChange(this.id)">'+
-                '<option value="">Any</option>'+
-            '</select>' +             
-          '</td>'+
-          '<td>'+
-            '<select name="Major" id="Major'+degree_count+'" class="form-control input-lg">'+
-                '<option value="">Any</option>'+
-            '</select>'+
-          '</td>'+
-      "</tr>";
-      degree_count+=1;
-      return txt;
+            "<td>"+
+                '<select name="DegreeType" id="DegreeType'+degree_count+'" class="form-control" onchange=dTypeChange(this.id)>'+
+                    '<option value="">Any</option>'+
+                '</select>'+
+            '</td>'+
+            '<td>'+
+                '<select name="DegreeName" id="DegreeName'+degree_count+'" class="form-control" onchange="dNameChange(this.id)">'+
+                    '<option value="">Any</option>'+
+                '</select>' +             
+            '</td>'+
+            '<td>'+
+                '<select name="Major" id="Major'+degree_count+'" class="form-control">'+
+                    '<option value="">Any</option>'+
+                '</select>'+
+            '</td>'+
+            '<td><input type=text id="score'+degree_count+'" class=form-control></td>'+
+            '<td>'+
+                '<select name="clg_tier" id="clg_tier'+degree_count+'" class="form-control">'+
+                    '<option value="">Any</option>'+
+                    '<option value="1">Tier 1</option>'+
+                    '<option value="2">Tier 2</option>'+
+                    '<option value="3">Tier 3</option>'+
+                '</select>'+
+            '</td>'+
+        "</tr>";
+        degree_count+=1;
+        return txt;
+    }
+    function get_work_html(){
+        txt='<tr>'+
+                '<td>'+
+                    '<select name="workRole" id="workRole'+work_count+'" class="form-control">'+
+                        '<option value="">Any</option>'+
+                        '<option value="Entry Level">Entry Level</option>'+
+                        '<option value="Experienced (non-manager)">Experienced (non-manager)</option>'+
+                        '<option value="Senior (more than 5 years experience)">Senior (more than 5 years experience)</option>'+
+                        '<option value="Manager">Manager</option>'+
+                        '<option value="Senior Manager (more than 5 years management experience)">Senior Manager (more than 5 years management experience)</option>'+
+                        '<option value="Executive (VP, Dept. Head)">Executive (VP, Dept. Head)</option>'+
+                        '<option value="Senior Executive (President, C-level)">Senior Executive (President, C-level)</option>'+
+                    '</select>'+              
+                '</td>'+
+                '<td><input type=text id="yrs'+work_count+'" class=form-control></td>'+
+                '<td>'+
+                    '<select name="company_tier" id="company_tier'+work_count+'" class="form-control">'+
+                        '<option value="">Any</option>'+
+                        '<option value="1">Tier 1</option>'+
+                        '<option value="2">Tier 2</option>'+
+                        '<option value="3">Tier 3</option>'+
+                    '</select>'+
+                '</td>'+
+            '</tr>';
+        work_count+=1;   
+        return txt;
     }
     function add_select_degree(){
         education_html=get_edu_html();
         $('#degree_tbl').append(education_html);
-        console.log(degree_count-1);
+        //console.log(degree_count-1);
         load_json_data("DegreeType",0,degree_count-1);
         
+    }
+    function add_select_work(){
+        work_html=get_work_html();
+        //console.log(work_html);
+        $('#work_tbl').append(work_html);
+    }
+    function forward(){
+        data={};
+        edu=[];
+        work=[];
+        for(var i=0;i<degree_count;i++){
+            e={};
+            if($("#DegreeType"+i).val()!=''){
+                e["DegreeType"]=education[parseInt($("#DegreeType"+i).val())-1]["name"].toLowerCase();
+            }
+            else{
+                e["DegreeType"]=$("#DegreeType"+i).val();
+            }
+            if($("#DegreeName"+i).val()!=''){
+                e["DegreeName"]=education[parseInt($("#DegreeName"+i).val())-1]["name"].toLowerCase();
+            }
+            else{
+                e["DegreeName"]=$("#DegreeName"+i).val();
+            }
+            if($("#Major"+i).val()!=''){
+                e["DegreeMajor"]=education[parseInt($("#Major"+i).val())-1]["name"].toLowerCase();
+            }
+            else{
+                e["DegreeMajor"]=$("#Major"+i).val();
+            }
+            if($("#score"+i).val()!=''){
+                e["DegreeScore"]=parseInt($("#score"+i).val());
+            }
+            else{
+                e["DegreeScore"]=$("#score"+i).val();
+            }
+            e["college_tier"]=$("#clg_tier"+i).val();
+            edu.push(e);
+            //console.log(e);
+        }
+        data["education"]=edu;
+        for(var i=0;i<work_count;i++){
+            w={};
+            w["CategoryCode"]=$("#workRole"+i).val();
+            w["Experience"]=$("#yrs"+i).val();
+            w["CompanyTier"]=$("#company_tier"+i).val();
+            work.push(w);
+        }
+        data["WorkExperience"]=work;
+        
+        //console.log(data);
+        var xhttp = new XMLHttpRequest();
+        xhttp.open("POST","/jd",true);
+        xhttp.setRequestHeader("Content-Type", "application/json");
+        xhttp.send(JSON.stringify(data));
+        window.location.href="/evaluate";
     }
 </script>

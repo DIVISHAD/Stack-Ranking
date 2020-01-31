@@ -107,8 +107,8 @@ def evaluate_skills(candidate,json):
                         if skill_match != (len(subTaxonomy_value)-1):
                             score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
     return  score  
-print("\n---------------------------------------Skill Score------------------------------\n")
-skill_score()
+#print("\n---------------------------------------Skill Score------------------------------\n")
+#skill_score()
 
 
 education_degree_type = [['specialeducation'],['some high school or equivalent','ged','secondary'],
@@ -153,7 +153,7 @@ for i in candidates_qualifications:
         pp=i     
 #print(len(candidates_qualifications)) 
 
-print(pp)
+#print(pp)
 
 def education_score(highest_degree):
     education_score={}
@@ -194,6 +194,6 @@ def evaluate_education(j,min_d):
         if(l[i] == 0 and flag == 1):
             l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100)       
     return sum(l)
-print("\n---------------------------------------Education Score------------------------------\n")
+#print("\n---------------------------------------Education Score------------------------------\n")
 
-education_score("masters")
+#education_score("masters")
