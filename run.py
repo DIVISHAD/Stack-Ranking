@@ -147,13 +147,13 @@ for i in os.listdir(r_path):
                 candidate_education["candidate_degrees"].append(degree)    
         candidates_qualifications.append(candidate_education) 
 pp={}
-# for i in candidates_qualifications:
-#     #print(i,"\n")
-#     if(i["name"]=="5d5fb8aac9c0a_1566554280_NitinAgrawal[12_0].docx"):
-#         pp=i     
-# print(len(candidates_qualifications)) 
+for i in candidates_qualifications:
+    #print(i,"\n")
+    if(i["name"]=="5d5fb8aac9c0a_1566554280_NitinAgrawal[12_0].docx"):
+        pp=i     
+#print(len(candidates_qualifications)) 
 
-# print(pp)
+print(pp)
 
 def education_score(highest_degree):
     education_score={}
@@ -180,7 +180,7 @@ def evaluate_education(j,min_d):
     d=j.get("candidate_degrees")
     least_score=100
     for i in d:
-        if i["DegreeScore"] != -1 and i["DegreeScore"]<least_score:least_score=i["DegreeScore"]
+        if i["DegreeScore"] != -1 and i["DegreeScore"]<least_score :least_score=i["DegreeScore"]
     if least_score==100:least_score=60    
     for i in d:
         for dg in lst:

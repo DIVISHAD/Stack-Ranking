@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Job Description</title>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+  <style>
+      .form-control{
+          width: 150px;
+      }
+  </style>
+ </head>
+ <body>
+     <h2 align="center">FILL THE FIELDS TO GENERATE A JOB DESCRIPTION</h2>
+     Job Title:
+     <input type="text" id="title">
+  <table align="center" id="degree_tbl">
+      <tr>
+          <td>Select Degree Type:</td>
+          <td>Select Degree Name:</td>
+          <td>Select Degree Field:</td>
+      </tr>
+      <tr>
+          <td>
+            <select name="DegreeType" id="DegreeType0" class="form-control input-lg">
+                <option value="">Any</option>
+            </select>
+          </td>
+          <td>
+            <select name="DegreeName" id="DegreeName0" class="form-control input-lg">
+                <option value="">Any</option>
+            </select>              
+          </td>
+          <td>
+            <select name="Major" id="Major0" class="form-control input-lg">
+                <option value="">Any</option>
+            </select>
+          </td>
+      </tr>
+  </table>
+  <table align="center">
+    <tr>
+        <input type="button" id="add_degree" value="Add Degree" onclick="add_select_degree()">
+    </tr>
+  </table>
+ </body>
+</html>
+
+<script>
+    degree_count=0
+    education=[]
+    work=[]
+    function load_json_data(id, parent_id,count)
+    {
+        var html_code = '';
+        html_code += '<option value="">Any'+'</option>';
+        //console.log("\n\n\n"+education);
+        $.each(education, function(key, value)
+        {
+            if(id == 'DegreeType' && value.parent_id == '0')
+            {
+            html_code += '<option value="'+value.id+'">'+value.name+'</option>';
+            }
+            else if(value.parent_id == parent_id)
+            {
+            html_code += '<option value="'+value.id+'">'+value.name+'</option>';
+            }
+        });
+        $('#'+id+count).html(html_code);
+    }
+    $(document).ready(function()
+    {
+        var xhttp = new XMLHttpRequest();
+        xhttp.onreadystatechange = function(){
+            if(this.readyState == 4 && this.status == 200){
+                d=JSON.parse(this.responseText);
+                education=d["education"];
+                work=d["work"];
+                //console.log(work);
+            }
+        };
+        xhttp.open("GET","/get_json",false);
+        xhttp.setRequestHeader("Content-Type", "application/json");
+        xhttp.send();
+        load_json_data('DegreeType',0,0);
+        $(document).on('change', '#DegreeType0', function()
+        {
+            var DegreeType_id = $(this).val();
+            if(DegreeType_id != '')
+            {
+                load_json_data('DegreeName', DegreeType_id,0);
+                $('#Major0').html('<option value="">Any</option>');
+            }
+            else
+            {
+                $('#DegreeName0').html('<option value="">Any</option>');
+                $('#Major0').html('<option value="">Any</option>');
+            }
+        });
+        $(document).on('change', '#DegreeName0', function()
+        {
+            var DegreeName_id = $(this).val();
+            if(DegreeName_id != '')
+            {
+                load_json_data('Major', DegreeName_id,0);
+            }
+            else
+            {
+                $('#Major0').html('<option value="">Any</option>');
+            }
+        });
+        degree_count+=1;
+    });
+    function dTypeChange(id_){
+        var c=parseInt(id_[id_.length-1]);
+        //console.log(c);
+        var DegreeType_id = $('#'+id_).val();
+            if(DegreeType_id != '')
+            {
+                load_json_data('DegreeName', DegreeType_id,c);
+                $('#Major'+c).html('<option value="">Any</option>');
+            }
+            else
+            {
+                $('#DegreeName'+c).html('<option value="">Any</option>');
+                $('#Major'+c).html('<option value="">Any</option>');
+            }
+    }
+    function dNameChange(id_){
+        var c=parseInt(id_[id_.length-1]);
+        var DegreeName_id = $('#'+id_).val();
+            if(DegreeName_id != '')
+            {
+                load_json_data('Major', DegreeName_id,c);
+            }
+            else
+            {
+                $('#Major'+c).html('<option value="">Any</option>');
+            }
+    }
+    function get_edu_html(){
+        txt="<tr>"+
+          "<td>"+
+            '<select name="DegreeType" id="DegreeType'+degree_count+'" class="form-control input-lg" onchange=dTypeChange(this.id)>'+
+                '<option value="">Any</option>'+
+            '</select>'+
+          '</td>'+
+          '<td>'+
+            '<select name="DegreeName" id="DegreeName'+degree_count+'" class="form-control input-lg" onchange="dNameChange(this.id)">'+
+                '<option value="">Any</option>'+
+            '</select>' +             
+          '</td>'+
+          '<td>'+
+            '<select name="Major" id="Major'+degree_count+'" class="form-control input-lg">'+
+                '<option value="">Any</option>'+
+            '</select>'+
+          '</td>'+
+      "</tr>";
+      degree_count+=1;
+      return txt;
+    }
+    function add_select_degree(){
+        education_html=get_edu_html();
+        $('#degree_tbl').append(education_html);
+        console.log(degree_count-1);
+        load_json_data("DegreeType",0,degree_count-1);
+        
+    }
+</script>
