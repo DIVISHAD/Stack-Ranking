@@ -8,6 +8,7 @@ r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resum
 candidates_skills=[]
 candidates_qualifications=[]
 jd_taxonamies={}
+#highest len of SubTaxonomy
 constant=0
 
 for nm in os.listdir(r_path):
@@ -58,18 +59,18 @@ for nm in os.listdir(jd_path):
 #print(jd_taxonamies)    
 #print(constant)
 
-def skill_score():
-    score={}
-    for i in candidates_skills:
-        score[i["name"]]=round(evaluate_skills(i,jd_taxonamies),3)
-    list1=sorted( score.items(),key = lambda kv:kv[1] )  
-    list1.reverse()
-    sorted_list={} 
-    for k in list1:
-        sorted_list[k[0]]=k[1]
-    for k,v in sorted_list.items():
-        #st=k.split(".")[-2].split("[")[0].split("_")[-1]
-        print(k,v)
+# def skill_score_():
+#     score={}
+#     for i in candidates_skills:
+#         score[i["name"]]=round(evaluate_skills(i,jd_taxonamies),3)
+#     list1=sorted( score.items(),key = lambda kv:kv[1] )  
+#     list1.reverse()
+#     sorted_list={} 
+#     for k in list1:
+#         sorted_list[k[0]]=k[1]
+#     for k,v in sorted_list.items():
+#         #st=k.split(".")[-2].split("[")[0].split("_")[-1]
+#         print(k,v)
 
 def evaluate_skills(candidate,json):
     score = 0
@@ -108,7 +109,7 @@ def evaluate_skills(candidate,json):
                             score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
     return  score  
 #print("\n---------------------------------------Skill Score------------------------------\n")
-#skill_score()
+#skill_score_()
 
 
 education_degree_type = [['specialeducation'],['some high school or equivalent','ged','secondary'],
@@ -116,9 +117,11 @@ education_degree_type = [['specialeducation'],['some high school or equivalent',
                         ['HND/HNC or equivalent','associates','international'],['bachelors'],
                         ['some post-graduate','masters','intermediategraduate'],['professional'],
                         ['postprofessional'],['doctorate'],['postdoctorate']]
-index=0                        
-score_degree_type=index*(index+1)/110                        
-
+education_index = {'specialeducation':0,'some high school or equivalent':1,'ged':1,'secondary':1,
+                        'high school or equivalent':2,'certification':2,'vocational':2,'some college':2,
+                        'HND/HNC or equivalent':3,'associates':3,'international':3,'bachelors':4,
+                        'some post-graduate':5,'masters':5,'intermediategraduate':5,'professional':6,
+                        'postprofessional':7,'doctorate':8,'postdoctorate':9}
 
 for i in os.listdir(r_path):
     candidate_education={}
@@ -153,47 +156,124 @@ for i in candidates_qualifications:
         pp=i     
 #print(len(candidates_qualifications)) 
 
-#print(pp)
+# print(pp)
 
-def education_score(highest_degree):
-    education_score={}
-    for i in candidates_qualifications:
-        education_score[i["name"]]=round(evaluate_education(i,highest_degree),3)
-    list1=sorted( education_score.items(),key = lambda kv:kv[1] )  
-    list1.reverse()
-    sorted_list={} 
-    for k in list1:
-        sorted_list[k[0]]=k[1]
-    for k,v in sorted_list.items():
-        #st=k.split(".")[-2].split("[")[0].split("_")[-1]
-        print(k,v)
+# def education_score_(highest_degree):
+#     education_score={}
+#     for i in candidates_qualifications:
+#         education_score[i["name"]]=round(evaluate_education_(i,highest_degree),3)
+#     list1=sorted( education_score.items(),key = lambda kv:kv[1] )  
+#     list1.reverse()
+#     sorted_list={} 
+#     for k in list1:
+#         sorted_list[k[0]]=k[1]
+#     for k,v in sorted_list.items():
+#         #st=k.split(".")[-2].split("[")[0].split("_")[-1]
+#         print(k,v)
 
 
-def evaluate_education(j,min_d):
+# def evaluate_education_(j,min_d):
+#     indx=0
+#     for i in education_degree_type:
+#         if min_d in i:
+#             indx=education_degree_type.index(i)
+#             break
+#     lst=education_degree_type[0:indx+2]        
+#     l=[0 for i in range(indx+2)]
+#     d=j.get("candidate_degrees")
+#     least_score=100
+#     for i in d:
+#         if i["DegreeScore"] != -1 and i["DegreeScore"]<least_score :least_score=i["DegreeScore"]
+#     if least_score==100:least_score=60    
+#     for i in d:
+#         for dg in lst:
+#             if i["DegreeType"] in dg:
+#                 tst=lambda val: least_score if(val==-1) else val
+#                 l[lst.index(dg)] = lst.index(dg)/sum([i for i in range(1,len(lst))])*100*(tst(i["DegreeScore"])/100)
+#                 break
+#     flag = 0
+#     for i in range(len(lst)-1,0,-1):
+#         if l[i] != 0 and flag == 0:flag=1
+#         if(l[i] == 0 and flag == 1):
+#             l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100)       
+#     print(l)
+#     return sum(l)
+#print("\n---------------------------------------Education Score------------------------------\n")
+
+#education_score_("masters")
+# ttt=[{'DegreeType': 'bachelors', 'DegreeName': 'b.tech/b.e', 'DegreeMajor': 'cse', 'DegreeScore': 59, 'college_tier': ''},
+#  {'DegreeType': 'masters', 'DegreeName': '', 'DegreeMajor': '', 'DegreeScore': 61, 'college_tier': ''}]
+
+def evaluate_education(res,edu_list):
     indx=0
-    for i in education_degree_type:
-        if min_d in i:
-            indx=education_degree_type.index(i)
-            break
-    lst=education_degree_type[0:indx+2]        
-    l=[0 for i in range(indx+2)]
-    d=j.get("candidate_degrees")
+    for i in edu_list:
+        if i["DegreeType"] in education_index.keys() and education_index[ i["DegreeType"]]>indx:
+            indx = education_index[ i["DegreeType"]]
+    lst=education_degree_type[0:indx+2]
+    l=[0 for i in range(indx+2)]            
+    d=res.get("candidate_degrees")
     least_score=100
+    cnt=0
+    sr=0
     for i in d:
-        if i["DegreeScore"] != -1 and i["DegreeScore"]<least_score :least_score=i["DegreeScore"]
-    if least_score==100:least_score=60    
+        if i["DegreeScore"] != -1 :
+            cnt+=1
+            sr+=i["DegreeScore"]
+    if cnt != 0:least_score=sr/cnt         
+    if least_score==100:least_score=60 
+    print("lst",least_score)
+    tst=lambda val: least_score if(val==-1) else val
+    for i in edu_list:
+        if i["DegreeType"] !='':
+            for j in d:
+                if i["DegreeType"]==j["DegreeType"]:
+                    if i["DegreeScore"]=='' or j["DegreeScore"]>=i["DegreeScore"] or (j["DegreeScore"]==-1 and least_score >= i["DegreeScore"]):
+                        l[education_index[i["DegreeType"]]]=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)
+                        print(education_index[i["DegreeType"]],1)
+                    elif j["DegreeScore"]<i["DegreeScore"] or least_score < i["DegreeScore"]:
+                        l[education_index[i["DegreeType"]]]=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)*0.75
+                        print(education_index[i["DegreeType"]],2)
+                    break        
     for i in d:
         for dg in lst:
             if i["DegreeType"] in dg:
-                tst=lambda val: least_score if(val==-1) else val
-                l[lst.index(dg)] = lst.index(dg)/sum([i for i in range(1,len(lst))])*100*(tst(i["DegreeScore"])/100)
+                if l[lst.index(dg)] == 0:
+                    l[lst.index(dg)] = lst.index(dg)/sum([i for i in range(1,len(lst))])*100*(tst(i["DegreeScore"])/100)
                 break
     flag = 0
     for i in range(len(lst)-1,0,-1):
         if l[i] != 0 and flag == 0:flag=1
         if(l[i] == 0 and flag == 1):
-            l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100)       
+            l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100) 
+    print(l)              
     return sum(l)
-#print("\n---------------------------------------Education Score------------------------------\n")
 
-#education_score("masters")
+def education_score(edu_list):
+    education_score={}
+    for i in candidates_qualifications:
+        education_score[i["name"]]=round(evaluate_education(i,edu_list),3)
+    return education_score    
+
+def skill_score():
+    skill_score={}
+    for i in candidates_skills:
+        skill_score[i["name"]]=round(evaluate_skills(i,jd_taxonamies),3)
+    return skill_score   
+    
+def scores(edu_list,data):
+    ttl={}
+    es=education_score(edu_list)
+    ss=skill_score()
+    for k,v in es.items():
+        ttl[k]=(v*data["education"])+(ss[k]*data["skill"])
+        ttl[k]=round(ttl[k]/100,3)
+    list1=sorted( ttl.items(),key = lambda kv:kv[1] )  
+    list1.reverse()
+    sorted_list={} 
+    for k in list1:
+        sorted_list[k[0]]={}
+        sorted_list[k[0]]["Total Score"]=k[1]
+        sorted_list[k[0]]["Education Score"]=round(es[k[0]]*data["education"]/100,3)
+        sorted_list[k[0]]["Skill Score"]=round(ss[k[0]]*data["skill"]/100,3)
+    return sorted_list    
+

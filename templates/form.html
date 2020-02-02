@@ -103,7 +103,6 @@
     degree_count=0
     work_count=1
     education=[]
-    work=[]
     function load_json_data(id, parent_id,count)
     {
         var html_code = '';
@@ -129,7 +128,7 @@
             if(this.readyState == 4 && this.status == 200){
                 d=JSON.parse(this.responseText);
                 education=d["education"];
-                work=d["work"];
+                //work=d["work"];
                 //console.log(work);
             }
         };
@@ -305,7 +304,7 @@
         }
         data["WorkExperience"]=work;
         
-        //console.log(data);
+        console.log(data);
         var xhttp = new XMLHttpRequest();
         xhttp.open("POST","/jd",true);
         xhttp.setRequestHeader("Content-Type", "application/json");

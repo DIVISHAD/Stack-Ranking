@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Evaluate Scores</title>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+        <style>
+            body{
+                padding: 50px;
+            }
+            .a{
+                text-decoration-line: underline;
+            }
+            .slider {
+                -webkit-appearance: none;
+                width: 200px;
+                height: 8px;
+                border-radius: 5px;
+                background: #b4b3b3;
+                outline: none;
+                opacity: 0.8;
+                -webkit-transition: .2s;
+                transition: opacity .2s;
+            }
+            .slider:hover {
+                opacity: 1;
+            }
+            .slider::-webkit-slider-thumb {
+                -webkit-appearance: none;
+                appearance: none;
+                width: 15px;
+                height: 15px;
+                border-radius: 100%;
+                cursor: pointer;
+            }
+            .b::-webkit-slider-thumb{
+                background: rgb(243, 142, 26);
+            }
+            .c::-webkit-slider-thumb{
+                background: rgb(241, 82, 33);
+            }
+            .d::-webkit-slider-thumb{
+                background: rgb(15, 201, 9);
+            }
+            .val{
+                width: 100px;
+            }
+            table.tbl{
+                border-collapse: collapse;
+            }
+            table.tbl,tr.tbl,td.tbl{
+                border: 2px solid black;
+            }
+        </style>
+    </head>
+    <body>
+        <h1 align="center" class="a">Evaluate Scores</h1>
+        <table>
+            <tr>
+                <td>Education:</td>
+                <td></td>
+                <td>Work Experience:</td>
+                <td></td>
+                <td>Skills:</td>
+            </tr>
+            <tr>
+                <td><input type="range" min="0" max="100" value="33" class="slider b" id="edu"></td>
+                <td class="val"><p><span id="edu_val">33%</span>  </p></td class="val">
+                <td><input type="range" min="0" max="100" value="33" class="slider c" id="wk"></td>
+                <td  class="val"><p><span id="wk_val">33%</span>  </p></td>
+                <td><input type="range" min="0" max="100" value="34" class="slider d" id="skill"></td>
+                <td class="val"><p><span id="skill_val">34%</span>  </p></td class="val">
+                <td>
+                    <input type="button" id="eval" value="Evaluate" onclick="calculate()">
+                </td>
+            </tr>
+        </table>
+        
+        <p style="color:red;" id="err"></p>
+        <div id="ranks"></div>
+    </body>
+    <script>
+        $('#edu').on('input', function() {
+            text = $('#edu').val()+"%";
+            $('#edu_val').html(text);
+        });
+        $('#wk').on('input', function() {
+            text = $('#wk').val()+"%";
+            $('#wk_val').html(text);
+        });
+        $('#skill').on('input', function() {
+            text = $('#skill').val()+"%";
+            $('#skill_val').html(text);
+        });
+        function calculate(){
+            d=document.getElementsByClassName("slider");
+            ttl=0;
+            for(var i=0;i<d.length;i++){
+                ttl+=parseInt(d[i].value);
+            }
+            if(ttl>100){
+                $("#err").html("Incorrect values!!!Total Score should be <=100%");
+                return false;
+            }
+            else{
+                $("#err").html("");
+            }
+            values={
+                "education":parseInt($("#edu").val()),
+                "work experience":parseInt($("#wk").val()),
+                "skill":parseInt($("#skill").val())
+
+            }
+            var xhttp=new XMLHttpRequest();
+            xhttp.onreadystatechange = function(){
+                if(this.status == 200 && this.readyState == 4){
+                    html_txt = '<table class="tbl">'+
+                            '<tr class="tbl">'+
+                            '<td class="tbl"><h4>RANK</h4></td>'+
+                            '<td class="tbl"><h4>CANDIDATE NAME</h4></td>'+
+                            '<td class="tbl"><h4>RESUME SCORE</h4></td>'+
+                            '</tr>';
+                    
+                    
+
+                    html_txt += '</table>';
+                    $("#ranks").html(html_txt);
+                }
+            };
+            xhttp.open("POST","/get_scores",true);
+            xhttp.setRequestHeader("Content-Type", "application/json");
+            xhttp.send(JSON.stringify(values));
+        }
+    </script>
+</html>
