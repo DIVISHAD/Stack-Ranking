@@ -1,5 +1,6 @@
 import json
 import os
+import samp
 #import objectpath
 
 jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resumes/SourceDocument/"
@@ -8,11 +9,15 @@ r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resum
 candidates_skills=[]
 candidates_qualifications=[]
 jd_taxonamies={}
+candidate_work_skills={}
 #highest len of SubTaxonomy
 constant=0
 
 for nm in os.listdir(r_path):
     candidate_taxonamies={}
+    candidate_work_skills[nm]={}
+    candidate_work_skills[nm]["Skills"]={}
+    candidate_work_skills[nm]["ChildSkills"]={}
     candidate_taxonamies["name"]=nm
     with open(r_path+nm+"/"+nm+".json",'r',encoding='cp850') as file:
         #print(nm)
@@ -30,9 +35,21 @@ for nm in os.listdir(r_path):
                         if k.get("sov:ChildSkill") != None:
                             for sub in k.get("sov:ChildSkill"):
                                 child_skills.append(sub["@name"])
-                        candidate_taxonamies[i["@name"]][j["@name"]][k["@name"]]=child_skills  
+                                if "@whereFound" in sub:
+                                    # print(sub["@whereFound"][8:].split(";"))
+                                    if " WORK HISTORY" in sub["@whereFound"][8:].split(";"):
+                                        if "@totalMonths" in sub:
+                                            candidate_work_skills[nm]["ChildSkills"][sub["@name"]]=int(sub["@totalMonths"])
+                                        else:
+                                             candidate_work_skills[nm]["ChildSkills"][sub["@name"]]=-1   
+                        candidate_taxonamies[i["@name"]][j["@name"]][k["@name"]]=child_skills
+                        if "@whereFound" in k:
+                            if " WORK HISTORY" in k["@whereFound"][8:].split(";"):
+                                if "@totalMonths" in k:
+                                    candidate_work_skills[nm]["Skills"][k["@name"]]=int(k["@totalMonths"])
+                                else:
+                                        candidate_work_skills[nm]["Skills"][k["@name"]]=-1   
         candidates_skills.append(candidate_taxonamies)
-
 for nm in os.listdir(jd_path):
     with open(jd_path+nm+"/"+nm+".json",'r',encoding='cp850') as file:
         data=json.load(file)
@@ -53,7 +70,12 @@ for nm in os.listdir(jd_path):
                     #print(jd_taxonamies[i["@name"]][j["@name"]])
                     constant = len(jd_taxonamies[i["@name"]][j["@name"]])   
                 
-#for i in candidates_skills:print(i,"\n\n")
+# for i in candidates_skills:
+#     print(i,"\n\n")
+#     break
+for i in candidate_work_skills:
+    # print(i,candidate_work_skills[i],"\n\n")
+    break
 #print(type(jd_taxonamies))
 #for i in jd_taxonamies:print(i)    
 #print(jd_taxonamies)    
@@ -201,14 +223,15 @@ for i in candidates_qualifications:
 #print("\n---------------------------------------Education Score------------------------------\n")
 
 #education_score_("masters")
-# ttt=[{'DegreeType': 'bachelors', 'DegreeName': 'b.tech/b.e', 'DegreeMajor': 'cse', 'DegreeScore': 59, 'college_tier': ''},
-#  {'DegreeType': 'masters', 'DegreeName': '', 'DegreeMajor': '', 'DegreeScore': 61, 'college_tier': ''}]
+# ttt=[{'DegreeType': 'bachelors', 'DegreeName': 'b.tech/b.e', 'DegreeMajor': 'cse', 'DegreeScore': 61, 'college_tier': ''},
+#  {'DegreeType': 'masters', 'DegreeName': '', 'DegreeMajor': '', 'DegreeScore': 59, 'college_tier': ''}]
 
 def evaluate_education(res,edu_list):
     indx=0
     for i in edu_list:
         if i["DegreeType"] in education_index.keys() and education_index[ i["DegreeType"]]>indx:
             indx = education_index[ i["DegreeType"]]
+    if indx==0:indx=len(education_degree_type)-2
     lst=education_degree_type[0:indx+2]
     l=[0 for i in range(indx+2)]            
     d=res.get("candidate_degrees")
@@ -221,7 +244,7 @@ def evaluate_education(res,edu_list):
             sr+=i["DegreeScore"]
     if cnt != 0:least_score=sr/cnt         
     if least_score==100:least_score=60 
-    print("lst",least_score)
+    #print("lst",least_score)
     tst=lambda val: least_score if(val==-1) else val
     for i in edu_list:
         if i["DegreeType"] !='':
@@ -229,10 +252,10 @@ def evaluate_education(res,edu_list):
                 if i["DegreeType"]==j["DegreeType"]:
                     if i["DegreeScore"]=='' or j["DegreeScore"]>=i["DegreeScore"] or (j["DegreeScore"]==-1 and least_score >= i["DegreeScore"]):
                         l[education_index[i["DegreeType"]]]=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)
-                        print(education_index[i["DegreeType"]],1)
+                        #print(education_index[i["DegreeType"]],1)
                     elif j["DegreeScore"]<i["DegreeScore"] or least_score < i["DegreeScore"]:
                         l[education_index[i["DegreeType"]]]=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)*0.75
-                        print(education_index[i["DegreeType"]],2)
+                        #print(education_index[i["DegreeType"]],2)
                     break        
     for i in d:
         for dg in lst:
@@ -245,8 +268,28 @@ def evaluate_education(res,edu_list):
         if l[i] != 0 and flag == 0:flag=1
         if(l[i] == 0 and flag == 1):
             l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100) 
-    print(l)              
+    #print(l)              
     return sum(l)
+def work_skill_score(skill_lst):
+    work_skill_score={}
+    max_score_val=30
+    ttl_skills=len(skill_lst["Skills"])+len(skill_lst["ChildSkills"])
+    for k,v in candidate_work_skills.items():
+        score=0
+        for nm,val in skill_lst["Skills"].items():
+            if nm in v["Skills"]:
+                if val==None or v["Skills"][nm] >= val:
+                    score+=max_score_val/ttl_skills
+                else:
+                    score+=max_score_val/ttl_skills*0.75
+        for nm,val in skill_lst["ChildSkills"].items():
+            if nm in v["ChildSkills"]:
+                if val==None or v["ChildSkills"][nm] >= val:
+                    score+=max_score_val/ttl_skills
+                else:
+                    score+=max_score_val/ttl_skills*0.75
+        work_skill_score[k]=score                           
+    return work_skill_score
 
 def education_score(edu_list):
     education_score={}
@@ -260,20 +303,46 @@ def skill_score():
         skill_score[i["name"]]=round(evaluate_skills(i,jd_taxonamies),3)
     return skill_score   
     
-def scores(edu_list,data):
+def scores(edu_list,work_list,work_skill_list,data):
     ttl={}
     es=education_score(edu_list)
     ss=skill_score()
+    ws=samp.work_exp(work_list)
+    wss=work_skill_score(work_skill_list)
     for k,v in es.items():
-        ttl[k]=(v*data["education"])+(ss[k]*data["skill"])
+        # print(ss[k])
+        # print(ws[k])
+        # print(wss[k])
+        ws_score=0
+        if k in ws:
+            ws_score=ws[k]
+        ttl[k]=(v*data["education"])+(ss[k]*data["skill"])+((ws_score+wss[k])*data["work experience"])
         ttl[k]=round(ttl[k]/100,3)
     list1=sorted( ttl.items(),key = lambda kv:kv[1] )  
     list1.reverse()
+    # for i in list1:
+    #     print(i)
     sorted_list={} 
+    sorted_list["order"]=[]
     for k in list1:
+        t={}
+        t[k[0]]={}
         sorted_list[k[0]]={}
+        sorted_list["order"].append(k[0])
         sorted_list[k[0]]["Total Score"]=k[1]
         sorted_list[k[0]]["Education Score"]=round(es[k[0]]*data["education"]/100,3)
         sorted_list[k[0]]["Skill Score"]=round(ss[k[0]]*data["skill"]/100,3)
+        sk=0
+        if k[0] in ws:
+            sk=ws[k[0]]
+        sorted_list[k[0]]["Experience Score"]=round((sk+wss[k[0]])*data["work experience"]/100,3)
+
+    # for i,p in sorted_list.items():print(i,p)
+    # print("mohit                         ",sorted_list["5d44912169e2e_Mohit Full Stack Developer and Techno Manager.docx"]["Experience Score"])    
     return sorted_list    
 
+# scores(ttt,{"education":33,"skill":34})
+sample={'Skills': {'DISTRIBUTED SYSTEMS': None,'MONGODB': None}, 'ChildSkills': {}}
+aaaa=work_skill_score(sample)
+# for k,v in aaaa.items():print(k,v)
+# print(aaaa["5d44912169e2e_Mohit Full Stack Developer and Techno Manager.docx"])

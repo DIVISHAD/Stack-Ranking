@@ -27,18 +27,23 @@ def jd_data():
     data=request.json
     global jd
     jd=data
-    #print(jd)
+    # print(jd)
     return ""
 
 @app.route("/evaluate")
 def eval():
     return render_template("evaluate.html")
 
-@app.route("/get_score", methods=["POST"])
+@app.route("/get_scores", methods=["POST"])
 def score():
     data=request.json
-    d=run.scores(jd["education"],data)
+    d={}
+    if "education" in jd:
+        d=run.scores(jd["education"],jd["WorkExperience"],jd["WorkSkills"],data)
+    # for k,v in d.items():print(k,v)
     return d
+
+# print("jd",jd)
 
 if __name__ == "__main__" :
     app.run(debug=True)

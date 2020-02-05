@@ -63,11 +63,21 @@
         <h3 class="a">Required Work Experience:</h3>
         <table id="work_tbl">
             <tr>
+                <td>Position:</td>
                 <td>Role:</td>
                 <td>Req Yrs of Experience:</td>
                 <td>Company Tier:</td>
             </tr>
             <tr>
+                <td>
+                    <select name="jp" id="jp0" class="form-control">
+                        <option value="">Any</option>
+                        <option value="Technical Lead">Technical Lead</option>
+                        <option value="Senior Software Engineer">Senior Software Engineer</option>
+                        <option value="Software Engineer">Software Engineer</option>
+                        <option value="Software Development Engineer">Software Development Engineer</option>
+                    </select>
+                </td>
                 <td>
                     <select name="workRole" id="workRole0" class="form-control">
                         <option value="">Any</option>
@@ -80,7 +90,7 @@
                         <option value="Senior Executive (President, C-level)">Senior Executive (President, C-level)</option>
                     </select>              
                 </td>
-                <td><input type=text id=yrs0 class=form-control></td>
+                <td><input type=text id="yrs0" class=form-control></td>
                 <td>
                     <select name="company_tier" id="company_tier0" class="form-control">
                         <option value="">Any</option>
@@ -94,15 +104,44 @@
                 </td>
             </tr>
         </table>
+        <h3 class="a">Req Experience in Skills:</h3>
+        <table id="work_skills">
+            <tr>
+                <td>Type of Skill:</td>
+                <td>List of Skills:</td>
+                <td>Req months of Experience:</td>
+            </tr>
+            <tr>
+                <td>
+                    <select name="type" id="type0" class="form-control">
+                        <option value="">Any</option>
+                        <option value="Skill">Skill</option>
+                        <option value="ChildSkill">ChildSkill</option>
+                    </select>
+                </td>
+                <td>
+                    <select name="s_name" id="s_name0" class="form-control">
+                        <option value="ARCHITECTURE">ARCHITECTURE</option>
+                        <option value="DISTRIBUTED SYSTEMS">DISTRIBUTED SYSTEMS</option>
+                        <option value="MONGODB">MONGODB</option>
+                    </select>              
+                </td>
+                <td><input type=text id=s_val0 class=form-control></td>
+                <td>
+                    <input type="button" id="add_work_skill" value="Add Req Skill Experience" onclick="add_select_work_skill()">
+                </td>
+            </tr>
+        </table>
         <br>
         <input type="button" id="create" value="Generate Job Description" onclick="forward()">
     </body>
 </html>
 
 <script>
-    degree_count=0
-    work_count=1
-    education=[]
+    degree_count=0;
+    work_count=1;
+    work_skill_count=1;
+    education=[];
     function load_json_data(id, parent_id,count)
     {
         var html_code = '';
@@ -223,6 +262,15 @@
     }
     function get_work_html(){
         txt='<tr>'+
+            '<td>'+
+                    '<select name="jp" id="jp'+work_count+'" class="form-control">'+
+                        '<option value="">Any</option>'+
+                        '<option value="Technical Lead">Technical Lead</option>'+
+                        '<option value="Senior Software Engineer">Senior Software Engineer</option>'+
+                        '<option value="Software Engineer">Software Engineer</option>'+
+                        '<option value="Software Development Engineer">Software Development Engineer</option>'+
+                    '</select>'+
+                '</td>'+
                 '<td>'+
                     '<select name="workRole" id="workRole'+work_count+'" class="form-control">'+
                         '<option value="">Any</option>'+
@@ -248,6 +296,27 @@
         work_count+=1;   
         return txt;
     }
+    function get_work_skill_html(){
+        txt='<tr>'+
+                '<td>'+
+                    '<select name="type" id="type'+work_skill_count+'" class="form-control">'+
+                        '<option value="">Any</option>'+
+                        '<option value="Skill">Skill</option>'+
+                        '<option value="ChildSkill">ChildSkill</option>'+
+                    '</select>'+
+                '</td>'+
+                '<td>'+
+                    '<select name="s_name" id="s_name'+work_skill_count+'" class="form-control">'+
+                        '<option value="ARCHITECTURE">ARCHITECTURE</option>'+
+                        '<option value="DISTRIBUTED SYSTEMS">DISTRIBUTED SYSTEMS</option>'+
+                        '<option value="MONGODB">MONGODB</option>'+
+                    '</select>'+              
+                '</td>'+
+                '<td><input type="text" id="s_val'+work_skill_count+'" class="form-control"></td>'+
+            '</tr>';
+            work_skill_count+=1;
+            return txt;
+    }
     function add_select_degree(){
         education_html=get_edu_html();
         $('#degree_tbl').append(education_html);
@@ -260,10 +329,17 @@
         //console.log(work_html);
         $('#work_tbl').append(work_html);
     }
+    function add_select_work_skill(){
+        skill_html=get_work_skill_html();
+        $('#work_skills').append(skill_html);
+    }
     function forward(){
         data={};
         edu=[];
         work=[];
+        work_skill={};
+        work_skill["Skills"]={};
+        work_skill["ChildSkills"]={};
         for(var i=0;i<degree_count;i++){
             e={};
             if($("#DegreeType"+i).val()!=''){
@@ -297,13 +373,23 @@
         data["education"]=edu;
         for(var i=0;i<work_count;i++){
             w={};
+            w["JobPosition"]=$("#jp"+i).val();
             w["CategoryCode"]=$("#workRole"+i).val();
             w["Experience"]=$("#yrs"+i).val();
             w["CompanyTier"]=$("#company_tier"+i).val();
             work.push(w);
         }
         data["WorkExperience"]=work;
-        
+        for(var i=0;i<work_skill_count;i++){
+            if($("#type"+i).val()=="Skill"){
+                work_skill["Skills"][$("#s_name"+i).val()]=parseInt($("#s_val"+i).val());
+            }
+            else{
+                work_skill["ChildSkills"][$("#s_name"+i).val()]=parseInt($("#s_val"+i).val());
+            }
+        }
+        data["WorkSkills"]=work_skill;
+
         console.log(data);
         var xhttp = new XMLHttpRequest();
         xhttp.open("POST","/jd",true);

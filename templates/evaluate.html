@@ -7,6 +7,31 @@
             body{
                 padding: 50px;
             }
+            .tooltip {
+            position: relative;
+            display: inline-block;
+            }
+
+            .tooltip .tooltiptext {
+            visibility: hidden;
+            width: 180px;
+            top: 100%;
+            left: 50%;
+            margin-left: -60px;
+            background-color: black;
+            color: #fff;
+            text-align: center;
+            border-radius: 6px;
+            padding: 5px 0;
+
+            /* Position the tooltip */
+            position: absolute;
+            z-index: 1;
+            }
+
+            .tooltip:hover .tooltiptext {
+            visibility: visible;
+            }
             .a{
                 text-decoration-line: underline;
             }
@@ -49,6 +74,19 @@
             }
             table.tbl,tr.tbl,td.tbl{
                 border: 2px solid black;
+            }
+            .under{
+                border-bottom: 1px dotted black;
+            }
+            .tooltip .tooltiptext::after {
+                content: "";
+                position: absolute;
+                bottom: 100%;
+                left: 50%;
+                margin-left: -5px;
+                border-width: 5px;
+                border-style: solid;
+                border-color: transparent transparent black transparent;
             }
         </style>
     </head>
@@ -113,15 +151,33 @@
             var xhttp=new XMLHttpRequest();
             xhttp.onreadystatechange = function(){
                 if(this.status == 200 && this.readyState == 4){
-                    html_txt = '<table class="tbl">'+
+                    html_txt = '<table class="tbl" align="center" id="scr">'+
                             '<tr class="tbl">'+
                             '<td class="tbl"><h4>RANK</h4></td>'+
                             '<td class="tbl"><h4>CANDIDATE NAME</h4></td>'+
                             '<td class="tbl"><h4>RESUME SCORE</h4></td>'+
                             '</tr>';
-                    
-                    
 
+                    data=JSON.parse(this.responseText);
+                    console.log(data);
+                    order=data["order"];
+                    //console.log(data[order[0]]);
+                    rank=1;
+                    for(x in order){
+                        //console.log(x)
+                        html_txt+='<tr class="tbl">'+
+                            '<td class="tbl"align="center"><h4>'+rank+'</h4></td>'+
+                            '<td class="tbl"><div class="tooltip"><h4 class="under">'+order[x]+'</h4>'+
+                                '<span class="tooltiptext">'+
+                                    "Education Score:"+data[order[x]]["Education Score"]+"<br>"+
+                                    "Skill Score:"+data[order[x]]["Skill Score"]+"<br>"+
+                                    "Experience Score:"+data[order[x]]["Experience Score"]+
+                                    '</span>'+                                
+                                '</div></td>'+
+                            '<td class="tbl"><h4>'+data[order[x]]["Total Score"]+"%"+'</h4></td>'+
+                            '</tr>';
+                            rank+=1;
+                    }
                     html_txt += '</table>';
                     $("#ranks").html(html_txt);
                 }
