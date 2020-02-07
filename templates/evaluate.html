@@ -23,12 +23,9 @@
             text-align: center;
             border-radius: 6px;
             padding: 5px 0;
-
-            /* Position the tooltip */
             position: absolute;
             z-index: 1;
             }
-
             .tooltip:hover .tooltiptext {
             visibility: visible;
             }
@@ -77,6 +74,7 @@
             }
             .under{
                 border-bottom: 1px dotted black;
+                cursor: pointer;
             }
             .tooltip .tooltiptext::after {
                 content: "";
@@ -147,14 +145,14 @@
                 "work experience":parseInt($("#wk").val()),
                 "skill":parseInt($("#skill").val())
 
-            }
+            };
             var xhttp=new XMLHttpRequest();
             xhttp.onreadystatechange = function(){
                 if(this.status == 200 && this.readyState == 4){
                     html_txt = '<table class="tbl" align="center" id="scr">'+
                             '<tr class="tbl">'+
                             '<td class="tbl"><h4>RANK</h4></td>'+
-                            '<td class="tbl"><h4>CANDIDATE NAME</h4></td>'+
+                            '<td class="tbl" align="center"><h4>CANDIDATE NAME</h4></td>'+
                             '<td class="tbl"><h4>RESUME SCORE</h4></td>'+
                             '</tr>';
 

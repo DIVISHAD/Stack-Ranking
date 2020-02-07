@@ -27,7 +27,7 @@ def jd_data():
     data=request.json
     global jd
     jd=data
-    # print(jd)
+    print(jd)
     return ""
 
 @app.route("/evaluate")

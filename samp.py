@@ -34,7 +34,7 @@ def work_exp(inputlist):
     gd={}
     comp_str={}
     for f in os.listdir(mypathh):
-        print(f)
+        # print(f)
         with open(mypathh+f+"/"+f+".json",'r',encoding='cp850') as file:
             data=json.load(file)
             #print(f)
@@ -127,9 +127,9 @@ def work_exp(inputlist):
             else:
                 resd[f]=0
         #print(comp_str)
-    for k,v in comp_str.items():
-        print(k,":-",v)
-        print()
+    # for k,v in comp_str.items():
+    #     print(k,":-",v)
+    #     print()
       
     #resd={}
     
@@ -148,7 +148,7 @@ def work_exp(inputlist):
         cat_max=10
         cat_maxp=7.5
         recent_max=10
-        print(i)
+        # print(i)
         for j in comp_str[i]:
             #print(j)
             for k in range(len(comp_str[i][j])):
@@ -186,7 +186,7 @@ def work_exp(inputlist):
                                              #sd=value.split("-")
                                              if len(key)==4:
                                                  sd=comp_str[i][j][k][title][key]+"-00"
-                                                 print(sd,"fdkb")
+                                                 #  print(sd,"fdkb")
                                              sd=comp_str[i][j][k][title][key].split("-")
                                              ld=ld.split("-")
                                              #print(sd,ld)
@@ -238,7 +238,7 @@ def work_exp(inputlist):
                                                         score=score+exp_maxp
                                                         exp_maxp=0
                                             if jdexp=='':
-                                                print("no exp")
+                                                # print("no exp")
                                                 bws=comp_str[i][j][k][title][key]/12
                                                 if exp_max-bws>=0:
                                                     score=score+bws
@@ -279,7 +279,7 @@ def work_exp(inputlist):
                                                             score=score+cat_maxp
                                                             cat_maxp=0
                                             if jdcc=='':
-                                                 print("no cat")
+                                                 #  print("no cat")
                                                  if comp_str[i][j][k][title][key] in cat_list:
                                                         index=cat_list.index(comp_str[i][j][k][title][key])+1
                                                         len_l=len(cat_list)
@@ -291,7 +291,7 @@ def work_exp(inputlist):
                                                             score=score+cat_max
                                                             cat_max=0
                                 #score=score*(cc-count)/cc
-                                print(score)
+                                # print(score)
                                 if z['JobPosition'] not in resume_list:
                                     #print(z)
                                     #print("not in list")
@@ -304,7 +304,7 @@ def work_exp(inputlist):
                                              #sd=value.split("-")
                                              if len(key)==4:
                                                  sd=comp_str[i][j][k][title][key]+"-00"
-                                                 print(sd,"fdkb")
+                                                 #  print(sd,"fdkb")
                                              sd=comp_str[i][j][k][title][key].split("-")
                                              ld=ld.split("-")
                                              #print(sd,ld)
@@ -340,7 +340,7 @@ def work_exp(inputlist):
                                             #print(key,"hfe wvhj")
                                             if  jdexp!='':
                                                 if comp_str[i][j][k][title][key]>(int(jdexp)*12):
-                                                    print("greater exp")
+                                                    # print("greater exp")
                                                     bws=comp_str[i][j][k][title][key]/12
                                                     if exp_maxp-bws>=0:
                                                         score=score+bws
@@ -349,7 +349,7 @@ def work_exp(inputlist):
                                                         score=score+exp_maxp
                                                         exp_maxp=0
                                                 if comp_str[i][j][k][title][key]<=(int(jdexp)*12):
-                                                    print("lesser exp")
+                                                    # print("lesser exp")
                                                     bws=comp_str[i][j][k][title][key]/12
                                                     if exp_maxp-bws>=0:
                                                         score=score+bws
@@ -357,9 +357,9 @@ def work_exp(inputlist):
                                                     elif exp_maxp>=0 and exp_maxp-bws<0:
                                                         score=score+exp_maxp
                                                         exp_maxp=0
-                                                    print(score,"of exo")
+                                                    # print(score,"of exo")
                                             if jdexp=='':
-                                                print("no exp")
+                                                # print("no exp")
                                                 bws=comp_str[i][j][k][title][key]/12
                                                 if exp_maxp-bws>=0:
                                                     score=score+bws
@@ -398,7 +398,7 @@ def work_exp(inputlist):
                                                             score=score+cat_maxp
                                                             cat_maxp=0
                                             if jdcc=='':
-                                                 print("no cat")
+                                                #  print("no cat")
                                                  if comp_str[i][j][k][title][key] in cat_list:
                                                         index=cat_list.index(comp_str[i][j][k][title][key])+1
                                                         len_l=len(cat_list)
@@ -410,9 +410,9 @@ def work_exp(inputlist):
                                                             score=score+cat_maxp
                                                             cat_maxp=0
                                 #score=score*count/cc
-                                print(score)
+                                # print(score)
                             elif z['JobPosition']=="":
-                                print("no job pos")
+                                # print("no job pos")
                                 #score=score+50
                                 bws=totalexp
                                 if total_max-bws>=0:

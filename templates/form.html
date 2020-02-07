@@ -107,23 +107,16 @@
         <h3 class="a">Req Experience in Skills:</h3>
         <table id="work_skills">
             <tr>
-                <td>Type of Skill:</td>
                 <td>List of Skills:</td>
                 <td>Req months of Experience:</td>
             </tr>
             <tr>
                 <td>
-                    <select name="type" id="type0" class="form-control">
-                        <option value="">Any</option>
-                        <option value="Skill">Skill</option>
-                        <option value="ChildSkill">ChildSkill</option>
-                    </select>
-                </td>
-                <td>
                     <select name="s_name" id="s_name0" class="form-control">
                         <option value="ARCHITECTURE">ARCHITECTURE</option>
                         <option value="DISTRIBUTED SYSTEMS">DISTRIBUTED SYSTEMS</option>
                         <option value="MONGODB">MONGODB</option>
+                        <option value="PYTHON">PYTHON</option>
                     </select>              
                 </td>
                 <td><input type=text id=s_val0 class=form-control></td>
@@ -299,17 +292,11 @@
     function get_work_skill_html(){
         txt='<tr>'+
                 '<td>'+
-                    '<select name="type" id="type'+work_skill_count+'" class="form-control">'+
-                        '<option value="">Any</option>'+
-                        '<option value="Skill">Skill</option>'+
-                        '<option value="ChildSkill">ChildSkill</option>'+
-                    '</select>'+
-                '</td>'+
-                '<td>'+
                     '<select name="s_name" id="s_name'+work_skill_count+'" class="form-control">'+
                         '<option value="ARCHITECTURE">ARCHITECTURE</option>'+
                         '<option value="DISTRIBUTED SYSTEMS">DISTRIBUTED SYSTEMS</option>'+
                         '<option value="MONGODB">MONGODB</option>'+
+                        '<option value="PYTHON">PYTHON</option>'+
                     '</select>'+              
                 '</td>'+
                 '<td><input type="text" id="s_val'+work_skill_count+'" class="form-control"></td>'+
@@ -339,7 +326,6 @@
         work=[];
         work_skill={};
         work_skill["Skills"]={};
-        work_skill["ChildSkills"]={};
         for(var i=0;i<degree_count;i++){
             e={};
             if($("#DegreeType"+i).val()!=''){
@@ -366,7 +352,12 @@
             else{
                 e["DegreeScore"]=$("#score"+i).val();
             }
-            e["college_tier"]=$("#clg_tier"+i).val();
+            if($("#clg_tier"+i).val()!=''){
+                e["CollegeTier"]=parseInt($("#clg_tier"+i).val());
+            }
+            else{
+                e["CollegeTier"]=$("#clg_tier"+i).val();
+            }
             edu.push(e);
             //console.log(e);
         }
@@ -381,12 +372,7 @@
         }
         data["WorkExperience"]=work;
         for(var i=0;i<work_skill_count;i++){
-            if($("#type"+i).val()=="Skill"){
-                work_skill["Skills"][$("#s_name"+i).val()]=parseInt($("#s_val"+i).val());
-            }
-            else{
-                work_skill["ChildSkills"][$("#s_name"+i).val()]=parseInt($("#s_val"+i).val());
-            }
+            work_skill["Skills"][$("#s_name"+i).val()]=parseInt($("#s_val"+i).val());
         }
         data["WorkSkills"]=work_skill;
 
