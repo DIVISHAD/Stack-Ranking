@@ -318,21 +318,27 @@ def evaluate_education(res,edu_list):
         if i["DegreeType"] !='':
             for j in d:
                 if i["DegreeType"]==j["DegreeType"]:
+                    scr=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)
                     if i["DegreeName"]=='' or i["DegreeName"].lower()==j["DegreeName"].lower():
                         if i["DegreeMajor"]=='' or i["DegreeMajor"].lower()==j["DegreeMajor"].lower():
                             if i["CollegeTier"]=='' or j["CollegeTier"]<=i["CollegeTier"]:
                                 if i["DegreeScore"]=='' or j["DegreeScore"]>=i["DegreeScore"] or (j["DegreeScore"]==-1 and least_score >= i["DegreeScore"]):
-                                    l[education_index[i["DegreeType"]]]=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)
+                                    if l[education_index[i["DegreeType"]]]<scr:
+                                        l[education_index[i["DegreeType"]]]=scr
                                     #print(education_index[i["DegreeType"]],1)
                                 elif j["DegreeScore"]<i["DegreeScore"] or least_score < i["DegreeScore"]:
-                                    l[education_index[i["DegreeType"]]]=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)*0.75
+                                    if l[education_index[i["DegreeType"]]]<(scr*0.75):
+                                        l[education_index[i["DegreeType"]]]=scr*0.75
                                     #print(education_index[i["DegreeType"]],2)
                             else:
-                                l[education_index[i["DegreeType"]]]=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)*0.65       
+                                if l[education_index[i["DegreeType"]]]<(scr*0.65):
+                                    l[education_index[i["DegreeType"]]]=scr*0.65       
                         else:
-                            l[education_index[i["DegreeType"]]]=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)*0.50
+                            if l[education_index[i["DegreeType"]]]<(scr*0.50):
+                                l[education_index[i["DegreeType"]]]=scr*0.50
                     else:
-                        l[education_index[i["DegreeType"]]]=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)*0.25                
+                        if l[education_index[i["DegreeType"]]]<(scr*0.25):
+                            l[education_index[i["DegreeType"]]]=scr*0.25                
                     break        
     for i in d:
         for dg in lst:
@@ -413,8 +419,8 @@ def scores(edu_list,work_list,work_skill_list,data):
     return sorted_list    
 
 # scores(ttt,{"education":33,"skill":34})
-sample={'Skills': {'DISTRIBUTED SYSTEMS': None,'MONGODB': None}, 'ChildSkills': {}}
-aaaa=work_skill_score(sample)
+# sample={'Skills': {'DISTRIBUTED SYSTEMS': None,'MONGODB': None}}
+# aaaa=work_skill_score(sample)
 # for k,v in aaaa.items():print(k,v)
 # print(aaaa["5d44912169e2e_Mohit Full Stack Developer and Techno Manager.docx"])
 

@@ -59,7 +59,17 @@ for i in range(0,24):
         d=college_name[i]
     else:d=""
     # print(a,b,c1,d,sep=", ") 
-print(degree_name)
-print(degree_major)
+# print(degree_name)
+# print(degree_major)
 # print(college_name)  
 print(db.education.find_one({"key":"DegreeName"}))
+org_name=[]
+for nm in os.listdir(r_path):
+    with open(r_path+nm+"/"+nm+".json",'r',encoding='cp850') as file:
+        data=json.load(file)
+        if data.get("Resume").get("StructuredXMLResume").get("EmploymentHistory") != None:
+            a=data.get("Resume").get("StructuredXMLResume").get("EmploymentHistory")
+            if "EmployerOrg" in a:
+                for i in a["EmployerOrg"]:
+                    org_name.append(i["EmployerOrgName"])
+for i in org_name:print(i)

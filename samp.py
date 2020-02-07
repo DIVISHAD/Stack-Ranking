@@ -11,7 +11,7 @@ def work_exp(inputlist):
     resd={}
     #mypathh='C:/Users/khyati/Downloads/Stack Ranking/SovrenProductDemo-BimetricScoring-20191129072019/TargetDocuments/'
     #mypath='C:/Users/khyati/Downloads/Stack Ranking/SovrenProductDemo-BimetricScoring-20191118123425/SourceDocument/'
-    mypathh='C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-56_Resumes/TargetDocuments/'
+    mypathh='C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/'
     
     #mypath='C:/Users/khyati/Downloads/Stack Ranking/SovrenProductDemo-BimetricScoring-20191129072019/SourceDocument/'
     '''

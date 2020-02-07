@@ -3,46 +3,46 @@
         "id":"1",
         "name":"Secondary",
         "parent_id":"0"
-       },
+    },
     {
-     "id":"2",
-     "name":"High School or equivalent",
-     "parent_id":"0"
+        "id":"2",
+        "name":"High School or equivalent",
+        "parent_id":"0"
     },  
     {
-     "id":"3",
-     "name":"Bachelors",
-     "parent_id":"0"
+        "id":"3",
+        "name":"Bachelors",
+        "parent_id":"0"
     }, 
     {
-     "id":"4",
-     "name":"Masters",
-     "parent_id":"0"
+        "id":"4",
+        "name":"Masters",
+        "parent_id":"0"
     }, 
     {
-     "id":"5",
-     "name":"Professional",
-     "parent_id":"0"
+        "id":"5",
+        "name":"Professional",
+        "parent_id":"0"
     }, 
     {
-     "id":"6",
-     "name":"Post Professional",
-     "parent_id":"0"
+        "id":"6",
+        "name":"Post Professional",
+        "parent_id":"0"
     }, 
     {
-     "id":"7",
-     "name":"Doctorate",
-     "parent_id":"0"
+        "id":"7",
+        "name":"Doctorate",
+        "parent_id":"0"
     }, 
     {
-     "id":"8",
-     "name":"Post Doctorate",
-     "parent_id":"0"
+        "id":"8",
+        "name":"Post Doctorate",
+        "parent_id":"0"
     }, 
     {
-     "id":"9",
-     "name":"B.Tech/B.E",
-     "parent_id":"3"
+        "id":"9",
+        "name":"B.Tech/B.E",
+        "parent_id":"3"
     },
     {
         "id":"10",
@@ -50,99 +50,99 @@
         "parent_id":"3"
     }, 
     {
-     "id":"11",
-     "name":"B.Arch",
-     "parent_id":"3"
+        "id":"11",
+        "name":"B.Arch",
+        "parent_id":"3"
     }, 
     {
-     "id":"12",
-     "name":"B.S",
-     "parent_id":"3"
+        "id":"12",
+        "name":"B.S",
+        "parent_id":"3"
     }, 
     {
-    "id":"13",
-    "name":"B.Sc",
-    "parent_id":"3"
+        "id":"13",
+        "name":"B.Sc",
+        "parent_id":"3"
     },
     {
-     "id":"14",
-     "name":"M.A",
-     "parent_id":"4"
+        "id":"14",
+        "name":"M.A",
+        "parent_id":"4"
     }, 
     {
-     "id":"15",
-     "name":"M.S",
-     "parent_id":"4"
+        "id":"15",
+        "name":"M.S",
+        "parent_id":"4"
     }, 
     {
-     "id":"16",
-     "name":"M.Tech",
-     "parent_id":"4"
+        "id":"16",
+        "name":"M.Tech",
+        "parent_id":"4"
     }, 
     {
-     "id":"17",
-     "name":"MBA",
-     "parent_id":"4"
+        "id":"17",
+        "name":"MBA",
+        "parent_id":"4"
     }, 
     {
-     "id":"18",
-     "name":"M.Sc",
-     "parent_id":"4"
+        "id":"18",
+        "name":"M.Sc",
+        "parent_id":"4"
     }, 
     {
-     "id":"19",
-     "name":"MPC",
-     "parent_id":"2"
+        "id":"19",
+        "name":"MPC",
+        "parent_id":"2"
     }, 
     {
-     "id":"20",
-     "name":"BiPC",
-     "parent_id":"2"
+        "id":"20",
+        "name":"BiPC",
+        "parent_id":"2"
     }, 
     {
-     "id":"21",
-     "name":"HEC",
-     "parent_id":"2"
+        "id":"21",
+        "name":"HEC",
+        "parent_id":"2"
     }, 
     {
-     "id":"22",
-     "name":"CEC",
-     "parent_id":"2"
+        "id":"22",
+        "name":"CEC",
+        "parent_id":"2"
     }, 
     {
-     "id":"23",
-     "name":"CSE",
-     "parent_id":"9"
+        "id":"23",
+        "name":"CSE",
+        "parent_id":"9"
     }, 
     {
-     "id":"24",
-     "name":"IT",
-     "parent_id":"9"
+        "id":"24",
+        "name":"IT",
+        "parent_id":"9"
     }, 
     {
-     "id":"25",
-     "name":"Mechanical",
-     "parent_id":"9"
+        "id":"25",
+        "name":"Mechanical",
+        "parent_id":"9"
     }, 
     {
-     "id":"26",
-     "name":"ECE",
-     "parent_id":"9"
+        "id":"26",
+        "name":"ECE",
+        "parent_id":"9"
     }, 
     {
-     "id":"27",
-     "name":"CS",
-     "parent_id":"15"
+        "id":"27",
+        "name":"CS",
+        "parent_id":"15"
     }, 
     {
-     "id":"28",
-     "name":"Automobile",
-     "parent_id":"15"
+        "id":"28",
+        "name":"Automobile",
+        "parent_id":"15"
     }, 
     {
-     "id":"29",
-     "name":"Electrical",
-     "parent_id":"15"
+        "id":"29",
+        "name":"Electrical",
+        "parent_id":"15"
     }
    ]
    
