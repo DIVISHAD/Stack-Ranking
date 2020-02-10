@@ -1,10 +1,8 @@
 import json
 import os
 import samp
-#import objectpath
 
 import pymongo
-#import objectpath
 
 
 client = pymongo.MongoClient("mongodb+srv://divishad:abcde@cluster0-gdmit.gcp.mongodb.net/test?retryWrites=true&w=majority")
