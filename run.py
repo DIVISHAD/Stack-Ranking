@@ -2,6 +2,7 @@ import json
 import os
 import samp
 import pymongo
+import numpy as np
 
 
 client = pymongo.MongoClient("mongodb+srv://divishad:abcde@cluster0-gdmit.gcp.mongodb.net/test?retryWrites=true&w=majority")
@@ -158,24 +159,23 @@ def evaluate_skills(candidate,json):
                             for childSkill in skill_value:
                                 if childSkill in candidate_childSkill_list != False:
                                     childSkill_match +=1
-                                    score += (val / (len(subTaxonomy_value)-1)) / len(skill_value)
+                                    score += 0.80 * (val / (len(subTaxonomy_value)-1)) / len(skill_value)
                             if len(skill_value) == 0 :
-                                score += (val / (len(subTaxonomy_value)-1))
+                                score += 0.80 * (val / (len(subTaxonomy_value)-1))
                             elif len(candidate_childSkill_list) == 0 :
-                                score += (val / (len(subTaxonomy_value)-1)) / (len(skill_value)+1)
+                                score += 0.80 * (val / (len(subTaxonomy_value)-1)) / (len(skill_value)+1)
                             elif len(candidate_childSkill_list) != 0 :
                                 len_nonMatch = len(candidate_childSkill_list)-childSkill_match
-                                if childSkill_match != len(skill_value):
-                                    score += (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
+                                if childSkill_match != len(skill_value) :
+                                    score += 0.20*(val / (len(subTaxonomy_value)-1))*tanh(len_nonMatch/10)    # (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
                     if len(subTaxonomy_value) == 1 :
-                        score +=val
+                        score +=0.80 * val
                     elif len(candidate_skills) == 0 :
-                        score += val / len(subTaxonomy_value)
+                        score +=0.80 *  val / len(subTaxonomy_value)
                     elif len(candidate_skills) != 0 :
                         nonMatch_skills=len(candidate_skills)-skill_match
-                        #print(skill_match ,nonMatch_skills,val,(len(subTaxonomy_value)-1))
                         if skill_match != (len(subTaxonomy_value)-1):
-                            score += nonMatch_skills*val/(len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
+                            score += 0.20 * val*tanh(nonMatch_skills/10)    # (len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
     return  score  
 #print("\n---------------------------------------Skill Score------------------------------\n")
 #skill_score_()
@@ -299,9 +299,9 @@ def evaluate_education(res,edu_list):
     for i in edu_list:
         if i["DegreeType"] in education_index.keys() and education_index[ i["DegreeType"]]>indx:
             indx = education_index[ i["DegreeType"]]
-    if indx==0:indx=len(education_degree_type)-2
-    lst=education_degree_type[0:indx+2]
-    l=[0 for i in range(indx+2)]            
+    if indx==0:indx=len(education_degree_type)-1
+    lst=education_degree_type[0:indx+1]
+    l=[0 for i in range(indx+1)]            
     d=res.get("candidate_degrees")
     least_score=100
     cnt=0
@@ -318,41 +318,60 @@ def evaluate_education(res,edu_list):
         if i["DegreeType"] !='':
             for j in d:
                 if i["DegreeType"]==j["DegreeType"]:
-                    scr=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*100*(tst(j["DegreeScore"])/100)
+                    scr=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*90   # (tst(j["DegreeScore"])/100)
                     if i["DegreeName"]=='' or i["DegreeName"].lower()==j["DegreeName"].lower():
                         if i["DegreeMajor"]=='' or i["DegreeMajor"].lower()==j["DegreeMajor"].lower():
-                            if i["CollegeTier"]=='' or j["CollegeTier"]<=i["CollegeTier"]:
-                                if i["DegreeScore"]=='' or j["DegreeScore"]>=i["DegreeScore"] or (j["DegreeScore"]==-1 and least_score >= i["DegreeScore"]):
-                                    if l[education_index[i["DegreeType"]]]<scr:
-                                        l[education_index[i["DegreeType"]]]=scr
-                                    #print(education_index[i["DegreeType"]],1)
-                                elif j["DegreeScore"]<i["DegreeScore"] or least_score < i["DegreeScore"]:
-                                    if l[education_index[i["DegreeType"]]]<(scr*0.75):
-                                        l[education_index[i["DegreeType"]]]=scr*0.75
-                                    #print(education_index[i["DegreeType"]],2)
-                            else:
-                                if l[education_index[i["DegreeType"]]]<(scr*0.65):
-                                    l[education_index[i["DegreeType"]]]=scr*0.65       
+                            jd_clg_tier=3
+                            if i["CollegeTier"]!='':
+                                jd_clg_tier=i["CollegeTier"]
+                            jd_deg_score=50
+                            if i["DegreeScore"]!='':
+                                jd_deg_score=i["DegreeScore"]
+                            add_val = scr*0.50 + scr*0.30*tanh((tst(j["DegreeScore"])-jd_deg_score)/25) + scr*0.20*tanh(jd_clg_tier-j["CollegeTier"])
+                            if l[education_index[i["DegreeType"]]] < add_val:    
+                                l[education_index[i["DegreeType"]]] = add_val       
+                            # if i["CollegeTier"]=='' or j["CollegeTier"]<=i["CollegeTier"]:   
+                            #     l[education_index[i["DegreeType"]]]=scr*0.70 + scr*0.30 * tanh((tst(j["DegreeScore"])-jd_deg_score)/25)
+                            #     # if i["DegreeScore"]=='' or j["DegreeScore"]>=i["DegreeScore"] or (j["DegreeScore"]==-1 and least_score >= i["DegreeScore"]):
+                            #     #     if l[education_index[i["DegreeType"]]]<scr:
+                            #     #         l[education_index[i["DegreeType"]]]=scr
+                            #     #     #print(education_index[i["DegreeType"]],1)
+                            #     # elif j["DegreeScore"]<i["DegreeScore"] or least_score < i["DegreeScore"]:
+                            #     #     if l[education_index[i["DegreeType"]]]<(scr*0.75):
+                            #     #         l[education_index[i["DegreeType"]]]=scr*0.75
+                            #     #     #print(education_index[i["DegreeType"]],2)
+                            # else:
+                            #     if l[education_index[i["DegreeType"]]]<(scr*0.65):
+                            #         l[education_index[i["DegreeType"]]]=scr*0.65       
                         else:
-                            if l[education_index[i["DegreeType"]]]<(scr*0.50):
-                                l[education_index[i["DegreeType"]]]=scr*0.50
+                            if l[education_index[i["DegreeType"]]]<(scr*0.60):
+                                l[education_index[i["DegreeType"]]]=scr*0.60
                     else:
-                        if l[education_index[i["DegreeType"]]]<(scr*0.25):
-                            l[education_index[i["DegreeType"]]]=scr*0.25                
+                        if l[education_index[i["DegreeType"]]]<(scr*0.50):
+                            l[education_index[i["DegreeType"]]]=scr*0.50                
                     break        
+    additional_score=0
     for i in d:
+        flag_=0
         for dg in lst:
             if i["DegreeType"] in dg:
                 if l[lst.index(dg)] == 0:
                     l[lst.index(dg)] = lst.index(dg)/sum([i for i in range(1,len(lst))])*100*(tst(i["DegreeScore"])/100)
                 break
+            elif education_index[i["DegreeType"]] >= len(l) and flag_==0:
+                flag_=1
+                additional_score=10
     flag = 0
     for i in range(len(lst)-1,0,-1):
         if l[i] != 0 and flag == 0:flag=1
         if(l[i] == 0 and flag == 1):
             l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100) 
     #print(l)              
-    return sum(l)
+    return sum(l)+additional_score
+
+def tanh(z):
+	return (np.exp(z) - np.exp(-z)) / (np.exp(z) + np.exp(-z))  
+
 def work_skill_score(skill_lst):
     work_skill_score={}
     max_score_val=30
@@ -361,10 +380,14 @@ def work_skill_score(skill_lst):
         score=0
         for nm,val in skill_lst["Skills"].items():
             if nm in v["Skills"]:
-                if val==None or v["Skills"][nm] >= val:
-                    score+=max_score_val/ttl_skills
+                if v["Skills"][nm] == -1:
+                    score += max_score_val/ttl_skills*0.70
                 else:
-                    score+=max_score_val/ttl_skills*0.75
+                    score += max_score_val/ttl_skills*0.70 + max_score_val/ttl_skills*0.30*tanh((v["Skills"][nm]-val)/18)
+                # if val==None or v["Skills"][nm] >= val:
+                #     score+=max_score_val/ttl_skills
+                # else:
+                #     score+=max_score_val/ttl_skills*0.75
         work_skill_score[k]=score                           
     return work_skill_score
 
