@@ -62,7 +62,6 @@
         <table id="work_tbl">
             <tr>
                 <td>Position:</td>
-                <td>Role:</td>
                 <td>Req Yrs of Experience:</td>
                 <td>Company Tier:</td>
             </tr>
@@ -75,18 +74,6 @@
                         <option value="Software Engineer">Software Engineer</option>
                         <option value="Software Development Engineer">Software Development Engineer</option>
                     </select>
-                </td>
-                <td>
-                    <select name="workRole" id="workRole0" class="form-control">
-                        <option value="">Any</option>
-                        <option value="Entry Level">Entry Level</option>
-                        <option value="Experienced (non-manager)">Experienced (non-manager)</option>
-                        <option value="Senior (more than 5 years experience)">Senior (more than 5 years experience)</option>
-                        <option value="Manager">Manager</option>
-                        <option value="Senior Manager (more than 5 years management experience)">Senior Manager (more than 5 years management experience)</option>
-                        <option value="Executive (VP, Dept. Head)">Executive (VP, Dept. Head)</option>
-                        <option value="Senior Executive (President, C-level)">Senior Executive (President, C-level)</option>
-                    </select>              
                 </td>
                 <td><input type=text id="yrs0" class=form-control></td>
                 <td>
@@ -262,18 +249,6 @@
                         '<option value="Software Development Engineer">Software Development Engineer</option>'+
                     '</select>'+
                 '</td>'+
-                '<td>'+
-                    '<select name="workRole" id="workRole'+work_count+'" class="form-control">'+
-                        '<option value="">Any</option>'+
-                        '<option value="Entry Level">Entry Level</option>'+
-                        '<option value="Experienced (non-manager)">Experienced (non-manager)</option>'+
-                        '<option value="Senior (more than 5 years experience)">Senior (more than 5 years experience)</option>'+
-                        '<option value="Manager">Manager</option>'+
-                        '<option value="Senior Manager (more than 5 years management experience)">Senior Manager (more than 5 years management experience)</option>'+
-                        '<option value="Executive (VP, Dept. Head)">Executive (VP, Dept. Head)</option>'+
-                        '<option value="Senior Executive (President, C-level)">Senior Executive (President, C-level)</option>'+
-                    '</select>'+              
-                '</td>'+
                 '<td><input type=text id="yrs'+work_count+'" class=form-control></td>'+
                 '<td>'+
                     '<select name="company_tier" id="company_tier'+work_count+'" class="form-control">'+
@@ -363,7 +338,6 @@
         for(var i=0;i<work_count;i++){
             w={};
             w["JobPosition"]=$("#jp"+i).val();
-            w["CategoryCode"]=$("#workRole"+i).val();
             w["Experience"]=$("#yrs"+i).val();
             w["CompanyTier"]=$("#company_tier"+i).val();
             work.push(w);

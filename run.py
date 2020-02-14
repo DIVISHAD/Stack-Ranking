@@ -141,6 +141,8 @@ for nm in os.listdir(jd_path):
 # ->if skill name matches and no child skills for that in jd score of skill is given
 # ->for skill scoring is given same as child skills
 
+def tanh(z):
+	return (np.exp(z) - np.exp(-z)) / (np.exp(z) + np.exp(-z))
 
 def evaluate_skills(candidate,json):
     score = 0
@@ -166,16 +168,14 @@ def evaluate_skills(candidate,json):
                                 score += 0.80 * (val / (len(subTaxonomy_value)-1)) / (len(skill_value)+1)
                             elif len(candidate_childSkill_list) != 0 :
                                 len_nonMatch = len(candidate_childSkill_list)-childSkill_match
-                                if childSkill_match != len(skill_value) :
-                                    score += 0.20*(val / (len(subTaxonomy_value)-1))*tanh(len_nonMatch/10)    # (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
+                                score += 0.20*(val / (len(subTaxonomy_value)-1))*tanh(len_nonMatch/5)    # (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
                     if len(subTaxonomy_value) == 1 :
                         score +=0.80 * val
                     elif len(candidate_skills) == 0 :
                         score +=0.80 *  val / len(subTaxonomy_value)
                     elif len(candidate_skills) != 0 :
                         nonMatch_skills=len(candidate_skills)-skill_match
-                        if skill_match != (len(subTaxonomy_value)-1):
-                            score += 0.20 * val*tanh(nonMatch_skills/10)    # (len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
+                        score += 0.20 * val*tanh(nonMatch_skills/10)    # (len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
     return  score  
 #print("\n---------------------------------------Skill Score------------------------------\n")
 #skill_score_()
@@ -327,7 +327,13 @@ def evaluate_education(res,edu_list):
                             jd_deg_score=50
                             if i["DegreeScore"]!='':
                                 jd_deg_score=i["DegreeScore"]
-                            add_val = scr*0.50 + scr*0.30*tanh((tst(j["DegreeScore"])-jd_deg_score)/25) + scr*0.20*tanh(jd_clg_tier-j["CollegeTier"])
+                            tier_penalize=1.5
+                            deg_score_penalize=25
+                            if j["CollegeTier"]>= jd_clg_tier:
+                                tier_penalize = 1
+                            if tst(j["DegreeScore"]) < jd_deg_score:
+                                deg_score_penalize=20
+                            add_val = scr*0.50 + scr*0.30*tanh((tst(j["DegreeScore"])-jd_deg_score)/deg_score_penalize) + scr*0.20*tanh(jd_clg_tier-j["CollegeTier"]/tier_penalize)
                             if l[education_index[i["DegreeType"]]] < add_val:    
                                 l[education_index[i["DegreeType"]]] = add_val       
                             # if i["CollegeTier"]=='' or j["CollegeTier"]<=i["CollegeTier"]:   
@@ -344,11 +350,11 @@ def evaluate_education(res,edu_list):
                             #     if l[education_index[i["DegreeType"]]]<(scr*0.65):
                             #         l[education_index[i["DegreeType"]]]=scr*0.65       
                         else:
-                            if l[education_index[i["DegreeType"]]]<(scr*0.60):
-                                l[education_index[i["DegreeType"]]]=scr*0.60
+                            if l[education_index[i["DegreeType"]]]<(scr*0.35):
+                                l[education_index[i["DegreeType"]]]=scr*0.35
                     else:
-                        if l[education_index[i["DegreeType"]]]<(scr*0.50):
-                            l[education_index[i["DegreeType"]]]=scr*0.50                
+                        if l[education_index[i["DegreeType"]]]<(scr*0.25):
+                            l[education_index[i["DegreeType"]]]=scr*0.25                
                     break        
     additional_score=0
     for i in d:
@@ -367,10 +373,7 @@ def evaluate_education(res,edu_list):
         if(l[i] == 0 and flag == 1):
             l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100) 
     #print(l)              
-    return sum(l)+additional_score
-
-def tanh(z):
-	return (np.exp(z) - np.exp(-z)) / (np.exp(z) + np.exp(-z))  
+    return sum(l)+additional_score  
 
 def work_skill_score(skill_lst):
     work_skill_score={}
@@ -383,7 +386,10 @@ def work_skill_score(skill_lst):
                 if v["Skills"][nm] == -1:
                     score += max_score_val/ttl_skills*0.70
                 else:
-                    score += max_score_val/ttl_skills*0.70 + max_score_val/ttl_skills*0.30*tanh((v["Skills"][nm]-val)/18)
+                    time_penalize=18
+                    if v["Skills"][nm] < val:
+                        time_penalize=12
+                    score += max_score_val/ttl_skills*0.70 + max_score_val/ttl_skills*0.30*tanh((v["Skills"][nm]-val)/time_penalize)
                 # if val==None or v["Skills"][nm] >= val:
                 #     score+=max_score_val/ttl_skills
                 # else:
@@ -446,4 +452,21 @@ def scores(edu_list,work_list,work_skill_list,data):
 # aaaa=work_skill_score(sample)
 # for k,v in aaaa.items():print(k,v)
 # print(aaaa["5d44912169e2e_Mohit Full Stack Developer and Techno Manager.docx"])
+
+# Job Description JSON Format:
+# jd_json={  'education': [
+# 			{ 'DegreeType' :  value1,
+# 			  'DegreeName' : value2,
+# 			  'DegreeMajor' : value3,
+# 			  'DegreeScore' : value4,
+# 			  'CollegeTier' : value5 }, .....
+# 			],
+# 	   'WorkExperience': [
+# 			{ 'JobPosition' :  value1,
+# 			  'CategoryCode' : value2,
+# 			  'Experience' : value3,
+# 			  'CompanyTier' : value4, }, .....
+# 			],
+#    	   'WorkSkills': {	    'Skills' : {  skill1_name : re months of exp ,    .....    }	}
+# 	}
 
