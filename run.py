@@ -364,7 +364,7 @@ def evaluate_education(res,edu_list):
                 if l[lst.index(dg)] == 0:
                     l[lst.index(dg)] = lst.index(dg)/sum([i for i in range(1,len(lst))])*100*(tst(i["DegreeScore"])/100)
                 break
-            elif education_index[i["DegreeType"]] >= len(l) and flag_==0:
+            elif i["DegreeType"] in education_index and education_index[i["DegreeType"]] >= len(l) and flag_==0:
                 flag_=1
                 additional_score=10
     flag = 0
