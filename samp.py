@@ -13,29 +13,18 @@ def work_exp(inputlist):
     resd={}
     client = pymongo.MongoClient("mongodb+srv://divishad:abcde@cluster0-gdmit.gcp.mongodb.net/test?retryWrites=true&w=majority")
     db = client.StackRanking.education
-    mypathh='C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/'
-    #mypath='C:/Users/khyati/Downloads/Stack Ranking/SovrenProductDemo-BimetricScoring-20191118123425/SourceDocument/'
-    #mypathh='C:/Users/khyati/Downloads/Stack Ranking/SovrenProductDemo-BimetricScoring-20191118123425/TargetDocuments/'
-    
-    #mypath='C:/Users/khyati/Downloads/Stack Ranking/SovrenProductDemo-BimetricScoring-20191129072019/SourceDocument/'
-   
+    mypathh='C:/Users/khyati/Downloads/Stack Ranking/SovrenProductDemo-14_Resumes/TargetDocuments/' 
     gd={}
     comp_str={}
     for f in os.listdir(mypathh):
-        #print(f)
         with open(mypathh+f+"/"+f+".json",'r',encoding='cp850') as file:
             data=json.load(file)
-            #print(f)
             if 'EmploymentHistory' in data["Resume"]["StructuredXMLResume"]:
                 a=data["Resume"]["StructuredXMLResume"]["EmploymentHistory"]["EmployerOrg"]
-                #ll=[]
                 ud={}
                 comp={}
-                #print(f)
-                #print(len(a))
                 for i in range(len(a)):
                     pos_hist_roles=[]
-                    #print(a[i]["PositionHistory"][0])
                     for j in range(len(a[i]["PositionHistory"])):
                         
                         pos_hist_role={}
@@ -67,15 +56,12 @@ def work_exp(inputlist):
                                     currentMonth = datetime.now().month
                                     currentYear = datetime.now().year
                                     ld=str(currentYear)+"-"+str(currentMonth)
-                            #print(sd,ld) 
                             pht[sd]=ld                               
                             sd=sd.split("-")
                             ld=ld.split("-")
                             sd=sd[:2]
                             ld=ld[:2]
                             nl=[]
-                            
-                            #print(sd,ld)
                             for _ in range(len(sd)):
                                 nl.append(int(ld[_])-int(sd[_]))
                             nl[0]=nl[0]*12
@@ -92,54 +78,34 @@ def work_exp(inputlist):
                             if "sov:Subtitles" in area:
                                 for _ in range(len(area["sov:Subtitles"]["sov:Subtitle"])):
                                     title=title+"/"+area["sov:Subtitles"]["sov:Subtitle"][_]
-                                #ud[a[i]["PositionHistory"][0]["UserArea"]["sov:PositionHistoryUserArea"]["sov:NormalizedTitle"]]=exp
-                            #print(title)
                         if "JobCategory" in a[i]["PositionHistory"][j]:
                             if len(a[i]["PositionHistory"][j]["JobCategory"])==1:
                                 pht["CategoryCode"]=a[i]["PositionHistory"][j]["JobCategory"][0]["CategoryCode"]
                             elif len(a[i]["PositionHistory"][j]["JobCategory"])==2:
                                 pht["CategoryCode"]=a[i]["PositionHistory"][j]["JobCategory"][1]["CategoryCode"]
-                        
-                        #print(pht)
                         pos_hist_role[title]=pht
                         pos_hist_roles.append(pos_hist_role)
-                        #print(pos_hist_roles) 
-                        #print()
                     if "UserArea" in a[i]:
                         comp[a[i]["UserArea"]["sov:EmployerOrgUserArea"]["sov:NormalizedEmployerOrgName"]]=pos_hist_roles
                     else:
                         comp[""]=pos_hist_roles
-                    #print(comp)
                 comp_str[f]=comp    
                 gd[f]=ud
             else:
                 resd[f]=0
-        #print(comp_str)
-   # for k,v in comp_str.items():
-    #    print(k,":-",v)
-     #   print()
-      
- 
-    
-    cat_list=["Entry Level","Experienced (non-manager)",
-              "Senior (more than 5 years experience)","Manager",
-              "Senior Manager (more than 5 years management experience)",
-              "Executive (VP, Dept. Head)","Executive (VP, Dept Head)",
-              "Senior Executive (President, C-level)"]  
     
     for i in comp_str:
         score=0
         nlscore=0
         njdscore=0
-        #resl={}
         recent=1000
-        
+        orgcount=0
         for j in comp_str[i]:
-            #print(j)
+            orgcount=orgcount+1
             company_tier=db.find_one({"key":"CompanyTier"})["CompanyTier"].get(j)
-
-            for k in range(len(comp_str[i][j])):
-                #for _ in range(len(comp_str[i][j][k])):  
+            if company_tier==None:
+                company_tier=3
+            for k in range(len(comp_str[i][j])): 
                 totalexp=0
                 cc=0
                 for title in comp_str[i][j][k]:
@@ -150,10 +116,8 @@ def work_exp(inputlist):
                     count=0
                     nlcount=0
                     njdcount=0
-                    matchexp=0
                     if title !="":
                         resume_list=title.split("/")
-                        #print(resume_list)
                         cc=cc+len(resume_list)   
                         for z in inputlist:
                             
@@ -162,24 +126,19 @@ def work_exp(inputlist):
                                     jdexp=z['Experience']
                                 elif z["Experience"]=="":
                                     jdexp=0
-                            
-                            
-                            if z["CompanyTier"]=='':
-                                jdtier=3
-                            elif z["CompanyTier"]!='':
-                                jdtier=z["CompanyTier"]
-                           
+                        
                             if z['JobPosition']!="":
-                                #print("in list")
                                 if z['JobPosition'] in resume_list:
-                                    #print(zz)
+                                    if z["CompanyTier"]=='':
+                                        jdtier=3
+                                        score=10+math.tanh((company_tier-jdtier)/1.5)
+                                    elif z["CompanyTier"]!='':
+                                        jdtier=int(z["CompanyTier"])
+                                        score=10+math.tanh((company_tier-jdtier)/1.5)
                                     count=count+1
                                     for key in comp_str[i][j][k][title]:
-                                        if key=="CompanyTier":
-                                            if company_tier>=jdtier:
-                                                score=score+10
-                                            elif company_tier<jdtier:
-                                                score=score/company_tier
+                                        
+                                            
                                         if key!="experience" and key!="CategoryCode":
                                              #print(key,len(key),type(comp_str[i][j][k][title][key]),"dsv ")
                                              currentMonth = datetime.now().month
@@ -207,58 +166,49 @@ def work_exp(inputlist):
                                                 score=score+10/(1+0.2*recent)
                                      
                                         if key=="experience":
-                                            #print(key,"hfe wvhj")
-                                            if jdexp!='':
-                                                if comp_str[i][j][k][title][key]>=(int(jdexp)*12):
-                                                    bws=comp_str[i][j][k][title][key]/12
-                                                    extra=(bws-(int(jdexp)))/5
-                                                    score=score+35+5*math.tanh(extra)
-                                                   
-                                                #if comp_str[i][j][k][title][key]<=(int(jdexp)*12):
-                                                 #   score=score+25
-                                            '''        
-                                            if jdexp=='':
-                                                #print("no exp")
-                                                bws=comp_str[i][j][k][title][key]/12
-                                                score=score+20
-                                            '''    
+                                            bws=comp_str[i][j][k][title][key]/12
+                                            extra=(bws-(int(jdexp)))/5
+                                            score=score+45+(5*math.tanh(extra))  
                                 else:
-                                    nlcount=nlcount+1
-                                    nlscore=nlscore+10
+                                   nlcount=nlcount+1
+                                   nlscore=nlscore+10
                            
                             elif z['JobPosition']=="":
                                 njdcount=njdcount+1
-                                njdscore=njdscore+10
+                                njdscore=njdscore+20
 
                         if count!=0:
                             score=score/count
+                            #print(score)
                         if nlcount!=0:
-                            score=nlscore/nlcount
-                        if njdcount!=0:
-                            score=njdscore/njdcount
-       
+                            nlscore=nlscore/nlcount
+                   
+            if njdcount!=0:
+                njdscore=njdscore/njdcount
+        score=score+nlscore+njdscore
+        #score=score/orgcount
         resd[i]=score/len(inputlist)
     #print(resd)                            
     resd=dict( sorted(resd.items(), key=operator.itemgetter(1),reverse=True))
     return resd
-                                
+
 k=work_exp([
-
-{"JobPosition":"",
-"CompanyTier":"",
-"Experience":""
-
+{"JobPosition":"Software Development Engineer",
+"CompanyTier":"3",
+"Experience":"2"
+ 
 },
 
+
+{"JobPosition":"Software Engineer",
+"CompanyTier":"",
+"Experience":"4"
+
+},
 {"JobPosition":"",
 "CompanyTier":"",
 "Experience":""
-
+ 
 }
 
 ]) 
-
-# print(k)
-#print(len(k))                            
-#print("mohit",k["5d44912169e2e_Mohit Full Stack Developer and Techno Manager.docx"])                           
-#print(k["5d625388eff32_alisha_sabat.docx"]) 
