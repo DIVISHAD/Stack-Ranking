@@ -64,9 +64,7 @@ for nm in os.listdir(jd_path):
                             for sub in k.get("ChildSkill"):
                                 child_skills.append(sub["@name"])        
                         jd_taxonamies[i["@name"]][j["@name"]][k["@name"]]=child_skills 
-                jd_taxonamies[i["@name"]][j["@name"]]["percent"]=j["@percentOfOverall"]
-                if len(jd_taxonamies[i["@name"]][j["@name"]]) >= constant:
-                    constant = len(jd_taxonamies[i["@name"]][j["@name"]])   
+                jd_taxonamies[i["@name"]][j["@name"]]["percent"]=j["@percentOfOverall"]  
 
 def evaluate_skills(candidate,json):
     score = 0
@@ -85,21 +83,21 @@ def evaluate_skills(candidate,json):
                             for childSkill in skill_value:
                                 if childSkill in candidate_childSkill_list != False:
                                     childSkill_match +=1
-                                    score += 0.80 * (val / (len(subTaxonomy_value)-1)) / len(skill_value)
+                                    score += 0.75 * (val / (len(subTaxonomy_value)-1)) / len(skill_value)
                             if len(skill_value) == 0 :
-                                score += 0.80 * (val / (len(subTaxonomy_value)-1))
+                                score += 0.75 * (val / (len(subTaxonomy_value)-1))
                             elif len(candidate_childSkill_list) == 0 :
-                                score += 0.80 * (val / (len(subTaxonomy_value)-1)) / (len(skill_value)+1)
+                                score += 0.75 * (val / (len(subTaxonomy_value)-1)) / 2
                             elif len(candidate_childSkill_list) != 0 :
                                 len_nonMatch = len(candidate_childSkill_list)-childSkill_match
-                                score += 0.20*(val / (len(subTaxonomy_value)-1))*tanh(len_nonMatch/5)    # (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
+                                score += 0.25*(val / (len(subTaxonomy_value)-1))*tanh(len_nonMatch/3)    # (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
                     if len(subTaxonomy_value) == 1 :
-                        score +=0.80 * val
+                        score +=0.75 * val
                     elif len(candidate_skills) == 0 :
-                        score +=0.80 *  val / len(subTaxonomy_value)
+                        score +=0.75 *  val / 2
                     elif len(candidate_skills) != 0 :
                         nonMatch_skills=len(candidate_skills)-skill_match
-                        score += 0.20 * val*tanh(nonMatch_skills/10)    # (len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
+                        score += 0.25 * val*tanh(nonMatch_skills/10)    # (len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
     return  score  
 education_degree_type = [['specialeducation'],['some high school or equivalent','ged','secondary'],
                         ['high school or equivalent','certification','vocational','some college'],
@@ -207,11 +205,11 @@ def evaluate_education(res,edu_list):
                             if l[education_index[i["DegreeType"]]] < add_val:    
                                 l[education_index[i["DegreeType"]]] = add_val        
                         else:
-                            if l[education_index[i["DegreeType"]]]<(scr*0.35):
-                                l[education_index[i["DegreeType"]]]=scr*0.35
+                            if l[education_index[i["DegreeType"]]]<(scr*0.45):
+                                l[education_index[i["DegreeType"]]]=scr*0.45
                     else:
-                        if l[education_index[i["DegreeType"]]]<(scr*0.25):
-                            l[education_index[i["DegreeType"]]]=scr*0.25                
+                        if l[education_index[i["DegreeType"]]]<(scr*0.35):
+                            l[education_index[i["DegreeType"]]]=scr*0.35                
                     break        
     additional_score=0
     for i in d:
@@ -242,9 +240,9 @@ def work_skill_score(skill_lst):
                 if v["Skills"][nm] == -1:
                     score += max_score_val/ttl_skills*0.70
                 else:
-                    time_penalize=18
+                    time_penalize=12
                     if v["Skills"][nm] < val:
-                        time_penalize=12
+                        time_penalize=8
                     score += max_score_val/ttl_skills*0.70 + max_score_val/ttl_skills*0.30*tanh((v["Skills"][nm]-val)/time_penalize)
         work_skill_score[k]=score                           
     return work_skill_score

@@ -13,7 +13,7 @@ def work_exp(inputlist):
     resd={}
     client = pymongo.MongoClient("mongodb+srv://divishad:abcde@cluster0-gdmit.gcp.mongodb.net/test?retryWrites=true&w=majority")
     db = client.StackRanking.education
-    mypathh='C:/Users/khyati/Downloads/Stack Ranking/SovrenProductDemo-14_Resumes/TargetDocuments/' 
+    mypathh='C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/' 
     gd={}
     comp_str={}
     for f in os.listdir(mypathh):
