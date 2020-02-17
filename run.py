@@ -268,9 +268,6 @@ def scores(edu_list,work_list,work_skill_list,data):
     ws=samp.work_exp(work_list)
     wss=work_skill_score(work_skill_list)
     for k,v in es.items():
-        # print(ss[k])
-        # print(ws[k])
-        # print(wss[k])
         ws_score=0
         if k in ws:
             ws_score=ws[k]
