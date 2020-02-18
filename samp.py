@@ -7,7 +7,11 @@ import os
 import pymongo
 from datetime import datetime
 import operator
-import math
+import numpy as np
+
+def tanh(z):
+    return 1-(2/(1+np.exp(2*z)))
+
 def work_exp(inputlist):
 
     resd={}
@@ -131,10 +135,10 @@ def work_exp(inputlist):
                                 if z['JobPosition'] in resume_list:
                                     if z["CompanyTier"]=='':
                                         jdtier=3
-                                        score=10+math.tanh((company_tier-jdtier)/1.5)
+                                        score=10+tanh((company_tier-jdtier)/1.5)
                                     elif z["CompanyTier"]!='':
                                         jdtier=int(z["CompanyTier"])
-                                        score=10+math.tanh((company_tier-jdtier)/1.5)
+                                        score=10+tanh((company_tier-jdtier)/1.5)
                                     count=count+1
                                     for key in comp_str[i][j][k][title]:
                                         

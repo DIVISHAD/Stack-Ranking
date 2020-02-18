@@ -3,7 +3,6 @@ import os
 import samp
 import pymongo
 import numpy as np
-from math import tanh
 
 client = pymongo.MongoClient("mongodb+srv://divishad:abcde@cluster0-gdmit.gcp.mongodb.net/test?retryWrites=true&w=majority")
 db = client.StackRanking.education
@@ -65,6 +64,9 @@ for nm in os.listdir(jd_path):
                                 child_skills.append(sub["@name"])        
                         jd_taxonamies[i["@name"]][j["@name"]][k["@name"]]=child_skills 
                 jd_taxonamies[i["@name"]][j["@name"]]["percent"]=j["@percentOfOverall"]  
+
+def tanh(z):
+    return 1-(2/(1+np.exp(2*z)))
 
 def evaluate_skills(candidate,json):
     score = 0
