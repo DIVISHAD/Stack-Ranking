@@ -1,0 +1,1329 @@
+{
+    "Resume":{
+        "@xml:lang":"en",
+        "@xmlns":"http://ns.hr-xml.org/2006-02-28",
+        "@xmlns:sov":"http://sovren.com/hr-xml/2006-02-28",
+        "ResumeId":{
+            "IdValue":null
+        },
+        "StructuredXMLResume":{
+            "ContactInfo":{
+                "PersonName":{
+                    "FormattedName":"Bandi Madhusudhan",
+                    "GivenName":"Bandi",
+                    "FamilyName":"Madhusudhan"
+                },
+                "ContactMethod":[
+                    {
+                        "Telephone":{
+                            "FormattedNumber":"+91 7795496465"
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetEmailAddress":"madhusudhan7.bandi@gmail.com"
+                    }
+                ]
+            },
+            "EmploymentHistory":{
+                "EmployerOrg":[
+                    {
+                        "EmployerOrgName":"Akamai",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "@currentEmployer":"true",
+                                "Title":"Software Development Engineer -II",
+                                "OrgName":{
+                                    "OrganizationName":"Akamai"
+                                },
+                                "Description":"Dangling CNAME Vulnerability Detection:rnCustomers of AKAMAI can configure their user request traffic (host names) for individual sub-domain (abc.customer.com) or entire domain using wild card (*.customer.com) or both to serve by Akamai CDN. Customer enters these CNAME's in public DNS to Akamai Edge machines where the customer configuration will be loaded, and request will be served.rnrnCustomers can deprovision host names any time they want. But during this time if they ignore to remove DNS entries it can be exploited by other customers to route traffic to Akamai network. We proposed a tool which Identify case where a hostname was deprovisioned from Akamai's platform, but the CNAME was not removed from DNS.rnrnResponsibilities:rn• Came up with an algorithm using wildcard match and DNS lookup.rn• Involved in designing other vulnerability detection tools.rnrnrnTier1 diagnostics:rnrnWhen end users of Akamai customers face service accessing issue, customer generates a short URL using our application and share it with end user via mail or sms. End user needs to enter this url on his device browser and send a request which will trigger a flow of calculating client ip with geo location, dns server ip to which the end user device is connected, the ghost machine ip which is serving the customer hosted traffic, protocol, cipher suite and speed test data. Upon submission of this data by end user, it will be added to the case created by customer with Akamai for debugging the issue.rnWe set up a dns cluster which will get request from end user local dns server for t1dt host address resolution. As part of this request we figure out the client dns ip and we store it in diagnostic data. Using this resolution, client device sends an http request to compute edgeIp, cipher etc and present it to end user. On submission of the data by end user will result in storing of the data in data base.rnrnResponsibilities:rn• Designed dns setup and configured local dns servers with logging of each client request ip.rn• Designed REST end points between diagnostic-tools app and t1dt app for sharing short url and collecting diagnostic-data.rn• Implemented the application over https by using KMI generated secret keys. Now has a plan for configuring DigiCert's for end user traffic.rnrnTechnical Stack:rn• Springrn• Javarn• Oracle dbrn• Docker, Microservicesrn• Rest web servicesrn• Git as version controlrnrnEbonding:rnATT customer has special relation with Akamai that they brought Engineering and Security products and resell them to their customers. Sometime the customer or the indirect customer who typically is a customer of ATT faces an issue, they can either create case in Akamai's ATT branded case-management system or in ATT case-management system. In any of the scenario both ATT and AKAMAI should have the case data on their system. So, when a case gets created on ATT system, it will trigger the case creation at AKAMAI by calling our api opened for them. Similarly, when there is a ticket created at Akamai side, we call the ATT's REST api for triggering create a case at their side. Same way updates on case also flows between both systems using rest Api's.rnrnResponsibilities:rn• Involved in design of the system architecture.rn• Designed database for keeping track of tickets and their activities for ebonding, which also consider the polling mechanism for updating tickets.rn• Proposed the efficient logging mechanism for series of events between each transaction.rn• Designed and implemented some of the REST end points which can be consumed by ATT for creating and updating cases in our system.rn• Participated in integration testing with ATT and helped them to construct Authorization header to hit the open api we created for creating and updating ticket. This part is related to HTTP authentication using Akamai's customized digest algorithm.rnrnTechnical Stack:rn• Spring Integrationrn• Javarn• Oracle dbrn• Docker, Microservicesrn• Rest web servicesrn• Git as version controlrnrnDiagnostic-tools:rnDeveloped tools for customer debugging purpose, before they raise issues with Akamai while accessing their services over Akamai CDN network. We have developed tools like error translator, verify Akamai, locate ip etc. we will access our CDN ghost machine's access and ddc logs to figure out the reason for request failure.rnrnResponsibilities:rn• Implemented rest api' which contacts Akamai edge machines access and ddc logs using Normandy module. This helps in translating Akamai translated error string to large description of the problem customer faced.rn• Implemented verifyAkamai module, which fetches network and region related information if an ip belongs to akami edge network.rn• Used Dig tool as part of other tools to find many parameters.rnrnTechnical Stack:rn• Springrn• Javarn• Oracle dbrn• Docker, Microservicesrn• Rest web servicesrn• Git as version controlrnrnSupport:rnAccording to Akamai business we will have various types of customers like direct, reseller, indirect etc. Each customer has different levels of support is provided by Akamai. So respective support contact details like Akamai contact team, reseller contacts team, administrator contact details will be shown to the customer when they open the standard support page of Akamai. We read basic properties of the customers, their purchased akamai products and we compute on what level of support they will fall. We did integration to our case-management system for customers to directly raise any tickets.rnrnResponsibilities:rn• Developed REST api's for creating and updating support contacts in system.rn• Developed REST api's for filter and access of support contacts based on logged in customer.rnrnTechnical Stack:rn• Springrn• Javarn• Oracle dbrn• Docker, Microservicesrn• Rest web servicesrn• Git as version control",
+                                "StartDate":{
+                                    "YearMonth":"2017-05"
+                                },
+                                "EndDate":{
+                                    "StringDate":"current"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Programming",
+                                        "Comments":"Information Technology describes 75% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Senior (more than 5 years experience)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-1",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"Q",
+                                            "#text":"Probable"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SS",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Akamai",
+                                        "sov:NormalizedTitle":"Software Development Engineer II",
+                                        "sov:Subtitles":{
+                                            "sov:Subtitle":[
+                                                "Software Development Engineer"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Akamai"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"Mitel Networks",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "Title":"Member of Technical staff",
+                                "OrgName":{
+                                    "OrganizationName":"Mitel Networks"
+                                },
+                                "Description":"Smart scheduler implementation based on working hours and available free time of users.rnrnTechnical Stack:rn• Springrn• Javarn• Oracle dbrn• Rest web servicesrn• SIP and IMS protocols",
+                                "StartDate":{
+                                    "YearMonth":"2016-08"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2017-04"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Mobile Applications",
+                                        "Comments":"Information Technology describes 100% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Senior (more than 5 years experience)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-2",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BP",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SM",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Mitel Networks",
+                                        "sov:NormalizedTitle":"Member of Technical staff"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Mitel Networks"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"LG Electronics",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "Title":"Software Engineer",
+                                "OrgName":{
+                                    "OrganizationName":"LG Electronics"
+                                },
+                                "Description":"• Initially developed and verified Ut client in j ava using Apache http stack. latter refactored it to use android-based http stack.rnrn• Initially Developed and verified Generic Bootstrapping Architecture (GBA) application which is based on Authentication and Key Agreement (AKA) protocol for dynamic user name and password generation using JAVA and C++.rnrn• Visited customer sites in Singapore, Hongkong to commercialize the VoIP solutions.rnrn• Received Rookie -Annual award for the year 2015-2016.rnrnrnAcademic Researchrnrn• A virtual machine placement algorithm for data -center based on energy consumption factor using genetic algorithm   Post Grad Thesisrnrn• Learned Hadoop MapReduce basics with personal interest",
+                                "StartDate":{
+                                    "YearMonth":"2013-08"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2016-08"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Programming",
+                                        "Comments":"Information Technology describes 82% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Entry Level"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-3",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BP",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SQ",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"LG Electronics",
+                                        "sov:NormalizedTitle":"Software Engineer"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"LG Electronics"
+                            }
+                        }
+                    }
+                ]
+            },
+            "EducationHistory":{
+                "SchoolOrInstitution":[
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"JNT University Hyderabad"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "ANDHRA PRADESH"
+                            ],
+                            "Municipality":"Hyderabad"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"masters",
+                                "DegreeName":"M.Tech",
+                                "DegreeDate":{
+                                    "YearMonth":"2011-07"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "(CSE) NITK Surathkal"
+                                        ]
+                                    }
+                                ],
+                                "DegreeMeasure":{
+                                    "EducationalMeasure":{
+                                        "MeasureSystem":"GPA",
+                                        "MeasureValue":{
+                                            "StringValue":"71"
+                                        },
+                                        "LowestPossibleValue":{
+                                            "StringValue":"0"
+                                        },
+                                        "HighestPossibleValue":{
+                                            "StringValue":"100"
+                                        }
+                                    }
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "YearMonth":"2011-07"
+                                        }
+                                    }
+                                ],
+                                "Comments":"• M.Tech (CSE) NITK Surathkal (7.11)rnrn• B.Tech (CSE) JNT University Hyderabad (71%)rnrn• Intermediate (92 %)",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-1",
+                                        "sov:NormalizedGPA":"0.710",
+                                        "sov:NormalizedDegreeName":"masters",
+                                        "sov:NormalizedDegreeType":"masters"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"JNT University Hyderabad"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"UNSPECIFIED",
+                        "Degree":[
+                            {
+                                "@degreeType":"secondary",
+                                "DegreeName":"SSC",
+                                "DegreeMeasure":{
+                                    "EducationalMeasure":{
+                                        "MeasureSystem":"GPA",
+                                        "MeasureValue":{
+                                            "StringValue":"87"
+                                        },
+                                        "LowestPossibleValue":{
+                                            "StringValue":"0"
+                                        },
+                                        "HighestPossibleValue":{
+                                            "StringValue":"100"
+                                        }
+                                    }
+                                },
+                                "Comments":"• SSC (87%)",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-2",
+                                        "sov:NormalizedGPA":"0.870",
+                                        "sov:NormalizedDegreeName":"secondary",
+                                        "sov:NormalizedDegreeType":"secondary"
+                                    }
+                                }
+                            }
+                        ]
+                    }
+                ]
+            },
+            "Qualifications":{
+                "QualificationSummary":"Skillsrnrn• Java, Spring, Micro Services, Dockers.rn• Multi-Threading, Collections, Data Structures, Algorithms, Design Pattern.rn• HTTP, DNS, TCP/IP."
+            },
+            "Languages":{
+                "Language":[
+                    {
+                        "LanguageCode":"en",
+                        "Read":"true",
+                        "Write":"true",
+                        "Speak":"true",
+                        "Comments":"[RESUME_LANGUAGE]"
+                    }
+                ]
+            },
+            "Achievements":{
+                "Achievement":[
+                    {
+                        "Description":"Received Rookie -Annual award for the year 2015-2016"
+                    }
+                ]
+            },
+            "Associations":{
+                "Association":[
+                    {
+                        "Name":"Mitel Networks   Member of Technical staff - III",
+                        "StartDate":{
+                            "YearMonth":"2016-08"
+                        },
+                        "EndDate":{
+                            "YearMonth":"2017-04"
+                        },
+                        "Role":[
+                            {
+                                "Name":"Member"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "RevisionDate":"2020-02-26"
+        },
+        "NonXMLResume":{
+            "TextResume":"Name: Bandi MadhusudhanrnrnEmail: madhusudhan7.bandi@gmail.comrnrnPh. No: +91 7795496465rnrnrnEducation:rnrnrn• M.Tech (CSE) NITK Surathkal (7.11)rnrn• B.Tech (CSE) JNT University Hyderabad (71%)rnrn• Intermediate (92 %)rn• SSC (87%)rnrnSkillsrnrn• Java, Spring, Micro Services, Dockers.rn• Multi-Threading, Collections, Data Structures, Algorithms, Design Pattern.rn• HTTP, DNS, TCP/IP.rnrnEXPERIENCE    5.8 yearsrnrnAkamai   Software Development Engineer -II   May 2017 - PresentrnrnDangling CNAME Vulnerability Detection:rnrnCustomers of AKAMAI can configure their user request traffic (host names) for individual sub-domain (abc.customer.com) or entire domain using wild card (*.customer.com) or both to serve by Akamai CDN. Customer enters these CNAME's in public DNS to Akamai Edge machines where the customer configuration will be loaded, and request will be served.rnrnCustomers can deprovision host names any time they want. But during this time if they ignore to remove DNS entries it can be exploited by other customers to route traffic to Akamai network. We proposed a tool which Identify case where a hostname was deprovisioned from Akamai's platform, but the CNAME was not removed from DNS.rnrnResponsibilities:rnrn• Came up with an algorithm using wildcard match and DNS lookup.rn• Involved in designing other vulnerability detection tools.rnrnrnTier1 diagnostics:rnrnWhen end users of Akamai customers face service accessing issue, customer generates a short URL using our application and share it with end user via mail or sms. End user needs to enter this url on his device browser and send a request which will trigger a flow of calculating client ip with geo location, dns server ip to which the end user device is connected, the ghost machine ip which is serving the customer hosted traffic, protocol, cipher suite and speed test data. Upon submission of this data by end user, it will be added to the case created by customer with Akamai for debugging the issue.rnWe set up a dns cluster which will get request from end user local dns server for t1dt host address resolution. As part of this request we figure out the client dns ip and we store it in diagnostic data. Using this resolution, client device sends an http request to compute edgeIp, cipher etc and present it to end user. On submission of the data by end user will result in storing of the data in data base.rnrnResponsibilities:rnrn• Designed dns setup and configured local dns servers with logging of each client request ip.rn• Designed REST end points between diagnostic-tools app and t1dt app for sharing short url and collecting diagnostic-data.rn• Implemented the application over https by using KMI generated secret keys. Now has a plan for configuring DigiCert's for end user traffic.rnrnTechnical Stack:rnrn• Springrn• Javarn• Oracle dbrn• Docker, Microservicesrn• Rest web servicesrn• Git as version controlrnrnEbonding:rnrnATT customer has special relation with Akamai that they brought Engineering and Security products and resell them to their customers. Sometime the customer or the indirect customer who typically is a customer of ATT faces an issue, they can either create case in Akamai's ATT branded case-management system or in ATT case-management system. In any of the scenario both ATT and AKAMAI should have the case data on their system. So, when a case gets created on ATT system, it will trigger the case creation at AKAMAI by calling our api opened for them. Similarly, when there is a ticket created at Akamai side, we call the ATT's REST api for triggering create a case at their side. Same way updates on case also flows between both systems using rest Api's.rnrnResponsibilities:rnrn• Involved in design of the system architecture.rn• Designed database for keeping track of tickets and their activities for ebonding, which also consider the polling mechanism for updating tickets.rn• Proposed the efficient logging mechanism for series of events between each transaction.rn• Designed and implemented some of the REST end points which can be consumed by ATT for creating and updating cases in our system.rn• Participated in integration testing with ATT and helped them to construct Authorization header to hit the open api we created for creating and updating ticket. This part is related to HTTP authentication using Akamai's customized digest algorithm.rnrnTechnical Stack:rnrn• Spring Integrationrn• Javarn• Oracle dbrn• Docker, Microservicesrn• Rest web servicesrn• Git as version controlrnrnDiagnostic-tools:rnrnDeveloped tools for customer debugging purpose, before they raise issues with Akamai while accessing their services over Akamai CDN network. We have developed tools like error translator, verify Akamai, locate ip etc. we will access our CDN ghost machine's access and ddc logs to figure out the reason for request failure.rnrnResponsibilities:rnrn• Implemented rest api' which contacts Akamai edge machines access and ddc logs using Normandy module. This helps in translating Akamai translated error string to large description of the problem customer faced.rn• Implemented verifyAkamai module, which fetches network and region related information if an ip belongs to akami edge network.rn• Used Dig tool as part of other tools to find many parameters.rnrnTechnical Stack:rnrn• Springrn• Javarn• Oracle dbrn• Docker, Microservicesrn• Rest web servicesrn• Git as version controlrnrnSupport:rnAccording to Akamai business we will have various types of customers like direct, reseller, indirect etc. Each customer has different levels of support is provided by Akamai. So respective support contact details like Akamai contact team, reseller contacts team, administrator contact details will be shown to the customer when they open the standard support page of Akamai. We read basic properties of the customers, their purchased akamai products and we compute on what level of support they will fall. We did integration to our case-management system for customers to directly raise any tickets.rnrnResponsibilities:rnrn• Developed REST api's for creating and updating support contacts in system.rn• Developed REST api's for filter and access of support contacts based on logged in customer.rnrnTechnical Stack:rnrn• Springrn• Javarn• Oracle dbrn• Docker, Microservicesrn• Rest web servicesrn• Git as version controlrnrnrnMitel Networks   Member of Technical staff - III   Aug 2016 - Apr 2017rnrnrn• Smart scheduler implementation based on working hours and available free time of users.rnrnTechnical Stack:rnrn• Springrn• Javarn• Oracle dbrn• Rest web servicesrn• SIP and IMS protocolsrnrnrnLG Electronics   Software Engineer   Aug 2013- Aug 2016rnrn• Initially developed and verified Ut client in j ava using Apache http stack. latter refactored it to use android-based http stack.rnrn• Initially Developed and verified Generic Bootstrapping Architecture (GBA) application which is based on Authentication and Key Agreement (AKA) protocol for dynamic user name and password generation using JAVA and C++.rnrn• Visited customer sites in Singapore, Hongkong to commercialize the VoIP solutions.rnrn• Received Rookie -Annual award for the year 2015-2016.rnrnrnAcademic Researchrnrnrn• A virtual machine placement algorithm for data -center based on energy consumption factor using genetic algorithm   Post Grad Thesisrnrn• Learned Hadoop MapReduce basics with personal interest"
+        },
+        "UserArea":{
+            "sov:ResumeUserArea":{
+                "sov:Culture":{
+                    "sov:Language":"en",
+                    "sov:Country":"IN",
+                    "sov:CultureInfo":"en-IN"
+                },
+                "sov:ExperienceSummary":{
+                    "sov:Description":"Bandi Madhusudhan's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in User Experience (mostly Industrial Design). Bandi Madhusudhan has 7 years of work experience.",
+                    "sov:MonthsOfWorkExperience":"79",
+                    "sov:AverageMonthsPerEmployer":"26",
+                    "sov:FulltimeDirectHirePredictiveIndex":"85",
+                    "sov:MonthsOfManagementExperience":"0",
+                    "sov:HighestManagementScore":"0",
+                    "sov:ExecutiveType":"none",
+                    "sov:ManagementStory":null,
+                    "sov:SkillsTaxonomyOutput":{
+                        "sov:TaxonomyRoot":[
+                            {
+                                "@name":"Sovren",
+                                "sov:Taxonomy":[
+                                    {
+                                        "@name":"Information Technology",
+                                        "@id":"10",
+                                        "@percentOfOverall":"79",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Java",
+                                                "@id":"339",
+                                                "@percentOfOverall":"18",
+                                                "@percentOfParentTaxonomy":"23",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JAVA",
+                                                        "@id":"023328",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"79",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1; POS-2; POS-3",
+                                                        "@childrenTotalMonths":"43",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SPRING",
+                                                                "@id":"3391126",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"43",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1; POS-2"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Programming",
+                                                "@id":"204",
+                                                "@percentOfOverall":"13",
+                                                "@percentOfParentTaxonomy":"17",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ALGORITHM",
+                                                        "@id":"022551",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"70",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-3"
+                                                    },
+                                                    {
+                                                        "@name":"C++",
+                                                        "@id":"012287",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    },
+                                                    {
+                                                        "@name":"DNS SERVER",
+                                                        "@id":"027152",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"DOCKER",
+                                                        "@id":"3391147",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"Git",
+                                                        "@id":"1004755",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"Hadoop",
+                                                        "@id":"1004744",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    },
+                                                    {
+                                                        "@name":"MapReduce",
+                                                        "@id":"1004750",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    },
+                                                    {
+                                                        "@name":"SOFTWARE ENGINEER",
+                                                        "@id":"008220",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    },
+                                                    {
+                                                        "@name":"STRUCTURED SOFTWARE",
+                                                        "@id":"022594",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"34",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SOFTWARE DEVELOPMENT",
+                                                                "@id":"008213",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"34",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Internet",
+                                                "@id":"196",
+                                                "@percentOfOverall":"7",
+                                                "@percentOfParentTaxonomy":"9",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DNS",
+                                                        "@id":"015548",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"IMS",
+                                                        "@id":"019583",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"9",
+                                                        "@lastUsed":"2017-04-30",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"SECURITY",
+                                                        "@id":"022110",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"WEB SERVICES",
+                                                        "@id":"011022",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"43",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Security",
+                                                "@id":"338",
+                                                "@percentOfOverall":"7",
+                                                "@percentOfParentTaxonomy":"9",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"AUTHENTICATION",
+                                                        "@id":"005912",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"70",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-3"
+                                                    },
+                                                    {
+                                                        "@name":"CONTENT DISTRIBUTED NETWORK",
+                                                        "@id":"3380033",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"34",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"CDN",
+                                                                "@id":"3380034",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"34",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"GHOST",
+                                                        "@id":"026197",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Mobile Applications",
+                                                "@id":"552",
+                                                "@percentOfOverall":"7",
+                                                "@percentOfParentTaxonomy":"9",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ANDROID",
+                                                        "@id":"5520503",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    },
+                                                    {
+                                                        "@name":"RESTFUL WEB SERVICES",
+                                                        "@id":"5520591",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"43",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"REST WEB SERVICES",
+                                                                "@id":"552059101",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"43",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1; POS-2"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"VOIP",
+                                                        "@id":"5520617",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Distributed Systems",
+                                                "@id":"718",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CDN",
+                                                        "@id":"7180004",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"DATA STRUCTURES",
+                                                        "@id":"6180000",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"REST",
+                                                        "@id":"7180010",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"43",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"VIRTUAL MACHINE",
+                                                        "@id":"7180107",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Database",
+                                                "@id":"193",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"5",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DATABASE MODELING",
+                                                        "@id":"026777",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"34",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"DATABASE",
+                                                                "@id":"022486",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"34",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"ORACLE",
+                                                        "@id":"031048",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"43",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Operations, Monitoring and Software Management",
+                                                "@id":"349",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"5",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DNS",
+                                                        "@id":"3490045",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"SMS",
+                                                        "@id":"081178",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"TCP/IP",
+                                                        "@id":"3490043",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Protocols and Standards",
+                                                "@id":"253",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"4",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"HTTP",
+                                                        "@id":"019117",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"SIP",
+                                                        "@id":"008018",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"9",
+                                                        "@lastUsed":"2017-04-30",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"TCP/IP",
+                                                        "@id":"009204",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Big Data",
+                                                "@id":"553",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"APACHE HADOOP MAPREDUCE",
+                                                        "@id":"5530712",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"36",
+                                                        "@childrenLastUsed":"2016-08-01",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"HADOOP MAPREDUCE",
+                                                                "@id":"553071201",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"36",
+                                                                "@lastUsed":"2016-08-01",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                            },
+                                                            {
+                                                                "@name":"MAPREDUCE",
+                                                                "@id":"553071202",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"36",
+                                                                "@lastUsed":"2016-08-01",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"HADOOP",
+                                                        "@id":"5530761",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Enterprise Storage",
+                                                "@id":"555",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CDN",
+                                                        "@id":"5551338",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Project Management",
+                                                "@id":"199",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"VERSION CONTROL",
+                                                        "@id":"024037",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"QA and QC",
+                                                "@id":"200",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"INTEGRATION TESTING",
+                                                        "@id":"019950",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Network",
+                                                "@id":"198",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TCP",
+                                                        "@id":"1980003",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"TCP/IP",
+                                                        "@id":"1980004",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"VIRTUAL MACHINE",
+                                                        "@id":"010563",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Telephony",
+                                                "@id":"347",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MITEL",
+                                                        "@id":"027050",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"VOIP",
+                                                        "@id":"027110",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Compiler & Runtime",
+                                                "@id":"719",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"VIRTUAL MACHINE",
+                                                        "@id":"7190065",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"UNIX and LINUX",
+                                                "@id":"203",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"APACHE",
+                                                        "@id":"021093",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"User Interface",
+                                                "@id":"731",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ANDROID",
+                                                        "@id":"7310008",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"User Experience",
+                                        "@id":"93",
+                                        "@percentOfOverall":"5",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Industrial Design",
+                                                "@id":"566",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"71",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ARCHITECTURE",
+                                                        "@id":"5570085",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"70",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Web Design",
+                                                "@id":"571",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"29",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"INTEGRATOR",
+                                                        "@id":"5570146",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"34",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"INTEGRATION",
+                                                                "@id":"5570147",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"34",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Engineering",
+                                        "@id":"5",
+                                        "@percentOfOverall":"5",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General Engineering",
+                                                "@id":"307",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"82",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ALGORITHM",
+                                                        "@id":"022552",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"70",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Air and Aerospace",
+                                                "@id":"311",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"16",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"APACHE",
+                                                        "@id":"025565",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Surveying",
+                                                "@id":"298",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ALGORITHMS",
+                                                        "@id":"024338",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Translations and Language Work",
+                                        "@id":"91",
+                                        "@percentOfOverall":"3",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Translation",
+                                                "@id":"901",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TRANSLATED",
+                                                        "@id":"200001",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"TRANSLATOR",
+                                                        "@id":"200004",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Telecommunications",
+                                        "@id":"16",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Standards, Protocols, Technologies",
+                                                "@id":"317",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"94",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SMS",
+                                                        "@id":"081157",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"VOIP",
+                                                        "@id":"027111",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Hardware",
+                                                "@id":"319",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MITEL",
+                                                        "@id":"027051",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Power Engineering",
+                                        "@id":"26",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Non-Nuclear Power Misc",
+                                                "@id":"924",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"API",
+                                                        "@id":"021195",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Petrochemical",
+                                        "@id":"44",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Drilling",
+                                                "@id":"441",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"LOGGING",
+                                                        "@id":"020888",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Security",
+                                        "@id":"98",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Financial, Accounting and Processes",
+                                                "@id":"466",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"VULNERABILITY DETECTION",
+                                                        "@id":"010745",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Technical Writing",
+                                        "@id":"31",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General",
+                                                "@id":"430",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TRANSLATING",
+                                                        "@id":"009845",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"34",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Scientific",
+                                        "@id":"15",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Bio",
+                                                "@id":"373",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"GENETIC ALGORITHM",
+                                                        "@id":"018329",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"36",
+                                                        "@lastUsed":"2016-08-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Bookkeeping, Office Management",
+                                        "@id":"89",
+                                        "@percentOfOverall":"0",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Bookeeping Tasks",
+                                                "@id":"533",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CREDIT",
+                                                        "@id":"022229",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"COLLECTIONS",
+                                                                "@id":"013782",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SKILLS"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "sov:Sections":{
+                    "sov:Section":[
+                        {
+                            "@starts":"7",
+                            "@ends":"16",
+                            "@sectionType":"EDUCATION",
+                            "#text":"Education"
+                        },
+                        {
+                            "@starts":"17",
+                            "@ends":"22",
+                            "@sectionType":"SKILLS",
+                            "#text":"Skills"
+                        },
+                        {
+                            "@starts":"23",
+                            "@ends":"147",
+                            "@sectionType":"WORK HISTORY",
+                            "#text":"EXPERIENCE"
+                        }
+                    ]
+                },
+                "sov:ReservedData":{
+                    "sov:Phones":{
+                        "sov:Phone":[
+                            "Ph. No: +91 7795496465",
+                            "+91 7795496465"
+                        ]
+                    },
+                    "sov:Names":{
+                        "sov:Name":[
+                            "Bandi Madhusudhan",
+                            "Name: Bandi Madhusudhan"
+                        ]
+                    },
+                    "sov:EmailAddresses":{
+                        "sov:EmailAddress":[
+                            "madhusudhan7.bandi@gmail.com"
+                        ]
+                    },
+                    "sov:Urls":{
+                        "sov:Url":[
+                            "abc.customer.com"
+                        ]
+                    }
+                },
+                "sov:ParsedTextLength":"7255",
+                "sov:ParseTime":"593",
+                "sov:ResumeQuality":{
+                    "sov:Assessments":{
+                        "sov:Assessment":[
+                            {
+                                "sov:Level":"Data Missing",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                                        "[Sovren:232;DEG-2] The following educational degree is not associated with a school: DEG-2. Every degree in a resume should be associated with a school."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Suggested Improvements",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:112;] The following section was identified as a skills section type: 'Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                                        "[Sovren:151;2] The following section does not have the header on a separate line: 'EXPERIENCE'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                                        "[Sovren:161;DEG-2] High school (or lower) education should not be included on resumes that contain higher-level education."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "sov:LicenseSerialNumber":"19024833:d78396b7-3364-43eb-9092-b12dd6f0f8c8",
+                "sov:ParserConfigurationString":"Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+                "sov:ParserVersion":"9.3.10.0",
+                "sov:DigitalSignature":"hPYAAAAAAAA="
+            }
+        }
+    }
+}

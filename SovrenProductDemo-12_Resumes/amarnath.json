@@ -1,0 +1,687 @@
+{
+    "Resume":{
+        "@xml:lang":"en",
+        "@xmlns":"http://ns.hr-xml.org/2006-02-28",
+        "@xmlns:sov":"http://sovren.com/hr-xml/2006-02-28",
+        "ResumeId":{
+            "IdValue":null
+        },
+        "StructuredXMLResume":{
+            "ContactInfo":{
+                "PersonName":{
+                    "FormattedName":"AMARNATH M",
+                    "GivenName":"AMARNATH",
+                    "FamilyName":"M"
+                },
+                "ContactMethod":[
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "Mobile":{
+                            "FormattedNumber":"9052052661"
+                        }
+                    },
+                    {
+                        "Use":"linkedIn",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetWebAddress":"https://www.linkedin.com/in"
+                    }
+                ]
+            },
+            "ExecutiveSummary":"AMARNATH MrnDedicated and efficient full stack developer with 3.8 years of experience in both F/E and B/E technologies. Spearheadedrnsuccessful transition from scratch to MERN stack. Seeking tornfurther improve my skills as the full stack developer and continuously making strides to learn all that I can aboutrndevelopment.rnFull Stack DeveloperrnGet in touchrnMobile: 9052052661rnEmail:",
+            "EmploymentHistory":{
+                "EmployerOrg":[
+                    {
+                        "EmployerOrgName":"Transin Logistics Pvt Ltd",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "@currentEmployer":"true",
+                                "Title":"Software Development Engineer",
+                                "OrgName":{
+                                    "OrganizationName":"Transin Logistics Pvt Ltd"
+                                },
+                                "Description":"LinkedIn:rnhttps://www.linkedin.com/in/rnamarnathmadabattula/rnAs an SDE - 1 team, I have gradually turned out to be a keyrndeveloper in building user and administrative web apps usingrnReact jS & Redux.rnSkillsrnResponsible for developing an order management system forrnbuilding business between customers and transporters.rnDesigned and developed e-Reports which streamlined to single source of truth data which helped in increasing the productivity and pipe lined constructive communication between teams.rnJavascriptrnReact JsrnReduxrnNode JsrnAWSrnDynamo DBrnMongo DBrnElastic searchrnHTML, CSSrnGitrnOutlined and reinforced Dashboards for high levelrnmanagement which helps in monitoring health, expense,rnrevenue of the company and also aids in making decisions.rnAuthor of various micro-services in Node Js concerningrndifferent business entitiesrnExplored AWS - EC2, Lambda, API Gateway, SES, Cloudwatch,rnS3, Route53, Elasticsearch etc.rnJirarnC, C++",
+                                "StartDate":{
+                                    "YearMonth":"2017-07"
+                                },
+                                "EndDate":{
+                                    "StringDate":"current"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Programming",
+                                        "Comments":"Information Technology describes 93% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Experienced (non-manager)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-1",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"SB",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SS",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Transin Logistics",
+                                        "sov:NormalizedTitle":"Software Development Engineer"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Transin Logistics"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"Cognizant Technology Solutions",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "Title":"Associate Software Engineer",
+                                "OrgName":{
+                                    "OrganizationName":"Cognizant Technology Solutions"
+                                },
+                                "Description":"",
+                                "StartDate":{
+                                    "YearMonth":"2016-05"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2017-07"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Entry Level"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-2",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"SB",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"TF",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Cognizant Technology Solutions",
+                                        "sov:NormalizedTitle":"Associate Software Engineer"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Cognizant Technology Solutions"
+                            }
+                        }
+                    }
+                ]
+            },
+            "EducationHistory":{
+                "SchoolOrInstitution":[
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"Gayatri Vidya Parishad College of Engg"
+                            }
+                        ],
+                        "Degree":[
+                            {
+                                "@degreeType":"bachelors",
+                                "DegreeName":"B. Tech in Electrical and Electronics Engineering",
+                                "DegreeDate":{
+                                    "Year":"2015"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "Electronics Engineering"
+                                        ]
+                                    }
+                                ],
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "Year":"2011"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2015"
+                                        }
+                                    }
+                                ],
+                                "Comments":"B. Tech in Electrical and Electronics EngineeringrnGayatri Vidya Parishad College of Engg. | 2011 - 2015rnIntermediate - MPC",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-1",
+                                        "sov:NormalizedDegreeName":"bachelors",
+                                        "sov:NormalizedDegreeType":"bachelors"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Gayatri Vidya Parishad College of Engg"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"community",
+                        "School":[
+                            {
+                                "SchoolName":"Narayana Jr College"
+                            }
+                        ],
+                        "Degree":[
+                            {
+                                "@degreeType":"some college",
+                                "DegreeDate":{
+                                    "Year":"2011"
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "Year":"2009"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2011"
+                                        }
+                                    }
+                                ],
+                                "Comments":"Narayana Jr College | 2009 - 2011",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-2",
+                                        "sov:NormalizedDegreeType":"some college"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Narayana Jr College"
+                            }
+                        }
+                    }
+                ]
+            },
+            "Languages":{
+                "Language":[
+                    {
+                        "LanguageCode":"en",
+                        "Read":"true",
+                        "Write":"false",
+                        "Speak":"false",
+                        "Comments":"English"
+                    },
+                    {
+                        "LanguageCode":"te",
+                        "Read":"true",
+                        "Write":"false",
+                        "Speak":"false",
+                        "Comments":"Telugu"
+                    },
+                    {
+                        "LanguageCode":"hi",
+                        "Read":"true",
+                        "Write":"false",
+                        "Speak":"false",
+                        "Comments":"Hindi"
+                    }
+                ]
+            },
+            "RevisionDate":"2020-02-26"
+        },
+        "NonXMLResume":{
+            "TextResume":"https://www.linkedin.com/in/rnrnSUMMARYrnAMARNATH MrnDedicated and efficient full stack developer with 3.8 years of experience in both F/E and B/E technologies. Spearheadedrnsuccessful transition from scratch to MERN stack. Seeking tornfurther improve my skills as the full stack developer and continuously making strides to learn all that I can aboutrndevelopment.rnFull Stack DeveloperrnGet in touchrnMobile: 9052052661rnEmail:rnWORK HISTORYrnamarnathmadabattula@gmail.crnomrnSoftware Development EngineerrnTransin Logistics Pvt Ltd | July 2017 - presentrnLinkedIn:rnhttps://www.linkedin.com/in/rnamarnathmadabattula/rnAs an SDE - 1 team, I have gradually turned out to be a keyrndeveloper in building user and administrative web apps usingrnReact jS & Redux.rnSkillsrnResponsible for developing an order management system forrnbuilding business between customers and transporters.rnDesigned and developed e-Reports which streamlined tornsingle source of truth data which helped in increasing the productivity and pipe lined constructive communication between teams.rnJavascriptrnReact JsrnReduxrnNode JsrnAWSrnDynamo DBrnMongo DBrnElastic searchrnHTML, CSSrnGitrnOutlined and reinforced Dashboards for high levelrnmanagement which helps in monitoring health, expense,rnrevenue of the company and also aids in making decisions.rnAuthor of various micro-services in Node Js concerningrndifferent business entitiesrnExplored AWS - EC2, Lambda, API Gateway, SES, Cloudwatch,rnS3, Route53, Elasticsearch etc.rnJirarnC, C++rnAssociate Software EngineerrnCognizant Technology Solutions | May 2016 - July 2017rnInterestsrnResponsible in developing web user interfaces in HTML, CSS,rnJavascript.rnReadingrnRepresented Web development team in scrumsrnProvided           maintenance and development of bug fixes and patch sets for existing web applications.rnOversaw troubleshooting of technical issues to solve problems within reasonable time frame.rnPaintingrnTrecking/OutingrnMusicrnMoviesrnPitched in to assist senior developers to meet pressingrndeadlines during under-staffed periods.rnLanguagesrnEnglishrnTelugurnHindirnACADEMIC BACKGROUNDrnB. Tech in Electrical and Electronics EngineeringrnGayatri Vidya Parishad College of Engg. | 2011 - 2015rnIntermediate - MPCrnNarayana Jr College | 2009 - 2011"
+        },
+        "UserArea":{
+            "sov:ResumeUserArea":{
+                "sov:Culture":{
+                    "sov:Language":"en",
+                    "sov:Country":"US",
+                    "sov:CultureInfo":"en-US"
+                },
+                "sov:ExperienceSummary":{
+                    "sov:Description":"AMARNATH M's experience appears to be strongly concentrated in Information Technology (mostly Programming) and slightly concentrated in Purchasing, Procurement, Inventory Control, Supply Chain (mostly Logistics). AMARNATH M's experience appears to be lower-to-mid level, with about 4 years of experience.",
+                    "sov:MonthsOfWorkExperience":"46",
+                    "sov:AverageMonthsPerEmployer":"23",
+                    "sov:FulltimeDirectHirePredictiveIndex":"50",
+                    "sov:MonthsOfManagementExperience":"0",
+                    "sov:HighestManagementScore":"0",
+                    "sov:ExecutiveType":"none",
+                    "sov:ManagementStory":null,
+                    "sov:SkillsTaxonomyOutput":{
+                        "sov:TaxonomyRoot":[
+                            {
+                                "@name":"Sovren",
+                                "sov:Taxonomy":[
+                                    {
+                                        "@name":"Information Technology",
+                                        "@id":"10",
+                                        "@percentOfOverall":"89",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Programming",
+                                                "@id":"204",
+                                                "@percentOfOverall":"52",
+                                                "@percentOfParentTaxonomy":"59",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"API",
+                                                        "@id":"021194",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"C++",
+                                                        "@id":"012287",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"Git",
+                                                        "@id":"1004755",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"HTML",
+                                                        "@id":"019115",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in HOBBIES; WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"JAVASCRIPT",
+                                                        "@id":"025394",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in HOBBIES; WORK HISTORY; POS-1",
+                                                        "@childrenTotalMonths":"32",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"REDUX",
+                                                                "@id":"3391108",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"32",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"SOFTWARE ENGINEER",
+                                                        "@id":"008220",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"14",
+                                                        "@lastUsed":"2017-07-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"STRUCTURED SOFTWARE",
+                                                        "@id":"022594",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"32",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SOFTWARE DEVELOPMENT",
+                                                                "@id":"008213",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"32",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Internet",
+                                                "@id":"196",
+                                                "@percentOfOverall":"9",
+                                                "@percentOfParentTaxonomy":"11",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CSS",
+                                                        "@id":"014705",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in HOBBIES; WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Cloud Computing",
+                                                "@id":"550",
+                                                "@percentOfOverall":"7",
+                                                "@percentOfParentTaxonomy":"7",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"Amazon Elastic Compute Cloud",
+                                                        "@id":"5500001",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"32",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"EC2",
+                                                                "@id":"550000102",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"32",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Big Data",
+                                                "@id":"553",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ELASTICSEARCH",
+                                                        "@id":"5530744",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"QA and QC",
+                                                "@id":"200",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JIRA",
+                                                        "@id":"2000006",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Content Management",
+                                                "@id":"352",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DYNAMO",
+                                                        "@id":"025777",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Architecture",
+                                                "@id":"201",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SDE",
+                                                        "@id":"007572",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Purchasing, Procurement, Inventory Control, Supply Chain",
+                                        "@id":"97",
+                                        "@percentOfOverall":"6",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Logistics",
+                                                "@id":"460",
+                                                "@percentOfOverall":"6",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"LOGISTICS",
+                                                        "@id":"022309",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"ORDER MANAGEMENT",
+                                                        "@id":"004014",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"32",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Sales",
+                                        "@id":"20",
+                                        "@percentOfOverall":"3",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Entry Level",
+                                                "@id":"500",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ASSOCIATE",
+                                                        "@id":"004917",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"14",
+                                                        "@lastUsed":"2017-07-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Light Technical/Trades/Skilled Labor",
+                                        "@id":"27",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Electronic",
+                                                "@id":"294",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"73",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ELECTRONICS ENGINEERING",
+                                                        "@id":"016114",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"46",
+                                                        "@lastUsed":"2015-01-01",
+                                                        "@whereFound":"Found in EDUCATION; DEG-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Carpentry and Painting",
+                                                "@id":"286",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"27",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PAINTING",
+                                                        "@id":"004273",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in HOBBIES"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Installation, Maintenance, Repair",
+                                        "@id":"72",
+                                        "@percentOfOverall":"0",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General Repair",
+                                                "@id":"452",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MAINTENANCE",
+                                                        "@id":"022117",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in HOBBIES"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Manufacturing",
+                                        "@id":"13",
+                                        "@percentOfOverall":"0",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Equipment",
+                                                "@id":"364",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MAINTENANCE",
+                                                        "@id":"022116",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in HOBBIES"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "sov:Hobbies":{
+                    "sov:Text":"Responsible in developing web user interfaces in HTML, CSS,rnJavascript.rnReadingrnRepresented Web development team in scrumsrnProvided           maintenance and development of bug fixes and patch sets for existing web applications.rnOversaw troubleshooting of technical issues to solve problems within reasonable time frame.rnPaintingrnTrecking/OutingrnMusicrnMoviesrnPitched in to assist senior developers to meet pressingrndeadlines during under-staffed periods."
+                },
+                "sov:Sections":{
+                    "sov:Section":[
+                        {
+                            "@starts":"2",
+                            "@ends":"11",
+                            "@sectionType":"SUMMARY",
+                            "#text":"SUMMARY"
+                        },
+                        {
+                            "@starts":"12",
+                            "@ends":"48",
+                            "@sectionType":"WORK HISTORY",
+                            "#text":"WORK HISTORY"
+                        },
+                        {
+                            "@starts":"49",
+                            "@ends":"61",
+                            "@sectionType":"HOBBIES",
+                            "#text":"Interests"
+                        },
+                        {
+                            "@starts":"62",
+                            "@ends":"65",
+                            "@sectionType":"LANGUAGES",
+                            "#text":"Languages"
+                        },
+                        {
+                            "@starts":"66",
+                            "@ends":"70",
+                            "@sectionType":"EDUCATION",
+                            "#text":"ACADEMIC BACKGROUND"
+                        }
+                    ]
+                },
+                "sov:ReservedData":{
+                    "sov:Phones":{
+                        "sov:Phone":[
+                            "Mobile: 9052052661",
+                            "9052052661"
+                        ]
+                    },
+                    "sov:Names":{
+                        "sov:Name":[
+                            "AMARNATH M"
+                        ]
+                    },
+                    "sov:Urls":{
+                        "sov:Url":[
+                            "https://www.linkedin.com/in"
+                        ]
+                    }
+                },
+                "sov:ParsedTextLength":"2229",
+                "sov:ParseTime":"249",
+                "sov:ResumeQuality":{
+                    "sov:Assessments":{
+                        "sov:Assessment":[
+                            {
+                                "sov:Level":"Data Missing",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:211;] An email address was not found in the contact information. A resume should always include an email address.",
+                                        "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                                        "[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "sov:LicenseSerialNumber":"19024833:297d5d02-e9a0-4ad5-9d9d-5e1f458463e9",
+                "sov:ParserConfigurationString":"Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = US; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+                "sov:ParserVersion":"9.3.10.0",
+                "sov:DigitalSignature":"954AAAAAAAA="
+            }
+        }
+    }
+}

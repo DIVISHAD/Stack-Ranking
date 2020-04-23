@@ -8,15 +8,16 @@ import pymongo
 client = pymongo.MongoClient("mongodb+srv://divishad:abcde@cluster0-gdmit.gcp.mongodb.net/test?retryWrites=true&w=majority")
 db = client.StackRanking
 
-jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/SourceDocument/"
-r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/"
+jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-12_Resumes/"
+r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/encoded2/"
 degree_type=[]
 degree_name=[]
 college_name=[]
 degree_major=[]
 c=0
 for nm in os.listdir(r_path):
-    with open(r_path+nm+"/"+nm+".json",'r',encoding='cp850') as file:
+    with open(r_path+nm,'r',encoding='cp850') as file:
+        print("-------------------------",nm)
         data=json.load(file)
         if data.get("Resume").get("StructuredXMLResume").get("EducationHistory") != None:
             a=data.get("Resume").get("StructuredXMLResume").get("EducationHistory").get("SchoolOrInstitution")
@@ -38,7 +39,7 @@ for nm in os.listdir(r_path):
                         if "sov:NormalizedSchoolName" in deg["UserArea"]["sov:SchoolOrInstitutionTypeUserArea"]:
                             college_name.append(deg["UserArea"]["sov:SchoolOrInstitutionTypeUserArea"]["sov:NormalizedSchoolName"])
                             a4=deg["UserArea"]["sov:SchoolOrInstitutionTypeUserArea"]["sov:NormalizedSchoolName"]
-                print(a1,a2,a3,a4,sep=", ")            
+                # print(a1,a2,a3,a4,sep=", ")            
 
 
 print(len(degree_type),len(degree_name),len(degree_major),len(college_name),c)
@@ -57,13 +58,13 @@ for i in range(0,24):
         d=college_name[i]
     else:d=""
     # print(a,b,c1,d,sep=", ") 
-# print(degree_name)
-# print(degree_major)
+# print(degree_name,"\n\n")
+print(degree_major)
 # print(college_name)  
 print(db.education.find_one({"key":"DegreeName"}))
 org_name=[]
 for nm in os.listdir(r_path):
-    with open(r_path+nm+"/"+nm+".json",'r',encoding='cp850') as file:
+    with open(r_path+nm,'r',encoding='cp850') as file:
         data=json.load(file)
         if data.get("Resume").get("StructuredXMLResume").get("EmploymentHistory") != None:
             a=data.get("Resume").get("StructuredXMLResume").get("EmploymentHistory")

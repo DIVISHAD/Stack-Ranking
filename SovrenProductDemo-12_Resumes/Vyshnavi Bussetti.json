@@ -1,0 +1,1323 @@
+{
+    "Resume":{
+        "@xml:lang":"en",
+        "@xmlns":"http://ns.hr-xml.org/2006-02-28",
+        "@xmlns:sov":"http://sovren.com/hr-xml/2006-02-28",
+        "ResumeId":{
+            "IdValue":null
+        },
+        "StructuredXMLResume":{
+            "ContactInfo":{
+                "PersonName":{
+                    "FormattedName":"BUSSETTI DEVI VYSHNAVI",
+                    "GivenName":"BUSSETTI",
+                    "MiddleName":"DEVI",
+                    "FamilyName":"VYSHNAVI"
+                },
+                "ContactMethod":[
+                    {
+                        "WhenAvailable":"anytime",
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "PostalCode":"500084",
+                            "Region":[
+                                "ANDHRA PRADESH"
+                            ],
+                            "Municipality":"Hyderabad",
+                            "DeliveryAddress":{
+                                "AddressLine":[
+                                    "F401, Senthan Nivas, Park Avenue Colony, Raja Rajeswari Nagar",
+                                    "Kondapur"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "Mobile":{
+                            "FormattedNumber":"+91-9553919059"
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetEmailAddress":"vyshnavibussetti@gmail.com"
+                    },
+                    {
+                        "Use":"linkedIn",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetWebAddress":"https://www.linkedin.com/in/vyshnavi-bussetti-1122256b"
+                    }
+                ]
+            },
+            "EmploymentHistory":{
+                "EmployerOrg":[
+                    {
+                        "EmployerOrgName":"AutoRABIT Software Private Limited",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "@currentEmployer":"true",
+                                "Title":"Associate Software Engineer",
+                                "OrgName":{
+                                    "OrganizationName":"AutoRABIT Software Private Limited"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "ANDHRA PRADESH"
+                                            ],
+                                            "Municipality":"Hyderabad"
+                                        }
+                                    }
+                                ],
+                                "Description":"HyderabadrnJune 2016-PresentrnrnrnAutoRABIT is a product based startup that provides Continuous Integration (CI) and ContinuousrnDelivery (CD) through end to end Release Management Suite for Salesforce.rnrnrnARVault is a new subsidiary product of AutoRABIT and it serves as a Data Restore and Backup asrnwell as Analytics tool for Salesforce and is under development phase currently.rnAssociate Software Engineer:rnARVault",
+                                "StartDate":{
+                                    "YearMonth":"2016-06"
+                                },
+                                "EndDate":{
+                                    "StringDate":"current"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"User Experience → Web Design",
+                                        "Comments":"User Experience describes 37% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Senior (more than 5 years experience)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-1",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"SX",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SX",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"AutoRABIT Software",
+                                        "sov:NormalizedTitle":"Associate Software Engineer"
+                                    }
+                                }
+                            },
+                            {
+                                "@positionType":"directHire",
+                                "@currentEmployer":"true",
+                                "Title":"Front End Developer",
+                                "OrgName":{
+                                    "OrganizationName":"ARVault"
+                                },
+                                "Description":"Implementing Angular 5 and Angular Material, rxjs and several other required API for developing the web application.rnUsing Angular Flex Layout for imparting responsiveness to the application is scoped in the pipeline.rnCurrently working on sub modularization of the product for a seamless user experience in the User Interface and also to maintain a better folder structure of the application.rnFirst in the company to implement Material Design for the product.rnAutoRABIT:rnrnrnEngaged with development team of AutoRABIT from June, 2016-July, 2017.rnWorked on 2 GA releases and 3 minor releases of the product.rnDeveloped web interface for 2 of the 7 modules in the product and worked on few features in 3rnmodules using jQuery, HTML and CSS as per sprint plan.rnrnrnIdentified and fixed performance issues in a module using Java and jQuery.rnEnsured that the entire product is working as per User Roles and Permissions.rnGained understanding about Maven and Version control tools like SVN, GIT.rnMentorship:rnrnMentoring a team of 3 interns from BITS PILANI for Practice School 2 program since July, 2017rnrnrnGuiding the team to build Intelligence in the product there by providing important and valuablerninsights using the available data to the end user.rnrnrnIntegrating a reporting tool named Business Intelligence and Reporting Tools (BIRT) in the product using Java API.rnMentoring the team to build Reports module for the product as per the Roles and Permissionsrnassigned to the user.rnOther Activities:rnrnrnParticipated in weekly community discussion in the firm.rnrnrnA blog on How Artificial Intelligence helps us make smarter decisions in our day to day life isrnpublished under my name.rnGenerated a lead from my contacts and helped the product reach the right audience.",
+                                "StartDate":{
+                                    "YearMonth":"2017-08"
+                                },
+                                "EndDate":{
+                                    "StringDate":"current"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Programming",
+                                        "Comments":"Information Technology describes 69% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Experienced (non-manager)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-2",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BB",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SX",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"ARVault",
+                                        "sov:NormalizedTitle":"Front End Developer"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"AutoRABIT Software"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"IMI Mobile",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"internship",
+                                "Title":"Internship",
+                                "OrgName":{
+                                    "OrganizationName":"IMI Mobile"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "ANDHRA PRADESH"
+                                            ],
+                                            "Municipality":"Hyderabad"
+                                        }
+                                    }
+                                ],
+                                "Description":"Engaged as intern with Analytics team of the company and contributed in solving businessrnproblems of the clients.rnrnrnGenerated monthly reports and dashboards for few of the telecom clients.rnAutomated the above manual reports reducing potential error prone insights.rnAutomated data in thousand of excel files by categorized them and loading them into the serverrnpost which tedious man hours boiled down to minutes in accomplishing the relevant tasks.",
+                                "StartDate":{
+                                    "YearMonth":"2016-01"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2016-06"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Engineering → RF",
+                                        "Comments":"Engineering describes 50% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Experienced (non-manager)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-3",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BN",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SF",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"IMI Mobile",
+                                        "sov:NormalizedTitle":"Internship"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"IMI Mobile"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"JDA Software Private Limited",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"internship",
+                                "Title":"Internship",
+                                "OrgName":{
+                                    "OrganizationName":"JDA Software Private Limited"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "KARNATAKA"
+                                            ],
+                                            "Municipality":"Bangalore"
+                                        }
+                                    }
+                                ],
+                                "Description":"Involved as an intern with the Platform team of the company whose product is a Supply ChainrnPlanning, Optimization and Analytics platform.rnCreated a Data services project using the product's studio and used to Weblogic server to access the web interface.rnPerformed functional testing on daily builds of the product in Windows, Linux and AIXrnenvironments. Gained hands-on in using coreFTP software to work with Virtual Machines.rnPerformed sanity testing on the customized project of the team on a daily basis.rnContributed in testing the standalone product while up gradation to JAVA JDK 8 and Weblogicrn12.2.1.",
+                                "StartDate":{
+                                    "YearMonth":"2015-07"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2015-12"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → UNIX and LINUX",
+                                        "Comments":"Information Technology describes 58% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Entry Level"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-4",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"SX",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SF",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"JDA Software",
+                                        "sov:NormalizedTitle":"Internship"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"JDA Software"
+                            }
+                        }
+                    }
+                ]
+            },
+            "EducationHistory":{
+                "SchoolOrInstitution":[
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "RAJASTHAN"
+                            ],
+                            "Municipality":"PILANI"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"masters",
+                                "DegreeName":"MSc(Hons)",
+                                "DegreeDate":{
+                                    "YearMonth":"2016-06"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "Biological Sciences & BE"
+                                        ]
+                                    }
+                                ],
+                                "DegreeMeasure":{
+                                    "EducationalMeasure":{
+                                        "MeasureSystem":"GPA",
+                                        "MeasureValue":{
+                                            "StringValue":"7.55"
+                                        },
+                                        "LowestPossibleValue":{
+                                            "StringValue":"0"
+                                        },
+                                        "HighestPossibleValue":{
+                                            "StringValue":"10"
+                                        }
+                                    }
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "YearMonth":"2011-08"
+                                        },
+                                        "EndDate":{
+                                            "YearMonth":"2016-06"
+                                        }
+                                    }
+                                ],
+                                "Comments":"BIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANIrnAug 2011-June 2016rnMSc(Hons) Biological Sciences & BE(Hons) Civil Engineering, GPA:7.55/10",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-1",
+                                        "sov:NormalizedGPA":"0.755",
+                                        "sov:NormalizedDegreeName":"MSc",
+                                        "sov:NormalizedDegreeType":"MSc"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"BIRLA INSTITUTE OF TECHNOLOGY AND SCIENCE"
+                            }
+                        }
+                    }
+                ]
+            },
+            "Qualifications":{
+                "QualificationSummary":"TECHNICAL SKILLS:rnrnrnHTML, CSS, Javascript, jQuery, Angular, Angular Material 2, Material Design, Java, Rest and SOAP API, R, BIRT(Reporting tool), Tomcat"
+            },
+            "Languages":{
+                "Language":[
+                    {
+                        "LanguageCode":"en",
+                        "Read":"true",
+                        "Write":"true",
+                        "Speak":"true",
+                        "Comments":"[RESUME_LANGUAGE]"
+                    }
+                ]
+            },
+            "Achievements":{
+                "Achievement":[
+                    {
+                        "Description":"MSc(Hons) Biological Sciences & BE(Hons) Civil Engineering, GPA:7.55/10"
+                    },
+                    {
+                        "Description":"Studied available interpolation techniques to estimate meteorological parameters and also analyzed topographical influences on these parameters concentrating on techniques like IDW and Kriging. Godavari river basin is chosen as area of study, Digital elevation models were taken"
+                    }
+                ]
+            },
+            "RevisionDate":"2020-02-26"
+        },
+        "NonXMLResume":{
+            "TextResume":"https://www.linkedin.com/in/vyshnavi-bussetti-1122256brnrnvyshnavibussetti@gmail.comrnBUSSETTI DEVI VYSHNAVIrnF401, Senthan Nivas, Park Avenue Colony, Raja Rajeswari Nagar,rnKondapur, Hyderabad 500084rnMobile: +91-9553919059 Email: vyshnavibussetti@gmail.comrnLinkedIn: https://www.linkedin.com/in/vyshnavi-bussetti-1122256brnEDUCATION:rnrnrnBIRLA INSTITUTE OF TECHNOLOGY & SCIENCE, PILANIrnAug 2011-June 2016rnMSc(Hons) Biological Sciences & BE(Hons) Civil Engineering, GPA:7.55/10rnTECHNICAL SKILLS:rnrnrnHTML, CSS, Javascript, jQuery, Angular, Angular Material 2, Material Design, Java, Rest and SOAP API, R, BIRT(Reporting tool), TomcatrnPROFESSIONAL EXPERIENCE:rnAutoRABIT Software Private Limited, HyderabadrnJune 2016-PresentrnrnrnAutoRABIT is a product based startup that provides Continuous Integration (CI) and ContinuousrnDelivery (CD) through end to end Release Management Suite for Salesforce.rnrnrnARVault is a new subsidiary product of AutoRABIT and it serves as a Data Restore and Backup asrnwell as Analytics tool for Salesforce and is under development phase currently.rnAssociate Software Engineer:rnARVaultrnrnrnCurrently working for ARVault as Front End Developer for building web interface for the product since August, 2017.rnImplementing Angular 5 and Angular Material, rxjs and several other required API for developing the web application.rnUsing Angular Flex Layout for imparting responsiveness to the application is scoped in thernpipeline.rnCurrently working on sub modularization of the product for a seamless user experience in the User Interface and also to maintain a better folder structure of the application.rnFirst in the company to implement Material Design for the product.rnAutoRABIT:rnrnrnEngaged with development team of AutoRABIT from June, 2016-July, 2017.rnWorked on 2 GA releases and 3 minor releases of the product.rnDeveloped web interface for 2 of the 7 modules in the product and worked on few features in 3rnmodules using jQuery, HTML and CSS as per sprint plan.rnrnrnIdentified and fixed performance issues in a module using Java and jQuery.rnEnsured that the entire product is working as per User Roles and Permissions.rnGained understanding about Maven and Version control tools like SVN, GIT.rnMentorship:rnrnrnMentoring a team of 3 interns from BITS PILANI for Practice School 2 program since July, 2017rnrnrnGuiding the team to build Intelligence in the product there by providing important and valuablerninsights using the available data to the end user.rnrnrnIntegrating a reporting tool named Business Intelligence and Reporting Tools (BIRT) in the product using Java API.rnMentoring the team to build Reports module for the product as per the Roles and Permissionsrnassigned to the user.rnOther Activities:rnrnrnParticipated in weekly community discussion in the firm.rnrnrnA blog on How Artificial Intelligence helps us make smarter decisions in our day to day life isrnpublished under my name.rnGenerated a lead from my contacts and helped the product reach the right audience.rnrnrnIMI Mobile, HyderabadrnInternship:rnJan 2016- June 2016rnrnrnEngaged as intern with Analytics team of the company and contributed in solving businessrnproblems of the clients.rnrnrnGenerated monthly reports and dashboards for few of the telecom clients.rnAutomated the above manual reports reducing potential error prone insights.rnAutomated data in thousand of excel files by categorized them and loading them into the serverrnpost which tedious man hours boiled down to minutes in accomplishing the relevant tasks.rnJDA Software Private Limited, BangalorernInternship:rnJuly 2015-Dec 2015rnrnrnInvolved as an intern with the Platform team of the company whose product is a Supply ChainrnPlanning, Optimization and Analytics platform.rnCreated a Data services project using the product's studio and used to Weblogic server to access the web interface.rnPerformed functional testing on daily builds of the product in Windows, Linux and AIXrnenvironments. Gained hands-on in using coreFTP software to work with Virtual Machines.rnPerformed sanity testing on the customized project of the team on a daily basis.rnContributed in testing the standalone product while up gradation to JAVA JDK 8 and Weblogicrn12.2.1.rnrnrnACADEMIC PROJECTSrnrnrnStudies on topographical influences on Spatial Interpolation techniques of discrete spatial data:rnStudied available interpolation techniques to estimate meteorological parameters and also analyzed topographical influences on these parameters concentrating on techniques like IDW and Kriging. Godavari river basin is chosen as area of study, Digital elevation models were takenrnand processed, acquired the flow accumulation and watershed boundaries were drawn usingrnsoftware named ArcGIS which is Geographic Information System software for working with Maps and geographic information. Data was retrieved on a daily basis from IMD AutomaticrnWeather Station website and used for analysis.rnrnrnUp gradation of Microenvironment code from Fortran to Python Script:rnAnalyzed the microenvironment and its Quantitave property descriptors of various forms.rnAnalyzed the code and tried to implement a method to convert from Fortran to Python.rnCERTIFICATIONS/INTERESTSrnrnrnLean Six Sigma Green Belt certification by KPMG.rnIntroduction to R and Intermediate R by DataCamp.rnrnrnFormulated hypothesis for two competitions in Kaggle.rnDECLARATIONrnI hereby declare that the above mentioned information is true to the best of my knowledge.rnPlace: HyderabadrnDate: 16th November, 2018rn(Vyshnavi Bussetti)"
+        },
+        "UserArea":{
+            "sov:ResumeUserArea":{
+                "sov:Culture":{
+                    "sov:Language":"en",
+                    "sov:Country":"IN",
+                    "sov:CultureInfo":"en-IN"
+                },
+                "sov:ExperienceSummary":{
+                    "sov:Description":"BUSSETTI DEVI VYSHNAVI's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in User Experience (mostly Web Design). BUSSETTI DEVI VYSHNAVI's experience appears to be lower-to-mid level, with about 5 years of experience.",
+                    "sov:MonthsOfWorkExperience":"56",
+                    "sov:AverageMonthsPerEmployer":"18",
+                    "sov:FulltimeDirectHirePredictiveIndex":"25",
+                    "sov:MonthsOfManagementExperience":"0",
+                    "sov:HighestManagementScore":"0",
+                    "sov:ExecutiveType":"none",
+                    "sov:ManagementStory":null,
+                    "sov:SkillsTaxonomyOutput":{
+                        "sov:TaxonomyRoot":[
+                            {
+                                "@name":"Sovren",
+                                "sov:Taxonomy":[
+                                    {
+                                        "@name":"Information Technology",
+                                        "@id":"10",
+                                        "@percentOfOverall":"62",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Programming",
+                                                "@id":"204",
+                                                "@percentOfOverall":"24",
+                                                "@percentOfParentTaxonomy":"39",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"API",
+                                                        "@id":"021194",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"FORTRAN",
+                                                        "@id":"017908",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PROJECT_HEADERS; WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"FRONT END DEVELOPER",
+                                                        "@id":"017978",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"Git",
+                                                        "@id":"1004755",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"HTML",
+                                                        "@id":"019115",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"JAVASCRIPT",
+                                                        "@id":"025394",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"PYTHON",
+                                                        "@id":"006120",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PROJECT_HEADERS; WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"REPORTING TOOLS",
+                                                        "@id":"006823",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"SOFTWARE ENGINEER",
+                                                        "@id":"008220",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"45",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"Subversion",
+                                                        "@id":"1004756",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"31",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SVN",
+                                                                "@id":"100475601",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"31",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Java",
+                                                "@id":"339",
+                                                "@percentOfOverall":"13",
+                                                "@percentOfParentTaxonomy":"21",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JAVA",
+                                                        "@id":"023328",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"37",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-2; POS-4"
+                                                    },
+                                                    {
+                                                        "@name":"JDK",
+                                                        "@id":"020293",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    },
+                                                    {
+                                                        "@name":"jQuery",
+                                                        "@id":"339048",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Internet",
+                                                "@id":"196",
+                                                "@percentOfOverall":"6",
+                                                "@percentOfParentTaxonomy":"9",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CSS",
+                                                        "@id":"014705",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"TOMCAT",
+                                                        "@id":"009664",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"WEBLOGIC",
+                                                        "@id":"025364",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Big Data",
+                                                "@id":"553",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ANALYTICS PLATFORM",
+                                                        "@id":"5530901",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    },
+                                                    {
+                                                        "@name":"ARTIFICIAL INTELLIGENCE",
+                                                        "@id":"5530905",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"User Interface",
+                                                "@id":"731",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"4",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"USER INTERFACE",
+                                                        "@id":"7310067",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Config Deploy Upgrade Migrate",
+                                                "@id":"251",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"4",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MAVEN",
+                                                        "@id":"2510001",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Project Management",
+                                                "@id":"199",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"4",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"VERSION CONTROL",
+                                                        "@id":"024037",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"UNIX and LINUX",
+                                                "@id":"203",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"4",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"AIX",
+                                                        "@id":"017141",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    },
+                                                    {
+                                                        "@name":"LINUX",
+                                                        "@id":"023926",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Data Mining",
+                                                "@id":"192",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"4",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ARTIFICIAL INTELLIGENCE",
+                                                        "@id":"003449",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"GIS",
+                                                "@id":"344",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ARCGIS",
+                                                        "@id":"027016",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PROJECT_HEADERS; WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"GEOGRAPHIC INFORMATION SYSTEM",
+                                                        "@id":"018341",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PROJECT_HEADERS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Network",
+                                                "@id":"198",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"OPTIMIZATION",
+                                                        "@id":"023294",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Distributed Systems",
+                                                "@id":"718",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"0",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"REST",
+                                                        "@id":"7180010",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Mobile Applications",
+                                                "@id":"552",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"0",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SOAP",
+                                                        "@id":"5520605",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"ERP and CRM",
+                                                "@id":"195",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"0",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JDA",
+                                                        "@id":"020286",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Protocols and Standards",
+                                                "@id":"253",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"0",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SOAP",
+                                                        "@id":"008187",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"User Experience",
+                                        "@id":"93",
+                                        "@percentOfOverall":"7",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Web Design",
+                                                "@id":"571",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"35",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"INTEGRATOR",
+                                                        "@id":"5570146",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"45",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"INTEGRATION",
+                                                                "@id":"5570147",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"45",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Human Computer Interaction",
+                                                "@id":"561",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"32",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END",
+                                                        "@id":"5570217",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Information Architect",
+                                                "@id":"567",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"32",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END",
+                                                        "@id":"5570300",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Marketing",
+                                        "@id":"14",
+                                        "@percentOfOverall":"7",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Digital",
+                                                "@id":"599",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"67",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"USER EXPERIENCE",
+                                                        "@id":"1400241",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"USER INTERFACE",
+                                                        "@id":"1400245",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Data & Analytics",
+                                                "@id":"588",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"33",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"BUSINESS INTELLIGENCE",
+                                                        "@id":"1400080",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Finance",
+                                        "@id":"7",
+                                        "@percentOfOverall":"5",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Operations",
+                                                "@id":"237",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"74",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"BUSINESS INTELLIGENCE",
+                                                        "@id":"7000125",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"SIX-SIGMA",
+                                                        "@id":"7000128",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SIX SIGMA",
+                                                                "@id":"7000221",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in CERTIFICATIONS; PROJECT_HEADERS; WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Financial Planning & Analysis",
+                                                "@id":"235",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"26",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SUPPLY CHAIN",
+                                                        "@id":"7000144",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Engineering",
+                                        "@id":"5",
+                                        "@percentOfOverall":"4",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General Engineering",
+                                                "@id":"307",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"27",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"OPTIMIZATION",
+                                                        "@id":"023295",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"RF",
+                                                "@id":"268",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"27",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TELECOM",
+                                                        "@id":"022904",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"5",
+                                                        "@lastUsed":"2016-06-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Stress Analysis and Testing",
+                                                "@id":"309",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"27",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FUNCTIONAL TESTING",
+                                                        "@id":"022845",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Software and Tools",
+                                                "@id":"310",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"9",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ARCGIS",
+                                                        "@id":"027017",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PROJECT_HEADERS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Civil",
+                                                "@id":"133",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"9",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CIVIL ENGINEERING",
+                                                        "@id":"022209",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in EDUCATION; PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Knowledge and Learning Management",
+                                        "@id":"92",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General Knowledge and Learning Management",
+                                                "@id":"903",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MENTORING",
+                                                        "@id":"200051",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Telecommunications",
+                                        "@id":"16",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Central Office",
+                                                "@id":"316",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"50",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DATA SERVICES",
+                                                        "@id":"024269",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Standards, Protocols, Technologies",
+                                                "@id":"317",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"50",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TELECOM",
+                                                        "@id":"022903",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"5",
+                                                        "@lastUsed":"2016-06-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Graphic Design",
+                                        "@id":"33",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Techniques and Activities",
+                                                "@id":"433",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"LAYOUT FOR",
+                                                        "@id":"022097",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Sales",
+                                        "@id":"20",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Entry Level",
+                                                "@id":"500",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ASSOCIATE",
+                                                        "@id":"004917",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"45",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Transmission & Distribution",
+                                        "@id":"45",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Transmission",
+                                                "@id":"326",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PIPELINE",
+                                                        "@id":"004805",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"QA and QC",
+                                        "@id":"69",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Techniques",
+                                                "@id":"446",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"63",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FUNCTIONAL TESTING",
+                                                        "@id":"022846",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2015-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-4"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Standards",
+                                                "@id":"445",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"38",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SIX SIGMA",
+                                                        "@id":"008101",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in CERTIFICATIONS; PROJECT_HEADERS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Environmental",
+                                        "@id":"6",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Remediation, Mitigation, Cleanup, Removal",
+                                                "@id":"332",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"HYDROLOGY",
+                                                        "@id":"023116",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"WATERSHED",
+                                                                "@id":"010950",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in PROJECT_HEADERS; WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Scientific",
+                                        "@id":"15",
+                                        "@percentOfOverall":"0",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Bio",
+                                                "@id":"373",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"BIOLOGICAL SCIENCES",
+                                                        "@id":"011627",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in EDUCATION; PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "sov:Sections":{
+                    "sov:Section":[
+                        {
+                            "@starts":"8",
+                            "@ends":"13",
+                            "@sectionType":"EDUCATION",
+                            "#text":"EDUCATION"
+                        },
+                        {
+                            "@starts":"14",
+                            "@ends":"17",
+                            "@sectionType":"SKILLS",
+                            "#text":"TECHNICAL SKILLS"
+                        },
+                        {
+                            "@starts":"18",
+                            "@ends":"102",
+                            "@sectionType":"WORK HISTORY",
+                            "#text":"PROFESSIONAL EXPERIENCE"
+                        },
+                        {
+                            "@starts":"103",
+                            "@ends":"128",
+                            "@sectionType":"PROJECT_HEADERS",
+                            "#text":"ACADEMIC PROJECTS"
+                        }
+                    ]
+                },
+                "sov:ReservedData":{
+                    "sov:Phones":{
+                        "sov:Phone":[
+                            "Mobile: +91-9553919059",
+                            "+91-9553919059"
+                        ]
+                    },
+                    "sov:Names":{
+                        "sov:Name":[
+                            "BUSSETTI DEVI VYSHNAVI",
+                            "vyshnavi-bussetti",
+                            "Vyshnavi Bussetti",
+                            "(Vyshnavi Bussetti)"
+                        ]
+                    },
+                    "sov:EmailAddresses":{
+                        "sov:EmailAddress":[
+                            "vyshnavibussetti@gmail.com"
+                        ]
+                    },
+                    "sov:Urls":{
+                        "sov:Url":[
+                            "https://www.linkedin.com/in/vyshnavi-bussetti-1122256b"
+                        ]
+                    },
+                    "sov:OtherData":{
+                        "sov:OtherDatum":[
+                            "F401, Senthan Nivas, Park Avenue Colony, Raja Rajeswari Nagar"
+                        ]
+                    }
+                },
+                "sov:ParsedTextLength":"5458",
+                "sov:ParseTime":"515",
+                "sov:ResumeQuality":{
+                    "sov:Assessments":{
+                        "sov:Assessment":[
+                            {
+                                "sov:Level":"Suggested Improvements",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:112;] The following section was identified as a skills section type: 'TECHNICAL SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "sov:LicenseSerialNumber":"19024833:0ce75ec6-ecd2-460c-9f96-f970739c1ecc",
+                "sov:ParserConfigurationString":"Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+                "sov:ParserVersion":"9.3.10.0",
+                "sov:DigitalSignature":"1lcAAAAAAAA="
+            }
+        }
+    }
+}

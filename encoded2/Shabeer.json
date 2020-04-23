@@ -1,0 +1,1724 @@
+{
+    "Resume":{
+        "@xml:lang":"en",
+        "@xmlns":"http://ns.hr-xml.org/2006-02-28",
+        "@xmlns:sov":"http://sovren.com/hr-xml/2006-02-28",
+        "ResumeId":{
+            "IdValue":null
+        },
+        "StructuredXMLResume":{
+            "ContactInfo":{
+                "PersonName":{
+                    "FormattedName":"Muhammad Shabeeruddin, Senior Software Engineer",
+                    "GivenName":"Muhammad",
+                    "FamilyName":"Shabeeruddin",
+                    "Affix":[
+                        {
+                            "@type":"qualification",
+                            "#text":"Senior Software Engineer"
+                        }
+                    ]
+                },
+                "ContactMethod":[
+                    {
+                        "WhenAvailable":"anytime",
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "MAHARASHTRA"
+                            ],
+                            "Municipality":"Bombay",
+                            "DeliveryAddress":{
+                                "AddressLine":[
+                                    "M.Tech  (Computer Science & Engineering), IIT"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "Mobile":{
+                            "FormattedNumber":"+91-9573249540"
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetEmailAddress":"shabeer821@gmail.com"
+                    },
+                    {
+                        "Use":"businessDirect",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetWebAddress":"https://www.topcoder.com/members/shabeer"
+                    },
+                    {
+                        "Use":"linkedIn",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetWebAddress":"https://www.linkedin.com/in/shabeeruddin"
+                    },
+                    {
+                        "Use":"businessDirect",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetWebAddress":"https://twitter.com/mshabeer"
+                    },
+                    {
+                        "Use":"businessDirect",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetWebAddress":"https://github.com/shabeer"
+                    }
+                ]
+            },
+            "EmploymentHistory":{
+                "EmployerOrg":[
+                    {
+                        "EmployerOrgName":"Uber India R&D",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "@currentEmployer":"true",
+                                "Title":"Senior Software Engineer",
+                                "OrgName":{
+                                    "OrganizationName":"Uber India R&D"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "ANDHRA PRADESH"
+                                            ],
+                                            "Municipality":"Hyderabad"
+                                        }
+                                    }
+                                ],
+                                "Description":"",
+                                "StartDate":{
+                                    "YearMonth":"2019-02"
+                                },
+                                "EndDate":{
+                                    "StringDate":"current"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Senior (more than 5 years experience)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-1",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"SS",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SN",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Uber India R&D",
+                                        "sov:NormalizedTitle":"Senior Software Engineer",
+                                        "sov:Subtitles":{
+                                            "sov:Subtitle":[
+                                                "Software Engineer"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Uber India R&D"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"Arcesium India",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "Title":"Engineering Leader",
+                                "OrgName":{
+                                    "OrganizationName":"Arcesium India"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "ANDHRA PRADESH"
+                                            ],
+                                            "Municipality":"Hyderabad"
+                                        }
+                                    }
+                                ],
+                                "Description":"",
+                                "StartDate":{
+                                    "YearMonth":"2015-07"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2018-03"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Senior (more than 5 years experience)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-2",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"Q",
+                                            "#text":"Probable"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SK",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Arcesium India",
+                                        "sov:NormalizedTitle":"Engineering Leader"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Arcesium India"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"D.E.Shaw India",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "Title":"Project Leader",
+                                "OrgName":{
+                                    "OrganizationName":"D.E.Shaw India"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "ANDHRA PRADESH"
+                                            ],
+                                            "Municipality":"Hyderabad"
+                                        }
+                                    }
+                                ],
+                                "Description":"",
+                                "StartDate":{
+                                    "YearMonth":"2008-11"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2015-06"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Senior (more than 5 years experience)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-3",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"Q",
+                                            "#text":"Probable"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SX",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"D E.Shaw India",
+                                        "sov:NormalizedTitle":"Project Leader"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"D E.Shaw India"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"Yahoo R&D",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "Title":"Senior Engineer",
+                                "OrgName":{
+                                    "OrganizationName":"Yahoo R&D"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "KARNATAKA"
+                                            ],
+                                            "Municipality":"Bangalore"
+                                        }
+                                    }
+                                ],
+                                "Description":"",
+                                "StartDate":{
+                                    "YearMonth":"2007-06"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2008-10"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Experienced (non-manager)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-4",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BS",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SN",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Yahoo!",
+                                        "sov:NormalizedTitle":"Senior Engineer",
+                                        "sov:Subtitles":{
+                                            "sov:Subtitle":[
+                                                "Engineer"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Yahoo!"
+                            }
+                        }
+                    }
+                ]
+            },
+            "EducationHistory":{
+                "SchoolOrInstitution":[
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"Indian Institute of Technology"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "MAHARASHTRA"
+                            ],
+                            "Municipality":"Bombay"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"masters",
+                                "DegreeName":"M.Tech",
+                                "DegreeDate":{
+                                    "Year":"2007"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "Computer Science & Engineering"
+                                        ]
+                                    }
+                                ],
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "Year":"2004"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2007"
+                                        }
+                                    }
+                                ],
+                                "Comments":"Degree   MajortUniversitytYeartPerformancernM.Tech   Computer Science & Engineering   Indian Institute of Technology, Bombay   2004-2007   9 CGPA of 10",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-1",
+                                        "sov:NormalizedDegreeName":"masters",
+                                        "sov:NormalizedDegreeType":"masters"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Indian Institutes of Technology"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"Osmania University"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "ANDHRA PRADESH"
+                            ],
+                            "Municipality":"Hyderabad"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"bachelors",
+                                "DegreeName":"B.Tech",
+                                "DegreeDate":{
+                                    "Year":"2004"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "Computer Science & Engineering"
+                                        ]
+                                    }
+                                ],
+                                "DegreeMeasure":{
+                                    "EducationalMeasure":{
+                                        "MeasureSystem":"GPA",
+                                        "MeasureValue":{
+                                            "StringValue":"82"
+                                        },
+                                        "LowestPossibleValue":{
+                                            "StringValue":"0"
+                                        },
+                                        "HighestPossibleValue":{
+                                            "StringValue":"100"
+                                        }
+                                    }
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "Year":"2000"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2004"
+                                        }
+                                    }
+                                ],
+                                "Comments":"B.Tech   Computer Science & Engineering   Osmania University, Hyderabadt2000-2004   82 %",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-2",
+                                        "sov:NormalizedGPA":"0.820",
+                                        "sov:NormalizedDegreeName":"bachelors",
+                                        "sov:NormalizedDegreeType":"bachelors"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Osmania University"
+                            }
+                        }
+                    }
+                ]
+            },
+            "Languages":{
+                "Language":[
+                    {
+                        "LanguageCode":"en",
+                        "Read":"true",
+                        "Write":"true",
+                        "Speak":"true",
+                        "Comments":"[RESUME_LANGUAGE]"
+                    }
+                ]
+            },
+            "Achievements":{
+                "Achievement":[
+                    {
+                        "Description":"Ownership of payment integration system with Zaakpay as a payment processor for Uber"
+                    },
+                    {
+                        "Description":"Improved payment experience of Uber users by minimizing double charges to 5000 Indian Uber riders and eaters per month. This also saved business costs on infra and operational costs"
+                    },
+                    {
+                        "Description":"Minimized investor withdrawal from 37 billion USD AUM during the 2007~10 global recession by boosting investor confidence by getting all of the D.E.Shaw trading portfolio certified by a third-party administrator"
+                    },
+                    {
+                        "Description":"Saved 5 million dollars in Tax penalties for D.E.Shaw U.S corporate tax entities by developing a new Tax System"
+                    },
+                    {
+                        "Description":"Product Engineering"
+                    },
+                    {
+                        "Description":"12 years experience in end to end Agile based Product Development and Management in FinTech"
+                    },
+                    {
+                        "Description":"Engineering and managing products supporting low-latency algorithmic trading systems"
+                    },
+                    {
+                        "Description":"Developed and managed"
+                    },
+                    {
+                        "Description":"Time-traveled portfolio management system - bi-temporalized modeling"
+                    },
+                    {
+                        "Description":"Tax system - automated computation supporting manual overrides"
+                    },
+                    {
+                        "Description":"Corporate actions system"
+                    },
+                    {
+                        "Description":"Architecting highly scalable, high-performance finance tech products in the AWS cloud"
+                    },
+                    {
+                        "Description":"Driven projects end-to-end, from requirements analysis(scratch) to production roll-out & support"
+                    },
+                    {
+                        "Description":"Product Management"
+                    },
+                    {
+                        "Description":"Define and achieve strategic focus areas for the team in orientation with organizational goals"
+                    },
+                    {
+                        "Description":"Built and managed multiple high-performance teams of sizes 3"
+                    },
+                    {
+                        "Description":"Planning product roadmaps, project planning, resource allocations, etc"
+                    },
+                    {
+                        "Description":"Mentored and lead by example for around 10 people"
+                    }
+                ]
+            },
+            "RevisionDate":"2020-02-26"
+        },
+        "NonXMLResume":{
+            "TextResume":"RésumérnMuhammad  ShabeeruddinrnSenior Software EngineerrnUber India Research & Development Pvt LtdrnM.Tech  (Computer Science & Engineering), IIT BombayrnrnMob: +91-9573249540   Email  shabeer821@gmail.comrnhttps://twitter.com/mshabeerrnhttps://github.com/shabeer/rnhttps://www.topcoder.com/members/shabeer/rnhttps://www.linkedin.com/in/shabeeruddin/rnrnrnExecutive SummaryrnKey Achievementsrn● Ownership of payment integration system with Zaakpay as a payment processor for Uber.rn● Improved payment experience of Uber users by minimizing double charges to 5000 Indian Uber riders and eaters per month. This also saved business costs on infra and operational costs.rn● Minimized investor withdrawal from 37 billion USD AUM during the 2007~10 global recession by boosting investor confidence by getting all of the D.E.Shaw trading portfolio certified by a third-party administrator.rn● Saved 5 million dollars in Tax penalties for D.E.Shaw U.S corporate tax entities by developing a new Tax System.rnrnProduct Engineeringrn● 12 years experience in end to end Agile based Product Development and Management in FinTech.rn● Engineering and managing products supporting low-latency algorithmic trading systemsrn● Developed and managed -rn○ Time-traveled portfolio management system - bi-temporalized modelingrn○ Tax system - automated computation supporting manual overridesrn○ Corporate actions system.rn● Architecting highly scalable, high-performance finance tech products in the AWS cloud.rn● Driven projects end-to-end, from requirements analysis(scratch) to production roll-out & support.rnrnProduct Managementrn● Define and achieve strategic focus areas for the team in orientation with organizational goals.rn● Built and managed multiple high-performance teams of sizes 3.rn● Planning product roadmaps, project planning, resource allocations, etcrn● Mentored and lead by example for around 10 people.rnrnExperience (12  years)  - Agile Product Development & ManagementrnDesignationtCompanytDurationrnSenior Software Engineer   Uber India R&D, Hyderabad   Feb 2019 - presentrnEngineering LeadertArcesium India. Hyderabad   July 2015 - Mar 2018rnProject LeadertD.E.Shaw India. Hyderabad   Nov 2008 - June 2015rnSenior EngineertYahoo R&D, BangaloretJune 2007 - Oct 2008rnrnrnEducationrnDegree   MajortUniversitytYeartPerformancernM.Tech   Computer Science & Engineering   Indian Institute of Technology, Bombay   2004-2007   9 CGPA of 10rnB.Tech   Computer Science & Engineering   Osmania University, Hyderabadt2000-2004   82 %rnrnTechnical SkillsrnProgramming LanguagestJava, Python, JavaScript, C, C++rnJava EE ToolstSpring framework, MyBatis, Hibernate, Struts, Servlets, Jsp, JUnit, MockitornSpark/Hadoop EcosystemtKafka, Presto, Storm, Drill, Hive, Sqoop, Tez, PySpark, Pig, Ambari, Elastic searchrnRDBMS / NoSql databases   Microsoft SQL server, Mysql, Dynamodb, BigQuery, Redis, HBase, MongoDB, CassandrarnWeb FrameworkstREST Apis, Node.jsrnArchitecturestService Oriented Architecture, Microservices, Pub-sub messaging Architecture, DockerrnMicroservicestAWS Lambda serverless framework, Flask, Node.jsrnCloud platformstAmazon Web Services (AWS), Google Cloud PlatformrnrnrnUberrn1. Monolithic to microservice architecture migration - Uber's system for payment collection from Indian credit/debit cards-holders for bills globally was migrated from legacy monolithic system to microservice architecture.rnrnImpact - Improved payment experience of Uber users by minimizing double charges to 5000 Indian Uber riders and eaters per month. Saved business costs on infrastructure and operational costs.rnMy Rolern● Challenge every assumption and zero-risk change were the main focus areas of the project.rn● Owned the overall execution of migration.rn● Analyzed the existing eco-system of various systems.rn● Established an API contract with the downstream application on Availability, Latency, and RPS metrics. This ensured no un-expected increase of load on downstream applications.rn● Analyzed the corner cases and built a crack proof test strategy.rn● End-to-End testing was done and it helped to identify corner cases and making sure bug-free production code.rnrnArcesium and D.E.ShawrnEngineered and managed FinTech projects end-to-end: architecting, developing and improvising hedge fund products.rnrn1. US corporation income tax Form 1120 computations - devised optimized algorithm and computed various sections of Form 1120 of US corporate income tax for complex partnership dependency among around 150 legal entities of D.E.Shaw firm. It involved big-data volumes of scale 1 billion trades.rnrnImpact - Saved 5 million dollars in Tax penalties for D.E.Shaw U.S corporate tax entities.rnMy Rolern● Devised an optimized algorithm based on graphical models.rn● Ownership of the product. Project management end-to-end.rn● Architected, Designed and developed from scratch.rn● Collaborated with business users, business analysts to discuss and draft functional and technical requirements.rn● Phased release planning was performed.rn● Taken initiative to develop customized improvements to the Google cache library.rnrn2. Third party administration of D.E.Shaw trading portfolio - this tool is to facilitate certification of the trading portfolio of D.E.Shaw entities with third-party - Citco.rnrnImpact - Minimized investor withdrawal from 37 billion USD AUM during 2007~10 global recession - by getting the whole of D.E.Shaw trading portfolio certified by third-party administrator- Citco. This boosted investor confidence.rnMy Rolern● Coordinated with Citco third-party interfacing B2B process.rn● Improved software design. Software development of new features.rnrn3. Portfolio Management System - Time-travelled- bi-temporalized modelingrnrnArchitected and implemented expiration booking process with many features considering various businessrnscenarios for expiring instruments like options, currency forwards, futures, debt instruments, forwards.rnrnImpact - Improved performance of portfolio processes by 80% - by devising optimized distributed algorithms.rnAvoided showing an incorrect portfolio to the trading desk, thus indirectly helping the trading desk to strategize accordingly. It also avoids incorrect profit and loss calculations for the portfolio.rnMy Rolern● Requirement gathering and analyzing. The previous system was thoroughly analyzed for limitations and was addressed in this new system.rn● Architected a technical approach.rn● Developed the expiration booking process with feature toggles to quickly switch on/off a feature in the production environment.rn● Collaboration with users in every step of the process for feedback.rnrn4. Corporate action tracker - is a critical tool used to manage corporate actions affecting hedge fund trading activity.rnImpact  - Users exercised corporate actions in a timely manner to have a correct portfolio.rnMy Rolern● Ownership of the product.rn● Project planning and driving team on the project plan.rn● Mentored and managed teamrn● The long-term road-map of the project was also drafted and proposed to mgmt.rn● Requirements analysis - analyzing the finance business process.rn● Interfaced with customers for product feedback.rn● Designed and developed the features with the team.rn● Revamped backend technical infrastructure."
+        },
+        "UserArea":{
+            "sov:ResumeUserArea":{
+                "sov:Culture":{
+                    "sov:Language":"en",
+                    "sov:Country":"IN",
+                    "sov:CultureInfo":"en-IN"
+                },
+                "sov:ExperienceSummary":{
+                    "sov:Description":"Muhammad Shabeeruddin's experience appears to be mostly concentrated in Information Technology (mostly Programming) and slightly concentrated in Finance (mostly Financial Planning & Analysis). Muhammad Shabeeruddin has 12 years of work experience, with 9 years of management experience, including a low-level position.",
+                    "sov:MonthsOfWorkExperience":"142",
+                    "sov:AverageMonthsPerEmployer":"35",
+                    "sov:FulltimeDirectHirePredictiveIndex":"85",
+                    "sov:MonthsOfManagementExperience":"112",
+                    "sov:HighestManagementScore":"25",
+                    "sov:ExecutiveType":"none",
+                    "sov:ManagementStory":"Starting on 7/1/2015, the candidate held the following low-level management position for 2 years and 8 months:rntTitle: Engineering Leader for Arcesium IndiarnStarting on 11/1/2008, the candidate held the following low-level management position for 6 years and 9 months:rntTitle: Project Leader for D.E.Shaw India",
+                    "sov:SkillsTaxonomyOutput":{
+                        "sov:TaxonomyRoot":[
+                            {
+                                "@name":"Sovren",
+                                "sov:Taxonomy":[
+                                    {
+                                        "@name":"Information Technology",
+                                        "@id":"10",
+                                        "@percentOfOverall":"57",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Programming",
+                                                "@id":"204",
+                                                "@percentOfOverall":"22",
+                                                "@percentOfParentTaxonomy":"38",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ALGORITHM",
+                                                        "@id":"022551",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"AMAZON WEB SERVICES",
+                                                        "@id":"3391154",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"API",
+                                                        "@id":"021194",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"C++",
+                                                        "@id":"012287",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"DOCKER",
+                                                        "@id":"3391147",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"Hadoop",
+                                                        "@id":"1004744",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"HBase",
+                                                        "@id":"1004747",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"Hive",
+                                                        "@id":"1004749",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"JAVASCRIPT",
+                                                        "@id":"025394",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"NODE.JS",
+                                                                "@id":"339002002",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"Pig",
+                                                        "@id":"1004751",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"PYTHON",
+                                                        "@id":"006120",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"FLASK",
+                                                                "@id":"3391121",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            },
+                                                            {
+                                                                "@name":"PYSPARK",
+                                                                "@id":"3391125",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"SOFTWARE ENGINEER",
+                                                        "@id":"008220",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"STRUCTURED SOFTWARE",
+                                                        "@id":"022594",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SOFTWARE DEVELOPMENT",
+                                                                "@id":"008213",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Big Data",
+                                                "@id":"553",
+                                                "@percentOfOverall":"12",
+                                                "@percentOfParentTaxonomy":"20",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"AMAZON DYNAMODB",
+                                                        "@id":"5530875",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"DYNAMODB",
+                                                                "@id":"553087501",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"APACHE HADOOP AMBARI",
+                                                        "@id":"5530708",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"AMBARI",
+                                                                "@id":"553070802",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"APACHE HADOOP SQOOP",
+                                                        "@id":"5530714",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SQOOP",
+                                                                "@id":"553071402",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"CASSANDRA",
+                                                        "@id":"5530915",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"HADOOP",
+                                                        "@id":"5530761",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"HBASE",
+                                                        "@id":"5530766",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"KAFKA",
+                                                        "@id":"5531005",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"MONGODB",
+                                                        "@id":"5530805",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"NOSQL",
+                                                        "@id":"5530812",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"REDIS",
+                                                        "@id":"5530835",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Database",
+                                                "@id":"193",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"10",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MS SQL SERVER",
+                                                        "@id":"023733",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"MICROSOFT SQL SERVER",
+                                                                "@id":"022023",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            },
+                                                            {
+                                                                "@name":"SQL SERVER",
+                                                                "@id":"008483",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"MYSQL",
+                                                        "@id":"003243",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"SQL",
+                                                        "@id":"008481",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Java",
+                                                "@id":"339",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"8",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JAVA",
+                                                        "@id":"023328",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"HIBERNATE",
+                                                                "@id":"3391127",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            },
+                                                            {
+                                                                "@name":"SPRING",
+                                                                "@id":"3391126",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"JSP",
+                                                        "@id":"339001",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"SERVLETS",
+                                                        "@id":"007817",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"STRUTS",
+                                                        "@id":"026009",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Architecture",
+                                                "@id":"201",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"5",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"REQUIREMENT GATHERING",
+                                                        "@id":"006830",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"REQUIREMENTS ANALYSIS",
+                                                        "@id":"022650",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"SOFTWARE DESIGN",
+                                                        "@id":"025845",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Project Management",
+                                                "@id":"199",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"5",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PRODUCT MANAGEMENT",
+                                                        "@id":"005633",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    },
+                                                    {
+                                                        "@name":"PROJECT PLAN",
+                                                        "@id":"024323",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"PROJECT PLANNING",
+                                                        "@id":"005820",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Cloud Computing",
+                                                "@id":"550",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"4",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ASTERADATA",
+                                                        "@id":"5500311",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"CASSANDRA",
+                                                                "@id":"550031101",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"MONGODB",
+                                                        "@id":"5500361",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Machine Learning",
+                                                "@id":"720",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"BOOSTING",
+                                                        "@id":"7200082",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    },
+                                                    {
+                                                        "@name":"GRAPHICAL MODELS",
+                                                        "@id":"7200027",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Distributed Systems",
+                                                "@id":"718",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"REST",
+                                                        "@id":"7180010",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Reporting",
+                                                "@id":"341",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"RDBMS",
+                                                        "@id":"022369",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"QA and QC",
+                                                "@id":"200",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JUNIT",
+                                                        "@id":"020369",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Prebuilt Software",
+                                                "@id":"252",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRAMEWORKS",
+                                                        "@id":"017954",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Internet",
+                                                "@id":"196",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"WEB SERVICES",
+                                                        "@id":"011022",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Finance",
+                                        "@id":"7",
+                                        "@percentOfOverall":"13",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Financial Planning & Analysis",
+                                                "@id":"235",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"17",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"COLLECTION",
+                                                        "@id":"013778",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"TRADING",
+                                                        "@id":"080204",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Other",
+                                                "@id":"243",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"17",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ALGORITHMS",
+                                                        "@id":"017446",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"FINANCE",
+                                                        "@id":"023147",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Real Estate & Facilities",
+                                                "@id":"710",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"11",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PORTFOLIO MANAGEMENT",
+                                                        "@id":"7000109",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Corporate Development",
+                                                "@id":"703",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"11",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PORTFOLIO MANAGEMENT",
+                                                        "@id":"7000026",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Treasury",
+                                                "@id":"246",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"11",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PORTFOLIO MANAGEMENT",
+                                                        "@id":"7000007",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Compliance",
+                                                "@id":"245",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"11",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TRADING",
+                                                        "@id":"080179",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Trading",
+                                                "@id":"239",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"11",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TRADING",
+                                                        "@id":"009789",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Credit and Underwriting",
+                                                "@id":"240",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CREDIT",
+                                                        "@id":"014614",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Operations",
+                                                "@id":"237",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PROCESSOR",
+                                                        "@id":"005575",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Marketing",
+                                        "@id":"14",
+                                        "@percentOfOverall":"10",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Product",
+                                                "@id":"585",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"35",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PORTFOLIO MANAGEMENT",
+                                                        "@id":"1400009",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"PRODUCT DEVELOPMENT",
+                                                        "@id":"1400022",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"PRODUCT MANAGEMENT",
+                                                        "@id":"1400021",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Brand Management",
+                                                "@id":"227",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"21",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PRODUCT DEVELOPMENT",
+                                                        "@id":"005612",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"PRODUCT MANAGEMENT",
+                                                        "@id":"081161",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Channel, Partner & Ecosystem Marketing",
+                                                "@id":"590",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"15",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"B2B",
+                                                        "@id":"1400117",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"ECOSYSTEM",
+                                                        "@id":"1400103",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Business Planning",
+                                                "@id":"589",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"14",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PORTFOLIO MANAGEMENT",
+                                                        "@id":"1400096",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Data & Analytics",
+                                                "@id":"588",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"8",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"HADOOP",
+                                                        "@id":"1400328",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Advertising",
+                                                "@id":"595",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"8",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"B2B",
+                                                        "@id":"1400202",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Engineering",
+                                        "@id":"5",
+                                        "@percentOfOverall":"5",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General Engineering",
+                                                "@id":"307",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"57",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ALGORITHM",
+                                                        "@id":"022552",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"DESIGN PRODUCT",
+                                                        "@id":"080524",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"PRODUCT ENGINEERING",
+                                                                "@id":"005622",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"SOFTWARE DESIGN",
+                                                        "@id":"080405",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Design",
+                                                "@id":"134",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"14",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SOFTWARE DESIGN",
+                                                        "@id":"080910",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Surveying",
+                                                "@id":"298",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"14",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ALGORITHMS",
+                                                        "@id":"024338",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Telecom",
+                                                "@id":"146",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"14",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PRODUCT MANAGEMENT",
+                                                        "@id":"022258",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Business Operations and General Business",
+                                        "@id":"34",
+                                        "@percentOfOverall":"4",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General Skills and Activities",
+                                                "@id":"437",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"63",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CREDIT",
+                                                        "@id":"022227",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"METRICS",
+                                                        "@id":"021737",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"PRODUCT MANAGEMENT",
+                                                        "@id":"005634",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Management Activities or Functions",
+                                                "@id":"436",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"38",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TRADING",
+                                                        "@id":"022750",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Degreed Accounting",
+                                        "@id":"32",
+                                        "@percentOfOverall":"3",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Tax",
+                                                "@id":"255",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"50",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CORPORATE INCOME TAX",
+                                                        "@id":"014447",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Bookkeeping",
+                                                "@id":"944",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"25",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CREDIT/DEBIT",
+                                                        "@id":"014633",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Accounts Receivable",
+                                                "@id":"940",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"25",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CREDIT",
+                                                        "@id":"022226",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"User Experience",
+                                        "@id":"93",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Web Design",
+                                                "@id":"571",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"67",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"INTEGRATOR",
+                                                        "@id":"5570146",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"INTEGRATION",
+                                                                "@id":"5570147",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Industrial Design",
+                                                "@id":"566",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"33",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ARCHITECTURE",
+                                                        "@id":"5570085",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Administrative or Clerical",
+                                        "@id":"1",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Closing and Processing",
+                                                "@id":"114",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"50",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PROCESSOR",
+                                                        "@id":"023636",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Billing and Collections",
+                                                "@id":"110",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"50",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"COLLECTION",
+                                                        "@id":"013780",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Bookkeeping, Office Management",
+                                        "@id":"89",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Bookeeping Tasks",
+                                                "@id":"533",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"COLLECTION",
+                                                        "@id":"013779",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"CREDIT",
+                                                        "@id":"022229",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Manufacturing",
+                                        "@id":"13",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General",
+                                                "@id":"362",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PRODUCTION ENVIRONMENT",
+                                                        "@id":"024327",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"General Non-Skilled Labor",
+                                        "@id":"11",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Non-Construction Labor",
+                                                "@id":"304",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PRODUCTION ENVIRONMENT",
+                                                        "@id":"024326",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Technical Writing",
+                                        "@id":"31",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Specs and Documentation",
+                                                "@id":"429",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TECHNICAL REQUIREMENTS",
+                                                        "@id":"009262",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "sov:Sections":{
+                    "sov:Section":[
+                        {
+                            "@starts":"13",
+                            "@ends":"13",
+                            "@sectionType":"SUMMARY",
+                            "#text":"Executive Summary"
+                        },
+                        {
+                            "@starts":"14",
+                            "@ends":"35",
+                            "@sectionType":"PERSONAL INTERESTS AND ACCOMPLISHMENTS",
+                            "#text":"Key Achievements"
+                        },
+                        {
+                            "@starts":"36",
+                            "@ends":"43",
+                            "@sectionType":"WORK HISTORY"
+                        },
+                        {
+                            "@starts":"44",
+                            "@ends":"48",
+                            "@sectionType":"EDUCATION",
+                            "#text":"Education"
+                        },
+                        {
+                            "@starts":"49",
+                            "@ends":"49",
+                            "@sectionType":"SKILLS",
+                            "#text":"Technical Skills"
+                        },
+                        {
+                            "@starts":"49",
+                            "@ends":"116",
+                            "@sectionType":"WORK HISTORY",
+                            "#text":"Technical Skills"
+                        }
+                    ]
+                },
+                "sov:ReservedData":{
+                    "sov:Phones":{
+                        "sov:Phone":[
+                            "Mob: +91-9573249540",
+                            "+91-9573249540"
+                        ]
+                    },
+                    "sov:Names":{
+                        "sov:Name":[
+                            "Muhammad  Shabeeruddin",
+                            "Muhammad  ShabeeruddinrnSenior Software Engineer",
+                            "Senior Software Engineer"
+                        ]
+                    },
+                    "sov:EmailAddresses":{
+                        "sov:EmailAddress":[
+                            "shabeer821@gmail.com"
+                        ]
+                    },
+                    "sov:Urls":{
+                        "sov:Url":[
+                            "https://www.topcoder.com/members/shabeer",
+                            "https://www.linkedin.com/in/shabeeruddin",
+                            "https://twitter.com/mshabeer",
+                            "https://github.com/shabeer"
+                        ]
+                    }
+                },
+                "sov:ParsedTextLength":"7182",
+                "sov:ParseTime":"312",
+                "sov:ResumeQuality":{
+                    "sov:Assessments":{
+                        "sov:Assessment":[
+                            {
+                                "sov:Level":"Fatal Problems Found",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:415;] We found no WORK HISTORY section header for the candidate, but we calculated where we thought WORK HISTORY was located in the resume. The work history section should have a header such as 'Work History' before listing the content."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Major Issues Found",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume.",
+                                        "[Sovren:324;0,4] The following sections do not have any text: 'Executive Summary', 'Technical Skills'. Every section should have text associated with it. This usually indicates an error with the section headers or format used in the resume.",
+                                        "[Sovren:325;2] The following sections do not have a header: Section with index 2 (of type: WORK HISTORY). Every section should have a header directly above the content associated with it."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Suggested Improvements",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:112;] The following section was identified as a skills section type: 'Technical Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "sov:LicenseSerialNumber":"19024833:0aae3a81-97eb-4ae6-9282-c0036aedd410",
+                "sov:ParserConfigurationString":"Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+                "sov:ParserVersion":"9.3.10.0",
+                "sov:DigitalSignature":"seH///////8="
+            }
+        }
+    }
+}

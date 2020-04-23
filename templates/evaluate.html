@@ -86,6 +86,26 @@
                 border-style: solid;
                 border-color: transparent transparent black transparent;
             }
+            #loading {
+                border: 8px solid #f3f3f3;
+                border-radius: 60%;
+                border-top: 8px solid #3498db;
+                position: absolute;
+                bottom: 45%;
+                left: 45%;
+                width: 45px;
+                height: 45px;
+                -webkit-animation: spin 1s linear infinite; 
+                animation: spin 1s linear infinite;
+            }
+            @-webkit-keyframes spin {
+                0% { -webkit-transform: rotate(0deg); }
+                100% { -webkit-transform: rotate(360deg); }
+            }
+            @keyframes spin {
+                0% { transform: rotate(0deg); }
+                100% { transform: rotate(360deg); }
+            }
         </style>
     </head>
     <body>
@@ -110,24 +130,34 @@
                 </td>
             </tr>
         </table>
-        
         <p style="color:red;" id="err"></p>
+        <div id="loading"></div>
         <div id="ranks"></div>
     </body>
     <script>
-        $('#edu').on('input', function() {
-            text = $('#edu').val()+"%";
-            $('#edu_val').html(text);
-        });
-        $('#wk').on('input', function() {
-            text = $('#wk').val()+"%";
-            $('#wk_val').html(text);
-        });
-        $('#skill').on('input', function() {
-            text = $('#skill').val()+"%";
-            $('#skill_val').html(text);
+        $(document).ready(function(){
+            $("#loading").hide();
+            $(document).ajaxStart(function() {
+                $("#loading").show();
+            });
+            $(document).ajaxComplete(function() {
+                $("#loading").hide();
+            });
+            $('#edu').on('input', function() {
+                text = $('#edu').val()+"%";
+                $('#edu_val').html(text);
+            });
+            $('#wk').on('input', function() {
+                text = $('#wk').val()+"%";
+                $('#wk_val').html(text);
+            });
+            $('#skill').on('input', function() {
+                text = $('#skill').val()+"%";
+                $('#skill_val').html(text);
+            });
         });
         function calculate(){
+            $("#ranks").html("");
             d=document.getElementsByClassName("slider");
             ttl=0;
             for(var i=0;i<d.length;i++){
@@ -146,26 +176,26 @@
                 "skill":parseInt($("#skill").val())
 
             };
-            var xhttp=new XMLHttpRequest();
-            xhttp.onreadystatechange = function(){
-                if(this.status == 200 && this.readyState == 4){
+            $.ajax({
+                url: "/get_scores",
+                type: "post",
+                dataType: "json",
+                contentType: "application/json",
+                data: JSON.stringify(values),
+                success: function(data){
                     html_txt = '<table class="tbl" align="center" id="scr">'+
                             '<tr class="tbl">'+
                             '<td class="tbl"><h4>RANK</h4></td>'+
-                            '<td class="tbl" align="center"><h4>CANDIDATE NAME</h4></td>'+
+                            '<td class="tbl" align="center" style="width: 400px;"><h4>CANDIDATE NAME</h4></td>'+
                             '<td class="tbl"><h4>RESUME SCORE</h4></td>'+
                             '</tr>';
-
-                    data=JSON.parse(this.responseText);
                     console.log(data);
                     order=data["order"];
-                    //console.log(data[order[0]]);
                     rank=1;
                     for(x in order){
-                        //console.log(x)
                         html_txt+='<tr class="tbl">'+
-                            '<td class="tbl"align="center"><h4>'+rank+'</h4></td>'+
-                            '<td class="tbl"><div class="tooltip"><h4 class="under">'+order[x]+'</h4>'+
+                            '<td class="tbl" align="center"><h4>'+rank+'</h4></td>'+
+                            '<td class="tbl" align="center"><div class="tooltip"><h4 class="under">'+order[x]+'</h4>'+
                                 '<span class="tooltiptext">'+
                                     "Education Score:"+data[order[x]]["Education Score"]+"<br>"+
                                     "Skill Score:"+data[order[x]]["Skill Score"]+"<br>"+
@@ -179,10 +209,7 @@
                     html_txt += '</table>';
                     $("#ranks").html(html_txt);
                 }
-            };
-            xhttp.open("POST","/get_scores",true);
-            xhttp.setRequestHeader("Content-Type", "application/json");
-            xhttp.send(JSON.stringify(values));
+            });
         }
     </script>
 </html>

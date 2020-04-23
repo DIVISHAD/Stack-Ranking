@@ -17,11 +17,11 @@ def work_exp(inputlist):
     resd={}
     client = pymongo.MongoClient("mongodb+srv://divishad:abcde@cluster0-gdmit.gcp.mongodb.net/test?retryWrites=true&w=majority")
     db = client.StackRanking.education
-    mypathh='C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/' 
+    mypathh='C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-12_Resumes/' 
     gd={}
     comp_str={}
     for f in os.listdir(mypathh):
-        with open(mypathh+f+"/"+f+".json",'r',encoding='cp850') as file:
+        with open(mypathh+f,'r',encoding='cp850') as file:
             data=json.load(file)
             if 'EmploymentHistory' in data["Resume"]["StructuredXMLResume"]:
                 a=data["Resume"]["StructuredXMLResume"]["EmploymentHistory"]["EmployerOrg"]
@@ -172,7 +172,7 @@ def work_exp(inputlist):
                                         if key=="experience":
                                             bws=comp_str[i][j][k][title][key]/12
                                             extra=(bws-(int(jdexp)))/5
-                                            score=score+45+(5*math.tanh(extra))  
+                                            score=score+45+(5*tanh(extra))  
                                 else:
                                    nlcount=nlcount+1
                                    nlscore=nlscore+10

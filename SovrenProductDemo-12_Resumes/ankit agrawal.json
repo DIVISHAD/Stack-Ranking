@@ -1,0 +1,926 @@
+{
+    "Resume":{
+        "@xml:lang":"en",
+        "@xmlns":"http://ns.hr-xml.org/2006-02-28",
+        "@xmlns:sov":"http://sovren.com/hr-xml/2006-02-28",
+        "ResumeId":{
+            "IdValue":null
+        },
+        "StructuredXMLResume":{
+            "ContactInfo":{
+                "PersonName":{
+                    "FormattedName":"Ankit Agrawal",
+                    "GivenName":"Ankit",
+                    "FamilyName":"Agrawal"
+                },
+                "ContactMethod":[
+                    {
+                        "WhenAvailable":"anytime",
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "PostalCode":"274001",
+                            "Region":[
+                                "UTTAR PRADESH"
+                            ],
+                            "Municipality":"Deoria",
+                            "DeliveryAddress":{
+                                "AddressLine":[
+                                    "Sant Vinoba Road, New colony"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "Telephone":{
+                            "FormattedNumber":"+91 - 9560021457"
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetEmailAddress":"agrawal.ankit@outlook.com"
+                    }
+                ]
+            },
+            "Objective":"To secure a position in the Industry to improve my skills and abilities that offers professional and personal growth while being resourceful, innovative and flexible.",
+            "EmploymentHistory":{
+                "EmployerOrg":[
+                    {
+                        "EmployerOrgName":"Kagami",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "@currentEmployer":"true",
+                                "Title":"Studio, Platform, Target Application & App-Manager",
+                                "OrgName":{
+                                    "OrganizationName":"Product Name"
+                                },
+                                "Description":"Description: Studio for Business-User to design a fully-fledged ERP application;rnPlatform auto-generates the Target Application from Studio-definition.rnSkills: Java, Drools, Spring/Spring-Boot, JPA(Hibernate), Maven, JavaScript",
+                                "StartDate":{
+                                    "YearMonth":"2015-11"
+                                },
+                                "EndDate":{
+                                    "StringDate":"current"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Java",
+                                        "Comments":"Information Technology describes 85% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Manager"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-1",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BF",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"BX",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Product Name",
+                                        "sov:NormalizedTitle":"Studio Platform Target Application AND App Manager",
+                                        "sov:Subtitles":{
+                                            "sov:Subtitle":[
+                                                "Studio, Platform, Target Application & App-Manager",
+                                                "Platform, Target Application & App-Manager",
+                                                "Target Application & App-Manager",
+                                                "Manager"
+                                            ]
+                                        }
+                                    }
+                                }
+                            },
+                            {
+                                "OrgName":{
+                                    "OrganizationName":"Newgen"
+                                },
+                                "Description":"Product Name: Newgen Enterprise Mobility FrameworkrnDescription: Framework to develop Server-Client Application for Mobile DevicesrnSkills: Java, Hibernate Framework, JUnit framework, ANT, XML, JSON",
+                                "StartDate":{
+                                    "YearMonth":"2014-01"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2015-11"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Programming",
+                                        "Comments":"Information Technology describes 100% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Senior (more than 5 years experience)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-2",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BF",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Newgen"
+                                    }
+                                }
+                            },
+                            {
+                                "OrgName":{
+                                    "OrganizationName":"Newgen"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "ANDHRA PRADESH"
+                                            ],
+                                            "Municipality":"Hyderabad"
+                                        }
+                                    }
+                                ],
+                                "Description":"3)tOrganization: NewgenrnDuration: July'13 - December'13rnProduct Name: ZapInrnDescription: Configurable Form-based Application for capturing Real World DatarnSDK: Androidrnrn4)tInstitution: IIIT, HyderabadrnProject Name: Machine TranslationrnDescription: Preparing rules for Word Sense Disambiguation and Generating Hindi glossestfor Word NetrnLanguage: C, CLIPS, XML",
+                                "StartDate":{
+                                    "YearMonth":"2013-07"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2013-12"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → User Interface",
+                                        "Comments":"Information Technology describes 60% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Entry Level"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-3",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BF",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Newgen"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Kagami"
+                            }
+                        }
+                    }
+                ]
+            },
+            "EducationHistory":{
+                "SchoolOrInstitution":[
+                    {
+                        "@schoolType":"UNSPECIFIED",
+                        "Degree":[
+                            {
+                                "@degreeType":"bachelors",
+                                "DegreeName":"Bachelor of Technology",
+                                "DegreeDate":{
+                                    "Year":"2013"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "Technology"
+                                        ]
+                                    }
+                                ],
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2013"
+                                        }
+                                    }
+                                ],
+                                "Comments":"Bachelor of Technology (2013)",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-1",
+                                        "sov:NormalizedDegreeName":"bachelors",
+                                        "sov:NormalizedDegreeType":"bachelors"
+                                    }
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "@schoolType":"highschool",
+                        "School":[
+                            {
+                                "SchoolName":"Motilal Nehru National Institute of Technology"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "UTTAR PRADESH"
+                            ],
+                            "Municipality":"Allahabad"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"high school or equivalent",
+                                "DegreeName":"School Certificate",
+                                "DegreeDate":{
+                                    "Year":"2008"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "Examination"
+                                        ]
+                                    }
+                                ],
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2008"
+                                        }
+                                    }
+                                ],
+                                "Comments":"Motilal Nehru National Institute of Technology, AllahabadrnBranch: Information TechnologyrnCPI: 8.2rnrnrnAll India Senior School Certificate Examination (2008)",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-2",
+                                        "sov:NormalizedDegreeName":"highSchoolOrEquivalent",
+                                        "sov:NormalizedDegreeType":"highSchoolOrEquivalent"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Motilal Nehru National Institute of Technology"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"secondary",
+                        "School":[
+                            {
+                                "SchoolName":"Saraswati Sen. Sec. Vidya Mandir, Deoria, UP"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "UTTAR PRADESH"
+                            ],
+                            "Municipality":"Deoria"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"secondary",
+                                "DegreeName":"Secondary School Examination",
+                                "DegreeDate":{
+                                    "Year":"2006"
+                                },
+                                "DegreeMeasure":{
+                                    "EducationalMeasure":{
+                                        "MeasureSystem":"GPA",
+                                        "MeasureValue":{
+                                            "StringValue":"75.4"
+                                        },
+                                        "LowestPossibleValue":{
+                                            "StringValue":"0"
+                                        },
+                                        "HighestPossibleValue":{
+                                            "StringValue":"100"
+                                        }
+                                    }
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2006"
+                                        }
+                                    }
+                                ],
+                                "Comments":"School: Saraswati Sen. Sec. Vidya Mandir, Deoria, UPrnPercentage: 75.4%rnrnrnAll India Secondary School Examination (2006)",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-3",
+                                        "sov:NormalizedGPA":"0.754",
+                                        "sov:NormalizedDegreeName":"someHighSchoolOrEquivalent",
+                                        "sov:NormalizedDegreeType":"secondary"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Saraswati Sen Sec Vidya Mandir Deoria UP"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"UNSPECIFIED",
+                        "School":[
+                            {
+                                "SchoolName":"Nav Jeevan Mission School, Kasia, UP"
+                            }
+                        ],
+                        "Degree":[
+                            {
+                                "DegreeMeasure":{
+                                    "EducationalMeasure":{
+                                        "MeasureSystem":"GPA",
+                                        "MeasureValue":{
+                                            "StringValue":"86"
+                                        },
+                                        "LowestPossibleValue":{
+                                            "StringValue":"0"
+                                        },
+                                        "HighestPossibleValue":{
+                                            "StringValue":"100"
+                                        }
+                                    }
+                                },
+                                "Comments":"School: Nav Jeevan Mission School, Kasia, UPrnPercentage: 86%",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-4",
+                                        "sov:NormalizedGPA":"0.860"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Nav Jeevan Mission School Kasia UP"
+                            }
+                        }
+                    }
+                ]
+            },
+            "LicensesAndCertifications":{
+                "LicenseOrCertification":[
+                    {
+                        "Name":"All India Senior School Certificate Examination",
+                        "Description":"certification",
+                        "EffectiveDate":{
+                            "FirstIssuedDate":{
+                                "Year":"2008"
+                            }
+                        }
+                    }
+                ]
+            },
+            "Qualifications":{
+                "QualificationSummary":"Technical SkillsrnLanguages: Java, C, JavaScriptrnFramework: Spring/Spring-Boot, JPA(Hibernate), DroolsrnIDE: EclipsernrnrnProjects Undertaken"
+            },
+            "Languages":{
+                "Language":[
+                    {
+                        "LanguageCode":"hi",
+                        "Read":"true",
+                        "Write":"false",
+                        "Speak":"false",
+                        "Comments":"Word Sense Disambiguation and Generating Hindi glossestfor Word Net"
+                    },
+                    {
+                        "LanguageCode":"en",
+                        "Read":"true",
+                        "Write":"true",
+                        "Speak":"true",
+                        "Comments":"[RESUME_LANGUAGE]"
+                    }
+                ]
+            },
+            "RevisionDate":"2020-02-26"
+        },
+        "NonXMLResume":{
+            "TextResume":"Ankit AgrawaltContact: +91 - 9560021457rnagrawal.ankit@outlook.comrnrnObjectivernrnTo secure a position in the Industry to improve my skills and abilities that offers professional and personal growth while being resourceful, innovative and flexible.rnrnrnTechnical SkillsrnLanguages: Java, C, JavaScriptrnFramework: Spring/Spring-Boot, JPA(Hibernate), DroolsrnIDE: EclipsernrnrnProjects Undertakenrnrn1)tOrganization: KagamirnDuration: November'15 - To DaternProduct Name: Kagami Suite (Studio, Platform, Target Application & App-Manager)rnDescription: Studio for Business-User to design a fully-fledged ERP application;rnPlatform auto-generates the Target Application from Studio-definition.rnSkills: Java, Drools, Spring/Spring-Boot, JPA(Hibernate), Maven, JavaScriptrnrn2)tOrganization: NewgenrnDuration: January'14 - November' 15rnProduct Name: Newgen Enterprise Mobility FrameworkrnDescription: Framework to develop Server-Client Application for Mobile DevicesrnSkills: Java, Hibernate Framework, JUnit framework, ANT, XML, JSONrnrn3)tOrganization: NewgenrnDuration: July'13 - December'13rnProduct Name: ZapInrnDescription: Configurable Form-based Application for capturing Real World DatarnSDK: Androidrnrn4)tInstitution: IIIT, HyderabadrnProject Name: Machine TranslationrnDescription: Preparing rules for Word Sense Disambiguation and Generating Hindi glossestfor Word NetrnLanguage: C, CLIPS, XMLrnrnrnQualificationrnrnBachelor of Technology (2013)rnCollege: Motilal Nehru National Institute of Technology, AllahabadrnBranch: Information TechnologyrnCPI: 8.2rnrnrnAll India Senior School Certificate Examination (2008)rnSchool: Saraswati Sen. Sec. Vidya Mandir, Deoria, UPrnPercentage: 75.4%rnrnrnAll India Secondary School Examination (2006)rnSchool: Nav Jeevan Mission School, Kasia, UPrnPercentage: 86%rnrnrnHobbiesrn• Watching Moviesrn• Playing GamesrnrnStrengthrn• Adaptivern• Quick-learner.rn• Team-playerrnrnPersonal DetailsrnrnFather's Name: Mr. Rajesh AgrawalrnMother's Name: Mrs. Renu AgrawalrnDate of Birth: 05/07/1991rnAddress: Sant Vinoba Road, New colony, Deoria, UP-274001rnContact No.: 9560021457rnrnrnThe information provided above is correct to the best of my knowledge and belief.rnrnrnPlace - HyderabadtAnkit Agrawal"
+        },
+        "UserArea":{
+            "sov:ResumeUserArea":{
+                "sov:Culture":{
+                    "sov:Language":"en",
+                    "sov:Country":"IN",
+                    "sov:CultureInfo":"en-IN"
+                },
+                "sov:PersonalInformation":{
+                    "sov:DateOfBirth":{
+                        "@inferred":"false",
+                        "#text":"1991-07-05"
+                    },
+                    "sov:FathersName":"Mr. Rajesh Agrawal",
+                    "sov:MothersMaidenName":"Mrs. Renu Agrawal"
+                },
+                "sov:ExperienceSummary":{
+                    "sov:Description":"Ankit Agrawal's experience appears to be strongly concentrated in Information Technology (mostly Java) and slightly concentrated in Human Resources (mostly Diversity & Inclusion). Ankit Agrawal has 7 years of work experience, with 4 years of management experience, including a mid-level position.",
+                    "sov:MonthsOfWorkExperience":"80",
+                    "sov:AverageMonthsPerEmployer":"80",
+                    "sov:FulltimeDirectHirePredictiveIndex":"100",
+                    "sov:MonthsOfManagementExperience":"52",
+                    "sov:CurrentManagementLevel":"mid-level",
+                    "sov:HighestManagementScore":"55",
+                    "sov:ExecutiveType":"general",
+                    "sov:ManagementStory":"Current position is a mid-level management role: Studio, Platform, Target Application & App-ManagerrnStarting on 11/1/2015, the candidate held the following mid-level management position for 4 years and 4 months:rntTitle: Studio, Platform, Target Application & App-Manager for Kagami, Product Name",
+                    "sov:SkillsTaxonomyOutput":{
+                        "sov:TaxonomyRoot":[
+                            {
+                                "@name":"Sovren",
+                                "sov:Taxonomy":[
+                                    {
+                                        "@name":"Information Technology",
+                                        "@id":"10",
+                                        "@percentOfOverall":"91",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Java",
+                                                "@id":"339",
+                                                "@percentOfOverall":"52",
+                                                "@percentOfParentTaxonomy":"57",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ECLIPSE",
+                                                        "@id":"015844",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"JAVA",
+                                                        "@id":"023328",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"74",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1; POS-2",
+                                                        "@childrenTotalMonths":"74",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"HIBERNATE",
+                                                                "@id":"3391127",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"74",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1; POS-2"
+                                                            },
+                                                            {
+                                                                "@name":"SPRING",
+                                                                "@id":"3391126",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"52",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Programming",
+                                                "@id":"204",
+                                                "@percentOfOverall":"15",
+                                                "@percentOfParentTaxonomy":"16",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JAVASCRIPT",
+                                                        "@id":"025394",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"52",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"JSON",
+                                                        "@id":"5520555",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"22",
+                                                        "@lastUsed":"2015-11-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"XML",
+                                                        "@id":"011476",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"28",
+                                                        "@lastUsed":"2015-11-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Config Deploy Upgrade Migrate",
+                                                "@id":"251",
+                                                "@percentOfOverall":"7",
+                                                "@percentOfParentTaxonomy":"8",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ANT",
+                                                        "@id":"2510002",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"22",
+                                                        "@lastUsed":"2015-11-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"MAVEN",
+                                                        "@id":"2510001",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"52",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Big Data",
+                                                "@id":"553",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ENTERPRISE RESOURCE PLANNING",
+                                                        "@id":"5530983",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"52",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"ERP",
+                                                                "@id":"5530984",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"52",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"ERP and CRM",
+                                                "@id":"195",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"5",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ERP",
+                                                        "@id":"016891",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"52",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"User Interface",
+                                                "@id":"731",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"4",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ANDROID",
+                                                        "@id":"7310008",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2013-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    },
+                                                    {
+                                                        "@name":"MOBILE DEVICES",
+                                                        "@id":"7310041",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"22",
+                                                        "@lastUsed":"2015-11-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"QA and QC",
+                                                "@id":"200",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JUNIT",
+                                                        "@id":"020369",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"22",
+                                                        "@lastUsed":"2015-11-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Mobile Applications",
+                                                "@id":"552",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ANDROID",
+                                                        "@id":"5520503",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2013-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Data Mining",
+                                                "@id":"192",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CLIPS",
+                                                        "@id":"013536",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2013-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Human Resources",
+                                        "@id":"9",
+                                        "@percentOfOverall":"5",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Diversity & Inclusion",
+                                                "@id":"574",
+                                                "@percentOfOverall":"5",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"EMPLOYEE RESOURCE GROUP",
+                                                        "@id":"9000074",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"52",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"ERP",
+                                                                "@id":"9000075",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"52",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Common End-user Software",
+                                        "@id":"0",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Core Office",
+                                                "@id":"108",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"79",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MICROSOFT WORD",
+                                                        "@id":"022961",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"6",
+                                                        "@childrenLastUsed":"2013-12-31",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"WORD",
+                                                                "@id":"002379",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"6",
+                                                                "@lastUsed":"2013-12-31",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Other",
+                                                "@id":"232",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"21",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"GAMES",
+                                                        "@id":"025832",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in HOBBIES"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"CAD/CAM",
+                                        "@id":"4",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Other",
+                                                "@id":"358",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"REAL WORLD",
+                                                        "@id":"023947",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"6",
+                                                        "@lastUsed":"2013-12-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Finance",
+                                        "@id":"7",
+                                        "@percentOfOverall":"0",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Securities",
+                                                "@id":"236",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SEC",
+                                                        "@id":"007642",
+                                                        "@existsInText":"true",
+                                                        "@lastUsed":"2006-01-01",
+                                                        "@whereFound":"Found in EDUCATION; DEG-3"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "sov:Hobbies":{
+                    "sov:Text":"• Watching Moviesrn• Playing GamesrnrnStrengthrn• Adaptivern• Quick-learner.rn• Team-player"
+                },
+                "sov:Sections":{
+                    "sov:Section":[
+                        {
+                            "@starts":"3",
+                            "@ends":"7",
+                            "@sectionType":"OBJECTIVE",
+                            "#text":"Objective"
+                        },
+                        {
+                            "@starts":"8",
+                            "@ends":"15",
+                            "@sectionType":"SKILLS",
+                            "#text":"Technical Skills"
+                        },
+                        {
+                            "@starts":"16",
+                            "@ends":"40",
+                            "@sectionType":"WORK HISTORY"
+                        },
+                        {
+                            "@starts":"41",
+                            "@ends":"43",
+                            "@sectionType":"EDUCATION",
+                            "#text":"Qualification"
+                        },
+                        {
+                            "@starts":"44",
+                            "@ends":"58",
+                            "@sectionType":"EDUCATION",
+                            "#text":"College:"
+                        },
+                        {
+                            "@starts":"59",
+                            "@ends":"67",
+                            "@sectionType":"HOBBIES",
+                            "#text":"Hobbies"
+                        },
+                        {
+                            "@starts":"68",
+                            "@ends":"80",
+                            "@sectionType":"CONTACT INFO",
+                            "#text":"Personal Details"
+                        }
+                    ]
+                },
+                "sov:ReservedData":{
+                    "sov:Phones":{
+                        "sov:Phone":[
+                            "Contact No.: 9560021457",
+                            "+91 - 9560021457",
+                            "9560021457"
+                        ]
+                    },
+                    "sov:Names":{
+                        "sov:Name":[
+                            "Ankit Agrawal",
+                            "Ankit AgrawaltContact: +91 - 9560021457"
+                        ]
+                    },
+                    "sov:EmailAddresses":{
+                        "sov:EmailAddress":[
+                            "agrawal.ankit@outlook.com"
+                        ]
+                    },
+                    "sov:OtherData":{
+                        "sov:OtherDatum":[
+                            "Father's Name: Mr. Rajesh Agrawal",
+                            "Mother's Name: Mrs. Renu Agrawal",
+                            "Sant Vinoba Road, New colony",
+                            "Date of Birth: 05/07/1991"
+                        ]
+                    }
+                },
+                "sov:ParsedTextLength":"2165",
+                "sov:ParseTime":"281",
+                "sov:ResumeQuality":{
+                    "sov:Assessments":{
+                        "sov:Assessment":[
+                            {
+                                "sov:Level":"Fatal Problems Found",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:415;] We found no WORK HISTORY section header for the candidate, but we calculated where we thought WORK HISTORY was located in the resume. The work history section should have a header such as 'Work History' before listing the content."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Major Issues Found",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.",
+                                        "[Sovren:323;EDUCATION] The following section type appeared multiple times in the resume: EDUCATION (2 occurrences). Each section type should only appear once in a resume.",
+                                        "[Sovren:325;2] The following sections do not have a header: Section with index 2 (of type: WORK HISTORY). Every section should have a header directly above the content associated with it."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Data Missing",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:221;POS-2,POS-3] We could not find a job title for: POS-2, POS-3. Every position in a resume should have a job title.",
+                                        "[Sovren:231;DEG-4] The following educational degree does not have a degree name: DEG-4. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'.",
+                                        "[Sovren:232;DEG-1] The following educational degree is not associated with a school: DEG-1. Every degree in a resume should be associated with a school."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Suggested Improvements",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:112;] The following section was identified as a skills section type: 'Technical Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                                        "[Sovren:151;4] The following section does not have the header on a separate line: 'College:'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it.",
+                                        "[Sovren:161;DEG-2,DEG-3] High school (or lower) education should not be included on resumes that contain higher-level education."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "sov:LicenseSerialNumber":"19024833:e08030c3-e60c-438f-be2e-44e781b9cd79",
+                "sov:ParserConfigurationString":"Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+                "sov:ParserVersion":"9.3.10.0",
+                "sov:DigitalSignature":"B+QDAAAAAAA="
+            }
+        }
+    }
+}

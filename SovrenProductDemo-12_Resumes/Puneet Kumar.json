@@ -1,0 +1,1050 @@
+{
+    "Resume":{
+        "@xml:lang":"en",
+        "@xmlns":"http://ns.hr-xml.org/2006-02-28",
+        "@xmlns:sov":"http://sovren.com/hr-xml/2006-02-28",
+        "ResumeId":{
+            "IdValue":null
+        },
+        "StructuredXMLResume":{
+            "ContactInfo":{
+                "PersonName":{
+                    "FormattedName":"PUNEET KUMAR",
+                    "GivenName":"PUNEET",
+                    "FamilyName":"KUMAR"
+                },
+                "ContactMethod":[
+                    {
+                        "WhenAvailable":"anytime",
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "UTTARAKHAND"
+                            ],
+                            "Municipality":"Roorkee",
+                            "DeliveryAddress":{
+                                "AddressLine":[
+                                    "Studied at IIT"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "Telephone":{
+                            "FormattedNumber":"+91-7032473052"
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetEmailAddress":"punit.asd012@gmail.com"
+                    }
+                ]
+            },
+            "ExecutiveSummary":"●   3+ years of experience in software development as a Front-End Developer.rn●   Highly-skilled software development professional bringing more than 3 years in software design, development andrnintegration.rn●   Successfully completed several projects like Control Panel, XML-generator, Cisco Network Planner, NetworkrnContent Management System etc.rn●   Comprehensive knowledge of  HTML, CSS, BootStrap, JavaScript(Object Oriented and Modular), ReactJS etc.rn●   An innovative & result-oriented professional with strong planning, analytical & interpersonal skills; capable ofrnworking under considerable pressure to deliver solutions on time",
+            "EmploymentHistory":{
+                "EmployerOrg":[
+                    {
+                        "EmployerOrgName":"Egnaro Software Solutions",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "@currentEmployer":"true",
+                                "Title":"Software Engineer",
+                                "OrgName":{
+                                    "OrganizationName":"Egnaro Software Solutions"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "ANDHRA PRADESH"
+                                            ],
+                                            "Municipality":"Hyderabad"
+                                        }
+                                    }
+                                ],
+                                "Description":"Role:rn● Building, testing and deploying scalable, highly available and modular software products.rn● Optimizing components for maximum performance across a vast array of web-capable devices and browsers.rn● Building reusable components and front-end libraries for future use.rn● Collaborating with other developers to identify and alleviate the number of bugs in the software.rn● Providing continued maintenance and development of bug fixes and patch sets for existing web applications.rn● Identifying and suggesting new technologies and tools for enhancing product value and increasing team productivity.rn● Translating designs and wireframes into high quality code.rnrnHighlights:rn● Consistently meet deadlines and requirements for all production work orders.rn● Trained and managed a team of 10 developers and discussed issues in order to provide resolution and utilize bestrnpractices.rn● Wrote clean, clear and well-tested code for various projects.rn● Met with manager on a weekly basis to provide a detailed project report and milestone updates.",
+                                "StartDate":{
+                                    "YearMonth":"2015-03"
+                                },
+                                "EndDate":{
+                                    "StringDate":"current"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"User Experience → Information Architect",
+                                        "Comments":"User Experience describes 65% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Entry Level"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-1",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"SB",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SQ",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Egnaro Software Solutions",
+                                        "sov:NormalizedTitle":"Software Engineer"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Egnaro Software Solutions"
+                            }
+                        }
+                    }
+                ]
+            },
+            "EducationHistory":{
+                "SchoolOrInstitution":[
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"IIT"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "UTTARAKHAND"
+                            ],
+                            "Municipality":"Roorkee"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"masters",
+                                "DegreeName":"M.C.A.",
+                                "DegreeDate":{
+                                    "Year":"2015"
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2015"
+                                        }
+                                    }
+                                ],
+                                "Comments":"●   M.C.A. from IIT, Roorkee in 2015",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-1",
+                                        "sov:NormalizedDegreeName":"masters",
+                                        "sov:NormalizedDegreeType":"masters"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Indian Institutes of Technology"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"C.S.J.M. University"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "UTTAR PRADESH"
+                            ],
+                            "Municipality":"Kanpur"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"bachelors",
+                                "DegreeName":"B.Sc.",
+                                "DegreeDate":{
+                                    "Year":"2011"
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2011"
+                                        }
+                                    }
+                                ],
+                                "Comments":"●   B.Sc. from C.S.J.M. University, Kanpur in 2011",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-2",
+                                        "sov:NormalizedDegreeName":"BSc",
+                                        "sov:NormalizedDegreeType":"BSc"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"C S J M University"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"college",
+                        "School":[
+                            {
+                                "SchoolName":"V D B M Singh Inter College (U.P. Board)"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "UTTAR PRADESH"
+                            ],
+                            "Municipality":"Kannauj"
+                        },
+                        "Degree":[
+                            {
+                                "DegreeDate":{
+                                    "Year":"2008"
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2008"
+                                        }
+                                    }
+                                ],
+                                "Comments":"●   12th from V D B M Singh Inter College (U.P. Board), Saray Prayag (Kannauj) in 2008",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-3"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"V D B M Singh Inter College University P Board"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"college",
+                        "School":[
+                            {
+                                "SchoolName":"S E N Inter College (U.P. Board)"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "Kannauj"
+                            ],
+                            "Municipality":"Kamalganj"
+                        },
+                        "Degree":[
+                            {
+                                "DegreeDate":{
+                                    "Year":"2006"
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2006"
+                                        }
+                                    }
+                                ],
+                                "Comments":"●   10th from S E N Inter College (U.P. Board), Kamalganj (Kannauj) in 2006",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-4"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"S E N Inter College University P Board"
+                            }
+                        }
+                    }
+                ]
+            },
+            "Qualifications":{
+                "QualificationSummary":"IT SKILLSrnrn●   Libraries/Languages: React, JavaScript, Redux, HTML, CSS, Three.js(Basic).rn●   Tools/Frameworks: Webpack, Bootstrap, Material-UI, PlayFramework, Jest, Enzyme, npm, SASS etc.rn●   Version Control: GITrn●   Environments: Linux, Windows"
+            },
+            "Languages":{
+                "Language":[
+                    {
+                        "LanguageCode":"en",
+                        "Read":"true",
+                        "Write":"false",
+                        "Speak":"false",
+                        "Comments":"English and Hindi"
+                    },
+                    {
+                        "LanguageCode":"hi",
+                        "Read":"true",
+                        "Write":"false",
+                        "Speak":"false",
+                        "Comments":"English and Hindi"
+                    }
+                ]
+            },
+            "RevisionDate":"2020-02-26"
+        },
+        "NonXMLResume":{
+            "TextResume":"PUNEET KUMARrnEmail ID: punit.asd012@gmail.com t   Phone: +91-7032473052rnrnrnAmbitious problem solving web developer who is continually boosting a powerful set of technology skills. Enjoys workingrnwith personnel in all areas of the company to help boost profits and improve opportunities. Seeking a position thatrnrequires participation in a large volume of website projects.rnStudied at IIT Roorkee and Interest in Web developmentrnrnPROFILE SUMMARYrnrn●   3+ years of experience in software development as a Front-End Developer.rn●   Highly-skilled software development professional bringing more than 3 years in software design, development andrnintegration.rn●   Successfully completed several projects like Control Panel, XML-generator, Cisco Network Planner, NetworkrnContent Management System etc.rn●   Comprehensive knowledge of  HTML, CSS, BootStrap, JavaScript(Object Oriented and Modular), ReactJS etc.rn●   An innovative & result-oriented professional with strong planning, analytical & interpersonal skills; capable ofrnworking under considerable pressure to deliver solutions on timernrnACADEMIC DETAILSrnrn●   M.C.A. from IIT, Roorkee in 2015rn●   B.Sc. from C.S.J.M. University, Kanpur in 2011rn●   12th from V D B M Singh Inter College (U.P. Board), Saray Prayag (Kannauj) in 2008rn●   10th from S E N Inter College (U.P. Board), Kamalganj (Kannauj) in 2006rnrnIT SKILLSrnrn●   Libraries/Languages: React, JavaScript, Redux, HTML, CSS, Three.js(Basic).rn●   Tools/Frameworks: Webpack, Bootstrap, Material-UI, PlayFramework, Jest, Enzyme, npm, SASS etc.rn●   Version Control: GITrn●   Environments: Linux, WindowsrnrnORGANISATIONAL EXPERIENCErnrnSince Mar'15tEgnaro Software Solutions, HyderabadrnSoftware EngineerrnrnRole:rn● Building, testing and deploying scalable, highly available and modular software products.rn● Optimizing components for maximum performance across a vast array of web-capable devices and browsers.rn● Building reusable components and front-end libraries for future use.rn● Collaborating with other developers to identify and alleviate the number of bugs in the software.rn● Providing continued maintenance and development of bug fixes and patch sets for existing web applications.rn● Identifying and suggesting new technologies and tools for enhancing product value and increasing team productivity.rn● Translating designs and wireframes into high quality code.rnrnHighlights:rn● Consistently meet deadlines and requirements for all production work orders.rn● Trained and managed a team of 10 developers and discussed issues in order to provide resolution and utilize bestrnpractices.rn● Wrote clean, clear and well-tested code for various projects.rn● Met with manager on a weekly basis to provide a detailed project report and milestone updates.rnrnrnKey Projects:rnTitle: Role Based Access Control (RBAC)rnClient: Egnaro Software SolutionsrnRole: Frontend developerrnTeam Size: 2rnResponsibilities:rn● Creating the UI Infrastructure from ground up which includesrno Setting up the React App.rno Integration with Redux for state managementrno Integrating with PlayFramework and Browserifyrno Test framework integration (Jest)rn● Maintain quality metrics. (Unit test coverage 90% >=)rnrnrnTitle: XML-generatorrnClient: Egnaro Software SolutionsrnRole: Frontend developerrnTeam Size: 1rnResponsibilities:rn● Creating the UI Infrastructure from ground up which includesrno Setting up the React App.rno Integrating with build tool (Webpack)rno Test framework integration (Jest)rn● Complete ownership of the UI application.rn● Maintain quality metrics. (Unit test coverage 90% >=)rnrnrnTitle: Cisco Network PlannerrnClient: Cisco, VerizonrnRole: Frontend developerrnTeam Size: 10rnResponsibilities:rn● Implementation of new features by using React js likerno System Logs (provides logs for user's activities)rno Share Network functionalityrn● Implementation of reusable React componentsrnrnrnTitle: Network Content Management SystemrnClient: Cisco, AT&TrnRole: Frontend developerrnTeam Size: 4rnResponsibilities:rn● Implementation of new features by using React js likerno Import functionalityrno Create and Manage Daemonrn● Improve performance of existing featuresrnrnrnPERSONAL DETAILSrnrnDate of Birth: 20 june 1992rnLanguages Known: English and HindirnPresent Address: Sri sai ganesha classic villa room no-102 madhapur, Hyderabad, Telangana 500081rnPermanent Address: Vill- Pangawan, Post- Sarai Prayag, Dist- Kannauj, Kannauj- 209735"
+        },
+        "UserArea":{
+            "sov:ResumeUserArea":{
+                "sov:Culture":{
+                    "sov:Language":"en",
+                    "sov:Country":"IN",
+                    "sov:CultureInfo":"en-IN"
+                },
+                "sov:PersonalInformation":{
+                    "sov:DateOfBirth":{
+                        "@inferred":"false",
+                        "#text":"1992-06-20"
+                    }
+                },
+                "sov:ExperienceSummary":{
+                    "sov:Description":"PUNEET KUMAR's experience appears to be mostly concentrated in User Experience (mostly Information Architect) and somewhat concentrated in Information Technology (mostly Programming). PUNEET KUMAR has 5 years of work experience.",
+                    "sov:MonthsOfWorkExperience":"60",
+                    "sov:AverageMonthsPerEmployer":"60",
+                    "sov:FulltimeDirectHirePredictiveIndex":"100",
+                    "sov:MonthsOfManagementExperience":"0",
+                    "sov:HighestManagementScore":"0",
+                    "sov:ExecutiveType":"none",
+                    "sov:ManagementStory":null,
+                    "sov:SkillsTaxonomyOutput":{
+                        "sov:TaxonomyRoot":[
+                            {
+                                "@name":"Sovren",
+                                "sov:Taxonomy":[
+                                    {
+                                        "@name":"User Experience",
+                                        "@id":"93",
+                                        "@percentOfOverall":"50",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Information Architect",
+                                                "@id":"567",
+                                                "@percentOfOverall":"18",
+                                                "@percentOfParentTaxonomy":"37",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END",
+                                                        "@id":"5570300",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"60",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"FRONT-END",
+                                                                "@id":"5570301",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"60",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in SUMMARY; WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"WIREFRAME",
+                                                        "@id":"5570249",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"60",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"WIREFRAMES",
+                                                                "@id":"5570250",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"60",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Human Computer Interaction",
+                                                "@id":"561",
+                                                "@percentOfOverall":"18",
+                                                "@percentOfParentTaxonomy":"36",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END",
+                                                        "@id":"5570217",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"60",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"FRONT-END",
+                                                                "@id":"5570218",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"60",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in SUMMARY; WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"WIREFRAMES",
+                                                        "@id":"5570033",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"60",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Integration Design",
+                                                "@id":"568",
+                                                "@percentOfOverall":"12",
+                                                "@percentOfParentTaxonomy":"24",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END DESIGN",
+                                                        "@id":"5570111",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"60",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"FRONT-END",
+                                                                "@id":"5570112",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"60",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in SUMMARY; WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Web Design",
+                                                "@id":"571",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"INTEGRATOR",
+                                                        "@id":"5570146",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"INTEGRATION",
+                                                                "@id":"5570147",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SUMMARY; WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Information Technology",
+                                        "@id":"10",
+                                        "@percentOfOverall":"29",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Programming",
+                                                "@id":"204",
+                                                "@percentOfOverall":"20",
+                                                "@percentOfParentTaxonomy":"68",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CONTENT MANAGEMENT",
+                                                        "@id":"022339",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY; WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"FRONT-END",
+                                                        "@id":"017986",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"Git",
+                                                        "@id":"1004755",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"HTML",
+                                                        "@id":"019115",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS; SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"JAVASCRIPT",
+                                                        "@id":"025394",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS; SUMMARY",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"BOOTSTRAP",
+                                                                "@id":"3391101",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SKILLS; SUMMARY"
+                                                            },
+                                                            {
+                                                                "@name":"REACTJS",
+                                                                "@id":"3391100",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SUMMARY"
+                                                            },
+                                                            {
+                                                                "@name":"REDUX",
+                                                                "@id":"3391108",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SKILLS; WORK HISTORY"
+                                                            },
+                                                            {
+                                                                "@name":"WEBPACK",
+                                                                "@id":"3391104",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SKILLS; WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"OBJECT ORIENTED",
+                                                        "@id":"022453",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"SOFTWARE ENGINEER",
+                                                        "@id":"008220",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"60",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"STRUCTURED SOFTWARE",
+                                                        "@id":"022594",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SOFTWARE DEVELOPMENT",
+                                                                "@id":"008213",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SUMMARY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"XML",
+                                                        "@id":"011476",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Big Data",
+                                                "@id":"553",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"6",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CONTENT MANAGEMENT SYSTEM",
+                                                        "@id":"5530931",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Mobile Applications",
+                                                "@id":"552",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"4",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"BOOTSTRAP",
+                                                        "@id":"5520522",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS; SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"SASS",
+                                                        "@id":"5520599",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Security",
+                                                "@id":"338",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ACCESS CONTROL",
+                                                        "@id":"3380008",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    },
+                                                    {
+                                                        "@name":"TEST FRAMEWORK",
+                                                        "@id":"3380018",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Operations, Monitoring and Software Management",
+                                                "@id":"349",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CISCO",
+                                                        "@id":"3490003",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Network",
+                                                "@id":"198",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CISCO",
+                                                        "@id":"1980018",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY; WORK HISTORY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Internet",
+                                                "@id":"196",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CSS",
+                                                        "@id":"014705",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS; SUMMARY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"User Interface",
+                                                "@id":"731",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"USER INTERFACE",
+                                                        "@id":"7310067",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"UI",
+                                                                "@id":"7310068",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SKILLS; WORK HISTORY"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Architecture",
+                                                "@id":"201",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SOFTWARE DESIGN",
+                                                        "@id":"025845",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Project Management",
+                                                "@id":"199",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"VERSION CONTROL",
+                                                        "@id":"024037",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"UNIX and LINUX",
+                                                "@id":"203",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"LINUX",
+                                                        "@id":"023926",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Prebuilt Software",
+                                                "@id":"252",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRAMEWORKS",
+                                                        "@id":"017954",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"QA and QC",
+                                                "@id":"200",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"UNIT TEST",
+                                                        "@id":"010253",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Installation, Maintenance, Repair",
+                                        "@id":"72",
+                                        "@percentOfOverall":"6",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General Repair",
+                                                "@id":"452",
+                                                "@percentOfOverall":"6",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MAINTENANCE",
+                                                        "@id":"022117",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"60",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Manufacturing",
+                                        "@id":"13",
+                                        "@percentOfOverall":"6",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Equipment",
+                                                "@id":"364",
+                                                "@percentOfOverall":"6",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MAINTENANCE",
+                                                        "@id":"022116",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"60",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Technical Writing",
+                                        "@id":"31",
+                                        "@percentOfOverall":"6",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General",
+                                                "@id":"430",
+                                                "@percentOfOverall":"6",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TRANSLATING",
+                                                        "@id":"009845",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"60",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Engineering",
+                                        "@id":"5",
+                                        "@percentOfOverall":"1",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Design",
+                                                "@id":"134",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"50",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SOFTWARE DESIGN",
+                                                        "@id":"080910",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"General Engineering",
+                                                "@id":"307",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"50",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"SOFTWARE DESIGN",
+                                                        "@id":"080405",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Light Technical/Trades/Skilled Labor",
+                                        "@id":"27",
+                                        "@percentOfOverall":"0",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Assembly",
+                                                "@id":"379",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CONTROL PANEL",
+                                                        "@id":"024198",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Business Operations and General Business",
+                                        "@id":"34",
+                                        "@percentOfOverall":"0",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General Skills and Activities",
+                                                "@id":"437",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"METRICS",
+                                                        "@id":"021737",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Telecommunications",
+                                        "@id":"16",
+                                        "@percentOfOverall":"0",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Network",
+                                                "@id":"318",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"VERIZON",
+                                                        "@id":"010491",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in WORK HISTORY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "sov:Sections":{
+                    "sov:Section":[
+                        {
+                            "@starts":"9",
+                            "@ends":"19",
+                            "@sectionType":"SUMMARY",
+                            "#text":"PROFILE SUMMARY"
+                        },
+                        {
+                            "@starts":"20",
+                            "@ends":"26",
+                            "@sectionType":"EDUCATION",
+                            "#text":"ACADEMIC DETAILS"
+                        },
+                        {
+                            "@starts":"27",
+                            "@ends":"33",
+                            "@sectionType":"SKILLS",
+                            "#text":"IT SKILLS"
+                        },
+                        {
+                            "@starts":"34",
+                            "@ends":"55",
+                            "@sectionType":"WORK HISTORY",
+                            "#text":"ORGANISATIONAL EXPERIENCE"
+                        },
+                        {
+                            "@starts":"56",
+                            "@ends":"104",
+                            "@sectionType":"WORK HISTORY",
+                            "#text":"Key Projects [PROJECT_HEADERS_SUBSECTION_OF_WORK_SECTION]"
+                        },
+                        {
+                            "@starts":"105",
+                            "@ends":"107",
+                            "@sectionType":"CONTACT INFO",
+                            "#text":"PERSONAL DETAILS"
+                        },
+                        {
+                            "@starts":"108",
+                            "@ends":"110",
+                            "@sectionType":"LANGUAGES",
+                            "#text":"Languages Known"
+                        }
+                    ]
+                },
+                "sov:ReservedData":{
+                    "sov:Phones":{
+                        "sov:Phone":[
+                            "Phone: +91-7032473052",
+                            "+91-7032473052"
+                        ]
+                    },
+                    "sov:Names":{
+                        "sov:Name":[
+                            "PUNEET KUMAR"
+                        ]
+                    },
+                    "sov:EmailAddresses":{
+                        "sov:EmailAddress":[
+                            "punit.asd012@gmail.com"
+                        ]
+                    },
+                    "sov:OtherData":{
+                        "sov:OtherDatum":[
+                            "Date of Birth: 20 june 1992"
+                        ]
+                    }
+                },
+                "sov:ParsedTextLength":"4369",
+                "sov:ParseTime":"218",
+                "sov:ResumeQuality":{
+                    "sov:Assessments":{
+                        "sov:Assessment":[
+                            {
+                                "sov:Level":"Major Issues Found",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume.",
+                                        "[Sovren:323;WORK HISTORY] The following section type appeared multiple times in the resume: WORK HISTORY (2 occurrences). Each section type should only appear once in a resume."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Data Missing",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:231;DEG-3,DEG-4] The following educational degrees do not have a degree name: DEG-3, DEG-4. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Suggested Improvements",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:112;] The following section was identified as a skills section type: 'IT SKILLS'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                                        "[Sovren:151;6] The following section does not have the header on a separate line: 'Languages Known'. Every section should have a clear, unambiguous, commonly-used header on a separate line directly above the content associated with it."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "sov:LicenseSerialNumber":"19024833:7108c299-2e04-41d1-a4c0-f845a9e42a79",
+                "sov:ParserConfigurationString":"Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+                "sov:ParserVersion":"9.3.10.0",
+                "sov:DigitalSignature":"UC0BAAAAAAA="
+            }
+        }
+    }
+}

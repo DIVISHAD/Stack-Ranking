@@ -1,0 +1,1471 @@
+{
+    "Resume":{
+        "@xml:lang":"en",
+        "@xmlns":"http://ns.hr-xml.org/2006-02-28",
+        "@xmlns:sov":"http://sovren.com/hr-xml/2006-02-28",
+        "ResumeId":{
+            "IdValue":null
+        },
+        "StructuredXMLResume":{
+            "ContactInfo":{
+                "PersonName":{
+                    "FormattedName":"Satish Mukku",
+                    "GivenName":"Satish",
+                    "FamilyName":"Mukku"
+                },
+                "ContactMethod":[
+                    {
+                        "WhenAvailable":"anytime",
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "ANDHRA PRADESH"
+                            ],
+                            "Municipality":"Hyderabad",
+                            "DeliveryAddress":{
+                                "AddressLine":[
+                                    "Worked as Senior Software Engineer at Zessta Software Service Pvt.Ltd, Hyderabad, from Apr 2013 to Jun 2015"
+                                ]
+                            }
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "Mobile":{
+                            "FormattedNumber":"+91-9000659544"
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetEmailAddress":"satish.mukku@gmail.com"
+                    }
+                ]
+            },
+            "EmploymentHistory":{
+                "EmployerOrg":[
+                    {
+                        "EmployerOrgName":"Zessta Software Service Pvt Ltd",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "Title":"Senior Software Engineer",
+                                "OrgName":{
+                                    "OrganizationName":"Zessta Software Service Pvt Ltd"
+                                },
+                                "Description":"MyChoiceUK-rnMyChoice Prepaid Debit Cards allow businesses to streamline commission, business, incentive, and travel payments and control expenditures with enhanced convenience, flexibility, and security. Businesses can easily make payments across the globe in Multiple Currencies without the need for cardholder bank accounts or credit checks. MyChoice is simple to set up and manage, and it offers a hassle-free payment solution for employees, agents, affiliates and suppliersrnrn- UI Integration for both b2b and CHO portalsrn- Technologies used: Java, Angular JS, HTML5rn- Web Link: https://www.mychoicecorporate.comrnrnMyChoicePreferred-rnThe most efficient and secure way to make commission, incentive, reimbursement and travel paymentsrn- UI Integration for both b2b and CHO portalsrn- Technologies used: Java, Angular JS, HTML5rn- Web Link: https://www.mychoicepreferred.comrnrnMyFare-rnMyFare gives fleet owners the ability to pay their drivers instantly on a personalized prepaid card, allowing for quick and easy access to funds.rnrn- UI Integration for both b2b and CHO portalsrn- Technologies used: Java, Angular JS, HTML5rn- Web Link: https://www.myfarecard.comrnrnEcoMobile-rnEcoMobile is a US based Telecom Company which provides Online Mobile Recharge Functionality and also has e-Wallet facility.rnrn- UI Integrationrn- User in the wallet can send or request funds to beneficiariesrn- Technologies used: Java, Angular JS, HTML5rn- Web Link: https://www.ecomobile.comrnrnCommissions2Go-rnThe C2Go Prepaid Card allows you to more easily get paid by delivery to your C2Go Prepaid Card. Your money is instantly available to spend anywhere visa debit cards are acceptedrn- Monthly Statement Downloadrn- User Preferences Managementrn- Technologies used: Java, Angular JS, HTML5, MVELrn- Web Link: http://www.c2gocard.com/rnrnTappayoka -rnZessta's flagship product is a cloud based loyalty and prepaid payment platform built using J2EE technologiesrn- Developing new Point of Sale for merchantsrn- Involved in developing Web Applicationrn- Technologies used: Spring, Hibernate, Java Swing, Ext JSrnrnMyfashions - an E-commerce platform that enables vendors to sell their products online.rn- Developed both frontend backend for User (Buyer and Seller) Registrationrn- Developed Buyer Settings module and Account Merge modulern- Developed both frontend and backend for filtering productsrn- Technologies used: Spring, Hibernate, jQuery, Knockout JSrn- Web Link: http://www.sellmyfashions.com/",
+                                "StartDate":{
+                                    "AnyDate":"2013-04-02"
+                                },
+                                "EndDate":{
+                                    "AnyDate":"2015-06-18"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Java",
+                                        "Comments":"Information Technology describes 41% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Experienced (non-manager)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-1",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"SF",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SN",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Zessta Software Service",
+                                        "sov:NormalizedTitle":"Senior Software Engineer",
+                                        "sov:Subtitles":{
+                                            "sov:Subtitle":[
+                                                "Software Engineer"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Zessta Software Service"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"Infinite Appz",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "Title":"Software Engineer",
+                                "OrgName":{
+                                    "OrganizationName":"Infinite Appz"
+                                },
+                                "Description":"Password Wallet is a Blackberry Playbook Application to store personal data like Credit Card, Debit Card Password, Personnel Account Details, and V Cards etc.rn- Developed the Frontend Module of the Applicationrn- Used Flex related Adobe libraries for front end designrn- Technologies Used: Action Script, SQLite and FlexrnrnITunes® Search is an application to help find favorite iTune from the web database in an optimal wayrn- Worked on all modules of the Applicationrn- Used JSON Parsers to Parse the Data to Required Format and Using Optimistic Searching Techniquern- Technologies Used: Action Script, SQLite and FlexrnrnFile Locker is an app to store files (all types of files like images, pdfs and many more) in a secure location which can be accessed only through a password.rn- Worked on all modules of the Applicationrn- Developed Many Customized Classes for Image Resizingrn- Technologies Used: Action Script, SQLite and Flex",
+                                "StartDate":{
+                                    "AnyDate":"2012-03-05"
+                                },
+                                "EndDate":{
+                                    "AnyDate":"2013-03-31"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"User Experience → Usability Design",
+                                        "Comments":"User Experience describes 48% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Entry Level"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-2",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BF",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SQ",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"Infinite Appz",
+                                        "sov:NormalizedTitle":"Software Engineer"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Infinite Appz"
+                            }
+                        }
+                    }
+                ]
+            },
+            "EducationHistory":{
+                "SchoolOrInstitution":[
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"Swarnadhra Institute of Engineering and Technology"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "AP"
+                            ],
+                            "Municipality":"Narasapur"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"bachelors",
+                                "DegreeName":"B.Tech.",
+                                "DegreeDate":{
+                                    "YearMonth":"2011-04"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "Computer Science Engineering"
+                                        ]
+                                    }
+                                ],
+                                "DegreeMeasure":{
+                                    "EducationalMeasure":{
+                                        "MeasureSystem":"GPA",
+                                        "MeasureValue":{
+                                            "StringValue":"93.3"
+                                        },
+                                        "LowestPossibleValue":{
+                                            "StringValue":"0"
+                                        },
+                                        "HighestPossibleValue":{
+                                            "StringValue":"100"
+                                        }
+                                    }
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "YearMonth":"2007-06"
+                                        },
+                                        "EndDate":{
+                                            "YearMonth":"2011-04"
+                                        }
+                                    }
+                                ],
+                                "Comments":"Swarnadhra Institute of Engineering and TechnologytNarasapur, APrnB.Tech. Computer Science EngineeringtJun 2007- Apr 2011rnrnRelevant Courses: Java, Database Management System, Network Programming, Software Engineering, Operating Systems, Computer Networks.rnrn● Board of Intermediate, Narasapur, Andhra Pradesh with 93.3% in 2007.",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-1",
+                                        "sov:NormalizedGPA":"0.933",
+                                        "sov:NormalizedDegreeName":"bachelors",
+                                        "sov:NormalizedDegreeType":"bachelors"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Swarnadhra Institute of Engineering and Technology"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"secondary",
+                        "School":[
+                            {
+                                "SchoolName":"Secondary School"
+                            }
+                        ],
+                        "Degree":[
+                            {
+                                "@degreeType":"secondary",
+                                "DegreeDate":{
+                                    "Year":"2005"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "Education"
+                                        ]
+                                    }
+                                ],
+                                "DegreeMeasure":{
+                                    "EducationalMeasure":{
+                                        "MeasureSystem":"GPA",
+                                        "MeasureValue":{
+                                            "StringValue":"79"
+                                        },
+                                        "LowestPossibleValue":{
+                                            "StringValue":"0"
+                                        },
+                                        "HighestPossibleValue":{
+                                            "StringValue":"100"
+                                        }
+                                    }
+                                },
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2005"
+                                        }
+                                    }
+                                ],
+                                "Comments":"● Secondary School Education, Kopparru, Andhra Pradesh with 79% in 2005.",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-2",
+                                        "sov:NormalizedGPA":"0.790",
+                                        "sov:NormalizedDegreeType":"secondary"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Secondary School"
+                            }
+                        }
+                    }
+                ]
+            },
+            "Qualifications":{
+                "QualificationSummary":"Technical Skillsrnrn• Languages: Java, Angular JS, JavaScript, Type Script, Underscore JS, jQuery, Ext.JS, Action Scriptrn• J2EE Technologies: Spring MVC, Hibernate.rn• Operating Systems: Linux/Unix, Windows.rn• Others: Jetty, Tomcat, MySQL, JSON, XML, Maven, SQLite, Knockout.js, HTML5, MVEL, CSS."
+            },
+            "Languages":{
+                "Language":[
+                    {
+                        "LanguageCode":"en",
+                        "Read":"true",
+                        "Write":"true",
+                        "Speak":"true",
+                        "Comments":"[RESUME_LANGUAGE]"
+                    }
+                ]
+            },
+            "RevisionDate":"2020-02-26"
+        },
+        "NonXMLResume":{
+            "TextResume":"Satish MukkurnEmail: satish.mukku@gmail.comtMobile: +91-9000659544rnrnExperience summaryrnrn• Having 5.3 Years of IT Experience in Software developmentrn• Working as Senior Engineer in Innominds Software Pvt.Ltd, Hyderabad from Jun 2015 to till datern• Worked as Senior Software Engineer at Zessta Software Service Pvt.Ltd, Hyderabad, from Apr 2013 to Jun 2015rn• Worked as Software Engineer at Infinite Appz Hyderabad from March 2012 to March 2013rnrnrnTechnical Skillsrnrn• Languages: Java, Angular JS, JavaScript, Type Script, Underscore JS, jQuery, Ext.JS, Action Scriptrn• J2EE Technologies: Spring MVC, Hibernate.rn• Operating Systems: Linux/Unix, Windows.rn• Others: Jetty, Tomcat, MySQL, JSON, XML, Maven, SQLite, Knockout.js, HTML5, MVEL, CSS.rnrnrnQualificationrnrnSwarnadhra Institute of Engineering and TechnologytNarasapur, APrnB.Tech. Computer Science EngineeringtJun 2007- Apr 2011rnrnRelevant Courses: Java, Database Management System, Network Programming, Software Engineering, Operating Systems, Computer Networks.rnrn● Board of Intermediate, Narasapur, Andhra Pradesh with 93.3% in 2007.rn● Secondary School Education, Kopparru, Andhra Pradesh with 79% in 2005.rnrnrnWork experience at InnomindstJun 2015- till daternDesignation: Senior EngineerrnrnProject I: SAFE 5.0rnDuration: 5MonthsrnrnProject description:rnrnSAFE ensures the right Physical Identities - i.e. employees, visitors, contractors and tenants -are properly authenticated and have the right access to the right areas, for the right reasons for a specified duration of time.rnrnRole and responsibilities:rn• Safe 5.0 UI Engineering Using Typescript and Angular JSrn• Integrated Employer Module and Identities Modulesrn• Involved in configuration managementrnrnEnvironment / Technologies:rnAngular JS, Type Script, less, gulprnrnrnProject II: Child SupportrnDuration: 4MonthsrnrnProject description:rnrnSupport Beacon allow us to provide value add functionality to states aging child support main frames without the cost of a full replacement CSE systems. Starting with EPM, plan to stagger module release (parallel dev with Next Gen). Modules standalone or complement Next Gen and generate early market interest in a full CSES.rnrnRole and responsibilities:rn• Child Support UI Engineering Using Typescript and Angular JSrn• Implemented Goal setting feature to all the personas and routes re designrn• Integrated Java script Redis API integrationrnrnEnvironment / Technologies:rnAngular JS, Type Script, less, gulp, bootstraprnrnrnProject III: Avero SlingshotrnDuration: 13MonthsrnrnProject description:rnrnAvero is the leading provider of SaaS analytic applications and specialized services to the hospitality industry, restaurant software that drives profits.rnrnRole and responsibilities:rn• Avero Slingshot UI Re-Engineering Using latest framework Angular JSrn• Report Generator Module which is center core of application drives to generate reports and graphs drill-downsrn• Logbook and Check Search Module implementationrnrnEnvironment / Technologies:rnAngular JS, HTML5, less, gulp, bootstraprnrnrnPrevious experiencernrnCompany Name: Zessta Software Service Pvt Ltd.,tApr 2, 2013 -Jun 18, 2015.rnDesignation: Senior Software EngineerrnrnrnMyChoiceUK-rnMyChoice Prepaid Debit Cards allow businesses to streamline commission, business, incentive, and travel payments and control expenditures with enhanced convenience, flexibility, and security. Businesses can easily make payments across the globe in Multiple Currencies without the need for cardholder bank accounts or credit checks. MyChoice is simple to set up and manage, and it offers a hassle-free payment solution for employees, agents, affiliates and suppliersrnrn- UI Integration for both b2b and CHO portalsrn- Technologies used: Java, Angular JS, HTML5rn- Web Link: https://www.mychoicecorporate.comrnrnMyChoicePreferred-rnThe most efficient and secure way to make commission, incentive, reimbursement and travel paymentsrn- UI Integration for both b2b and CHO portalsrn- Technologies used: Java, Angular JS, HTML5rn- Web Link: https://www.mychoicepreferred.comrnrnMyFare-rnMyFare gives fleet owners the ability to pay their drivers instantly on a personalized prepaid card, allowing for quick and easy access to funds.rnrn- UI Integration for both b2b and CHO portalsrn- Technologies used: Java, Angular JS, HTML5rn- Web Link: https://www.myfarecard.comrnrnEcoMobile-rnEcoMobile is a US based Telecom Company which provides Online Mobile Recharge Functionality and also has e-Wallet facility.rnrn- UI Integrationrn- User in the wallet can send or request funds to beneficiariesrn- Technologies used: Java, Angular JS, HTML5rn- Web Link: https://www.ecomobile.comrnrnCommissions2Go-rnThe C2Go Prepaid Card allows you to more easily get paid by delivery to your C2Go Prepaid Card. Your money is instantly available to spend anywhere visa debit cards are acceptedrn- Monthly Statement Downloadrn- User Preferences Managementrn- Technologies used: Java, Angular JS, HTML5, MVELrn- Web Link: http://www.c2gocard.com/rnrnTappayoka -rnZessta's flagship product is a cloud based loyalty and prepaid payment platform built using J2EE technologiesrn- Developing new Point of Sale for merchantsrn- Involved in developing Web Applicationrn- Technologies used: Spring, Hibernate, Java Swing, Ext JSrnrnMyfashions - an E-commerce platform that enables vendors to sell their products online.rn- Developed both frontend backend for User (Buyer and Seller) Registrationrn- Developed Buyer Settings module and Account Merge modulern- Developed both frontend and backend for filtering productsrn- Technologies used: Spring, Hibernate, jQuery, Knockout JSrn- Web Link: http://www.sellmyfashions.com/rnrnrnCompany Name: Infinite Appz.,tMar 5,2012 -Mar 31, 2013.rnDesignation: Software EngineerrnrnPassword Wallet is a Blackberry Playbook Application to store personal data like Credit Card, Debit Card Password, Personnel Account Details, and V Cards etc.rn- Developed the Frontend Module of the Applicationrn- Used Flex related Adobe libraries for front end designrn- Technologies Used: Action Script, SQLite and FlexrnrnITunes® Search is an application to help find favorite iTune from the web database in an optimal wayrn- Worked on all modules of the Applicationrn- Used JSON Parsers to Parse the Data to Required Format and Using Optimistic Searching Techniquern- Technologies Used: Action Script, SQLite and FlexrnrnFile Locker is an app to store files (all types of files like images, pdfs and many more) in a secure location which can be accessed only through a password.rn- Worked on all modules of the Applicationrn- Developed Many Customized Classes for Image Resizingrn- Technologies Used: Action Script, SQLite and Flex"
+        },
+        "UserArea":{
+            "sov:ResumeUserArea":{
+                "sov:Culture":{
+                    "sov:Language":"en",
+                    "sov:Country":"IN",
+                    "sov:CultureInfo":"en-IN"
+                },
+                "sov:ExperienceSummary":{
+                    "sov:Description":"Satish Mukku's experience appears to be mostly concentrated in Information Technology (mostly Java) and slightly concentrated in User Experience (mostly Web Design). Satish Mukku's experience appears to be lower-to-mid level, with about 3 years of experience.",
+                    "sov:MonthsOfWorkExperience":"40",
+                    "sov:AverageMonthsPerEmployer":"20",
+                    "sov:FulltimeDirectHirePredictiveIndex":"50",
+                    "sov:MonthsOfManagementExperience":"0",
+                    "sov:HighestManagementScore":"0",
+                    "sov:ExecutiveType":"none",
+                    "sov:ManagementStory":null,
+                    "sov:SkillsTaxonomyOutput":{
+                        "sov:TaxonomyRoot":[
+                            {
+                                "@name":"Sovren",
+                                "sov:Taxonomy":[
+                                    {
+                                        "@name":"Information Technology",
+                                        "@id":"10",
+                                        "@percentOfOverall":"64",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Java",
+                                                "@id":"339",
+                                                "@percentOfOverall":"27",
+                                                "@percentOfParentTaxonomy":"42",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"J2EE",
+                                                        "@id":"020255",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"JAVA",
+                                                        "@id":"023328",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"40",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in EDUCATION; SKILLS; TRAINING; WORK HISTORY; DEG-1; POS-1",
+                                                        "@childrenTotalMonths":"27",
+                                                        "@childrenLastUsed":"2015-06-18",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"HIBERNATE",
+                                                                "@id":"3391127",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"27",
+                                                                "@lastUsed":"2015-06-18",
+                                                                "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                            },
+                                                            {
+                                                                "@name":"SPRING",
+                                                                "@id":"3391126",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"27",
+                                                                "@lastUsed":"2015-06-18",
+                                                                "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"jQuery",
+                                                        "@id":"339048",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Mobile Applications",
+                                                "@id":"552",
+                                                "@percentOfOverall":"13",
+                                                "@percentOfParentTaxonomy":"20",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"BOOTSTRAP",
+                                                        "@id":"5520522",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in EDUCATION; TRAINING"
+                                                    },
+                                                    {
+                                                        "@name":"HTML5",
+                                                        "@id":"5520541",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in EDUCATION; SKILLS; TRAINING; WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"KNOCKOUT",
+                                                        "@id":"5520556",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"MODEL VIEW CONTROLLER",
+                                                        "@id":"5520572",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"MVC",
+                                                                "@id":"552057201",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SKILLS"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Programming",
+                                                "@id":"204",
+                                                "@percentOfOverall":"10",
+                                                "@percentOfParentTaxonomy":"16",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"API",
+                                                        "@id":"021194",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in EDUCATION; TRAINING"
+                                                    },
+                                                    {
+                                                        "@name":"B2B SOFTWARE",
+                                                        "@id":"023446",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"46",
+                                                        "@childrenLastUsed":"2011-04-01",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SOFTWARE ENGINEERING",
+                                                                "@id":"008221",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"40",
+                                                                "@lastUsed":"2011-04-01",
+                                                                "@whereFound":"Found in EDUCATION; DEG-1"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"Drivers",
+                                                        "@id":"1004764",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"JAVASCRIPT",
+                                                        "@id":"025394",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"BOOTSTRAP",
+                                                                "@id":"3391101",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in EDUCATION; TRAINING"
+                                                            },
+                                                            {
+                                                                "@name":"TYPESCRIPT",
+                                                                "@id":"3391102",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in EDUCATION; TRAINING"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"JSON",
+                                                        "@id":"5520555",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"SOFTWARE ENGINEER",
+                                                        "@id":"008220",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"40",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"XML",
+                                                        "@id":"011476",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Database",
+                                                "@id":"193",
+                                                "@percentOfOverall":"6",
+                                                "@percentOfParentTaxonomy":"9",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DATABASE MODELING",
+                                                        "@id":"026777",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"59",
+                                                        "@childrenLastUsed":"2013-03-31",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"DATABASE",
+                                                                "@id":"022486",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"40",
+                                                                "@lastUsed":"2013-03-31",
+                                                                "@whereFound":"Found in EDUCATION; WORK HISTORY; DEG-1; POS-2"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"EPM",
+                                                        "@id":"016843",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in EDUCATION; TRAINING"
+                                                    },
+                                                    {
+                                                        "@name":"MYSQL",
+                                                        "@id":"003243",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"SQLITE",
+                                                        "@id":"3391131",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in SKILLS; WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"WEB DATABASE",
+                                                        "@id":"023811",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Big Data",
+                                                "@id":"553",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DATABASE MANAGEMENT SYSTEM",
+                                                        "@id":"5530966",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"40",
+                                                        "@lastUsed":"2011-04-01",
+                                                        "@whereFound":"Found in EDUCATION; DEG-1"
+                                                    },
+                                                    {
+                                                        "@name":"REDIS",
+                                                        "@id":"5530835",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in EDUCATION; TRAINING"
+                                                    },
+                                                    {
+                                                        "@name":"SOFTWARE AS A SERVICE",
+                                                        "@id":"5531064",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SAAS",
+                                                                "@id":"5531065",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in EDUCATION; TRAINING"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"User Interface",
+                                                "@id":"731",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"3",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MODEL-VIEW-CONTROLLER",
+                                                        "@id":"7310042",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"MVC",
+                                                                "@id":"7310043",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SKILLS"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"USER INTERFACE",
+                                                        "@id":"7310067",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"27",
+                                                        "@childrenLastUsed":"2015-06-18",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"UI",
+                                                                "@id":"7310068",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"27",
+                                                                "@lastUsed":"2015-06-18",
+                                                                "@whereFound":"Found in EDUCATION; TRAINING; WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Config Deploy Upgrade Migrate",
+                                                "@id":"251",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CHANGE MANAGEMENT",
+                                                        "@id":"022159",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"CONFIGURATION MANAGEMENT",
+                                                                "@id":"014175",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in EDUCATION; TRAINING"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"MAVEN",
+                                                        "@id":"2510001",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Internet",
+                                                "@id":"196",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CSS",
+                                                        "@id":"014705",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"SAAS",
+                                                        "@id":"1004743",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in EDUCATION; TRAINING"
+                                                    },
+                                                    {
+                                                        "@name":"TOMCAT",
+                                                        "@id":"009664",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"UNIX and LINUX",
+                                                "@id":"203",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"LINUX",
+                                                        "@id":"023926",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"LINUX/UNIX",
+                                                                "@id":"02392601",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SKILLS"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"UNIX",
+                                                        "@id":"01026309",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Architecture",
+                                                "@id":"201",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MVC",
+                                                        "@id":"003233",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    },
+                                                    {
+                                                        "@name":"RE-ENGINEERING",
+                                                        "@id":"006660",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in EDUCATION; TRAINING"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Mail",
+                                                "@id":"343",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"1",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"BLACKBERRY",
+                                                        "@id":"011685",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Enterprise Storage",
+                                                "@id":"555",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"0",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"UNIX",
+                                                        "@id":"5551207",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SKILLS"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"User Experience",
+                                        "@id":"93",
+                                        "@percentOfOverall":"11",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Web Design",
+                                                "@id":"571",
+                                                "@percentOfOverall":"7",
+                                                "@percentOfParentTaxonomy":"60",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END DESIGN",
+                                                        "@id":"5570144",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    },
+                                                    {
+                                                        "@name":"INTEGRATOR",
+                                                        "@id":"5570146",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"27",
+                                                        "@childrenLastUsed":"2015-06-18",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"INTEGRATION",
+                                                                "@id":"5570147",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"27",
+                                                                "@lastUsed":"2015-06-18",
+                                                                "@whereFound":"Found in EDUCATION; TRAINING; WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Usability Design",
+                                                "@id":"563",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"13",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END DESIGN",
+                                                        "@id":"5570226",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Integration Design",
+                                                "@id":"568",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"13",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END DESIGN",
+                                                        "@id":"5570111",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Information Architect",
+                                                "@id":"567",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"7",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END",
+                                                        "@id":"5570300",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Human Computer Interaction",
+                                                "@id":"561",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"7",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"FRONT END",
+                                                        "@id":"5570217",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Marketing",
+                                        "@id":"14",
+                                        "@percentOfOverall":"6",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Channel Management",
+                                                "@id":"226",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"50",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"POINT OF SALE",
+                                                        "@id":"1400219",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Advertising",
+                                                "@id":"595",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"25",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"B2B",
+                                                        "@id":"1400202",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Channel, Partner & Ecosystem Marketing",
+                                                "@id":"590",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"25",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"B2B",
+                                                        "@id":"1400117",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Finance",
+                                        "@id":"7",
+                                        "@percentOfOverall":"4",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Credit and Underwriting",
+                                                "@id":"240",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"64",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CREDIT",
+                                                        "@id":"014614",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"40",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Securities",
+                                                "@id":"236",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"18",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CREDIT CARD",
+                                                        "@id":"023234",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Retail",
+                                                "@id":"280",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"18",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CREDIT CARD",
+                                                        "@id":"023235",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"13",
+                                                        "@lastUsed":"2013-03-31",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Degreed Accounting",
+                                        "@id":"32",
+                                        "@percentOfOverall":"4",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Accounts Receivable",
+                                                "@id":"940",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"64",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"CREDIT",
+                                                        "@id":"022226",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"40",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-2"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Accounts Payable",
+                                                "@id":"933",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"36",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"PAYMENTS",
+                                                        "@id":"004363",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Sales",
+                                        "@id":"20",
+                                        "@percentOfOverall":"3",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"General",
+                                                "@id":"105",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"100"
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Bookkeeping, Office Management",
+                                        "@id":"89",
+                                        "@percentOfOverall":"3",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Bookeeping Tasks",
+                                                "@id":"533",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"AP",
+                                                        "@id":"020974",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"40",
+                                                        "@lastUsed":"2011-04-01",
+                                                        "@whereFound":"Found in EDUCATION; DEG-1"
+                                                    },
+                                                    {
+                                                        "@name":"CREDIT",
+                                                        "@id":"022229",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"40",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Purchasing, Procurement, Inventory Control, Supply Chain",
+                                        "@id":"97",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Purchasing",
+                                                "@id":"458",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"BUYER",
+                                                        "@id":"025714",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Engineering",
+                                        "@id":"5",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"RF",
+                                                "@id":"268",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TELECOM",
+                                                        "@id":"022904",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Telecommunications",
+                                        "@id":"16",
+                                        "@percentOfOverall":"2",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Standards, Protocols, Technologies",
+                                                "@id":"317",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"TELECOM",
+                                                        "@id":"022903",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"27",
+                                                        "@lastUsed":"2015-06-18",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Administrative or Clerical",
+                                        "@id":"1",
+                                        "@percentOfOverall":"0",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Computer Related",
+                                                "@id":"115",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"83",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DATABASE MANAGEMENT",
+                                                        "@id":"015035",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"40",
+                                                        "@lastUsed":"2011-04-01",
+                                                        "@whereFound":"Found in EDUCATION; DEG-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Billing and Collections",
+                                                "@id":"110",
+                                                "@percentOfOverall":"0",
+                                                "@percentOfParentTaxonomy":"17",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"AP",
+                                                        "@id":"020973",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"40",
+                                                        "@lastUsed":"2011-04-01",
+                                                        "@whereFound":"Found in EDUCATION; DEG-1"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "sov:TrainingHistory":{
+                    "sov:Text":"Work experience at InnomindstJun 2015- till daternDesignation: Senior EngineerrnProject I: SAFE 5.0rnDuration: 5MonthsrnProject description:rnSAFE ensures the right Physical Identities - i.e. employees, visitors, contractors and tenants -are properly authenticated and have the right access to the right areas, for the right reasons for a specified duration of time.rnRole and responsibilities:rn• Safe 5.0 UI Engineering Using Typescript and Angular JSrn• Integrated Employer Module and Identities Modulesrn• Involved in configuration managementrnEnvironment / Technologies:rnAngular JS, Type Script, less, gulprnProject II: Child SupportrnDuration: 4MonthsrnProject description:rnSupport Beacon allow us to provide value add functionality to states aging child support main frames without the cost of a full replacement CSE systems. Starting with EPM, plan to stagger module release (parallel dev with Next Gen). Modules standalone or complement Next Gen and generate early market interest in a full CSES.rnRole and responsibilities:rn• Child Support UI Engineering Using Typescript and Angular JSrn• Implemented Goal setting feature to all the personas and routes re designrn• Integrated Java script Redis API integrationrnEnvironment / Technologies:rnAngular JS, Type Script, less, gulp, bootstraprnProject III: Avero SlingshotrnDuration: 13MonthsrnProject description:rnAvero is the leading provider of SaaS analytic applications and specialized services to the hospitality industry, restaurant software that drives profits.rnRole and responsibilities:rn• Avero Slingshot UI Re-Engineering Using latest framework Angular JSrn• Report Generator Module which is center core of application drives to generate reports and graphs drill-downsrn• Logbook and Check Search Module implementationrnEnvironment / Technologies:rnAngular JS, HTML5, less, gulp, bootstrap",
+                    "sov:Training":[
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Work experience at InnomindstJun 2015- till date",
+                            "sov:StartDate":{
+                                "YearMonth":"2015-06"
+                            },
+                            "sov:EndDate":{
+                                "StringDate":"current"
+                            }
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Designation: Senior Engineer"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Project I: SAFE 5.0"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Duration: 5Months"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Project description"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"SAFE ensures the right Physical Identities - i.e. employees, visitors, contractors and tenants -are properly authenticated and have the right access to the right areas, for the right reasons for a specified duration of time"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Role and responsibilities"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Safe 5.0 UI Engineering Using Typescript and Angular JS"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Integrated Employer Module and Identities Modules"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Involved in configuration management"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Environment / Technologies"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Angular JS, Type Script, less, gulp"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Project II: Child Support"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Duration: 4Months"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Project description"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Support Beacon allow us to provide value add functionality to states aging child support main frames without the cost of a full replacement CSE systems. Starting with EPM, plan to stagger module release (parallel dev with Next Gen). Modules standalone or complement Next Gen and generate early market interest in a full CSES"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Role and responsibilities"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Child Support UI Engineering Using Typescript and Angular JS"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Implemented Goal setting feature to all the personas and routes re design"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Integrated Java script Redis API integration"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Environment / Technologies"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Angular JS, Type Script, less, gulp, bootstrap"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Project III: Avero Slingshot"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Duration: 13Months"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Project description"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Avero is the leading provider of SaaS analytic applications and specialized services to the hospitality industry, restaurant software that drives profits"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Role and responsibilities"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Avero Slingshot UI Re-Engineering Using latest framework Angular JS"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Report Generator Module which is center core of application drives to generate reports and graphs drill-downs"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Logbook and Check Search Module implementation"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Environment / Technologies"
+                        },
+                        {
+                            "sov:Type":"Unknown",
+                            "sov:TrainingName":null,
+                            "sov:Entity":null,
+                            "sov:Description":"Angular JS, HTML5, less, gulp, bootstrap"
+                        }
+                    ]
+                },
+                "sov:Sections":{
+                    "sov:Section":[
+                        {
+                            "@starts":"11",
+                            "@ends":"18",
+                            "@sectionType":"SKILLS",
+                            "#text":"Technical Skills"
+                        },
+                        {
+                            "@starts":"19",
+                            "@ends":"80",
+                            "@sectionType":"EDUCATION",
+                            "#text":"Qualification"
+                        },
+                        {
+                            "@starts":"81",
+                            "@ends":"152",
+                            "@sectionType":"WORK HISTORY",
+                            "#text":"Previous experience"
+                        }
+                    ]
+                },
+                "sov:ReservedData":{
+                    "sov:Phones":{
+                        "sov:Phone":[
+                            "Mobile: +91-9000659544",
+                            "+91-9000659544"
+                        ]
+                    },
+                    "sov:Names":{
+                        "sov:Name":[
+                            "Satish Mukku"
+                        ]
+                    },
+                    "sov:EmailAddresses":{
+                        "sov:EmailAddress":[
+                            "satish.mukku@gmail.com"
+                        ]
+                    },
+                    "sov:Urls":{
+                        "sov:Url":[
+                            "https://www.mychoicepreferred.com",
+                            "https://www.mychoicecorporate.com",
+                            "http://www.sellmyfashions.com",
+                            "https://www.myfarecard.com",
+                            "https://www.ecomobile.com",
+                            "http://www.c2gocard.com"
+                        ]
+                    },
+                    "sov:OtherData":{
+                        "sov:OtherDatum":[
+                            "Worked as Senior Software Engineer at Zessta Software Service Pvt.Ltd, Hyderabad, from Apr 2013 to Jun 2015"
+                        ]
+                    }
+                },
+                "sov:ParsedTextLength":"6611",
+                "sov:ParseTime":"453",
+                "sov:ResumeQuality":{
+                    "sov:Assessments":{
+                        "sov:Assessment":[
+                            {
+                                "sov:Level":"Data Missing",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:226;] We found no work history positions within the past year. A resume should include work history information, including time off, for the most recent year.",
+                                        "[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Suggested Improvements",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:112;] The following section was identified as a skills section type: 'Technical Skills'. Skills should not be in a separate section, but instead, each skill should be included in the descriptions of work history or education.",
+                                        "[Sovren:161;DEG-2] High school (or lower) education should not be included on resumes that contain higher-level education."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "sov:LicenseSerialNumber":"19024833:faed85fa-f276-48b5-a9b9-448c41a58bda",
+                "sov:ParserConfigurationString":"Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+                "sov:ParserVersion":"9.3.10.0",
+                "sov:DigitalSignature":"Rdv+//////8="
+            }
+        }
+    }
+}

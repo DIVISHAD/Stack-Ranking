@@ -1,0 +1,845 @@
+{
+    "Resume":{
+        "@xml:lang":"en",
+        "@xmlns":"http://ns.hr-xml.org/2006-02-28",
+        "@xmlns:sov":"http://sovren.com/hr-xml/2006-02-28",
+        "ResumeId":{
+            "IdValue":null
+        },
+        "StructuredXMLResume":{
+            "ContactInfo":{
+                "PersonName":{
+                    "FormattedName":"Soumya Ranjan Bohidar",
+                    "GivenName":"Soumya",
+                    "MiddleName":"Ranjan",
+                    "FamilyName":"Bohidar"
+                },
+                "ContactMethod":[
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "Mobile":{
+                            "FormattedNumber":"+91-8121066624"
+                        }
+                    },
+                    {
+                        "Use":"personal",
+                        "Location":"onPerson",
+                        "WhenAvailable":"anytime",
+                        "InternetEmailAddress":"soumya.rb13@gmail.com"
+                    }
+                ]
+            },
+            "ExecutiveSummary":"◦ Over 8.5 years of experience in Design, development and implementation of software applications in Java, Python, NodeJS, ReactJS, and other Client side java scripting and other open source technologies.rn◦ Strong development experience in Scalable and multithreaded application. Hands on experience on cloud native application development with distributed session, transaction and cache management.rn◦ Proficiency & expertise in designing and developing Microservices using spring boot, Web applications, Client Server applications, Database design and development.rn◦ Have used databases like MongoDB, Elastic Search, DB2, Oracle.rn◦ Worked with tools/software like JProfiler, RAD, JIRA, Jenkins, Code Collaborator, Win Automation.rn◦ Sound experience of Agile / scrum methodology and entire software development life cycle.",
+            "EmploymentHistory":{
+                "EmployerOrg":[
+                    {
+                        "EmployerOrgName":"JPMorgan Chase",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"directHire",
+                                "@currentEmployer":"true",
+                                "Title":"Associate - Assistant Vice President",
+                                "OrgName":{
+                                    "OrganizationName":"JPMorgan Chase"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "ANDHRA PRADESH"
+                                            ],
+                                            "Municipality":"Hyderabad"
+                                        }
+                                    }
+                                ],
+                                "Description":"Project: Document Management - Bulk Extraction, Image Viewer, DevOps",
+                                "StartDate":{
+                                    "YearMonth":"2016-05"
+                                },
+                                "EndDate":{
+                                    "StringDate":"current"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Operations, Monitoring and Software Management",
+                                        "Comments":"Information Technology describes 100% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Senior (more than 5 years experience)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-1",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"SK",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"TB",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:NormalizedOrganizationName":"JPMorgan Chase",
+                                        "sov:NormalizedTitle":"Associate Assistant VP",
+                                        "sov:Subtitles":{
+                                            "sov:Subtitle":[
+                                                "Associate",
+                                                "Assistant Vice President"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"JPMorgan Chase"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"Deloitte LLC",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"contract",
+                                "Title":"Consultant-Technology",
+                                "OrgName":{
+                                    "OrganizationName":"Deloitte LLC"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "ANDHRA PRADESH"
+                                            ],
+                                            "Municipality":"Hyderabad"
+                                        }
+                                    }
+                                ],
+                                "Description":"Client: Rhode Island Department of Health and Human Resources, West Virginia Department of Health and Human Resources. (DDHR)rnProject: HIX, IES, DataSync, MCI IES - Public Healthcare for States in America",
+                                "StartDate":{
+                                    "YearMonth":"2013-10"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2016-05"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Human Resources → Other",
+                                        "Comments":"Human Resources describes 25% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Senior (more than 5 years experience)"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-2",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"SQ",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"SX",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:IsSelfEmployed":"true",
+                                        "sov:SelfEmploymentPhrase":"Consultant",
+                                        "sov:NormalizedOrganizationName":"Deloitte",
+                                        "sov:NormalizedTitle":"Consultant Technology",
+                                        "sov:Subtitles":{
+                                            "sov:Subtitle":[
+                                                "Consultant"
+                                            ]
+                                        }
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"Deloitte"
+                            }
+                        }
+                    },
+                    {
+                        "EmployerOrgName":"HCL Technologies",
+                        "PositionHistory":[
+                            {
+                                "@positionType":"contract",
+                                "Title":"Associate Consultant",
+                                "OrgName":{
+                                    "OrganizationName":"Southwest Airlines, Quest Diagnostics"
+                                },
+                                "OrgInfo":[
+                                    {
+                                        "PositionLocation":{
+                                            "CountryCode":"IN",
+                                            "Region":[
+                                                "KARNATAKA"
+                                            ],
+                                            "Municipality":"Bangalore"
+                                        }
+                                    }
+                                ],
+                                "Description":"Client: Southwest Airlines, Quest DiagnosticsrnProject: SWA-MWSOA, QD-SMAS, LIMSt- Airline Reservation Platform & Sample Management  for Pharma",
+                                "StartDate":{
+                                    "YearMonth":"2010-09"
+                                },
+                                "EndDate":{
+                                    "YearMonth":"2013-09"
+                                },
+                                "JobCategory":[
+                                    {
+                                        "TaxonomyName":"Skills taxonomy",
+                                        "CategoryCode":"Information Technology → Medical",
+                                        "Comments":"Information Technology describes 50% of this job"
+                                    },
+                                    {
+                                        "TaxonomyName":"Job Level",
+                                        "CategoryCode":"Entry Level"
+                                    }
+                                ],
+                                "UserArea":{
+                                    "sov:PositionHistoryUserArea":{
+                                        "sov:Id":"POS-3",
+                                        "sov:CompanyNameProbabilityInterpretation":{
+                                            "@internalUseOnly":"BK",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:PositionTitleProbabilityInterpretation":{
+                                            "@internalUseOnly":"TB",
+                                            "#text":"Confident"
+                                        },
+                                        "sov:IsSelfEmployed":"true",
+                                        "sov:SelfEmploymentPhrase":"Consultant",
+                                        "sov:NormalizedOrganizationName":"Southwest Airlines Quest Diagnostics",
+                                        "sov:NormalizedTitle":"Associate Consultant"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:EmployerOrgUserArea":{
+                                "sov:NormalizedEmployerOrgName":"HCL Technologies"
+                            }
+                        }
+                    }
+                ]
+            },
+            "EducationHistory":{
+                "SchoolOrInstitution":[
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"College - Padmanava College of Engineering"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "ODISHA"
+                            ],
+                            "Municipality":"Rourkela"
+                        },
+                        "Degree":[
+                            {
+                                "@degreeType":"bachelors",
+                                "DegreeName":"B.Tech.",
+                                "DegreeDate":{
+                                    "Year":"2010"
+                                },
+                                "DegreeMajor":[
+                                    {
+                                        "Name":[
+                                            "Information Technology"
+                                        ]
+                                    }
+                                ],
+                                "DatesOfAttendance":[
+                                    {
+                                        "StartDate":{
+                                            "AnyDate":"notKnown"
+                                        },
+                                        "EndDate":{
+                                            "Year":"2010"
+                                        }
+                                    }
+                                ],
+                                "Comments":"B.Tech. (Information Technology) in 2010 - 7.91GPA (On a scale of 10)rnCollege - Padmanava College of Engineering, Rourkela",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-1",
+                                        "sov:NormalizedDegreeName":"bachelors",
+                                        "sov:NormalizedDegreeType":"bachelors"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"College Padmanava College of Engineering"
+                            }
+                        }
+                    },
+                    {
+                        "@schoolType":"university",
+                        "School":[
+                            {
+                                "SchoolName":"Biju Patnaik University of Technology"
+                            }
+                        ],
+                        "PostalAddress":{
+                            "CountryCode":"IN",
+                            "Region":[
+                                "ODISHA"
+                            ],
+                            "Municipality":"Rourkela"
+                        },
+                        "Degree":[
+                            {
+                                "Comments":"University -  Biju Patnaik University of Technology, Rourkela, India",
+                                "UserArea":{
+                                    "sov:DegreeUserArea":{
+                                        "sov:Id":"DEG-2"
+                                    }
+                                }
+                            }
+                        ],
+                        "UserArea":{
+                            "sov:SchoolOrInstitutionTypeUserArea":{
+                                "sov:NormalizedSchoolName":"Biju Patnaik University of Technology"
+                            }
+                        }
+                    }
+                ]
+            },
+            "Languages":{
+                "Language":[
+                    {
+                        "LanguageCode":"en",
+                        "Read":"true",
+                        "Write":"true",
+                        "Speak":"true",
+                        "Comments":"[RESUME_LANGUAGE]"
+                    }
+                ]
+            },
+            "RevisionDate":"2020-02-26"
+        },
+        "NonXMLResume":{
+            "TextResume":"Soumya Ranjan Bohidarrn+91-8121066624rnsoumya.rb13@gmail.comrnrnPROFESSIONAL SUMMARYrnrn◦ Over 8.5 years of experience in Design, development and implementation of software applications in Java, Python, NodeJS, ReactJS, and other Client side java scripting and other open source technologies.rn◦ Strong development experience in Scalable and multithreaded application. Hands on experience on cloud native application development with distributed session, transaction and cache management.rn◦ Proficiency & expertise in designing and developing Microservices using spring boot, Web applications, Client Server applications, Database design and development.rn◦ Have used databases like MongoDB, Elastic Search, DB2, Oracle.rn◦ Worked with tools/software like JProfiler, RAD, JIRA, Jenkins, Code Collaborator, Win Automation.rn◦ Sound experience of Agile / scrum methodology and entire software development life cycle.rnrnrnPROFESSIONAL EXPERIENCErnrnJPMorgan Chase, Hyderabad(India) -tMay 2016 to till DaternAssociate - Assistant Vice PresidentrnProject: Document Management - Bulk Extraction, Image Viewer, DevOpsrnrnDeloitte LLC, Hyderabad (India)tOctober 2013 to May 2016rnConsultant-TechnologyrnClient: Rhode Island Department of Health and Human Resources, West Virginia Department of Health and Human Resources. (DDHR)rnProject: HIX, IES, DataSync, MCI IES - Public Healthcare for States in AmericarnrnHCL Technologies, Bangalore (India)tSeptember 2010 to September 2013rnAssociate ConsultantrnClient: Southwest Airlines, Quest DiagnosticsrnProject: SWA-MWSOA, QD-SMAS, LIMSt- Airline Reservation Platform & Sample Management  for PharmarnrnrnEDUCATION:rnrnB.Tech. (Information Technology) in 2010 - 7.91GPA (On a scale of 10)rnCollege - Padmanava College of Engineering, RourkelarnUniversity -  Biju Patnaik University of Technology, Rourkela, IndiarnrnPersonal Details:rnDate of Birth: 15th Sept 1989rnGender: MalernPersonal Number: +91-8121066624"
+        },
+        "UserArea":{
+            "sov:ResumeUserArea":{
+                "sov:Culture":{
+                    "sov:Language":"en",
+                    "sov:Country":"IN",
+                    "sov:CultureInfo":"en-IN"
+                },
+                "sov:PersonalInformation":{
+                    "sov:DateOfBirth":{
+                        "@inferred":"false",
+                        "#text":"1989-09-15"
+                    },
+                    "sov:Gender":{
+                        "@inferred":"false",
+                        "#text":"Male"
+                    }
+                },
+                "sov:ExperienceSummary":{
+                    "sov:Description":"Soumya Ranjan Bohidar's experience appears to be somewhat concentrated in Sales (mostly Entry Level) and somewhat concentrated in Information Technology (mostly Big Data). Soumya Ranjan Bohidar has 10 years of work experience, with several years tenure in management, including a low-level position.",
+                    "sov:MonthsOfWorkExperience":"114",
+                    "sov:AverageMonthsPerEmployer":"38",
+                    "sov:FulltimeDirectHirePredictiveIndex":"22",
+                    "sov:MonthsOfManagementExperience":"46",
+                    "sov:CurrentManagementLevel":"low-level",
+                    "sov:HighestManagementScore":"25",
+                    "sov:ExecutiveType":"none",
+                    "sov:ManagementStory":"Current position is a low-level management role: Associate - Assistant Vice PresidentrnStarting on 5/1/2016, the candidate held the following low-level management position for 3 years and 10 months:rntTitle: Associate - Assistant Vice President for JPMorgan Chase",
+                    "sov:SkillsTaxonomyOutput":{
+                        "sov:TaxonomyRoot":[
+                            {
+                                "@name":"Sovren",
+                                "sov:Taxonomy":[
+                                    {
+                                        "@name":"Sales",
+                                        "@id":"20",
+                                        "@percentOfOverall":"43",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Entry Level",
+                                                "@id":"500",
+                                                "@percentOfOverall":"43",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"ASSOCIATE",
+                                                        "@id":"004917",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"83",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1; POS-3"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Information Technology",
+                                        "@id":"10",
+                                        "@percentOfOverall":"42",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Big Data",
+                                                "@id":"553",
+                                                "@percentOfOverall":"9",
+                                                "@percentOfParentTaxonomy":"22",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DB2",
+                                                        "@id":"5530738",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"DOCUMENT MANAGEMENT",
+                                                        "@id":"5530975",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"46",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    },
+                                                    {
+                                                        "@name":"MONGODB",
+                                                        "@id":"5530805",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Operations, Monitoring and Software Management",
+                                                "@id":"349",
+                                                "@percentOfOverall":"8",
+                                                "@percentOfParentTaxonomy":"20",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DEV OPS",
+                                                        "@id":"0146073",
+                                                        "@existsInText":"false",
+                                                        "@childrenTotalMonths":"46",
+                                                        "@childrenLastUsed":"2020-02-26",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"DEVOPS",
+                                                                "@id":"0146074",
+                                                                "@existsInText":"true",
+                                                                "@totalMonths":"46",
+                                                                "@lastUsed":"2020-02-26",
+                                                                "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Workflow and Imaging",
+                                                "@id":"342",
+                                                "@percentOfOverall":"8",
+                                                "@percentOfParentTaxonomy":"18",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DOCUMENT MANAGEMENT",
+                                                        "@id":"023170",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"46",
+                                                        "@lastUsed":"2020-02-26",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-1"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Programming",
+                                                "@id":"204",
+                                                "@percentOfOverall":"6",
+                                                "@percentOfParentTaxonomy":"14",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"APPLICATION DEVELOPMENT",
+                                                        "@id":"021556",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"JAVASCRIPT",
+                                                        "@id":"025394",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"REACTJS",
+                                                                "@id":"3391100",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SUMMARY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"JENKINS",
+                                                        "@id":"3391150",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"PYTHON",
+                                                        "@id":"006120",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"SCRIPTING",
+                                                        "@id":"024873",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"STRUCTURED SOFTWARE",
+                                                        "@id":"022594",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SOFTWARE DEVELOPMENT",
+                                                                "@id":"008213",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SUMMARY"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Database",
+                                                "@id":"193",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"8",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"DATABASE MODELING",
+                                                        "@id":"026777",
+                                                        "@existsInText":"false",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"DATABASE",
+                                                                "@id":"022486",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SUMMARY"
+                                                            },
+                                                            {
+                                                                "@name":"DATABASE DESIGN",
+                                                                "@id":"015032",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SUMMARY"
+                                                            }
+                                                        ]
+                                                    },
+                                                    {
+                                                        "@name":"DB2",
+                                                        "@id":"015075",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    },
+                                                    {
+                                                        "@name":"ORACLE",
+                                                        "@id":"031048",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Architecture",
+                                                "@id":"201",
+                                                "@percentOfOverall":"3",
+                                                "@percentOfParentTaxonomy":"7",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"LIFE CYCLE",
+                                                        "@id":"022707",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY",
+                                                        "sov:ChildSkill":[
+                                                            {
+                                                                "@name":"SOFTWARE DEVELOPMENT LIFE CYCLE",
+                                                                "@id":"008214",
+                                                                "@existsInText":"true",
+                                                                "@whereFound":"Found in SUMMARY"
+                                                            }
+                                                        ]
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Medical",
+                                                "@id":"353",
+                                                "@percentOfOverall":"2",
+                                                "@percentOfParentTaxonomy":"5",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"LIMS",
+                                                        "@id":"020777",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"37",
+                                                        "@lastUsed":"2013-09-30",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-3"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Cloud Computing",
+                                                "@id":"550",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"MONGODB",
+                                                        "@id":"5500361",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"QA and QC",
+                                                "@id":"200",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JIRA",
+                                                        "@id":"2000006",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Java",
+                                                "@id":"339",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"JAVA",
+                                                        "@id":"023328",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            },
+                                            {
+                                                "@name":"Protocols and Standards",
+                                                "@id":"253",
+                                                "@percentOfOverall":"1",
+                                                "@percentOfParentTaxonomy":"2",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"OPEN SOURCE",
+                                                        "@id":"003842",
+                                                        "@existsInText":"true",
+                                                        "@whereFound":"Found in SUMMARY"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Human Resources",
+                                        "@id":"9",
+                                        "@percentOfOverall":"4",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Other",
+                                                "@id":"262",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"HUMAN RESOURCES",
+                                                        "@id":"022567",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2016-05-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Bookkeeping, Office Management",
+                                        "@id":"89",
+                                        "@percentOfOverall":"4",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Payroll Tasks",
+                                                "@id":"535",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"HUMAN RESOURCES",
+                                                        "@id":"022566",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2016-05-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Call Center or Help Desk or Customer Service",
+                                        "@id":"46",
+                                        "@percentOfOverall":"4",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Customer Facing",
+                                                "@id":"130",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"HUMAN RESOURCES",
+                                                        "@id":"022565",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2016-05-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    },
+                                    {
+                                        "@name":"Healthcare Non-physician Non-nurse",
+                                        "@id":"95",
+                                        "@percentOfOverall":"4",
+                                        "sov:Subtaxonomy":[
+                                            {
+                                                "@name":"Allied Health",
+                                                "@id":"158",
+                                                "@percentOfOverall":"4",
+                                                "@percentOfParentTaxonomy":"100",
+                                                "sov:Skill":[
+                                                    {
+                                                        "@name":"HEALTHCARE",
+                                                        "@id":"018806",
+                                                        "@existsInText":"true",
+                                                        "@totalMonths":"31",
+                                                        "@lastUsed":"2016-05-01",
+                                                        "@whereFound":"Found in WORK HISTORY; POS-2"
+                                                    }
+                                                ]
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "sov:Sections":{
+                    "sov:Section":[
+                        {
+                            "@starts":"4",
+                            "@ends":"13",
+                            "@sectionType":"SUMMARY",
+                            "#text":"PROFESSIONAL SUMMARY"
+                        },
+                        {
+                            "@starts":"14",
+                            "@ends":"30",
+                            "@sectionType":"WORK HISTORY",
+                            "#text":"PROFESSIONAL EXPERIENCE"
+                        },
+                        {
+                            "@starts":"31",
+                            "@ends":"36",
+                            "@sectionType":"EDUCATION",
+                            "#text":"EDUCATION"
+                        },
+                        {
+                            "@starts":"37",
+                            "@ends":"40",
+                            "@sectionType":"CONTACT INFO",
+                            "#text":"Personal Details"
+                        }
+                    ]
+                },
+                "sov:ReservedData":{
+                    "sov:Phones":{
+                        "sov:Phone":[
+                            "Personal Number: +91-8121066624",
+                            "+91-8121066624"
+                        ]
+                    },
+                    "sov:Names":{
+                        "sov:Name":[
+                            "Soumya Ranjan Bohidar"
+                        ]
+                    },
+                    "sov:EmailAddresses":{
+                        "sov:EmailAddress":[
+                            "soumya.rb13@gmail.com"
+                        ]
+                    },
+                    "sov:OtherData":{
+                        "sov:OtherDatum":[
+                            "Date of Birth: 15th Sept 1989",
+                            "Gender: Male"
+                        ]
+                    }
+                },
+                "sov:ParsedTextLength":"1913",
+                "sov:ParseTime":"265",
+                "sov:ResumeQuality":{
+                    "sov:Assessments":{
+                        "sov:Assessment":[
+                            {
+                                "sov:Level":"Major Issues Found",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:311;] The resume contains a contact information section that is not the first section. A resume should always include the candidate's contact info at the top of the resume."
+                                    ]
+                                }
+                            },
+                            {
+                                "sov:Level":"Data Missing",
+                                "sov:Findings":{
+                                    "sov:Information":[
+                                        "[Sovren:213;] A street level address was not found in the contact information. A full contact address should always be included in a resume as it allows for location based searches.",
+                                        "[Sovren:231;DEG-2] The following educational degree does not have a degree name: DEG-2. Every degree in a resume should have a name or type associated with it, such as 'B.S.' or 'M.S.'."
+                                    ]
+                                }
+                            }
+                        ]
+                    }
+                },
+                "sov:LicenseSerialNumber":"19024833:d25dc265-2b8c-4149-aabe-a6fe44cb896b",
+                "sov:ParserConfigurationString":"Coverage.PersonalAttributes = True; Coverage.Training = True; Culture.CountryCodeForUnitedKingdomIsUK = True; Culture.DefaultCountryCode = IN; Culture.DefaultCultureIsIndia = True; Culture.Language = English; Culture.PreferEnglishVersionIfTwoLanguagesInDocument = False; Data.UserDefinedParsing = False; OutputFormat.AssumeCompanyNameFromPrecedingJob = False; OutputFormat.ContactMethod.PackStyle = Split; OutputFormat.DateOutputStyle = ExplicitlyKnownDateInfoOnly; OutputFormat.NestJobsBasedOnDateRanges = True; OutputFormat.NormalizeRegions = False; OutputFormat.SkillsStyle = Default; OutputFormat.StripParsedDataFromPositionHistoryDescription = True; OutputFormat.TelcomNumber.Style = Raw; OutputFormat.XmlFormat = HrXmlResume25",
+                "sov:ParserVersion":"9.3.10.0",
+                "sov:DigitalSignature":"a7oCAAAAAAA="
+            }
+        }
+    }
+}

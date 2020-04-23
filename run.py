@@ -8,7 +8,7 @@ client = pymongo.MongoClient("mongodb+srv://divishad:abcde@cluster0-gdmit.gcp.mo
 db = client.StackRanking.education
 
 jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/SourceDocument/"
-r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/TargetDocuments/"
+r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-12_Resumes/"
 
 candidates_skills=[]
 candidates_qualifications=[]
@@ -19,8 +19,8 @@ for nm in os.listdir(r_path):
     candidate_taxonamies={}
     candidate_work_skills[nm]={}
     candidate_work_skills[nm]["Skills"]={}
-    candidate_taxonamies["name"]=nm
-    with open(r_path+nm+"/"+nm+".json",'r',encoding='cp850') as file:
+    candidate_taxonamies["name"]=nm     #r_path+nm+"/"+nm+".json"
+    with open(r_path+nm,'r',encoding='cp850') as file:
         data=json.load(file)
         a=data.get("Resume").get("UserArea").get("sov:ResumeUserArea").get("sov:ExperienceSummary").get("sov:SkillsTaxonomyOutput").get("sov:TaxonomyRoot")[0].get("sov:Taxonomy")
         for i in a:
@@ -120,7 +120,7 @@ for i in os.listdir(r_path):
     candidate_education={}
     candidate_education["name"]=i
     candidate_education["candidate_degrees"]=[]
-    with open(r_path+i+"/"+i+".json",'r',encoding='cp850') as file:
+    with open(r_path+i,'r',encoding='cp850') as file:
         data=json.load(file)
         if data.get("Resume").get("StructuredXMLResume").get("EducationHistory") != None:
             a=data.get("Resume").get("StructuredXMLResume").get("EducationHistory").get("SchoolOrInstitution")
