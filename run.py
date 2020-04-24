@@ -92,7 +92,7 @@ def evaluate_skills(candidate,json):
                                 score += 0.75 * (val / (len(subTaxonomy_value)-1)) / 2
                             elif len(candidate_childSkill_list) != 0 :
                                 len_nonMatch = len(candidate_childSkill_list)-childSkill_match
-                                score += 0.25*(val / (len(subTaxonomy_value)-1))*tanh(len_nonMatch/3)    # (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
+                                score += 0.25*(val / (len(subTaxonomy_value)-1))*tanh(len_nonMatch/5)    # (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
                     if len(subTaxonomy_value) == 1 :
                         score +=0.75 * val
                     elif len(candidate_skills) == 0 :

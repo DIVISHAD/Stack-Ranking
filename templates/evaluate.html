@@ -129,8 +129,16 @@
                     <input type="button" id="eval" value="Evaluate" onclick="calculate()">
                 </td>
             </tr>
+            <tr>
+                <td><input type="button" id="adjEdu" value="Adjust" onclick="adjedu()"></td>
+                <td></td>
+                <td><input type="button" id="adjWE" value="Adjust" onclick="adjwe()"></td>
+                <td></td>
+                <td><input type="button" id="adjSkills" value="Adjust" onclick="adjskills()"></td>
+            </tr>
         </table>
         <p style="color:red;" id="err"></p>
+        <div id="adj"></div>
         <div id="loading"></div>
         <div id="ranks"></div>
     </body>
@@ -155,7 +163,207 @@
                 text = $('#skill').val()+"%";
                 $('#skill_val').html(text);
             });
+            $(document).on('input', '#mendegscr', function() {
+                text = $('#mendegscr').val()+"%";
+                $('#mendegscr_val').html(text);
+                $('#otrdegscr').val(100-parseInt($('#mendegscr').val()));
+                $('#otrdegscr_val').html($('#otrdegscr').val()+'%');
+            }); 
+            $(document).on('input', '#otrdegscr', function() {
+                text = $('#otrdegscr').val()+"%";
+                $('#otrdegscr_val').html(text);
+                $('#mendegscr').val(100-parseInt($('#otrdegscr').val()));
+                $('#mendegscr_val').html($('#mendegscr').val()+'%');
+            }); 
+            $(document).on('input', '#noscrres', function() {
+                text = $('#noscrres').val()+"%";
+                $('#noscrres_val').html(text);
+            });        
+            $(document).on('input', '#degmatchscr', function() {
+                text = $('#degmatchscr').val()+"%";
+                $('#degmatchscr_val').html(text);
+            }); 
+            $(document).on('input', '#percentscr', function() {
+                text = $('#percentscr').val()+"%";
+                $('#percentscr_val').html(text);
+            }); 
+            $(document).on('input', '#clgtierscr', function() {
+                text = $('#clgtierscr').val()+"%";
+                $('#clgtierscr_val').html(text);
+            });
+            $(document).on('input', '#skillexpscr', function() {
+                $('#skillexpscr_val').html($('#skillexpscr').val()+"%");
+            });
+            $(document).on('input', '#expscr', function() {
+                $('#expscr_val').html($('#expscr').val()+"%");
+            });
+            $(document).on('input', '#companytierscr', function() {
+                $('#companytierscr_val').html($('#companytierscr').val()+"%");
+            });
+            $(document).on('input', '#recentexpscr', function() {
+                $('#recentexpscr_val').html($('#recentexpscr').val()+"%");
+            });
+            $(document).on('input', '#otrexpscr', function() {
+                $('#otrexpscr_val').html($('#otrexpscr').val()+"%");
+            });
+            $(document).on('input', '#matchskillscr', function() {
+                $('#matchskillscr_val').html($('#matchskillscr').val()+"%");
+            });
+            $(document).on('input', '#extraskillscr', function() {
+                $('#extraskillscr_val').html($('#extraskillscr').val()+"%");
+            });    
         });
+        mentionedDegScr=90;
+        otherDegScr=10;
+        noScrRes=60;
+        degMatchScr=50;
+        percentagescr=30;
+        clgTierscr=20;
+
+        matchSkillScr=75;
+        extraSkillScr=25;
+
+        skillExpScr=30;
+        expScr=40;
+        companyTierScr=10;
+        recentExpScr=10;
+        otherRolescr=10;
+
+        function adjedu(){
+            $('#adj').html("");
+            add_html='<table>'+
+            '<tr>'+
+                '<td>Score for Degrees Match</td>'+
+                '<td><input type="range" min="0" max="100" value="90" class="slider b" id="mendegscr"></td>'+
+                '<td class="val"><p><span id="mendegscr_val">90%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score for extra or non Matching Degrees</td>'+
+                '<td><input type="range" min="0" max="100" value="10" class="slider b" id="otrdegscr"></td>'+
+                '<td class="val"><p><span id="otrdegscr_val">10%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score to be assumed if score not mentioned in resume</td>'+
+                '<td><input type="range" min="0" max="100" value="60" class="slider b" id="noscrres"></td>'+
+                '<td class="val"><p><span id="noscrres_val">60%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score for degreeMajor Match(<=100%)</td>'+
+                '<td><input type="range" min="0" max="100" value="50" class="slider b" id="degmatchscr"></td>'+
+                '<td class="val"><p><span id="degmatchscr_val">50%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score for % required Match(<=100%)</td>'+
+                '<td><input type="range" min="0" max="100" value="30" class="slider b" id="percentscr"></td>'+
+                '<td class="val"><p><span id="percentscr_val">30%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score for college Tier Match(<=100%)</td>'+
+                '<td><input type="range" min="0" max="100" value="20" class="slider b" id="clgtierscr"></td>'+
+                '<td class="val"><p><span id="clgtierscr_val">20%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr><p style="color:red;" id="adjerr"></p></tr>'+
+            '<tr>'+
+                '<td></td>'+
+                '<td align="center"><input type="button" value="Set" onclick="setedu()"></td>'+
+            '</tr>'+
+        '</table>';
+        $("#adj").html(add_html);
+        }
+        function setedu(){
+            if(parseInt($("#degmatchscr").val())+parseInt($("#percentscr").val())+parseInt($("#clgtierscr").val())==100){
+                mentionedDegScr=parseInt($("#mendegscr").val());
+                otherDegScr=parseInt($("#otrdegscr").val());
+                noScrRes=parseInt($("#noscrres").val());
+                degMatchScr=parseInt($("#degmatchscr").val());
+                percentagescr=parseInt($("#percentscr").val());
+                clgTierscr=parseInt($("#clgtierscr").val());
+                $("#adj").html("");
+            }
+            else{
+                $("#adjerr").html("Incorrect values!!!Total Score should be <=100%");
+            }
+        }
+        function adjwe(){
+            $('#adj').html("");
+            add_html='<table>'+
+            '<tr>'+
+                '<td>Job Experience Score</td>'+
+                '<td><input type="range" min="0" max="100" value="40" class="slider c" id="expscr"></td>'+
+                '<td class="val"><p><span id="expscr_val">40%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score for Company Tier Match</td>'+
+                '<td><input type="range" min="0" max="100" value="10" class="slider c" id="companytierscr"></td>'+
+                '<td class="val"><p><span id="companytierscr_val">10%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score for Recent Experience in related Role</td>'+
+                '<td><input type="range" min="0" max="100" value="10" class="slider c" id="recentexpscr"></td>'+
+                '<td class="val"><p><span id="recentexpscr_val">10%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score for Skills Experience'+
+                '<td><input type="range" min="0" max="100" value="30" class="slider c" id="skillexpscr"></td>'+
+                '<td class="val"><p><span id="skillexpscr_val">30%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score for experience in other or unrelated roles</td>'+
+                '<td><input type="range" min="0" max="100" value="10" class="slider c" id="otrexpscr"></td>'+
+                '<td class="val"><p><span id="otrexpscr_val">10%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr><p style="color:red;" id="adjerr"></p></tr>'+
+            '<tr>'+
+                '<td></td>'+
+                '<td align="center"><input type="button" value="Set" onclick="setwe()"></td>'+
+            '</tr>'+
+        '</table>';
+        $("#adj").html(add_html);
+        }
+        function setwe(){
+            if(parseInt($("#otrexpscr").val())+parseInt($("#skillexpscr").val())+parseInt($("#recentexpscr").val())+parseInt($("#companytierscr").val())+parseInt($("#expscr").val())==100){
+                skillExpScr=parseInt($("#skillexpscr").val());
+                expScr=parseInt($("#expscr").val());
+                companyTierScr=parseInt($("#companytierscr").val());
+                recentExpScr=parseInt($("#recentexpscr").val());
+                otherRolescr=parseInt($("#otrexpscr").val());
+                $("#adj").html("");
+            }
+            else{
+                $("#adjerr").html("Incorrect values!!!Total Score should be <=100%");
+            }
+        }
+        function adjskills(){
+            $('#adj').html("");
+            add_html='<table>'+
+            '<tr>'+
+                '<td>Score for Matching Skills</td>'+
+                '<td><input type="range" min="0" max="100" value="75" class="slider d" id="matchskillscr"></td>'+
+                '<td class="val"><p><span id="matchskillscr_val">75%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr>'+
+                '<td>Score for Non-Matching Skills</td>'+
+                '<td><input type="range" min="0" max="100" value="25" class="slider d" id="extraskillscr"></td>'+
+                '<td class="val"><p><span id="extraskillscr_val">25%</span>  </p></td class="val">'+
+            '</tr>'+
+            '<tr><p style="color:red;" id="adjerr"></p></tr>'+
+            '<tr>'+
+                '<td></td>'+
+                '<td align="center"><input type="button" value="Set" onclick="setskill()"></td>'+
+            '</tr>'+
+        '</table>';
+        $("#adj").html(add_html);
+        }
+        function setskill(){
+            if(parseInt($("#matchskillscr").val())+parseInt($("#extraskillscr").val())==100){
+                matchSkillScr=parseInt($("#matchskillscr").val());
+                extraSkillScr=parseInt($("#extraskillscr").val());
+                $("#adj").html("");
+            }
+            else{
+                $("#adjerr").html("Incorrect values!!!Total Score should be <=100%");
+            }
+        }
         function calculate(){
             $("#ranks").html("");
             d=document.getElementsByClassName("slider");
