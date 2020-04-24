@@ -1,6 +1,8 @@
 # Stack-Ranking
 
-* To run application install flask,dnspython
+* To run application download python version 3.x
+* Install flask using command: pip install flask
+* Install dnspython using command: pip install dnspython
 * run a.py and oopen the generated link
 
 ## run.py
