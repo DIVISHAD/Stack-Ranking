@@ -27,6 +27,11 @@ def jd_data():
     data=request.json
     global jd
     jd=data
+    run.set_jd_path(data["jdlocation"])
+    run.set_r_path(data["reslocation"])
+    run.getResSkills()
+    run.getJDData()
+    run.getResEdu()
     print(jd)
     return ""
 

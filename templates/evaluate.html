@@ -379,11 +379,34 @@
                 $("#err").html("");
             }
             values={
-                "education":parseInt($("#edu").val()),
-                "work experience":parseInt($("#wk").val()),
-                "skill":parseInt($("#skill").val())
-
+                "allValues":{
+                    "education":parseInt($("#edu").val()),
+                    "work experience":parseInt($("#wk").val()),
+                    "skill":parseInt($("#skill").val())
+                },
+                "parameters":{
+                    "eduparameters":{
+                        "mentionedDegScr":mentionedDegScr,
+                        "otherDegScr":otherDegScr,
+                        "noScrRes":noScrRes,
+                        "degMatchScr":degMatchScr,
+                        "percentagescr":percentagescr,
+                        "clgTierscr":clgTierscr
+                    },
+                    "skillparameters":{
+                        "matchSkillScr":matchSkillScr,
+                        "extraSkillScr":extraSkillScr
+                    },
+                    "weparameters":{
+                        "skillExpScr":skillExpScr,
+                        "expScr":expScr,
+                        "companyTierScr":companyTierScr,
+                        "recentExpScr":recentExpScr,
+                        "otherRolescr":otherRolescr
+                    }  
+                }
             };
+            console.log(values);
             $.ajax({
                 url: "/get_scores",
                 type: "post",

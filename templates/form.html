@@ -111,6 +111,19 @@
             </tr>
         </table>
         <br>
+        <br>
+        <table>
+            <tr>
+                <td>Enter Resumes(.json) Directory Location:</td>
+                <td><input type="text" id="resloc"></td>
+            </tr>
+            <tr>
+                <td>Enter JD(.json) Directory Location:</td>
+                <td><input type="text" id="jdloc"></td>
+            </tr>
+        </table>
+        Ex: C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-12_Resumes/
+        <br><br>
         <input type="button" id="create" value="Generate Job Description" onclick="forward()">
     </body>
 </html>
@@ -347,7 +360,8 @@
             work_skill["Skills"][$("#s_name"+i).val()]=parseInt($("#s_val"+i).val());
         }
         data["WorkSkills"]=work_skill;
-
+        data["reslocation"]=$("#resloc").val();
+        data["jdlocation"]=$("#jdloc").val();
         console.log(data);
         var xhttp = new XMLHttpRequest();
         xhttp.open("POST","/jd",true);
