@@ -7,8 +7,10 @@ import numpy as np
 client = pymongo.MongoClient("mongodb+srv://divishad:abcde@cluster0-gdmit.gcp.mongodb.net/test?retryWrites=true&w=majority")
 db = client.StackRanking.education
 
-jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/SourceDocument/"
-r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-12_Resumes/"
+# jd_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-14_Resumes/SourceDocument/"
+# r_path="C:/Users/User/Desktop/Darwinbox/stack ranking/SovrenProductDemo-12_Resumes/"
+jd_path=""
+r_path=""
 
 def set_jd_path(path):
     global jd_path

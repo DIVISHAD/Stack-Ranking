@@ -32,7 +32,7 @@ def work_exp(inputlist,weparameters,mypathh):
     comp_str={}
     for f in os.listdir(mypathh):
         #print(f)
-        with open(mypathh+f+"/"+f+".json",'r',encoding='cp850') as file:
+        with open(mypathh+f,'r',encoding='cp850') as file:
             data=json.load(file)
             #print(f)
             if 'EmploymentHistory' in data["Resume"]["StructuredXMLResume"]:
