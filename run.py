@@ -255,6 +255,7 @@ def work_skill_score(skill_lst,param):
                     score += max_score_val/ttl_skills*0.70
                 else:
                     time_penalize=12
+                    if val == None:val=12
                     if v["Skills"][nm] < val:
                         time_penalize=8
                     score += max_score_val/ttl_skills*0.70 + max_score_val/ttl_skills*0.30*tanh((v["Skills"][nm]-val)/time_penalize)
