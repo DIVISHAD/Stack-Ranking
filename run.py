@@ -326,7 +326,7 @@ def scores(edu_list,work_list,work_skill_list,data):
         sorted_list[k[0]]["Skill Score"]=round(ss[k[0]]*data["allValues"]["skill"]/100,3)
         sorted_list[k[0]]["completeness"]=complete_ss[k[0]]*data["allValues"]["skill"]/100
         sorted_list[k[0]]["completeness"]+=complete_edu[k[0]]*data["allValues"]["education"]/100
-        sorted_list[k[0]]["completeness"]+=complete_ws[k[0]]*data["allValues"]["work experience"]/100
+        sorted_list[k[0]]["completeness"]+=(100-complete_ws[k[0]])*data["allValues"]["work experience"]/100
         sorted_list[k[0]]["completeness"]=round(sorted_list[k[0]]["completeness"],3)
         sk=0
         if k[0] in ws:
