@@ -34,7 +34,7 @@
             }
             .slider {
                 -webkit-appearance: none;
-                width: 200px;
+                width: 180px;
                 height: 8px;
                 border-radius: 5px;
                 background: #b4b3b3;
@@ -63,8 +63,11 @@
             .d::-webkit-slider-thumb{
                 background: rgb(15, 201, 9);
             }
+            .e::-webkit-slider-thumb{
+                background: rgb(77, 7, 168);
+            }
             .val{
-                width: 100px;
+                width: 50px;
             }
             table.tbl{
                 border-collapse: collapse;
@@ -117,6 +120,10 @@
                 <td>Work Experience:</td>
                 <td></td>
                 <td>Skills:</td>
+                <td></td>
+                <td>Cut-off Score:</td>
+                <td></td>
+                <td>Completeness:</td>
             </tr>
             <tr>
                 <td><input type="range" min="0" max="100" value="33" class="slider b" id="edu"></td>
@@ -125,6 +132,10 @@
                 <td  class="val"><p><span id="wk_val">33%</span>  </p></td>
                 <td><input type="range" min="0" max="100" value="34" class="slider d" id="skill"></td>
                 <td class="val"><p><span id="skill_val">34%</span>  </p></td class="val">
+                <td><input type="range" min="0" max="100" value="30" class="slider e" id="cutoff"></td>
+                <td class="val"><p><span id="cutoff_val">30%</span>  </p></td class="val">
+                <td><input type="range" min="0" max="100" value="60" class="slider e" id="completeness"></td>
+                <td class="val"><p><span id="cmp_val">60%</span>  </p></td class="val">    
                 <td>
                     <input type="button" id="eval" value="Evaluate" onclick="calculate()">
                 </td>
@@ -162,6 +173,14 @@
             $('#skill').on('input', function() {
                 text = $('#skill').val()+"%";
                 $('#skill_val').html(text);
+            });
+            $('#cutoff').on('input', function() {
+                text = $('#cutoff').val()+"%";
+                $('#cutoff_val').html(text);
+            });
+            $('#completeness').on('input', function() {
+                text = $('#completeness').val()+"%";
+                $('#cmp_val').html(text);
             });
             $(document).on('input', '#mendegscr', function() {
                 text = $('#mendegscr').val()+"%";
@@ -208,9 +227,13 @@
             });
             $(document).on('input', '#matchskillscr', function() {
                 $('#matchskillscr_val').html($('#matchskillscr').val()+"%");
+                $('#extraskillscr').val(100-parseInt($('#matchskillscr').val()));
+                $('#extraskillscr_val').html($('#extraskillscr').val()+"%");
             });
             $(document).on('input', '#extraskillscr', function() {
                 $('#extraskillscr_val').html($('#extraskillscr').val()+"%");
+                $('#matchskillscr').val(100-parseInt($('#extraskillscr').val()));
+                $('#matchskillscr_val').html($('#matchskillscr').val()+"%");
             });    
         });
         mentionedDegScr=90;
@@ -367,11 +390,8 @@
         function calculate(){
             $("#ranks").html("");
             d=document.getElementsByClassName("slider");
-            ttl=0;
-            for(var i=0;i<d.length;i++){
-                ttl+=parseInt(d[i].value);
-            }
-            if(ttl>100){
+            ttl=parseInt($("#edu").val())+parseInt($("#wk").val())+parseInt($("#skill").val());
+            if(ttl!=100){
                 $("#err").html("Incorrect values!!!Total Score should be <=100%");
                 return false;
             }
@@ -419,23 +439,27 @@
                             '<td class="tbl"><h4>RANK</h4></td>'+
                             '<td class="tbl" align="center" style="width: 400px;"><h4>CANDIDATE NAME</h4></td>'+
                             '<td class="tbl"><h4>RESUME SCORE</h4></td>'+
+                            '<td class="tbl"><h4>COMPLETENESS OF RESUME</h4></td>'+
                             '</tr>';
                     console.log(data);
                     order=data["order"];
                     rank=1;
                     for(x in order){
-                        html_txt+='<tr class="tbl">'+
-                            '<td class="tbl" align="center"><h4>'+rank+'</h4></td>'+
-                            '<td class="tbl" align="center"><div class="tooltip"><h4 class="under">'+order[x]+'</h4>'+
-                                '<span class="tooltiptext">'+
-                                    "Education Score:"+data[order[x]]["Education Score"]+"<br>"+
-                                    "Skill Score:"+data[order[x]]["Skill Score"]+"<br>"+
-                                    "Experience Score:"+data[order[x]]["Experience Score"]+
-                                    '</span>'+                                
-                                '</div></td>'+
-                            '<td class="tbl" align="center"><h4>'+data[order[x]]["Total Score"]+"%"+'</h4></td>'+
-                            '</tr>';
-                            rank+=1;
+                        if(data[order[x]]["Total Score"]>=parseInt($('#cutoff').val()) && data[order[x]]["completeness"]>=parseInt($('#completeness').val())){
+                            html_txt+='<tr class="tbl">'+
+                                '<td class="tbl" align="center"><h4>'+rank+'</h4></td>'+
+                                '<td class="tbl" align="center"><div class="tooltip"><h4 class="under">'+order[x]+'</h4>'+
+                                    '<span class="tooltiptext">'+
+                                        "Education Score:"+data[order[x]]["Education Score"]+"<br>"+
+                                        "Skill Score:"+data[order[x]]["Skill Score"]+"<br>"+
+                                        "Experience Score:"+data[order[x]]["Experience Score"]+
+                                        '</span>'+                                
+                                    '</div></td>'+
+                                '<td class="tbl" align="center"><h4>'+data[order[x]]["Total Score"]+"%"+'</h4></td>'+
+                                '<td class="tbl" align="center"><h4>'+data[order[x]]["completeness"]+"%"+'</h4></td>'+
+                                '</tr>';
+                                rank+=1;
+                        }
                     }
                     html_txt += '</table>';
                     $("#ranks").html(html_txt);

@@ -24,20 +24,24 @@ candidates_skills=[]
 candidates_qualifications=[]
 jd_taxonamies={}
 candidate_work_skills={}
+candidate_skills_percent={}
 
 def getResSkills():
     for nm in os.listdir(r_path):
         candidate_taxonamies={}
         candidate_work_skills[nm]={}
         candidate_work_skills[nm]["Skills"]={}
+        candidate_skills_percent[nm]={}
         candidate_taxonamies["name"]=nm     #r_path+nm+"/"+nm+".json"
         with open(r_path+nm,'r',encoding='cp850') as file:
             data=json.load(file)
             a=data.get("Resume").get("UserArea").get("sov:ResumeUserArea").get("sov:ExperienceSummary").get("sov:SkillsTaxonomyOutput").get("sov:TaxonomyRoot")[0].get("sov:Taxonomy")
             for i in a:
                 candidate_taxonamies[i["@name"]]={}
+                candidate_skills_percent[nm][i["@name"]]={}
                 for j in i.get("sov:Subtaxonomy"):
                     candidate_taxonamies[i["@name"]][j["@name"]]={}
+                    candidate_skills_percent[nm][i["@name"]][j["@name"]]=int(j["@percentOfOverall"])
                     if j.get("sov:Skill") != None:
                         for k in j.get("sov:Skill"):
                             child_skills=[]
@@ -80,14 +84,18 @@ def getJDData():
 def tanh(z):
     return 1-(2/(1+np.exp(2*z)))
 
-def evaluate_skills(candidate,json,param):
+def evaluate_skills(candidate,json,param,skill_percent):
     score = 0
+    incomplete=0
     for taxonomy_name,taxonomy_value in json.items():
         if taxonomy_name in candidate != False:
             for subTaxonomy_name,subTaxonomy_value in taxonomy_value.items():
                 val=subTaxonomy_value["percent"]
                 if subTaxonomy_name in candidate[taxonomy_name]!= False:
                     skill_match = 0
+                    cand_val=skill_percent[taxonomy_name][subTaxonomy_name]
+                    skill_penalize=5 if (cand_val-val)>=0 else 10
+                    score += skill_penalize/100 *val*tanh((cand_val-val)/27)
                     candidate_skills=candidate[taxonomy_name][subTaxonomy_name]
                     for skill_name,skill_value in subTaxonomy_value.items():
                         if skill_name in candidate[taxonomy_name][subTaxonomy_name] != False:
@@ -97,22 +105,24 @@ def evaluate_skills(candidate,json,param):
                             for childSkill in skill_value:
                                 if childSkill in candidate_childSkill_list != False:
                                     childSkill_match +=1
-                                    score += param["matchSkillScr"]/100 * (val / (len(subTaxonomy_value)-1)) / len(skill_value)
+                                    score += (param["matchSkillScr"]-5)/100 * (val / (len(subTaxonomy_value)-1)) / len(skill_value)
                             if len(skill_value) == 0 :
-                                score += param["matchSkillScr"]/100 * (val / (len(subTaxonomy_value)-1))
+                                score += (param["matchSkillScr"]-5)/100 * (val / (len(subTaxonomy_value)-1))
                             elif len(candidate_childSkill_list) == 0 :
-                                score += param["matchSkillScr"]/100 * (val / (len(subTaxonomy_value)-1)) / 2
+                                score += (param["matchSkillScr"]-5)/100 * (val / (len(subTaxonomy_value)-1)) / 2
+                                incomplete +=(val / (len(subTaxonomy_value)-1)) / 2
                             elif len(candidate_childSkill_list) != 0 :
                                 len_nonMatch = len(candidate_childSkill_list)-childSkill_match
                                 score += param["extraSkillScr"]/100*(val / (len(subTaxonomy_value)-1))*tanh(len_nonMatch/5)    # (len_nonMatch)*(val/(len(subTaxonomy_value)-1))/(len(skill_value) + 2*len_nonMatch) 
                     if len(subTaxonomy_value) == 1 :
-                        score +=param["matchSkillScr"]/100 * val
+                        score += (param["matchSkillScr"]-5)/100 * val
                     elif len(candidate_skills) == 0 :
-                        score +=param["matchSkillScr"]/100 *  val / 2
+                        score += (param["matchSkillScr"]-5)/100 *  val / 2
+                        incomplete += val/2
                     elif len(candidate_skills) != 0 :
                         nonMatch_skills=len(candidate_skills)-skill_match
                         score += param["extraSkillScr"]/100 * val*tanh(nonMatch_skills/10)    # (len(subTaxonomy_value)-1+ constant*nonMatch_skills)            
-    return  score  
+    return  score,incomplete  
 education_degree_type = [['specialeducation'],['some high school or equivalent','ged','secondary'],
                         ['high school or equivalent','certification','vocational','some college'],
                         ['HND/HNC or equivalent','associates','international'],['bachelors'],
@@ -163,11 +173,11 @@ def getResEdu():
                                 if deg["UserArea"]["sov:SchoolOrInstitutionTypeUserArea"]["sov:NormalizedSchoolName"] in colleges_tier:
                                     degree["CollegeTier"]=colleges_tier[deg["UserArea"]["sov:SchoolOrInstitutionTypeUserArea"]["sov:NormalizedSchoolName"]]
                                 else:
-                                    degree["CollegeTier"]=2 #deg["UserArea"]["sov:SchoolOrInstitutionTypeUserArea"]["sov:NormalizedSchoolName"]
+                                    degree["CollegeTier"]=3 #deg["UserArea"]["sov:SchoolOrInstitutionTypeUserArea"]["sov:NormalizedSchoolName"]
                         else:
-                            degree["CollegeTier"]=3
+                            degree["CollegeTier"]=-1
                     else:
-                        degree["CollegeTier"]=3                           
+                        degree["CollegeTier"]=-1                         
                     candidate_education["candidate_degrees"].append(degree)    
             candidates_qualifications.append(candidate_education) 
 pp={}
@@ -179,6 +189,7 @@ for i in candidates_qualifications:
 
 def evaluate_education(res,edu_list,param):
     indx=0
+    incomplete=0
     for i in edu_list:
         if i["DegreeType"] in education_index.keys() and education_index[ i["DegreeType"]]>indx:
             indx = education_index[ i["DegreeType"]]
@@ -201,7 +212,9 @@ def evaluate_education(res,edu_list,param):
             for j in d:
                 if i["DegreeType"]==j["DegreeType"]:
                     scr=education_index[i["DegreeType"]]/sum([i for i in range(1,len(lst))])*param["mentionedDegScr"]    # (tst(j["DegreeScore"])/100)
+                    if j["DegreeName"]=='':incomplete += 0.4
                     if i["DegreeName"]=='' or i["DegreeName"].lower()==j["DegreeName"].lower():
+                        if j["DegreeMajor"]=='':incomplete += 0.3
                         if i["DegreeMajor"]=='' or i["DegreeMajor"].lower()==j["DegreeMajor"].lower():
                             jd_clg_tier=3
                             if i["CollegeTier"]!='':
@@ -211,6 +224,10 @@ def evaluate_education(res,edu_list,param):
                                 jd_deg_score=i["DegreeScore"]
                             tier_penalize=1.5
                             deg_score_penalize=25
+                            if j["CollegeTier"]==-1:
+                                incomplete += 0.1
+                                j["CollegeTier"]=3
+                            if j["DegreeScore"]==-1:incomplete += 0.2
                             if j["CollegeTier"]>= jd_clg_tier:
                                 tier_penalize = 1
                             if tst(j["DegreeScore"]) < jd_deg_score:
@@ -237,11 +254,16 @@ def evaluate_education(res,edu_list,param):
                 flag_=1
                 additional_score=param["otherDegScr"] 
     flag = 0
+    cand_max=-1
     for i in range(len(lst)-1,0,-1):
-        if l[i] != 0 and flag == 0:flag=1
+        if l[i] != 0 and flag == 0:
+            cand_max=i
+            flag=1
         if(l[i] == 0 and flag == 1):
-            l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100) 
-    return sum(l)+additional_score  
+            incomplete += 1
+            l[i] = (i/sum([i for i in range(1,len(lst))]))*100*(least_score/100)
+    incomplete=incomplete/cand_max*100         
+    return sum(l)+additional_score,incomplete
 
 def work_skill_score(skill_lst,param):
     work_skill_score={}
@@ -264,21 +286,25 @@ def work_skill_score(skill_lst,param):
 
 def education_score(edu_list,param):
     education_score={}
+    incomplete_edu={}
     for i in candidates_qualifications:
-        education_score[i["name"]]=round(evaluate_education(i,edu_list,param),3)
-    return education_score    
+        education_score[i["name"]],incomplete_edu[i["name"]]=evaluate_education(i,edu_list,param)
+        incomplete_edu[i["name"]]=100-incomplete_edu[i["name"]]
+    return education_score,incomplete_edu
 
 def skill_score(param):
     skill_score={}
+    incomplete_skills={}
     for i in candidates_skills:
-        skill_score[i["name"]]=round(evaluate_skills(i,jd_taxonamies,param),3)
-    return skill_score   
+        skill_score[i["name"]],incomplete_skills[i["name"]]=evaluate_skills(i,jd_taxonamies,param,candidate_skills_percent[i["name"]])
+        incomplete_skills[i["name"]]=100-incomplete_skills[i["name"]]
+    return skill_score,incomplete_skills   
     
 def scores(edu_list,work_list,work_skill_list,data):
     ttl={}
-    es=education_score(edu_list,data["parameters"]["eduparameters"])
-    ss=skill_score(data["parameters"]["skillparameters"])
-    ws=samp.work_exp(work_list,data["parameters"]["weparameters"],r_path)
+    es,complete_edu=education_score(edu_list,data["parameters"]["eduparameters"])
+    ss,complete_ss=skill_score(data["parameters"]["skillparameters"])
+    ws,complete_ws=samp.work_exp(work_list,data["parameters"]["weparameters"],r_path)
     wss=work_skill_score(work_skill_list,data["parameters"]["weparameters"]["skillExpScr"])
     for k,v in es.items():
         ws_score=0
@@ -298,8 +324,15 @@ def scores(edu_list,work_list,work_skill_list,data):
         sorted_list[k[0]]["Total Score"]=k[1]
         sorted_list[k[0]]["Education Score"]=round(es[k[0]]*data["allValues"]["education"]/100,3)
         sorted_list[k[0]]["Skill Score"]=round(ss[k[0]]*data["allValues"]["skill"]/100,3)
+        sorted_list[k[0]]["completeness"]=complete_ss[k[0]]*data["allValues"]["skill"]/100
+        sorted_list[k[0]]["completeness"]+=complete_edu[k[0]]*data["allValues"]["education"]/100
+        sorted_list[k[0]]["completeness"]+=complete_ws[k[0]]*data["allValues"]["work experience"]/100
+        sorted_list[k[0]]["completeness"]=round(sorted_list[k[0]]["completeness"],3)
         sk=0
         if k[0] in ws:
             sk=ws[k[0]]
         sorted_list[k[0]]["Experience Score"]=round((sk+wss[k[0]])*data["allValues"]["work experience"]/100,3)
     return sorted_list    
+
+# getResSkills()
+# print(candidate_skills_percent)
